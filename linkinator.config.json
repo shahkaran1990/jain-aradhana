@@ -1,0 +1,9 @@
+{
+  "recurse": true,
+  "skip": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "googletagmanager.com",
+    "github.com"
+  ]
+}
