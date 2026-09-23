@@ -1,0 +1,77 @@
+name: CI
+
+# Zero-dependency checks for the buildless static site. All tools run via npx
+# on the runner, so nothing is added to the repo (no package.json / lockfile).
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+# Read-only token; these checks never write to the repo.
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-js:
+    name: Lint JavaScript (ESLint)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Run ESLint
+        run: npx --yes eslint@9 .
+
+  validate-html:
+    name: Validate HTML
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Validate HTML with html-validate
+        run: npx --yes html-validate@9 "index.html" "item.html"
+
+  validate-manifest:
+    name: Validate JSON (manifest)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Check manifest.webmanifest is valid JSON
+        run: node --input-type=module -e "import fs from 'node:fs'; JSON.parse(fs.readFileSync('manifest.webmanifest','utf8')); console.log('manifest.webmanifest is valid JSON');"
+
+  link-check:
+    name: Check internal links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      # linkinator resolves relative paths reliably only against a served site,
+      # so serve the repo and crawl it over HTTP. Skips (external hosts) are
+      # read from linkinator.config.json. Fails on any broken internal link.
+      - name: Serve site
+        run: |
+          python3 -m http.server 8137 >/dev/null 2>&1 &
+          echo "SERVER_PID=$!" >> "$GITHUB_ENV"
+          # Wait for the server to accept connections.
+          for i in $(seq 1 20); do
+            if curl -sf -o /dev/null "http://localhost:8137/"; then break; fi
+            sleep 0.5
+          done
+      - name: Check internal links
+        run: npx --yes linkinator@6 "http://localhost:8137/"
+      - name: Stop server
+        if: always()
+        run: kill "$SERVER_PID" 2>/dev/null || true
