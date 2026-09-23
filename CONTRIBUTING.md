@@ -187,11 +187,18 @@ git push
 ```
 
 Otherwise, fork the repo, commit to a branch, and open a pull request describing
-what you added (which item, which languages). GitHub Pages redeploys
-automatically within about a minute of a change landing on the main branch.
+what you added (which item, which languages). GitHub fills the description with a
+short **PR template** — just tick the boxes and fill in the details. GitHub Pages
+redeploys automatically within about a minute of a change landing on the main
+branch.
 
 Please double-check the accuracy of any text you add against a reliable source
 before submitting.
+
+**Not comfortable editing files?** You don't have to. Open a
+[**Request content** issue](../../issues/new/choose) instead — a simple form asks
+for the title, type, language(s), and text or source, and the maintainer adds it
+for you. You can also email <shahkaran1990@gmail.com>.
 
 ## Making changes appear on installed / offline devices
 
