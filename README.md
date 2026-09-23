@@ -61,8 +61,20 @@ Then open **http://localhost:8000** in your browser. Press `Ctrl+C` in the termi
    https://<your-username>.github.io/<your-repo>/
    ```
 
-That's it — the site is now public and free to host. (Optional: add a custom domain
-later under Settings → Pages → Custom domain.)
+That's it — the site is now public and free to host.
+
+### Custom domain
+
+This repo ships a `CNAME` file so GitHub Pages serves the site at
+**https://aradhana.awskaran.co.uk**. To make it resolve, add one DNS record at
+your registrar (names.co.uk → Manage DNS):
+
+- One **CNAME** record: host `aradhana` → `<your-username>.github.io`
+
+(A subdomain only needs this single CNAME — no A/AAAA records.)
+
+Then, in **Settings → Pages**, wait for the domain to verify and tick
+**Enforce HTTPS**. HTTPS is required for the offline/installable PWA to work.
 
 ---
 
