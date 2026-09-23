@@ -396,6 +396,66 @@ a:hover {
   border-color: #fff5ec;
 }
 
+/* iOS "Add to Home Screen" hint — iOS Safari can't show the install button. */
+.ios-install-hint {
+  position: fixed;
+  left: 12px;
+  right: 12px;
+  bottom: 12px;
+  z-index: 55;
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  padding-bottom: calc(12px + env(safe-area-inset-bottom));
+  box-shadow: 0 6px 22px rgba(90, 60, 20, 0.22);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transform: translateY(140%);
+  transition: transform 0.3s ease;
+}
+
+.ios-install-hint.show {
+  transform: translateY(0);
+}
+
+.ios-install-text {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.ios-share-glyph {
+  display: inline-block;
+  border: 1.5px solid currentColor;
+  border-radius: 5px;
+  padding: 0 5px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--accent);
+}
+
+.ios-install-close {
+  flex-shrink: 0;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 22px;
+  line-height: 1;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.ios-install-close:hover {
+  background: var(--bg);
+  color: var(--ink);
+}
+
 /* Floating "Install app" button. */
 .install-btn {
   position: fixed;
