@@ -42,7 +42,7 @@ Then open **http://localhost:8000** in your browser. Press `Ctrl+C` in the termi
    ```bash
    git init
    git add .
-   git commit -m "Initial Jain aarti & stavan site"
+   git commit -m "Initial Jain Aradhana site"
    git branch -M main
    git remote add origin https://github.com/<your-username>/<your-repo>.git
    git push -u origin main
@@ -67,6 +67,10 @@ later under Settings → Pages → Custom domain.)
 ---
 
 ## Part 2 — Adding a new aarti or stavan
+
+> Want the full contributor guide (all categories, translations, common
+> mistakes, pull requests)? See **[CONTRIBUTING.md](CONTRIBUTING.md)**. The
+> quick version is below.
 
 **All content lives in one file: `data/content.js`.** You don't touch any HTML.
 

@@ -54,13 +54,22 @@ a:hover {
 }
 
 .site-header .om {
-  line-height: 0;
-  opacity: 0.95;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 4px;
+  background: #fdf6ec;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(60, 30, 10, 0.25);
 }
 
-.site-header .om svg {
-  width: 56px;
-  height: 56px;
+.site-header .om img {
+  width: 44px;
+  height: 64px;
+  object-fit: contain;
+  display: block;
 }
 
 .site-header h1 {
@@ -219,6 +228,32 @@ a:hover {
   text-align: center;
 }
 
+/* Meaning tab: an explanation, not a verse — read it left-aligned. */
+.verse.meaning {
+  white-space: normal;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.meaning-list {
+  margin: 0;
+  display: grid;
+  gap: 18px;
+}
+
+.meaning-list dt {
+  font-weight: 700;
+  color: var(--accent, #b8551f);
+}
+
+.meaning-list dd {
+  margin: 4px 0 0;
+}
+
+.meaning-text {
+  margin: 0;
+}
+
 /* Footer */
 .site-footer {
   text-align: center;
@@ -294,6 +329,71 @@ a:hover {
 
 .offline-bar.show {
   transform: translateY(0);
+}
+
+/* Consent banner — slides up from the bottom on first visit. */
+.consent-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 60;
+  background: #4a3520;
+  color: #fff5ec;
+  padding: 14px 16px calc(14px + env(safe-area-inset-bottom));
+  box-shadow: 0 -4px 18px rgba(60, 30, 10, 0.28);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 12px 18px;
+  transform: translateY(120%);
+  transition: transform 0.3s ease;
+}
+
+.consent-bar.show {
+  transform: translateY(0);
+}
+
+.consent-text {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 560px;
+}
+
+.consent-actions {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.consent-btn {
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 9px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.consent-accept {
+  background: var(--accent);
+  color: #fff;
+}
+
+.consent-accept:hover {
+  background: #a4491a;
+}
+
+.consent-decline {
+  background: transparent;
+  color: #fff5ec;
+  border-color: rgba(255, 245, 236, 0.5);
+}
+
+.consent-decline:hover {
+  border-color: #fff5ec;
 }
 
 /* Floating "Install app" button. */

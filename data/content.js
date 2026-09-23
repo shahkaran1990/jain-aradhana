@@ -7,6 +7,12 @@
 //
 // Use real line breaks inside the backticks. A blank line separates stanzas.
 //
+// Optional: add a "meaning" field to any item to show a "Meaning" tab with its
+// explanation. Omit it to hide the tab. It can be either:
+//   - a plain string (rendered as-is), or
+//   - an array of { term, gloss } pairs for a line-by-line breakdown
+//     (rendered as a clean list; best for mantras/verses).
+//
 // Content transcribed from "JAIN POOJAS.pdf". Text is in Hindi (Devanagari);
 // Gujarati/Sanskrit/English are left blank for now except where the source
 // provided them (e.g. Mahaveerashtak Stotra includes Sanskrit).
@@ -46,8 +52,57 @@ const CONTENT = [
 एसोपंचणमोक्कारो, सव्वपावप्पणासणो
 मंगला णं च सव्वेसिं, पडमम हवई मंगलं`,
       sa: "",
-      en: "",
+      en: `Namo Arihantanam
+Namo Siddhanam
+Namo Ayariyanam
+Namo Uvajjhayanam
+Namo Loye Savva Sahunam
+
+Eso Panch Namokaro
+Savva Pavappanasano
+Mangalanam Cha Savvesim
+Padhamam Havai Mangalam`,
     },
+    meaning: [
+      {
+        term: "Namo Arihantanam",
+        gloss:
+          "I bow in reverence to the Arihants (souls who have conquered inner enemies like anger and greed).",
+      },
+      {
+        term: "Namo Siddhanam",
+        gloss:
+          "I bow in reverence to the Siddhas (fully liberated and perfect souls).",
+      },
+      {
+        term: "Namo Ayariyanam",
+        gloss:
+          "I bow in reverence to the Acharyas (supreme leaders of the monastic order).",
+      },
+      {
+        term: "Namo Uvajjhayanam",
+        gloss:
+          "I bow in reverence to the Upadhyayas (spiritual teachers and preceptors).",
+      },
+      {
+        term: "Namo Loye Savva Sahunam",
+        gloss:
+          "I bow in reverence to all Sadhus and Sadhvis (monks and nuns) in the universe.",
+      },
+      { term: "Eso Panch Namoyaro", gloss: "This five-fold salutation." },
+      {
+        term: "Savva Pavappanasano",
+        gloss: "Destroys all sins and negative karma.",
+      },
+      {
+        term: "Mangalanam Cha Savvesim",
+        gloss: "And amongst all auspicious and blessed things.",
+      },
+      {
+        term: "Padhamam Havai Mangalam",
+        gloss: "Is the first and foremost auspicious one.",
+      },
+    ],
   },
   {
     id: "prabhu-patit-pavan-stuti",

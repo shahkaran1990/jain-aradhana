@@ -1,10 +1,10 @@
-/* Service worker for Jain Aarti & Stavan.
+/* Service worker for Jain Aradhana.
    Makes the app installable and available offline by caching the app shell,
    content, and Google Fonts. Bump CACHE_VERSION on any release to refresh. */
 
 "use strict";
 
-var CACHE_VERSION = "v3";
+var CACHE_VERSION = "v11";
 var SHELL_CACHE = "jain-shell-" + CACHE_VERSION;
 var FONT_CACHE = "jain-fonts-" + CACHE_VERSION;
 
@@ -18,7 +18,9 @@ var SHELL_ASSETS = [
   "assets/style.css",
   "assets/home.js",
   "assets/item.js",
+  "assets/analytics.js",
   "assets/icon.svg",
+  "assets/jain-symbol.svg",
   "assets/icon-192.png",
   "assets/icon-512.png",
   "assets/icon-maskable-512.png",

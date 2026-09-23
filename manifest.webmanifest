@@ -1,7 +1,7 @@
 {
-  "name": "Jain Aarti & Stavan",
-  "short_name": "Jain Aarti",
-  "description": "Jain aartis and stavans in Gujarati, Hindi, Sanskrit and English. Works offline.",
+  "name": "Jain Aradhana",
+  "short_name": "Jain Aradhana",
+  "description": "Jain aartis, stavans and stutis in Gujarati, Hindi, Sanskrit and English. Works offline.",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

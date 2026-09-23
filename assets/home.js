@@ -8,7 +8,32 @@
   var searchEl = document.getElementById("search");
   var filtersEl = document.getElementById("filters");
 
-  var state = { query: "", type: "all" };
+  // Persisted UI state (search query + active category filter). Kept in
+  // localStorage so a reload restores where the user was. Fully client-side,
+  // so it works on a static GitHub Pages host.
+  var STORE_KEY = "jain-aradhana:home";
+
+  function loadState() {
+    var fallback = { query: "", type: "all" };
+    try {
+      var saved = JSON.parse(localStorage.getItem(STORE_KEY) || "null");
+      if (saved && typeof saved === "object") {
+        return {
+          query: typeof saved.query === "string" ? saved.query : "",
+          type: typeof saved.type === "string" ? saved.type : "all",
+        };
+      }
+    } catch (e) {}
+    return fallback;
+  }
+
+  function saveState() {
+    try {
+      localStorage.setItem(STORE_KEY, JSON.stringify(state));
+    } catch (e) {}
+  }
+
+  var state = loadState();
 
   function typeLabel(type) {
     return CATEGORIES[type] || type;
@@ -48,10 +73,17 @@
       if (present[type]) chips.push({ type: type, label: CATEGORIES[type] });
     });
 
+    // If the persisted filter no longer matches an available category,
+    // fall back to "all" so nothing looks stuck on an empty filter.
+    var known = chips.some(function (chip) {
+      return chip.type === state.type;
+    });
+    if (!known) state.type = "all";
+
     filtersEl.innerHTML = "";
-    chips.forEach(function (chip, i) {
+    chips.forEach(function (chip) {
       var btn = document.createElement("button");
-      btn.className = "chip" + (i === 0 ? " active" : "");
+      btn.className = "chip" + (chip.type === state.type ? " active" : "");
       btn.setAttribute("data-type", chip.type);
       btn.textContent = chip.label;
       filtersEl.appendChild(btn);
@@ -100,6 +132,7 @@
 
   searchEl.addEventListener("input", function (e) {
     state.query = e.target.value;
+    saveState();
     render();
   });
 
@@ -112,9 +145,12 @@
     ) {
       c.classList.toggle("active", c === btn);
     });
+    saveState();
     render();
   });
 
   buildFilters();
+  // Restore the search box to the persisted query.
+  searchEl.value = state.query;
   render();
 })();
