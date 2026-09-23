@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>Jain Poojas — Aarti, Stavan, Chalisa & more</title>
+    <meta
+      name="description"
+      content="A collection of Jain aartis, stavans, stutis, chalisas, bhajans, stotras and more."
+    />
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.webmanifest" />
+    <meta name="theme-color" content="#b8551f" />
+    <link rel="icon" href="assets/favicon-32.png" sizes="32x32" />
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Jain Aarti" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&family=Noto+Sans+Gujarati:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <div class="om" aria-hidden="true">
+          <svg viewBox="0 0 512 512" width="56" height="56" fill="none" stroke="currentColor" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+            <path d="M181 88 L331 88 L392 232 L322 300 L392 452 L120 452 L190 300 L120 232 Z"/>
+            <path d="M206 92 a52 34 0 0 1 100 0"/>
+            <circle cx="256" cy="70" r="7" fill="currentColor" stroke="none"/>
+            <circle cx="220" cy="126" r="8" fill="currentColor" stroke="none"/>
+            <circle cx="256" cy="126" r="8" fill="currentColor" stroke="none"/>
+            <circle cx="292" cy="126" r="8" fill="currentColor" stroke="none"/>
+            <path stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"
+                  d="M256 174 V234 M226 204 H286 M256 174 H282 M286 204 V230 M256 234 H230 M226 204 V178"/>
+            <g stroke-width="8">
+              <path d="M212 424 V326 q0 -8 8 -8 q8 0 8 8 V308 q0 -9 8 -9 q8 0 8 9 V304 q0 -9 8 -9 q8 0 8 9 V320 q0 -8 8 -8 q8 0 8 8 V424 Z"/>
+              <circle cx="256" cy="392" r="30"/>
+              <circle cx="256" cy="392" r="9"/>
+              <g stroke-width="4">
+                <line x1="256" y1="362" x2="256" y2="422"/>
+                <line x1="226" y1="392" x2="286" y2="392"/>
+                <line x1="234.9" y1="370.9" x2="277.1" y2="413.1"/>
+                <line x1="277.1" y1="370.9" x2="234.9" y2="413.1"/>
+                <line x1="240.5" y1="364.7" x2="271.5" y2="419.3"/>
+                <line x1="271.5" y1="364.7" x2="240.5" y2="419.3"/>
+                <line x1="228.7" y1="376.5" x2="283.3" y2="407.5"/>
+                <line x1="283.3" y1="376.5" x2="228.7" y2="407.5"/>
+              </g>
+            </g>
+          </svg>
+        </div>
+        <h1>Jain Poojas</h1>
+        <p>Aarti, Stavan, Stuti, Chalisa, Bhajan, Stotra &amp; more</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="controls">
+        <input
+          id="search"
+          class="search"
+          type="search"
+          placeholder="Search by name…"
+          aria-label="Search aartis and stavans"
+        />
+        <div class="filters" id="filters">
+          <button class="chip active" data-type="all">All</button>
+          <button class="chip" data-type="aarti">Aarti</button>
+          <button class="chip" data-type="stavan">Stavan</button>
+        </div>
+      </div>
+
+      <ul class="list" id="list"></ul>
+      <p class="empty" id="empty" hidden>No matching items found.</p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>Micchami Dukkadam &middot; Shared with devotion 🙏</p>
+        <p class="credit">Created by Karan Shah &middot; Built using Kiro</p>
+      </div>
+    </footer>
+
+    <script src="data/content.js"></script>
+    <script src="assets/home.js"></script>
+    <script src="assets/pwa.js"></script>
+  </body>
+</html>
