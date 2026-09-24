@@ -14,15 +14,19 @@
   }
 
   // 2. Offline indicator.
+  function t(key, fallback) {
+    return window.I18n && window.I18n.t ? window.I18n.t(key) : fallback;
+  }
+
   function ensureOfflineBar() {
     var bar = document.getElementById("offline-bar");
     if (!bar) {
       bar = document.createElement("div");
       bar.id = "offline-bar";
       bar.className = "offline-bar";
-      bar.textContent = "You’re offline — showing saved content.";
       document.body.appendChild(bar);
     }
+    bar.textContent = t("pwa.offline", "You’re offline — showing saved content.");
     return bar;
   }
 
@@ -43,7 +47,7 @@
     btn.id = "install-btn";
     btn.className = "install-btn";
     btn.type = "button";
-    btn.textContent = "⬇︎ Install app";
+    btn.textContent = t("pwa.install", "⬇︎ Install app");
     btn.hidden = true;
     btn.addEventListener("click", function () {
       if (!deferredPrompt) return;
@@ -133,15 +137,17 @@
     var text = document.createElement("p");
     text.className = "ios-install-text";
     // The share glyph mirrors the icon in the Safari toolbar.
-    text.innerHTML =
+    text.innerHTML = t(
+      "pwa.iosHint",
       "Install this app: tap the Share button " +
-      '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
-      ", then <strong>Add to Home Screen</strong>.";
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        ", then <strong>Add to Home Screen</strong>."
+    );
 
     var close = document.createElement("button");
     close.type = "button";
     close.className = "ios-install-close";
-    close.setAttribute("aria-label", "Dismiss");
+    close.setAttribute("aria-label", t("pwa.iosDismiss", "Dismiss"));
     close.textContent = "\u00d7"; // ×
 
     close.addEventListener("click", function () {
@@ -165,5 +171,24 @@
     document.addEventListener("DOMContentLoaded", showIosHint);
   } else {
     showIosHint();
+  }
+
+  // Re-localise any PWA chrome that's already on the page when the interface
+  // language changes.
+  if (window.I18n && typeof window.I18n.onChange === "function") {
+    var firstRun = true;
+    window.I18n.onChange(function () {
+      if (firstRun) {
+        firstRun = false;
+        return;
+      }
+      var offlineBar = document.getElementById("offline-bar");
+      if (offlineBar) offlineBar.textContent = t("pwa.offline");
+      if (installBtn) installBtn.textContent = t("pwa.install");
+      var hintText = document.querySelector(".ios-install-text");
+      if (hintText) hintText.innerHTML = t("pwa.iosHint");
+      var hintClose = document.querySelector(".ios-install-close");
+      if (hintClose) hintClose.setAttribute("aria-label", t("pwa.iosDismiss"));
+    });
   }
 })();
