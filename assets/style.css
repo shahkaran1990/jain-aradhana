@@ -11,6 +11,25 @@
   --maxw: 820px;
 }
 
+/* Dark theme. Activated by data-theme="dark" on <html>, set by theme.js (and a
+   pre-paint inline script in each page's head to avoid a flash). Only the
+   palette variables change; the rest of the CSS reads them. */
+:root[data-theme="dark"] {
+  --bg: #1c1712;
+  --surface: #262019;
+  --ink: #f0e7da;
+  --muted: #b3a084;
+  --accent: #e8823f;
+  --accent-soft: #47331f;
+  --border: #3a3025;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+}
+
+/* The header keeps its warm gradient; deepen it slightly for dark mode. */
+:root[data-theme="dark"] .site-header {
+  background: linear-gradient(160deg, #6e3413, #4a230d);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -169,15 +188,30 @@ a:hover {
 }
 
 .card .badge {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-size: 12px;
+  line-height: 1;
   text-transform: uppercase;
   letter-spacing: 0.8px;
+  /* letter-spacing adds trailing space after the last glyph, which pushes the
+     text visually left inside the pill; pull it back so the caps sit centred. */
+  text-indent: 0.8px;
   color: var(--accent);
   background: var(--accent-soft);
-  padding: 3px 10px;
+  padding: 5px 11px;
   border-radius: 999px;
   margin-bottom: 8px;
+}
+
+/* The uppercase caps render ~1px below the pill's optical centre (the font's
+   ascent/descent leading isn't symmetric around the caps, and at this small
+   size integer padding can't resolve the last pixel). A tiny upward transform
+   nudges just the glyphs — not the pill box — onto the exact centre. Measured
+   against the actual painted pixels. */
+.card .badge {
+  transform: translateY(-1px);
 }
 
 .card h2 {
@@ -529,4 +563,204 @@ a:hover {
 /* Prevent long verse lines from overflowing on narrow screens. */
 .verse {
   overflow-wrap: break-word;
+}
+
+/* ---------------------------------------------------------------------------
+   UI language switcher (interface localisation: English / Hindi / Gujarati)
+   --------------------------------------------------------------------------- */
+.lang-switcher {
+  position: fixed;
+  top: max(10px, env(safe-area-inset-top));
+  right: max(10px, env(safe-area-inset-right));
+  z-index: 45;
+  display: flex;
+  gap: 2px;
+  padding: 3px;
+  background: rgba(255, 245, 236, 0.92);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: 0 2px 10px rgba(90, 60, 20, 0.18);
+  backdrop-filter: saturate(1.2) blur(4px);
+}
+
+.lang-btn {
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  line-height: 1.2;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.lang-btn:hover {
+  color: var(--accent);
+}
+
+.lang-btn.active {
+  background: var(--accent);
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .lang-btn {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Dark / light theme toggle button
+   --------------------------------------------------------------------------- */
+/* Default (fallback) placement: fixed, just left of the switcher. Used only if
+   the button couldn't be nested inside the switcher (e.g. switcher missing). */
+.theme-toggle {
+  position: fixed;
+  top: max(10px, env(safe-area-inset-top));
+  right: max(148px, calc(env(safe-area-inset-right) + 138px));
+  z-index: 46;
+  width: 38px;
+  height: 38px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: rgba(255, 245, 236, 0.92);
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(90, 60, 20, 0.18);
+  backdrop-filter: saturate(1.2) blur(4px);
+}
+
+:root[data-theme="dark"] .theme-toggle {
+  background: rgba(38, 32, 25, 0.92);
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+}
+
+/* Preferred placement: a flex item inside the language-switcher pill, so it
+   flows next to the language buttons and never overlaps them. */
+.theme-toggle--inline {
+  position: static;
+  z-index: auto;
+  width: auto;
+  height: auto;
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  backdrop-filter: none;
+  padding: 6px 10px;
+  border-radius: 999px;
+  color: var(--muted);
+}
+
+.theme-toggle--inline:hover {
+  border: none;
+  color: var(--accent);
+}
+
+@media (max-width: 600px) {
+  .theme-toggle {
+    width: 42px;
+    height: 42px;
+  }
+
+  .theme-toggle--inline {
+    width: auto;
+    height: auto;
+    padding: 8px 10px;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Favorites — star on each card, and the button on the item page
+   --------------------------------------------------------------------------- */
+
+/* The card is the positioning context for its star. */
+.card {
+  position: relative;
+}
+
+.fav-star {
+  position: absolute;
+  /* Vertically centre the 40px hit-area on the badge row: the badge starts at
+     the card's top padding (18px) and is ~24px tall, so its centre is ~30px
+     from the card top; 30 − 40/2 = 10px keeps the star locked to that row. */
+  top: 10px;
+  right: 12px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 999px;
+  transition: color 0.15s ease, transform 0.1s ease, background 0.15s ease;
+}
+
+.fav-star:hover {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.fav-star.on {
+  color: #e8a33f;
+}
+
+.fav-star:active {
+  transform: scale(0.88);
+}
+
+/* Keep the card title clear of the star. */
+.card h2 {
+  padding-right: 36px;
+}
+
+/* Item-page favorite + share buttons live in the reader-tools row. */
+.reader-tools .fav-btn.on {
+  color: #e8a33f;
+  border-color: var(--accent);
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  border-radius: 8px;
+  height: 34px;
+  padding: 0 12px;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.share-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.share-btn span[aria-hidden="true"] {
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  .share-btn {
+    height: 44px;
+    padding: 0 14px;
+    font-size: 15px;
+  }
 }

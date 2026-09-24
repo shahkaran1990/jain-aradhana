@@ -26,16 +26,35 @@
   var tabsEl = document.getElementById("lang-tabs");
   var verseEl = document.getElementById("verse");
 
+  function t(key, fallback) {
+    return window.I18n && window.I18n.t ? window.I18n.t(key) : fallback;
+  }
+
   if (!item) {
-    titleEl.textContent = "Not found";
-    verseEl.textContent =
-      "Sorry, that item could not be found. Go back to the list.";
+    function renderNotFound() {
+      titleEl.textContent = t("item.notFoundTitle", "Not found");
+      verseEl.textContent = t(
+        "item.notFoundBody",
+        "Sorry, that item could not be found. Go back to the list."
+      );
+    }
+    renderNotFound();
+    if (window.I18n && typeof window.I18n.onChange === "function") {
+      window.I18n.onChange(renderNotFound);
+    }
     return;
   }
 
   document.title =
     item.title.en || item.title.hi || item.title.gu || "Jain Aradhana";
-  typeEl.textContent = CATEGORIES[item.type] || item.type;
+
+  function renderTypeLabel() {
+    typeEl.textContent =
+      window.I18n && window.I18n.category
+        ? window.I18n.category(item.type)
+        : CATEGORIES[item.type] || item.type;
+  }
+  renderTypeLabel();
 
   // Report this specific item to analytics (page path /item/<id> + title), so
   // the most-viewed aartis/stavans show up in GA. No-op if analytics is
@@ -60,7 +79,7 @@
   var tabs = available.map(function (l) {
     return { key: l.key, label: l.label };
   });
-  if (hasMeaning) tabs.push({ key: "meaning", label: "Meaning" });
+  if (hasMeaning) tabs.push({ key: "meaning", label: t("item.meaningTab", "Meaning") });
 
   // Persist the chosen language tab per item, so reopening or reloading an
   // item restores the same tab. Stored client-side (localStorage) to keep the
@@ -152,6 +171,140 @@
   });
 
   if (current) show(current);
+
+  // Re-localise the "Meaning" tab label when the interface language changes.
+  // The other tabs are content-language names (हिन्दी, English, …) and stay
+  // fixed. The header title/type-label follow the content, not the UI, so they
+  // are left untouched here.
+  if (window.I18n && typeof window.I18n.onChange === "function") {
+    var firstRun = true;
+    window.I18n.onChange(function () {
+      if (firstRun) {
+        firstRun = false;
+        return;
+      }
+      var meaningBtn = tabsEl.querySelector('.chip[data-lang="meaning"]');
+      if (meaningBtn) meaningBtn.textContent = window.I18n.t("item.meaningTab");
+      renderTypeLabel();
+    });
+  }
+
+  // --- Favorite toggle -----------------------------------------------------
+  // Same store as the home page, so a star toggled here shows up in the
+  // Favorites filter on the list.
+  var FAV_KEY = "jain-aradhana:favorites";
+
+  function loadFavorites() {
+    try {
+      var saved = JSON.parse(localStorage.getItem(FAV_KEY) || "null");
+      if (Array.isArray(saved)) return saved;
+    } catch (e) {}
+    return [];
+  }
+
+  function saveFavorites(list) {
+    try {
+      localStorage.setItem(FAV_KEY, JSON.stringify(list));
+    } catch (e) {}
+  }
+
+  function isFavorite() {
+    return loadFavorites().indexOf(item.id) !== -1;
+  }
+
+  var favBtn = document.getElementById("fav");
+
+  function syncFav() {
+    if (!favBtn) return;
+    var on = isFavorite();
+    favBtn.textContent = on ? "★" : "☆";
+    favBtn.classList.toggle("on", on);
+    var lbl = on ? t("fav.remove", "Remove from favorites") : t("fav.add", "Add to favorites");
+    favBtn.setAttribute("aria-label", lbl);
+    favBtn.setAttribute("title", lbl);
+    favBtn.setAttribute("aria-pressed", on ? "true" : "false");
+  }
+
+  if (favBtn) {
+    favBtn.addEventListener("click", function () {
+      var list = loadFavorites();
+      var i = list.indexOf(item.id);
+      if (i === -1) list.push(item.id);
+      else list.splice(i, 1);
+      saveFavorites(list);
+      syncFav();
+    });
+    syncFav();
+  }
+
+  // --- Share ---------------------------------------------------------------
+  // Prefer the native share sheet (mobile); fall back to copying the link.
+  var shareBtn = document.getElementById("share");
+
+  function flashShareLabel(msgKey, fallback) {
+    var labelEl = shareBtn && shareBtn.querySelector(".share-label");
+    if (!labelEl) return;
+    var original = labelEl.textContent;
+    labelEl.textContent = t(msgKey, fallback);
+    setTimeout(function () {
+      labelEl.textContent = original;
+    }, 1800);
+  }
+
+  function copyLink(url) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(url);
+    }
+    // Legacy fallback for browsers without the async clipboard API.
+    return new Promise(function (resolve, reject) {
+      try {
+        var ta = document.createElement("textarea");
+        ta.value = url;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "absolute";
+        ta.style.left = "-9999px";
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        document.body.removeChild(ta);
+        resolve();
+      } catch (e) {
+        reject(e);
+      }
+    });
+  }
+
+  if (shareBtn) {
+    shareBtn.addEventListener("click", function () {
+      var url = location.href;
+      var shareTitle =
+        item.title.en || item.title.hi || item.title.gu || t("share.title", "Share this");
+
+      if (navigator.share) {
+        navigator
+          .share({ title: shareTitle, text: shareTitle, url: url })
+          .catch(function () {
+            // User cancelled, or share failed — no action needed.
+          });
+        return;
+      }
+
+      // No native share: copy the link and confirm inline.
+      copyLink(url).then(
+        function () {
+          flashShareLabel("share.copied", "Link copied");
+        },
+        function () {
+          flashShareLabel("share.failed", "Couldn’t share");
+        }
+      );
+    });
+  }
+
+  // Keep favorite label in sync when the interface language changes.
+  if (window.I18n && typeof window.I18n.onChange === "function") {
+    window.I18n.onChange(syncFav);
+  }
 
   // Reader text-size controls. The chosen size is a global reading preference,
   // so it is shared across items and restored on reload.

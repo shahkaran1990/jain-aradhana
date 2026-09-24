@@ -1,0 +1,76 @@
+name: 📿 Request content
+description: Ask for a new aarti, stavan, stuti, etc. — or a translation of an existing one — to be added.
+title: "[Content] "
+labels: ["content request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow the collection! 🙏
+        You don't need to know how to code — just tell us what you'd like added and we'll take care of the rest.
+        Prefer to add it yourself? See [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+
+  - type: input
+    id: title
+    attributes:
+      label: Name / title
+      description: The name of the aarti, stavan, stuti, etc.
+      placeholder: e.g. Shri Shantinath Stavan
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Which category does it belong to?
+      options:
+        - Aarti
+        - Stavan
+        - Stuti
+        - Chalisa
+        - Bhajan
+        - Stotra
+        - Bhavna
+        - Paath
+        - Pratikraman
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: languages
+    attributes:
+      label: Language(s)
+      description: Which languages do you have text for?
+      options:
+        - label: Hindi (हिन्दी)
+        - label: Gujarati (ગુજરાતી)
+        - label: Sanskrit (संस्कृत)
+        - label: English
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Text or source
+      description: Paste the text (one language per block is fine), or link to a reliable source we can use.
+      placeholder: |
+        Paste verses here, or a link to a trustworthy source.
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Optional — context, occasion, or notes for the maintainer.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: accuracy
+    attributes:
+      label: Accuracy
+      options:
+        - label: I've checked this text against a reliable source (or provided one above).
+          required: true

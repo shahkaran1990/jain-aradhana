@@ -1,0 +1,31 @@
+name: 🐞 Bug or other request
+description: Report something broken, a correction to existing text, or any other suggestion.
+title: "[Issue] "
+labels: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What's going on?
+      description: Describe the bug, the correction, or your suggestion.
+      placeholder: |
+        What did you expect, and what happened instead? Include the item name/URL if it's about specific content.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce (for bugs)
+      description: Optional — how can we see the problem ourselves?
+    validations:
+      required: false
+
+  - type: input
+    id: device
+    attributes:
+      label: Device / browser
+      description: Optional — helpful for display or offline/PWA issues.
+      placeholder: e.g. iPhone 15, Safari — installed to Home Screen
+    validations:
+      required: false

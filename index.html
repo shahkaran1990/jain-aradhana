@@ -12,6 +12,23 @@
       content="A collection of Jain aartis, stavans, stutis, chalisas, bhajans, stotras and more."
     />
 
+    <!-- Apply the saved (or system) theme before paint to avoid a flash. -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("jain-aradhana:theme");
+          if (t !== "light" && t !== "dark") {
+            t =
+              window.matchMedia &&
+              window.matchMedia("(prefers-color-scheme: dark)").matches
+                ? "dark"
+                : "light";
+          }
+          document.documentElement.setAttribute("data-theme", t);
+        } catch (e) {}
+      })();
+    </script>
+
     <!-- PWA -->
     <link rel="manifest" href="manifest.webmanifest" />
     <meta name="theme-color" content="#b8551f" />
@@ -31,6 +48,12 @@
     />
     <link rel="stylesheet" href="assets/style.css" />
 
+    <!-- UI localisation (interface language: English default, Hindi, Gujarati) -->
+    <script src="assets/i18n.js"></script>
+
+    <!-- Dark / light theme toggle -->
+    <script src="assets/theme.js"></script>
+
     <!-- Analytics: GA4 Measurement ID. Set to "G-XXXXXXXXXX" to disable. -->
     <script>
       window.GA_MEASUREMENT_ID = "G-N3LJ6BT6M7";
@@ -43,8 +66,10 @@
         <div class="om" aria-hidden="true">
           <img src="assets/jain-symbol.svg" alt="" width="64" height="64" />
         </div>
-        <h1>Jain Aradhana</h1>
-        <p>Aarti, Stavan, Stuti, Chalisa, Bhajan, Stotra &amp; more</p>
+        <h1 data-i18n="app.name">Jain Aradhana</h1>
+        <p data-i18n="app.tagline">
+          Aarti, Stavan, Stuti, Chalisa, Bhajan, Stotra &amp; more
+        </p>
       </div>
     </header>
 
@@ -55,7 +80,9 @@
           class="search"
           type="search"
           placeholder="Search by name…"
+          data-i18n-placeholder="home.searchPlaceholder"
           aria-label="Search aartis and stavans"
+          data-i18n-aria="home.searchAria"
         />
         <div class="filters" id="filters">
           <button class="chip active" data-type="all">All</button>
@@ -65,7 +92,9 @@
       </div>
 
       <ul class="list" id="list"></ul>
-      <p class="empty" id="empty" hidden>No matching items found.</p>
+      <p class="empty" id="empty" data-i18n="home.empty" hidden>
+        No matching items found.
+      </p>
     </main>
 
     <footer class="site-footer">
@@ -73,17 +102,23 @@
         <p class="footer-links">
           <a
             href="mailto:shahkaran1990@gmail.com?subject=Jain%20Aradhana%20%E2%80%94%20Content%20request&amp;body=Hi%20Karan%2C%0A%0AI%27d%20like%20the%20following%20content%20added%20to%20Jain%20Aradhana%3A%0A%0AName%2Ftitle%3A%0AType%20(aarti%2Fstavan%2Fetc.)%3A%0ALanguage(s)%3A%0AText%20or%20source%20link%3A%0A%0AThanks!"
+            data-i18n="footer.addContent"
             >✉️ Contact us to add content</a
           >
           <a
             href="https://github.com/shahkaran1990/jain-aradhana"
             target="_blank"
             rel="noopener"
+            data-i18n="footer.github"
             >★ GitHub repo — add content yourself</a
           >
         </p>
-        <p>Micchami Dukkadam &middot; Shared with devotion 🙏</p>
-        <p class="credit">Created by Karan Shah &middot; Built using Kiro</p>
+        <p data-i18n="footer.blessing">
+          Micchami Dukkadam &middot; Shared with devotion 🙏
+        </p>
+        <p class="credit" data-i18n="footer.credit">
+          Created by Karan Shah &middot; Built using Kiro
+        </p>
       </div>
     </footer>
 
