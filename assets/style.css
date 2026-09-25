@@ -734,33 +734,20 @@ a:hover {
 }
 
 .share-btn {
+  /* Icon-only, square button matching the other reader-tools controls.
+     Sizing/border/colors are inherited from `.reader-tools button`. */
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--muted);
-  border-radius: 8px;
-  height: 34px;
-  padding: 0 12px;
-  cursor: pointer;
-  font-size: 14px;
-  font-family: inherit;
+  justify-content: center;
+  padding: 0;
 }
 
-.share-btn:hover {
-  border-color: var(--accent);
+.share-btn .share-icon {
+  display: block;
+}
+
+/* Brief confirmation tint after the copy-link fallback succeeds. */
+.share-btn.copied {
   color: var(--accent);
-}
-
-.share-btn span[aria-hidden="true"] {
-  font-size: 16px;
-}
-
-@media (max-width: 600px) {
-  .share-btn {
-    height: 44px;
-    padding: 0 14px;
-    font-size: 15px;
-  }
+  border-color: var(--accent);
 }

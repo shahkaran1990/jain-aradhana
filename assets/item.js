@@ -241,13 +241,21 @@
   // Prefer the native share sheet (mobile); fall back to copying the link.
   var shareBtn = document.getElementById("share");
 
-  function flashShareLabel(msgKey, fallback) {
-    var labelEl = shareBtn && shareBtn.querySelector(".share-label");
-    if (!labelEl) return;
-    var original = labelEl.textContent;
-    labelEl.textContent = t(msgKey, fallback);
+  // The share button is icon-only, so confirm the copy-link fallback with a
+  // brief visual tint plus an updated tooltip/aria-label (for screen readers),
+  // then revert to the original "Share" labels.
+  function flashShareFeedback(msgKey, fallback) {
+    if (!shareBtn) return;
+    var originalTitle = shareBtn.getAttribute("title");
+    var originalAria = shareBtn.getAttribute("aria-label");
+    var msg = t(msgKey, fallback);
+    shareBtn.classList.add("copied");
+    shareBtn.setAttribute("title", msg);
+    shareBtn.setAttribute("aria-label", msg);
     setTimeout(function () {
-      labelEl.textContent = original;
+      shareBtn.classList.remove("copied");
+      if (originalTitle !== null) shareBtn.setAttribute("title", originalTitle);
+      if (originalAria !== null) shareBtn.setAttribute("aria-label", originalAria);
     }, 1800);
   }
 
@@ -292,10 +300,10 @@
       // No native share: copy the link and confirm inline.
       copyLink(url).then(
         function () {
-          flashShareLabel("share.copied", "Link copied");
+          flashShareFeedback("share.copied", "Link copied");
         },
         function () {
-          flashShareLabel("share.failed", "Couldn’t share");
+          flashShareFeedback("share.failed", "Couldn’t share");
         }
       );
     });
