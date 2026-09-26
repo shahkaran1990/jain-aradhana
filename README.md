@@ -1,10 +1,16 @@
 # Jain Aradhana
 
-Free, offline-ready collection of Jain **aartis**, **stavans**, and **stutis** in **Gujarati, Hindi, Sanskrit & English**. It is plain HTML/CSS/JS with no build step — a static PWA that runs on GitHub Pages for free.
+Free, offline-ready collection of Jain devotional texts — **aartis, stavans, stutis, chalisas, bhajans, stotras, bhavnas, paaths & pratikraman** — in **Gujarati, Hindi, Sanskrit & English**. It is plain HTML/CSS/JS with no build step — a static PWA that runs on GitHub Pages for free.
 
-- **Home page** — lists everything, with live search and an Aarti / Stavan filter.
+- **Home page** — lists everything, with live search and category filters (one chip per category that has items, plus a ★ Favorites view).
 - **Reading page** — language tabs (only for languages that have text) and larger/smaller text buttons for comfortable recitation.
 - Gujarati and Devanagari (Hindi/Sanskrit) render via Google's Noto Sans fonts.
+- **Interface language** — the app's own menus, buttons, and labels can be switched between **English / हिन्दी / ગુજરાતી** with the language switcher (separate from the per-item verse tabs). Your choice is remembered.
+- **Dark / light theme** — a floating toggle switches themes and follows your device's setting by default. Your choice is remembered.
+- **Favorites** — tap the star on any item to save it; find saved items under the **★ Favorites** filter. Favorites are stored on your device only.
+- **Share** — share any item via your device's native share sheet, with a copy-link fallback.
+- **Help & FAQ** — a floating **? Help** button opens an accessible FAQ (also localized to the interface language).
+- **Privacy-friendly analytics (optional)** — consent-gated Google Analytics that loads nothing until you opt in, with an "Analytics preferences" link in the footer to change your choice anytime. Disabled entirely unless a Measurement ID is configured.
 - **Installable app (PWA)** — on a phone you can "Add to Home Screen" and it opens like a real app (its own icon, no browser bars).
 - **Works offline** — after the first visit, all pages, content, and fonts are cached on the device, so it keeps working with no internet.
 
@@ -78,7 +84,7 @@ Then, in **Settings → Pages**, wait for the domain to verify and tick
 
 ---
 
-## Part 2 — Adding a new aarti or stavan
+## Part 2 — Adding a new item (aarti, stavan, and more)
 
 > Want the full contributor guide (all categories, translations, common
 > mistakes, pull requests)? See **[CONTRIBUTING.md](CONTRIBUTING.md)**. The
@@ -99,7 +105,8 @@ Then, in **Settings → Pages**, wait for the domain to verify and tick
 ```js
 {
   id: "shri-shantinath-stavan",   // unique, lowercase, dashes-instead-of-spaces
-  type: "stavan",                 // "aarti" or "stavan"
+  type: "stavan",                 // any key from CATEGORIES: aarti, stavan, stuti,
+                                  // chalisa, bhajan, stotra, bhavna, paath, pratikraman
   title: {
     gu: "શ્રી શાંતિનાથ સ્તવન",
     hi: "श्री शांतिनाथ स्तवन",
@@ -123,7 +130,7 @@ Second line`,
 ### Rules to remember
 
 - **`id`** must be unique and URL-safe (letters, numbers, dashes). It shows up in the page's web address.
-- **`type`** is either `"aarti"` or `"stavan"` — that controls the badge and the filter.
+- **`type`** is one of the categories defined in the `CATEGORIES` map at the top of `data/content.js` (currently `aarti`, `stavan`, `stuti`, `chalisa`, `bhajan`, `stotra`, `bhavna`, `paath`, `pratikraman`) — that controls the badge and the filter chip. To add a new category, add a key to `CATEGORIES` and it appears everywhere automatically.
 - Wrap multi-line verses in **backticks** `` ` `` (not quotes) so you can press Enter for line breaks. A blank line starts a new stanza.
 - Any language left as `""` simply won't show a tab — so you can add translations later, one at a time.
 - Keep the trailing comma after the closing `}` of each block.
@@ -145,7 +152,7 @@ or code) and want installed devices to pick it up, bump the version number once 
 **`sw.js`**:
 
 ```js
-var CACHE_VERSION = "v2";   // change to "v3", "v4", ... on each release
+var CACHE_VERSION = "v28";   // bump to "v29", "v30", ... on each release
 ```
 
 That tells every device to re-download and re-cache the latest files the next time
@@ -158,17 +165,30 @@ it opens the app online. (New visitors always get the latest version regardless.
 ```
 jain-site/
 ├── index.html              # Home / listing page
-├── item.html               # Single aarti/stavan viewer
+├── item.html               # Single item viewer
 ├── manifest.webmanifest    # PWA metadata (name, icons, colors) for install
 ├── sw.js                   # Service worker — offline caching (bump version to release)
 ├── .nojekyll               # Tells GitHub Pages to serve files as-is
+├── CNAME                   # Custom domain for GitHub Pages
+├── CONTRIBUTING.md         # Full contributor guide
+├── .htmlvalidate.json      # HTML validation config (CI)
+├── eslint.config.mjs       # JS lint config (CI)
+├── linkinator.config.json  # Link-checker config (CI)
+├── .github/                # CI workflow + issue / PR templates
 ├── assets/
-│   ├── style.css           # All styling (incl. mobile + PWA UI)
-│   ├── home.js             # Home page logic (search + filter)
-│   ├── item.js             # Detail page logic (language tabs + text size)
+│   ├── style.css           # All styling (incl. mobile + PWA UI, dark theme)
+│   ├── i18n.js             # UI localisation + language switcher (loads first)
+│   ├── theme.js            # Dark / light theme toggle
+│   ├── home.js             # Home page logic (search + filter + favorites)
+│   ├── item.js             # Detail page logic (language tabs, text size, favorite, share)
+│   ├── help.js             # Floating Help & FAQ modal
+│   ├── analytics.js        # Consent-gated Google Analytics (GA4)
 │   ├── pwa.js              # Registers the service worker + install/offline UI
 │   ├── icon.svg            # App icon (source)
+│   ├── icon-maskable.svg   # Maskable app icon (source)
+│   ├── jain-symbol.svg     # Jain symbol artwork
 │   ├── icon-*.png          # Generated app icons (192, 512, maskable)
+│   ├── favicon-32.png      # Browser tab favicon
 │   └── apple-touch-icon.png
 └── data/
     └── content.js          # <-- All the content lives here
