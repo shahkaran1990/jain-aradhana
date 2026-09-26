@@ -75,6 +75,48 @@
       "share.title": "Share this",
       "share.copied": "Link copied",
       "share.failed": "Couldn’t share — link copied instead",
+      "help.button": "Help",
+      "help.open": "Open help and FAQs",
+      "help.title": "Help & FAQs",
+      "help.intro":
+        "Common questions about using Jain Aradhana. Tap a question to see the answer.",
+      "help.close": "Close help",
+      "help.contactLead": "Still need help?",
+      "help.contactLink": "✉️ Contact us",
+      "help.q.install": "How do I install the app on my phone?",
+      "help.a.install":
+        "<strong>On Android (Chrome):</strong> tap the <strong>⬇︎ Install app</strong> button, or open the browser menu (⋮) and choose <strong>Install app</strong> / <strong>Add to Home screen</strong>.<br><br>" +
+        "<strong>On iPhone/iPad (Safari):</strong> tap the Share button " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " at the bottom of the screen, then choose <strong>Add to Home Screen</strong>.<br><br>" +
+        "<strong>On iPhone/iPad (Chrome):</strong> tap the Share button " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " in the top-right, then choose <strong>Add to Home Screen</strong>.<br><br>" +
+        "Once installed, the app opens from your home screen like any other app — no browser needed.",
+      "help.q.offline": "Does the app work without internet (offline)?",
+      "help.a.offline":
+        "Yes. After you open the app once with an internet connection, it saves the content on your device. You can then read everything even when you are offline. New items added later will appear the next time you open the app while online.",
+      "help.q.newContent": "How can I get new content added?",
+      "help.a.newContent":
+        "We’d love to add more. Use the <strong>Contact us to add content</strong> link at the bottom of any page and tell us the name, type (aarti, stavan, etc.), language, and the text or a link. If you are comfortable with GitHub, you can also contribute directly through the repository link in the footer.",
+      "help.q.privacy": "Does the app store my personal data?",
+      "help.a.privacy":
+        "No. The app does not collect your name, phone number, or any personal information. Your choices — like language, theme, favorites, and text size — are saved only on your own device, never sent to us. Anonymous usage statistics are collected only if you agree to them, and you can change that anytime from <strong>Analytics preferences</strong> in the footer.",
+      "help.q.free": "Is the app free to use?",
+      "help.a.free":
+        "Yes, completely free. There are no charges, no ads, and no account or sign-up needed. Just open it and start reading.",
+      "help.q.language": "How do I change the language?",
+      "help.a.language":
+        "Use the <strong>language buttons</strong> at the top-right (English / हिन्दी / ગુજરાતી) to change the app’s menus and labels. Inside each aarti or stavan, use the language tabs above the text to read the verse in a different script.",
+      "help.q.textSize": "How do I make the text bigger or smaller?",
+      "help.a.textSize":
+        "Open any aarti or stavan and use the <strong>A−</strong> and <strong>A+</strong> buttons above the text to shrink or enlarge it. Your choice is remembered for next time.",
+      "help.q.favorites": "How do I save my favorites?",
+      "help.a.favorites":
+        "Tap the <strong>star (☆)</strong> on any item to save it. Your saved items appear under the <strong>★ Favorites</strong> filter on the home page, so you can find them quickly.",
+      "help.q.darkMode": "How do I switch to dark mode?",
+      "help.a.darkMode":
+        "Tap the <strong>moon/sun icon</strong> next to the language buttons at the top-right to switch between light and dark themes. The app also follows your phone’s setting by default.",
       "cat.aarti": "Aarti",
       "cat.stavan": "Stavan",
       "cat.stuti": "Stuti",
@@ -125,6 +167,48 @@
       "share.title": "इसे साझा करें",
       "share.copied": "लिंक कॉपी हो गया",
       "share.failed": "साझा नहीं हो सका — लिंक कॉपी कर दिया",
+      "help.button": "सहायता",
+      "help.open": "सहायता और सामान्य प्रश्न खोलें",
+      "help.title": "सहायता और सामान्य प्रश्न",
+      "help.intro":
+        "जैन आराधना के उपयोग से जुड़े सामान्य प्रश्न। उत्तर देखने के लिए प्रश्न पर टैप करें।",
+      "help.close": "सहायता बंद करें",
+      "help.contactLead": "अभी भी मदद चाहिए?",
+      "help.contactLink": "✉️ हमसे संपर्क करें",
+      "help.q.install": "मैं अपने फ़ोन में ऐप कैसे इंस्टॉल करूँ?",
+      "help.a.install":
+        "<strong>Android (Chrome) पर:</strong> <strong>⬇︎ ऐप इंस्टॉल करें</strong> बटन दबाएँ, या ब्राउज़र मेन्यू (⋮) खोलकर <strong>Install app</strong> / <strong>Add to Home screen</strong> चुनें।<br><br>" +
+        "<strong>iPhone/iPad (Safari) पर:</strong> स्क्रीन के नीचे शेयर बटन " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " दबाएँ, फिर <strong>Add to Home Screen</strong> चुनें।<br><br>" +
+        "<strong>iPhone/iPad (Chrome) पर:</strong> ऊपर-दाईं ओर शेयर बटन " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " दबाएँ, फिर <strong>Add to Home Screen</strong> चुनें।<br><br>" +
+        "इंस्टॉल होने के बाद ऐप आपके होम स्क्रीन से किसी भी अन्य ऐप की तरह खुलेगा — ब्राउज़र की ज़रूरत नहीं।",
+      "help.q.offline": "क्या ऐप बिना इंटरनेट (ऑफ़लाइन) चलता है?",
+      "help.a.offline":
+        "हाँ। एक बार इंटरनेट के साथ ऐप खोलने पर, यह आराधना आपके डिवाइस में सहेज लेता है। इसके बाद आप बिना इंटरनेट के भी सब कुछ पढ़ सकते हैं। बाद में जोड़ी गई नई आराधना अगली बार ऑनलाइन रहते हुए ऐप खोलने पर दिखेगी।",
+      "help.q.newContent": "नई आराधना कैसे जुड़वाऊँ?",
+      "help.a.newContent":
+        "हमें और आराधना जोड़ने में खुशी होगी। किसी भी पेज के नीचे दिए <strong>आराधना जोड़ने के लिए संपर्क करें</strong> लिंक का उपयोग करें और नाम, प्रकार (आरती, स्तवन आदि), भाषा और टेक्स्ट या लिंक बताएँ। यदि आप GitHub से परिचित हैं, तो फ़ुटर में दिए रिपॉज़िटरी लिंक से भी सीधे योगदान कर सकते हैं।",
+      "help.q.privacy": "क्या ऐप मेरा निजी डेटा संग्रहित करता है?",
+      "help.a.privacy":
+        "नहीं। ऐप आपका नाम, फ़ोन नंबर या कोई निजी जानकारी एकत्र नहीं करता। आपकी पसंद — जैसे भाषा, थीम, पसंदीदा और अक्षर का आकार — केवल आपके डिवाइस पर सहेजी जाती है, हमें कभी नहीं भेजी जाती। गुमनाम उपयोग आँकड़े केवल तभी एकत्र होते हैं जब आप सहमति दें, और आप इसे फ़ुटर में <strong>Analytics preferences</strong> से कभी भी बदल सकते हैं।",
+      "help.q.free": "क्या ऐप का उपयोग मुफ़्त है?",
+      "help.a.free":
+        "हाँ, पूरी तरह मुफ़्त। कोई शुल्क नहीं, कोई विज्ञापन नहीं, और न ही कोई खाता या साइन-अप ज़रूरी है। बस खोलें और पढ़ना शुरू करें।",
+      "help.q.language": "मैं भाषा कैसे बदलूँ?",
+      "help.a.language":
+        "ऐप के मेन्यू और लेबल बदलने के लिए ऊपर-दाईं ओर दिए <strong>भाषा बटन</strong> (English / हिन्दी / ગુજરાતી) का उपयोग करें। किसी आरती या स्तवन के अंदर, टेक्स्ट के ऊपर दिए भाषा टैब से आराधना को दूसरी लिपि में पढ़ें।",
+      "help.q.textSize": "अक्षर बड़े या छोटे कैसे करूँ?",
+      "help.a.textSize":
+        "कोई भी आरती या स्तवन खोलें और टेक्स्ट के ऊपर दिए <strong>A−</strong> और <strong>A+</strong> बटन से उसे छोटा या बड़ा करें। आपकी पसंद अगली बार के लिए याद रखी जाती है।",
+      "help.q.favorites": "पसंदीदा कैसे सहेजूँ?",
+      "help.a.favorites":
+        "किसी भी आराधना पर <strong>तारा (☆)</strong> दबाकर उसे सहेजें। सहेजी गई आराधना होम पेज पर <strong>★ पसंदीदा</strong> फ़िल्टर में दिखती हैं, जिससे उन्हें जल्दी ढूँढ सकें।",
+      "help.q.darkMode": "डार्क मोड कैसे चालू करूँ?",
+      "help.a.darkMode":
+        "ऊपर-दाईं ओर भाषा बटन के पास दिए <strong>चाँद/सूरज आइकन</strong> को दबाकर हल्की और गहरी थीम के बीच बदलें। ऐप डिफ़ॉल्ट रूप से आपके फ़ोन की सेटिंग का भी पालन करता है।",
       "cat.aarti": "आरती",
       "cat.stavan": "स्तवन",
       "cat.stuti": "स्तुति",
@@ -175,6 +259,48 @@
       "share.title": "આ શેર કરો",
       "share.copied": "લિંક કૉપિ થઈ",
       "share.failed": "શેર ન થઈ શક્યું — લિંક કૉપિ કરી",
+      "help.button": "મદદ",
+      "help.open": "મદદ અને સામાન્ય પ્રશ્નો ખોલો",
+      "help.title": "મદદ અને સામાન્ય પ્રશ્નો",
+      "help.intro":
+        "જૈન આરાધના વાપરવા અંગેના સામાન્ય પ્રશ્નો. જવાબ જોવા માટે પ્રશ્ન પર ટૅપ કરો.",
+      "help.close": "મદદ બંધ કરો",
+      "help.contactLead": "હજી પણ મદદ જોઈએ છે?",
+      "help.contactLink": "✉️ અમારો સંપર્ક કરો",
+      "help.q.install": "હું મારા ફોનમાં ઍપ કેવી રીતે ઇન્સ્ટૉલ કરું?",
+      "help.a.install":
+        "<strong>Android (Chrome) પર:</strong> <strong>⬇︎ ઍપ ઇન્સ્ટૉલ કરો</strong> બટન દબાવો, અથવા બ્રાઉઝર મેનૂ (⋮) ખોલીને <strong>Install app</strong> / <strong>Add to Home screen</strong> પસંદ કરો.<br><br>" +
+        "<strong>iPhone/iPad (Safari) પર:</strong> સ્ક્રીનની નીચે શેર બટન " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " દબાવો, પછી <strong>Add to Home Screen</strong> પસંદ કરો.<br><br>" +
+        "<strong>iPhone/iPad (Chrome) પર:</strong> ઉપર-જમણી બાજુ શેર બટન " +
+        '<span class="ios-share-glyph" aria-hidden="true">&#x2191;</span>' +
+        " દબાવો, પછી <strong>Add to Home Screen</strong> પસંદ કરો.<br><br>" +
+        "ઇન્સ્ટૉલ થયા પછી ઍપ તમારી હોમ સ્ક્રીનથી કોઈપણ અન્ય ઍપની જેમ ખૂલશે — બ્રાઉઝરની જરૂર નથી.",
+      "help.q.offline": "શું ઍપ ઇન્ટરનેટ વગર (ઑફલાઇન) ચાલે છે?",
+      "help.a.offline":
+        "હા. એક વાર ઇન્ટરનેટ સાથે ઍપ ખોલ્યા પછી, તે આરાધના તમારા ડિવાઇસમાં સાચવી લે છે. પછી તમે ઇન્ટરનેટ વગર પણ બધું વાંચી શકો છો. પછીથી ઉમેરાયેલી નવી આરાધના આગલી વાર ઑનલાઇન રહીને ઍપ ખોલશો ત્યારે દેખાશે.",
+      "help.q.newContent": "નવી આરાધના કેવી રીતે ઉમેરાવું?",
+      "help.a.newContent":
+        "અમને વધુ આરાધના ઉમેરવામાં આનંદ થશે. કોઈપણ પેજની નીચે આપેલી <strong>આરાધના ઉમેરવા સંપર્ક કરો</strong> લિંક વાપરો અને નામ, પ્રકાર (આરતી, સ્તવન વગેરે), ભાષા અને ટેક્સ્ટ કે લિંક જણાવો. જો તમે GitHub થી પરિચિત હો, તો ફૂટરમાં આપેલી રિપોઝિટરી લિંક દ્વારા સીધું યોગદાન પણ કરી શકો છો.",
+      "help.q.privacy": "શું ઍપ મારો વ્યક્તિગત ડેટા સંગ્રહે છે?",
+      "help.a.privacy":
+        "ના. ઍપ તમારું નામ, ફોન નંબર કે કોઈ વ્યક્તિગત માહિતી એકત્ર કરતી નથી. તમારી પસંદગીઓ — જેમ કે ભાષા, થીમ, મનપસંદ અને અક્ષરનું કદ — ફક્ત તમારા ડિવાઇસ પર સચવાય છે, અમને ક્યારેય મોકલાતી નથી. અનામ વપરાશ આંકડા ફક્ત ત્યારે જ એકત્ર થાય છે જ્યારે તમે સંમતિ આપો, અને તમે તેને ફૂટરમાં <strong>Analytics preferences</strong> થી ગમે ત્યારે બદલી શકો છો.",
+      "help.q.free": "શું ઍપ વાપરવી મફત છે?",
+      "help.a.free":
+        "હા, સંપૂર્ણ મફત. કોઈ ચાર્જ નથી, કોઈ જાહેરાત નથી, અને કોઈ ખાતું કે સાઇન-અપ જરૂરી નથી. ફક્ત ખોલો અને વાંચવાનું શરૂ કરો.",
+      "help.q.language": "હું ભાષા કેવી રીતે બદલું?",
+      "help.a.language":
+        "ઍપના મેનૂ અને લેબલ બદલવા માટે ઉપર-જમણી બાજુ આપેલા <strong>ભાષા બટન</strong> (English / હિન્દી / ગુજરાતી) વાપરો. કોઈ આરતી કે સ્તવનની અંદર, ટેક્સ્ટની ઉપર આપેલા ભાષા ટૅબથી આરાધનાને બીજી લિપિમાં વાંચો.",
+      "help.q.textSize": "અક્ષર મોટા કે નાના કેવી રીતે કરું?",
+      "help.a.textSize":
+        "કોઈપણ આરતી કે સ્તવન ખોલો અને ટેક્સ્ટની ઉપર આપેલા <strong>A−</strong> અને <strong>A+</strong> બટનથી તેને નાનું કે મોટું કરો. તમારી પસંદગી આગલી વાર માટે યાદ રખાય છે.",
+      "help.q.favorites": "મનપસંદ કેવી રીતે સાચવું?",
+      "help.a.favorites":
+        "કોઈપણ આરાધના પરનો <strong>તારો (☆)</strong> દબાવીને તેને સાચવો. સાચવેલી આરાધના હોમ પેજ પર <strong>★ મનપસંદ</strong> ફિલ્ટરમાં દેખાય છે, જેથી તેમને ઝડપથી શોધી શકાય.",
+      "help.q.darkMode": "ડાર્ક મોડ કેવી રીતે ચાલુ કરું?",
+      "help.a.darkMode":
+        "ઉપર-જમણી બાજુ ભાષા બટન પાસે આપેલા <strong>ચંદ્ર/સૂરજ આઇકન</strong> દબાવીને લાઇટ અને ડાર્ક થીમ વચ્ચે બદલો. ઍપ ડિફૉલ્ટ રૂપે તમારા ફોનની સેટિંગને પણ અનુસરે છે.",
       "cat.aarti": "આરતી",
       "cat.stavan": "સ્તવન",
       "cat.stuti": "સ્તુતિ",

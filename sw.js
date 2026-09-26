@@ -4,7 +4,7 @@
 
 "use strict";
 
-var CACHE_VERSION = "v25";
+var CACHE_VERSION = "v27";
 var SHELL_CACHE = "jain-shell-" + CACHE_VERSION;
 var FONT_CACHE = "jain-fonts-" + CACHE_VERSION;
 
@@ -21,6 +21,7 @@ var SHELL_ASSETS = [
   "assets/home.js",
   "assets/item.js",
   "assets/analytics.js",
+  "assets/help.js",
   "assets/icon.svg",
   "assets/jain-symbol.svg",
   "assets/icon-192.png",
