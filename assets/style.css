@@ -533,6 +533,9 @@ a:hover {
    (font-size >= 16px on inputs prevents Safari's auto-zoom). */
 @media (max-width: 600px) {
   .site-header {
+    /* Push the centred logo/title clear of the fixed language switcher,
+       which sits at the top-right and is taller on narrow screens. */
+    padding-top: max(64px, calc(env(safe-area-inset-top) + 60px));
     padding-bottom: 24px;
   }
 
