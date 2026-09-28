@@ -8,6 +8,24 @@
     />
     <title>Jain Aradhana</title>
 
+    <!-- Legacy redirect: item pages now live at item/<id>.html (crawlable,
+         per-item URLs). Old links like item.html?id=<id> are forwarded there
+         so bookmarks and previously shared URLs keep working. -->
+    <script>
+      (function () {
+        try {
+          var m = /[?&]id=([^&]*)/.exec(location.search);
+          if (m && m[1]) {
+            var id = decodeURIComponent(m[1]);
+            // Basic slug guard so we only ever build a same-site path.
+            if (/^[a-zA-Z0-9._-]+$/.test(id)) {
+              location.replace("item/" + id + ".html");
+            }
+          }
+        } catch (e) {}
+      })();
+    </script>
+
     <!-- Apply the saved (or system) theme before paint to avoid a flash. -->
     <script>
       (function () {

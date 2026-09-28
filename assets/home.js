@@ -195,7 +195,9 @@
   function makeCard(item) {
     var a = document.createElement("a");
     a.className = "card";
-    a.href = "item.html?id=" + encodeURIComponent(item.id);
+    // Link to the crawlable static page (item/<id>.html). encodeURIComponent
+    // keeps ids URL-safe; item ids are plain slugs, so this is just defensive.
+    a.href = "item/" + encodeURIComponent(item.id) + ".html";
 
     a.appendChild(makeStar(item));
 

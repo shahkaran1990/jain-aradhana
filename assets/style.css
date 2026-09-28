@@ -1037,3 +1037,36 @@ body.help-open {
     height: 44px;
   }
 }
+
+/* Crawlable, no-JS fallback verses on static item pages (item/<id>.html).
+   Present in the HTML source for search engines and no-script visitors;
+   item.js sets [hidden] on it once the interactive reader is ready. */
+.verse-static {
+  padding: 8px 4px 24px;
+}
+
+.verse-static .verse-lang + .verse-lang {
+  margin-top: 28px;
+  border-top: 1px solid var(--border, #e4d8c9);
+  padding-top: 20px;
+}
+
+.verse-static .verse-lang h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.7;
+  margin: 0 0 10px;
+  text-align: center;
+}
+
+.verse-static .verse-text {
+  margin: 0;
+  font-family: inherit;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  font-size: clamp(19px, 2.6vw, 23px);
+  line-height: 2.1;
+  text-align: center;
+}
