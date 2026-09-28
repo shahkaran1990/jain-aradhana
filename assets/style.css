@@ -682,6 +682,23 @@ a:hover {
   border-color: var(--accent);
 }
 
+/* Item (reader) page: the global language switcher is omitted here, so the
+   theme toggle stands alone. Move it to the bottom-right — clear of the
+   sticky content-language tabs at the top and the bottom-left Help button.
+   It sits just above where the install button would appear (Chromium only). */
+body[data-page="item"] .theme-toggle:not(.theme-toggle--inline) {
+  top: auto;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
+}
+
+/* When the install button is present it also anchors bottom-right; lift the
+   theme toggle above it so the two don't stack on the same spot. pwa.js adds
+   the has-install-btn class to <body> while the button is visible. */
+body[data-page="item"].has-install-btn .theme-toggle:not(.theme-toggle--inline) {
+  bottom: max(70px, calc(env(safe-area-inset-bottom) + 62px));
+}
+
 /* Preferred placement: a flex item inside the language-switcher pill, so it
    flows next to the language buttons and never overlaps them. */
 .theme-toggle--inline {

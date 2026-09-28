@@ -4,7 +4,7 @@
 
 "use strict";
 
-var CACHE_VERSION = "v30";
+var CACHE_VERSION = "v31";
 var SHELL_CACHE = "jain-shell-" + CACHE_VERSION;
 var FONT_CACHE = "jain-fonts-" + CACHE_VERSION;
 

@@ -55,6 +55,7 @@
       deferredPrompt.userChoice.finally(function () {
         deferredPrompt = null;
         btn.hidden = true;
+        setInstallBtnVisible(false);
       });
     });
     document.body.appendChild(btn);
@@ -63,17 +64,27 @@
 
   var installBtn = null;
 
+  // Reflect install-button visibility on <body> so CSS can react — the item
+  // page lifts its standalone theme toggle above the button when it shows.
+  function setInstallBtnVisible(visible) {
+    if (document.body) {
+      document.body.classList.toggle("has-install-btn", !!visible);
+    }
+  }
+
   window.addEventListener("beforeinstallprompt", function (e) {
     // Stop Chrome's mini-infobar; show our own button instead.
     e.preventDefault();
     deferredPrompt = e;
     if (!installBtn) installBtn = makeInstallButton();
     installBtn.hidden = false;
+    setInstallBtnVisible(true);
   });
 
   window.addEventListener("appinstalled", function () {
     deferredPrompt = null;
     if (installBtn) installBtn.hidden = true;
+    setInstallBtnVisible(false);
   });
 
   // 4. iOS install hint.
