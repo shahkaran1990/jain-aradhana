@@ -80,6 +80,29 @@
 
   var state = loadState();
 
+  // Incremental rendering: only build cards for the first `shown` matches, and
+  // reveal more in batches. This keeps render cheap now that a category can
+  // hold hundreds of items, while leaving search + Cmd-F scanning intact.
+  var PAGE_SIZE = 50;
+  var shown = PAGE_SIZE;
+
+  var countEl = document.getElementById("count");
+  var showMoreWrap = document.getElementById("showMoreWrap");
+  var showMoreBtn = document.getElementById("showMore");
+
+  // t() with {placeholder} interpolation (the i18n layer returns raw strings).
+  function tf(key, fallback, vars) {
+    var s =
+      window.I18n && window.I18n.t ? window.I18n.t(key) : fallback || key;
+    if (s === key && fallback) s = fallback;
+    if (vars) {
+      Object.keys(vars).forEach(function (k) {
+        s = s.replace("{" + k + "}", vars[k]);
+      });
+    }
+    return s;
+  }
+
   function typeLabel(type) {
     if (window.I18n && window.I18n.category) return window.I18n.category(type);
     return CATEGORIES[type] || type;
@@ -169,12 +192,81 @@
     return star;
   }
 
-  function render() {
+  function makeCard(item) {
+    var a = document.createElement("a");
+    a.className = "card";
+    a.href = "item.html?id=" + encodeURIComponent(item.id);
+
+    a.appendChild(makeStar(item));
+
+    var badge = document.createElement("span");
+    badge.className = "badge";
+    badge.textContent = typeLabel(item.type);
+
+    var h2 = document.createElement("h2");
+    h2.textContent = primaryTitle(item);
+
+    a.appendChild(badge);
+    a.appendChild(h2);
+
+    var sub = subtitle(item);
+    if (sub) {
+      var p = document.createElement("p");
+      p.className = "subtitle";
+      p.textContent = sub;
+      a.appendChild(p);
+    }
+
+    var li = document.createElement("li");
+    li.appendChild(a);
+    return li;
+  }
+
+  function currentMatches() {
     var q = state.query.trim().toLowerCase();
-    var matches = items.filter(function (item) {
+    return items.filter(function (item) {
       var queryOk = !q || haystack(item).indexOf(q) !== -1;
       return matchesFilter(item) && queryOk;
     });
+  }
+
+  // Update the "Showing N of M" line and the Show more button, given the full
+  // match count and how many are currently in the DOM.
+  function updateMeta(total, visible) {
+    if (total === 0) {
+      countEl.hidden = true;
+      showMoreWrap.hidden = true;
+      return;
+    }
+    countEl.hidden = false;
+    if (visible < total) {
+      // Partially shown: make it clear there's more below.
+      countEl.textContent = tf("home.count", "Showing {shown} of {total}", {
+        shown: visible,
+        total: total,
+      });
+      showMoreWrap.hidden = false;
+      showMoreBtn.textContent = tf("home.showMore", "Show more");
+    } else {
+      // Everything is shown: a simple result count.
+      countEl.textContent =
+        total === 1
+          ? tf("home.countOne", "1 result")
+          : tf("home.count", "Showing {shown} of {total}", {
+              shown: total,
+              total: total,
+            });
+      showMoreWrap.hidden = true;
+    }
+  }
+
+  function render() {
+    var q = state.query.trim().toLowerCase();
+    var matches = currentMatches();
+
+    // Never show fewer than a page unless there aren't that many.
+    if (shown < PAGE_SIZE) shown = PAGE_SIZE;
+    var visible = Math.min(shown, matches.length);
 
     listEl.innerHTML = "";
     emptyEl.hidden = matches.length !== 0;
@@ -186,40 +278,26 @@
           : t("home.empty", "No matching items found.");
     }
 
-    matches.forEach(function (item) {
-      var a = document.createElement("a");
-      a.className = "card";
-      a.href = "item.html?id=" + encodeURIComponent(item.id);
-
-      a.appendChild(makeStar(item));
-
-      var badge = document.createElement("span");
-      badge.className = "badge";
-      badge.textContent = typeLabel(item.type);
-
-      var h2 = document.createElement("h2");
-      h2.textContent = primaryTitle(item);
-
-      a.appendChild(badge);
-      a.appendChild(h2);
-
-      var sub = subtitle(item);
-      if (sub) {
-        var p = document.createElement("p");
-        p.className = "subtitle";
-        p.textContent = sub;
-        a.appendChild(p);
-      }
-
-      var li = document.createElement("li");
-      li.appendChild(a);
-      listEl.appendChild(li);
+    // Build only the visible slice; batch-append via a fragment.
+    var frag = document.createDocumentFragment();
+    matches.slice(0, visible).forEach(function (item) {
+      frag.appendChild(makeCard(item));
     });
+    listEl.appendChild(frag);
+
+    updateMeta(matches.length, visible);
+  }
+
+  // Reset paging back to the first page — call when the result set changes
+  // (new search query or filter), so the user starts at the top of the list.
+  function resetPaging() {
+    shown = PAGE_SIZE;
   }
 
   searchEl.addEventListener("input", function (e) {
     state.query = e.target.value;
     saveState();
+    resetPaging();
     render();
   });
 
@@ -233,6 +311,12 @@
       c.classList.toggle("active", c === btn);
     });
     saveState();
+    resetPaging();
+    render();
+  });
+
+  showMoreBtn.addEventListener("click", function () {
+    shown += PAGE_SIZE;
     render();
   });
 
