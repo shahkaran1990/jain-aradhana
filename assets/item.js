@@ -16,10 +16,19 @@
   }
 
   var items = window.CONTENT || [];
-  var id = getParam("id");
+  // Prefer the id baked into the static page (item/<id>.html sets
+  // <body data-item-id="...">); fall back to the legacy ?id= query string
+  // (item.html?id=...) so old links keep working.
+  var id = document.body.getAttribute("data-item-id") || getParam("id");
   var item = items.filter(function (x) {
     return x.id === id;
   })[0];
+
+  // The static pages ship a crawlable, no-JS copy of the verses in
+  // #verse-static. Now that the interactive reader is running, hide it so the
+  // text isn't shown twice.
+  var staticEl = document.getElementById("verse-static");
+  if (staticEl) staticEl.hidden = true;
 
   var titleEl = document.getElementById("title");
   var typeEl = document.getElementById("type-label");
