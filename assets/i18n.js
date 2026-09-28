@@ -409,6 +409,14 @@
   function buildSwitcher() {
     if (switcherEl || !document.body) return;
 
+    // On the item (reader) page the global UI-language pill is intentionally
+    // omitted: it collided with the per-item content-language tabs (which are
+    // sticky at the top) and is redundant while reading a single verse. The
+    // saved language still applies via apply()/t(); users change it from the
+    // home page. theme.js detects the missing switcher and falls back to its
+    // own standalone toggle so dark mode stays reachable here.
+    if (document.body.getAttribute("data-page") === "item") return;
+
     var wrap = document.createElement("div");
     wrap.className = "lang-switcher";
     wrap.setAttribute("role", "group");
