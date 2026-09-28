@@ -4,7 +4,7 @@
 
 "use strict";
 
-var CACHE_VERSION = "v28";
+var CACHE_VERSION = "v32";
 var SHELL_CACHE = "jain-shell-" + CACHE_VERSION;
 var FONT_CACHE = "jain-fonts-" + CACHE_VERSION;
 
@@ -105,9 +105,14 @@ self.addEventListener("fetch", function (event) {
   // Same-origin requests: cache-first, fall back to network, then to a cached
   // page for navigations so the app opens with no connection.
   //
-  // For navigations we match ignoring the query string, so URLs like
-  // "item.html?id=meri-bhavna" resolve to the cached "item.html" (the page
-  // reads the id from location.search at runtime).
+  // Per-item pages (item/<id>.html) are not precached — there can be hundreds.
+  // They are runtime-cached on first visit by the block below, so a page you
+  // have opened once stays available offline. A never-visited item, opened
+  // offline, falls back to the cached home page.
+  //
+  // For navigations we match ignoring the query string, so a legacy URL like
+  // "item.html?id=meri-bhavna" still resolves to the cached "item.html" (which
+  // then redirects to the new per-item page).
   if (url.origin === self.location.origin) {
     var isNavigate = req.mode === "navigate";
     var matchOpts = isNavigate ? { ignoreSearch: true } : undefined;

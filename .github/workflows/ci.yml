@@ -37,7 +37,32 @@ jobs:
         with:
           node-version: "20"
       - name: Validate HTML with html-validate
-        run: npx --yes html-validate@9 "index.html" "item.html"
+        run: npx --yes html-validate@9 "index.html" "item.html" "item/*.html"
+
+  pages-current:
+    name: Static pages up to date
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      # The per-item pages, sitemap.xml and robots.txt are generated from
+      # data/content.js by tools/build_pages.py. Re-run the generator and fail
+      # if it produces any changes, so committed pages can't drift from the
+      # content they mirror. When this fails, run `python3 tools/build_pages.py`
+      # locally and commit the result.
+      - name: Regenerate static pages
+        run: python3 tools/build_pages.py
+      - name: Fail if generated output is stale
+        run: |
+          # Catch both modified tracked files and brand-new (untracked) pages.
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::Generated pages are out of date. Run 'python3 tools/build_pages.py' and commit the changes."
+            git --no-pager status --short
+            exit 1
+          fi
+          echo "Generated pages are up to date."
 
   validate-manifest:
     name: Validate JSON (manifest)

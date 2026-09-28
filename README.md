@@ -134,15 +134,41 @@ Second line`,
 - Wrap multi-line verses in **backticks** `` ` `` (not quotes) so you can press Enter for line breaks. A blank line starts a new stanza.
 - Any language left as `""` simply won't show a tab — so you can add translations later, one at a time.
 - Keep the trailing comma after the closing `}` of each block.
-- No rebuild or install is needed. Save, refresh, done. To publish the change online, commit and push:
+- Save and refresh — the new item appears in the list and search straight away.
+- **One extra step for search engines:** regenerate the per-item pages so the new
+  item gets its own crawlable page and enters the sitemap (see below), then commit
+  everything together:
 
   ```bash
-  git add data/content.js
+  python3 tools/build_pages.py            # regenerate item/*.html + sitemap.xml
+  git add data/content.js item sitemap.xml robots.txt
   git commit -m "Add Shri Shantinath Stavan"
   git push
   ```
 
-  GitHub Pages redeploys automatically within a minute.
+  GitHub Pages redeploys automatically within a minute. (CI will fail if you edit
+  `content.js` but forget to regenerate, so the pages can't drift out of sync.)
+
+### Search engine visibility (SEO)
+
+The app renders content with JavaScript, which search engines index poorly. To make
+each prayer findable on Google, `tools/build_pages.py` generates a real static page
+per item under **`item/<id>.html`** — each with its own title, description, canonical
+URL and the full lyrics baked into the HTML — plus a **`sitemap.xml`** and
+**`robots.txt`**. The interactive reader still takes over when the page loads.
+
+Run it after any content change:
+
+```bash
+python3 tools/build_pages.py
+```
+
+It reads `data/content.js` (via `node`) and rewrites `item/`, `sitemap.xml` and
+`robots.txt`. It only needs Python 3 and Node — no extra installs.
+
+After the site is live on its custom domain, submit it to
+[Google Search Console](https://search.google.com/search-console) and request
+indexing of the sitemap so the pages start appearing in search results.
 
 ### Making updates show up on installed/offline devices
 
@@ -168,6 +194,8 @@ jain-site/
 ├── item.html               # Single item viewer
 ├── manifest.webmanifest    # PWA metadata (name, icons, colors) for install
 ├── sw.js                   # Service worker — offline caching (bump version to release)
+├── sitemap.xml             # Generated — every page, for search engines
+├── robots.txt              # Generated — allows crawling, points at the sitemap
 ├── .nojekyll               # Tells GitHub Pages to serve files as-is
 ├── CNAME                   # Custom domain for GitHub Pages
 ├── CONTRIBUTING.md         # Full contributor guide
@@ -190,6 +218,10 @@ jain-site/
 │   ├── icon-*.png          # Generated app icons (192, 512, maskable)
 │   ├── favicon-32.png      # Browser tab favicon
 │   └── apple-touch-icon.png
+├── item/                   # Generated — one crawlable page per item (SEO)
+│   └── <id>.html
+├── tools/
+│   └── build_pages.py      # Generates item/*.html, sitemap.xml, robots.txt
 └── data/
     └── content.js          # <-- All the content lives here
 ```

@@ -166,7 +166,7 @@ a:hover {
 .list {
   display: grid;
   gap: 14px;
-  margin: 18px 0 40px;
+  margin: 12px 0 18px;
   list-style: none;
   padding: 0;
 }
@@ -230,6 +230,42 @@ a:hover {
   text-align: center;
   color: var(--muted);
   padding: 40px 0;
+}
+
+/* Result count line above the list. */
+.count {
+  margin: 4px 2px 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* "Show more" control below the list (incremental rendering). */
+.show-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 4px 0 40px;
+}
+
+.show-more {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 10px 24px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+}
+
+.show-more:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(90, 60, 20, 0.14);
+}
+
+.show-more:active {
+  transform: translateY(0);
 }
 
 /* Detail page */
@@ -646,6 +682,23 @@ a:hover {
   border-color: var(--accent);
 }
 
+/* Item (reader) page: the global language switcher is omitted here, so the
+   theme toggle stands alone. Move it to the bottom-right — clear of the
+   sticky content-language tabs at the top and the bottom-left Help button.
+   It sits just above where the install button would appear (Chromium only). */
+body[data-page="item"] .theme-toggle:not(.theme-toggle--inline) {
+  top: auto;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
+}
+
+/* When the install button is present it also anchors bottom-right; lift the
+   theme toggle above it so the two don't stack on the same spot. pwa.js adds
+   the has-install-btn class to <body> while the button is visible. */
+body[data-page="item"].has-install-btn .theme-toggle:not(.theme-toggle--inline) {
+  bottom: max(70px, calc(env(safe-area-inset-bottom) + 62px));
+}
+
 /* Preferred placement: a flex item inside the language-switcher pill, so it
    flows next to the language buttons and never overlaps them. */
 .theme-toggle--inline {
@@ -983,4 +1036,37 @@ body.help-open {
     width: 44px;
     height: 44px;
   }
+}
+
+/* Crawlable, no-JS fallback verses on static item pages (item/<id>.html).
+   Present in the HTML source for search engines and no-script visitors;
+   item.js sets [hidden] on it once the interactive reader is ready. */
+.verse-static {
+  padding: 8px 4px 24px;
+}
+
+.verse-static .verse-lang + .verse-lang {
+  margin-top: 28px;
+  border-top: 1px solid var(--border, #e4d8c9);
+  padding-top: 20px;
+}
+
+.verse-static .verse-lang h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.7;
+  margin: 0 0 10px;
+  text-align: center;
+}
+
+.verse-static .verse-text {
+  margin: 0;
+  font-family: inherit;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  font-size: clamp(19px, 2.6vw, 23px);
+  line-height: 2.1;
+  text-align: center;
 }

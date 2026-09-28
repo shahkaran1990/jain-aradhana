@@ -4,12 +4,25 @@
   "use strict";
 
   // 1. Register the service worker.
+  //
+  // sw.js lives at the site root, but pages live at two depths: the shell
+  // pages (index.html, item.html) at the root, and the generated per-item
+  // pages under /item/<id>.html. A bare "sw.js" would resolve to /item/sw.js
+  // (404) and, even if found, would be scoped to /item/. Derive the root from
+  // the current path so the worker is always registered at the site root with
+  // root scope, whatever page we're on.
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", function () {
-      navigator.serviceWorker.register("sw.js").catch(function (err) {
-        // Registration failing shouldn't break the page.
-        console.warn("Service worker registration failed:", err);
-      });
+      // Directory of the current page, e.g. "/" or "/item/" (or a subpath on
+      // GitHub Pages project sites). One level up from /item/ pages.
+      var dir = location.pathname.replace(/[^/]*$/, "");
+      var root = /\/item\/$/.test(dir) ? dir.replace(/item\/$/, "") : dir;
+      navigator.serviceWorker
+        .register(root + "sw.js", { scope: root })
+        .catch(function (err) {
+          // Registration failing shouldn't break the page.
+          console.warn("Service worker registration failed:", err);
+        });
     });
   }
 
@@ -55,6 +68,7 @@
       deferredPrompt.userChoice.finally(function () {
         deferredPrompt = null;
         btn.hidden = true;
+        setInstallBtnVisible(false);
       });
     });
     document.body.appendChild(btn);
@@ -63,17 +77,27 @@
 
   var installBtn = null;
 
+  // Reflect install-button visibility on <body> so CSS can react — the item
+  // page lifts its standalone theme toggle above the button when it shows.
+  function setInstallBtnVisible(visible) {
+    if (document.body) {
+      document.body.classList.toggle("has-install-btn", !!visible);
+    }
+  }
+
   window.addEventListener("beforeinstallprompt", function (e) {
     // Stop Chrome's mini-infobar; show our own button instead.
     e.preventDefault();
     deferredPrompt = e;
     if (!installBtn) installBtn = makeInstallButton();
     installBtn.hidden = false;
+    setInstallBtnVisible(true);
   });
 
   window.addEventListener("appinstalled", function () {
     deferredPrompt = null;
     if (installBtn) installBtn.hidden = true;
+    setInstallBtnVisible(false);
   });
 
   // 4. iOS install hint.

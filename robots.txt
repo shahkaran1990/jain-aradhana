@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aradhana.jainsamaj.co.uk/sitemap.xml
