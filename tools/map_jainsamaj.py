@@ -274,9 +274,18 @@ PLAN = [
 
 
 def main():
-    records = {r["slug"]: r for r in json.load(open(SRC, encoding="utf-8"))}
+    print(json.dumps(map_records(SRC, PLAN), ensure_ascii=False, indent=2))
+
+
+def map_records(src_path, plan):
+    """Map a scrape JSON (list of {slug,title,lyrics}) + a PLAN table into
+    content.js item dicts. Shared by the stuti and aarti batches: hi is the
+    cleaned scrape, gu is the mechanical Devanagari->Gujarati transliteration,
+    en is the rule-based romanization; titles come from the plan (hi + hand-
+    written en). PLAN rows are (scrape_slug, id, type, hi_title, en_title)."""
+    records = {r["slug"]: r for r in json.load(open(src_path, encoding="utf-8"))}
     items = []
-    for slug, item_id, typ, hi_title, en_title in PLAN:
+    for slug, item_id, typ, hi_title, en_title in plan:
         rec = records[slug]
         hi = clean_lyrics(rec["lyrics"])
         gu = dev_to_guj(hi)
@@ -288,7 +297,7 @@ def main():
             "title": {"gu": gu_title, "hi": hi_title, "sa": "", "en": en_title},
             "text": {"gu": gu, "hi": hi, "sa": "", "en": en},
         })
-    print(json.dumps(items, ensure_ascii=False, indent=2))
+    return items
 
 
 if __name__ == "__main__":
