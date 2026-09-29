@@ -83,6 +83,7 @@ DEV_IND_VOWEL = {
 }
 DEV_MATRA = {
     "ा": "aa", "ि": "i", "ी": "ee", "ु": "u", "ू": "oo", "ृ": "ri",
+    "ॄ": "ree",  # vocalic RR matra (rare)
     "े": "e", "ै": "ai", "ो": "o", "ौ": "au", "ॅ": "e", "ॉ": "o",
 }
 DEV_CONS = {
@@ -194,6 +195,13 @@ def romanize(text: str) -> str:
         if ch == DEV_NUKTA:  # stray nukta -> drop
             i += 1
             continue
+        # Dangling virama (no preceding consonant handled it) or rare Vedic
+        # accents (U+0951-0953) -> drop; they carry no romanizable sound here.
+        if ch in (DEV_VIRAMA, "\u0951", "\u0952", "\u0953", "\u0950"):
+            if ch == "\u0950":  # ॐ handled above normally; guard anyway
+                out.append("om")
+            i += 1
+            continue
         out.append(ch)
         i += 1
     return "".join(out)
@@ -228,6 +236,12 @@ def clean_lyrics(text: str) -> str:
         # typos in Hindi text: short-o (U+094A) -> o (U+094B), short-e
         # (U+0946) -> e (U+0947). (e.g. "रॊग" -> "रोग".)
         s = s.replace("\u094A", "\u094B").replace("\u0946", "\u0947")
+        # Strip Latin "note-hold" artifacts the source uses to show a sustained
+        # syllable, e.g. "होsss" / "हो sss" (the singer holding the vowel). Only
+        # isolated runs of the same Latin letter (>=2) glued to / near Devanagari
+        # are removed; real Latin words don't occur in this Hindi content.
+        s = re.sub(r"\s*(?<![A-Za-z])([A-Za-z])\1{1,}(?![A-Za-z])", "", s)
+        s = re.sub(r"[ \u00a0]{2,}", " ", s).strip()
         lines.append(s)
     result = "\n".join(lines)
     result = re.sub(r"\n{3,}", "\n\n", result).strip("\n")

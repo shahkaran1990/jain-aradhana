@@ -28067,6 +28067,13273 @@ Hoya kubera samaana, janma daridra hoya jo |
 Jisake naheen santaana, naama vansha jaga men chale | |`,
     },
   },
+  {
+    id: "aaya-aaya-aaya-tere-darbaar-mai",
+    type: "bhajan",
+    title: {
+      gu: "આયા, આયા, આયા તેરે દરબાર મેં",
+      hi: "आया, आया, आया तेरे दरबार में",
+      sa: "",
+      en: "Aayaa, Aayaa, Aayaa Tere Darabaara Men",
+    },
+    text: {
+      gu: `આયા, આયા, આયા તેરે દરબાર મેં
+તર્જ : આજા મેરી બરબાદ મુહોબ્બત – અનમોલ ગાડી
+આયા, આયા, આયા તેરે દરબાર મેં ત્રિશલા કે દુલારે
+અબ તો લગા મઝદાર સે યહ નાવ કિનારે ॥
+અથા સંસાર સાગર મેં ફંસી હૈ નાવ યહ મેરી
+ફંસી હૈ નાવ યહ મેરી
+તાકત નહીં હૈ ઔર જો પતવાર સંભારે ॥ અબ તો...
+સદા તૂફાન કર્મોં કા નચાતા નાચ હૈ ભારી
+નચાતા નાચ હૈ ભારી
+સહે દુખ લાખ ચૌરાસી નહીં વો જાતે ઉચારે ॥ અબ તો...
+પતિત પાવન તરણ તારણ, તુમ્હીં હો દીન દુખ ભન્જન
+તુમ્હીં હો દીન દુખ ભન્જન
+બિગડી હજારોં કી બની હૈ તેરે સહારે ॥ અબ તો...
+તેરે દરબાર મેં આકર ન ખાલી એક ભી લૌટા
+ન ખાલી એક ભી લૌટા
+મનોરથ પૂર દેં ’સૌભાગ્ય’ દેતા ઢોક તુમ્હારે ॥ અબ તો...`,
+      hi: `आया, आया, आया तेरे दरबार में
+तर्ज : आजा मेरी बरबाद मुहोब्बत – अनमोल गाडी
+आया, आया, आया तेरे दरबार में त्रिशला के दुलारे
+अब तो लगा मझदार से यह नाव किनारे ॥
+अथा संसार सागर में फ़ंसी है नाव यह मेरी
+फ़ंसी है नाव यह मेरी
+ताकत नहीं है और जो पतवार संभारे ॥ अब तो...
+सदा तूफ़ान कर्मों का नचाता नाच है भारी
+नचाता नाच है भारी
+सहे दुख लाख चौरासी नहीं वो जाते उचारे ॥ अब तो...
+पतित पावन तरण तारण, तुम्हीं हो दीन दुख भन्जन
+तुम्हीं हो दीन दुख भन्जन
+बिगडी हजारों की बनी है तेरे सहारे ॥ अब तो...
+तेरे दरबार में आकर न खाली एक भी लौटा
+न खाली एक भी लौटा
+मनोरथ पूर दें ’सौभाग्य’ देता ढोक तुम्हारे ॥ अब तो...`,
+      sa: "",
+      en: `Aayaa, aayaa, aayaa tere darabaara men
+Tarja : aajaa meree barabaada muhobbata – anamola gaadee
+Aayaa, aayaa, aayaa tere darabaara men trishalaa ke dulaare
+Aba to lagaa majhadaara se yaha naava kinaare | |
+Athaa sansaara saagara men phansee hai naava yaha meree
+Phansee hai naava yaha meree
+Taakata naheen hai aura jo patavaara sanbhaare | | aba to...
+Sadaa toophaana karmon kaa nachaataa naacha hai bhaaree
+Nachaataa naacha hai bhaaree
+Sahe dukha laakha chauraasee naheen vo jaate uchaare | | aba to...
+Patita paavana tarana taarana, tumheen ho deena dukha bhanjana
+Tumheen ho deena dukha bhanjana
+Bigadee hajaaron kee banee hai tere sahaare | | aba to...
+Tere darabaara men aakara na khaalee eka bhee lautaa
+Na khaalee eka bhee lautaa
+Manoratha poora den ’saubhaagya’ detaa dhoka tumhaare | | aba to...`,
+    },
+  },
+  {
+    id: "manahar-teri-murtiya",
+    type: "bhajan",
+    title: {
+      gu: "મનહર તેરી મૂરતિયા",
+      hi: "मनहर तेरी मूरतिया",
+      sa: "",
+      en: "Manahara Teree Mooratiyaa",
+    },
+    text: {
+      gu: `મનહર તેરી મૂરતિયા
+મનહર તેરી મૂરતિયાં, મસ્ત હુઆ મન મેરા।
+તેરા દર્શ પાયા, પાયા, તેરા દર્શ પાયા॥
+પ્યારા પ્યારા સિંહાસન અતિ ભા રહા, ભા રહા।
+ઉસ પર રૂપ અનૂપ તિહારા, છા રહા, છા રહા।
+પદ્માસન અતિ સોહે રે, નયના ઉમગે હૈં મેરે।
+ચિત્ત લલચાયા, પાયા। તેરા દર્શ પાયા..
+તવ ભક્તિ સે ભવ કે દુખ મિટ જાતે હૈં, જાતે હૈં।
+પાપી તક ભી ભવ સાગર તિર જાતે હૈં, તિર જાતે હૈં।
+શિવ પદ વહ હી પાયે રે, શરણા આગત મેં તેરી।
+જો જીવ આયા, પાયા। તેરા દર્શ પાયા..
+સાંચ કહૂં કોઇ નિધિ મુઝકો મિલ ગયી,મિલ ગયી।
+જિસકો પાકર મન કી કલિયાં ખિલ ગયી,ખિલ ગયી।
+આશા પૂરી હોગી રે, આશ લગા કે વૃદ્ધિ,
+તેરે દ્વાર આયા, પાયા। તેરા દર્શ પાયા..`,
+      hi: `मनहर तेरी मूरतिया
+मनहर तेरी मूरतियां, मस्त हुआ मन मेरा।
+तेरा दर्श पाया, पाया, तेरा दर्श पाया॥
+प्यारा प्यारा सिंहासन अति भा रहा, भा रहा।
+उस पर रूप अनूप तिहारा, छा रहा, छा रहा।
+पद्मासन अति सोहे रे, नयना उमगे हैं मेरे।
+चित्त ललचाया, पाया। तेरा दर्श पाया..
+तव भक्ति से भव के दुख मिट जाते हैं, जाते हैं।
+पापी तक भी भव सागर तिर जाते हैं, तिर जाते हैं।
+शिव पद वह ही पाये रे, शरणा आगत में तेरी।
+जो जीव आया, पाया। तेरा दर्श पाया..
+सांच कहूं कोइ निधि मुझको मिल गयी,मिल गयी।
+जिसको पाकर मन की कलियां खिल गयी,खिल गयी।
+आशा पूरी होगी रे, आश लगा के वृद्धि,
+तेरे द्वार आया, पाया। तेरा दर्श पाया..`,
+      sa: "",
+      en: `Manahara teree mooratiyaa
+Manahara teree mooratiyaan, masta huaa mana meraa |
+Teraa darsha paayaa, paayaa, teraa darsha paayaa | |
+Pyaaraa pyaaraa sinhaasana ati bhaa rahaa, bhaa rahaa |
+Usa para roopa anoopa tihaaraa, chhaa rahaa, chhaa rahaa |
+Padmaasana ati sohe re, nayanaa umage hain mere |
+Chitta lalachaayaa, paayaa | teraa darsha paayaa..
+Tava bhakti se bhava ke dukha mita jaate hain, jaate hain |
+Paapee taka bhee bhava saagara tira jaate hain, tira jaate hain |
+Shiva pada vaha hee paaye re, sharanaa aagata men teree |
+Jo jeeva aayaa, paayaa | teraa darsha paayaa..
+Saancha kahoon koi nidhi mujhako mila gayee,mila gayee |
+Jisako paakara mana kee kaliyaan khila gayee,khila gayee |
+Aashaa pooree hogee re, aasha lagaa ke vriddhi,
+Tere dvaara aayaa, paayaa | teraa darsha paayaa..`,
+    },
+  },
+  {
+    id: "jagdanandan-jin-abhinandan",
+    type: "bhajan",
+    title: {
+      gu: "જગદાનંદન જિન અભિનંદન",
+      hi: "जगदानंदन जिन अभिनंदन",
+      sa: "",
+      en: "Jagadaanandana Jina Abhinandana",
+    },
+    text: {
+      gu: `જગદાનંદન જિન અભિનંદન
+જગદાનંદન જિન અભિનંદન, પદઅરવિંદ નમૂં મૈં તેરે ।।
+અરુણવરન અઘતાપ હરન વર,
+વિતરન કુશલ સુ શરન બડેરે ।
+પદ્માસદન મદન-મદ-ભંજન,
+રંજન મુનિજન મન અલિકેરે ।।
+યે ગુન સુન મૈં શરનૈ આયો,
+મોહિ મોહ દુખ દેત ઘનેરે ।
+તા મદભાનન સ્વપર પિછાનન,
+તુમ વિન આન ન કારન હેરે।।
+તુમ પદશરણ ગહી જિનતૈં તે,
+જામન-જરા-મરન-નિરવેરે ।
+તુમતૈં વિમુખ ભયે શઠ તિનકો,
+ચહુઁગતિ વિપત મહાવિધિ પેરે ॥
+તુમરે અમિત સુગુન જ્ઞાનાદિક,
+સતત મુદિત ગનરાજ ઉગેરે,
+લહત ન મિત મૈં પતિત કહોં કિમ,
+કિન શશકન ગિરિરાજ ઉખેરે ॥
+તુમ બિન રાગ દોષ દર્પન જ્યોં,
+નિજ નિજ ભાવ ફલૈં તિનકેરે ।
+તુમ હો સહજ જગત ઉપકારી,
+શિવપથ-સારથ વાહ ભલેરે ॥
+તુમ દયાલ બેહાલ બહુત હમ,
+કાલ-કરાલ વ્યાલ-ચિર-ઘેરે,
+ભાલ નાય ગુણમાલ જપોં તુમ,
+હે દયાલ, દુખટાલ સબેરે ॥
+તુમ બહુ પતિત સુપાવન કીને,
+ક્યોં ન હરો ભવ સંકટ મેરે,
+ભ્રમ-ઉપાધિ હર શમ સમાધિકર,,
+\`દૌલ' ભયે તુમરે અબ ચેરે ॥`,
+      hi: `जगदानंदन जिन अभिनंदन
+जगदानंदन जिन अभिनंदन, पदअरविंद नमूं मैं तेरे ।।
+अरुणवरन अघताप हरन वर,
+वितरन कुशल सु शरन बडेरे ।
+पद्मासदन मदन-मद-भंजन,
+रंजन मुनिजन मन अलिकेरे ।।
+ये गुन सुन मैं शरनै आयो,
+मोहि मोह दुख देत घनेरे ।
+ता मदभानन स्वपर पिछानन,
+तुम विन आन न कारन हेरे।।
+तुम पदशरण गही जिनतैं ते,
+जामन-जरा-मरन-निरवेरे ।
+तुमतैं विमुख भये शठ तिनको,
+चहुँगति विपत महाविधि पेरे ॥
+तुमरे अमित सुगुन ज्ञानादिक,
+सतत मुदित गनराज उगेरे,
+लहत न मित मैं पतित कहों किम,
+किन शशकन गिरिराज उखेरे ॥
+तुम बिन राग दोष दर्पन ज्यों,
+निज निज भाव फलैं तिनकेरे ।
+तुम हो सहज जगत उपकारी,
+शिवपथ-सारथ वाह भलेरे ॥
+तुम दयाल बेहाल बहुत हम,
+काल-कराल व्याल-चिर-घेरे,
+भाल नाय गुणमाल जपों तुम,
+हे दयाल, दुखटाल सबेरे ॥
+तुम बहु पतित सुपावन कीने,
+क्यों न हरो भव संकट मेरे,
+भ्रम-उपाधि हर शम समाधिकर,,
+\`दौल' भये तुमरे अब चेरे ॥`,
+      sa: "",
+      en: `Jagadaanandana jina abhinandana
+Jagadaanandana jina abhinandana, padaaravinda namoon main tere | |
+Arunavarana aghataapa harana vara,
+Vitarana kushala su sharana badere |
+Padmaasadana madana-mada-bhanjana,
+Ranjana munijana mana alikere | |
+Ye guna suna main sharanai aayo,
+Mohi moha dukha deta ghanere |
+Taa madabhaanana svapara pichhaanana,
+Tuma vina aana na kaarana here | |
+Tuma padasharana gahee jinatain te,
+Jaamana-jaraa-marana-niravere |
+Tumatain vimukha bhaye shatha tinako,
+Chahungati vipata mahaavidhi pere | |
+Tumare amita suguna gyaanaadika,
+Satata mudita ganaraaja ugere,
+Lahata na mita main patita kahon kima,
+Kina shashakana giriraaja ukhere | |
+Tuma bina raaga dosha darpana jyon,
+Nija nija bhaava phalain tinakere |
+Tuma ho sahaja jagata upakaaree,
+Shivapatha-saaratha vaaha bhalere | |
+Tuma dayaala behaala bahuta hama,
+Kaala-karaala vyaala-chira-ghere,
+Bhaala naaya gunamaala japon tuma,
+He dayaala, dukhataala sabere | |
+Tuma bahu patita supaavana keene,
+Kyon na haro bhava sankata mere,
+Bhrama-upaadhi hara shama samaadhikara,,
+\`daula' bhaye tumare aba chere | |`,
+    },
+  },
+  {
+    id: "padmsadm-padmapad-padma",
+    type: "bhajan",
+    title: {
+      gu: "પદ્મસદ્મ પદ્માપદ પદ્મા",
+      hi: "पद्मसद्म पद्मापद पद्मा",
+      sa: "",
+      en: "Padmasadma Padmaapada Padmaa",
+    },
+    text: {
+      gu: `પદ્મસદ્મ પદ્માપદ પદ્મા
+પદ્મસદ્મ પદ્માપદ પદ્મા, મુક્તિસદ્મ દરશાવન હૈ ।
+કલિ-મલ-ગંજન મન અલિ રંજન,
+મુનિજન શરન સુપાવન હૈ ।।
+જાકી જન્મપુરી કુશંબિકા, સુર નર-નાગ રમાવન હૈ,
+જાસ જન્મદિનપૂરબ ષટનવ, માસ રતન બરસાવન હૈ ॥
+જા તપથાન પપોસાગિરિ સો, આત્મ-જ્ઞાન થિર થાવન હૈ,
+કેવલજોત ઉદોત ભઈ સો, મિથ્યાતિમિર-નશાવન હૈ ॥
+જાકો શાસન પંચાનનસો, કુમતિ મતંગ નશાવન હૈ,
+રાગ બિના સેવક જન તારક,પૈ તસુ રુષતુષ ભાવ ન હૈ ॥
+જાકી મહિમા કે વરનનસોં, સુરગુરુ બુદ્ધિ થકાવન હૈ,
+'દૌલ' અલ્પમતિ કો કહબો જિમિ, શશક ગિરિંદ ધકાવન હૈ ॥`,
+      hi: `पद्मसद्म पद्मापद पद्मा
+पद्मसद्म पद्मापद पद्मा, मुक्तिसद्म दरशावन है ।
+कलि-मल-गंजन मन अलि रंजन,
+मुनिजन शरन सुपावन है ।।
+जाकी जन्मपुरी कुशंबिका, सुर नर-नाग रमावन है,
+जास जन्मदिनपूरब षटनव, मास रतन बरसावन है ॥
+जा तपथान पपोसागिरि सो, आत्म-ज्ञान थिर थावन है,
+केवलजोत उदोत भई सो, मिथ्यातिमिर-नशावन है ॥
+जाको शासन पंचाननसो, कुमति मतंग नशावन है,
+राग बिना सेवक जन तारक,पै तसु रुषतुष भाव न है ॥
+जाकी महिमा के वरननसों, सुरगुरु बुद्धि थकावन है,
+'दौल' अल्पमति को कहबो जिमि, शशक गिरिंद धकावन है ॥`,
+      sa: "",
+      en: `Padmasadma padmaapada padmaa
+Padmasadma padmaapada padmaa, muktisadma darashaavana hai |
+Kali-mala-ganjana mana ali ranjana,
+Munijana sharana supaavana hai | |
+Jaakee janmapuree kushanbikaa, sura nara-naaga ramaavana hai,
+Jaasa janmadinapooraba shatanava, maasa ratana barasaavana hai | |
+Jaa tapathaana paposaagiri so, aatma-gyaana thira thaavana hai,
+Kevalajota udota bhaee so, mithyaatimira-nashaavana hai | |
+Jaako shaasana panchaananaso, kumati matanga nashaavana hai,
+Raaga binaa sevaka jana taaraka,pai tasu rushatusha bhaava na hai | |
+Jaakee mahimaa ke varananason, suraguru buddhi thakaavana hai,
+'daula' alpamati ko kahabo jimi, shashaka girinda dhakaavana hai | |`,
+    },
+  },
+  {
+    id: "chandranan-jin-chandranath-ke",
+    type: "bhajan",
+    title: {
+      gu: "ચન્દ્રાનન જિન ચન્દ્રનાથ કે",
+      hi: "चन्द्रानन जिन चन्द्रनाथ के",
+      sa: "",
+      en: "Chandraanana Jina Chandranaatha ke",
+    },
+    text: {
+      gu: `ચન્દ્રાનન જિન ચન્દ્રનાથ કે
+ચન્દ્રાનન જિન ચન્દ્રનાથ કે, ચરન ચતુર-ચિત ધ્યાવતુ હૈં
+કર્મ-ચક્ર-ચકચૂર ચિદાતમ, ચિનમૂરત પદ પાવતુ હૈં ॥
+હાહા-હૂહૂ-નારદ-તુંબર, જાસુ અમલ જસ ગાવતુ હૈં
+પદ્મા સચી શિવા શ્યામાદિક, કરધર બીન બજાવતુ હૈં ॥
+બિન ઇચ્છા ઉપદેશ માહિં હિત, અહિત જગત દરસાવતુ હૈં
+જા પદતટ સુર નર મુનિ ઘટ ચિર, વિકટ વિમોહ નશાવતુ હૈં॥
+જાકી ચન્દ્ર બરન તનદુતિસોં, કોટિક સૂર છિપાવતુ હૈં
+આતમજોત ઉદોતમાહિં સબ, જ્ઞેય અનંત દિપાવતુ હૈં ॥
+નિત્ય-ઉદય અકલંક અછીન સુ, મુનિ-ઉડુ-ચિત્ત રમાવતુ હૈં
+જાકી જ્ઞાનચન્દ્રિકા લોકા-લોક માહિં ન સમાવતુ હૈં ॥
+સામ્યસિંધુ-વર્દ્ધન જગનંદન, કો શિર હરિગન નાવતુ હૈં
+સંશય વિભ્રમ મોહ \`દૌલ' કે, હર જો જગભરમાવતુ હૈં ॥`,
+      hi: `चन्द्रानन जिन चन्द्रनाथ के
+चन्द्रानन जिन चन्द्रनाथ के, चरन चतुर-चित ध्यावतु हैं
+कर्म-चक्र-चकचूर चिदातम, चिनमूरत पद पावतु हैं ॥
+हाहा-हूहू-नारद-तुंबर, जासु अमल जस गावतु हैं
+पद्मा सची शिवा श्यामादिक, करधर बीन बजावतु हैं ॥
+बिन इच्छा उपदेश माहिं हित, अहित जगत दरसावतु हैं
+जा पदतट सुर नर मुनि घट चिर, विकट विमोह नशावतु हैं॥
+जाकी चन्द्र बरन तनदुतिसों, कोटिक सूर छिपावतु हैं
+आतमजोत उदोतमाहिं सब, ज्ञेय अनंत दिपावतु हैं ॥
+नित्य-उदय अकलंक अछीन सु, मुनि-उडु-चित्त रमावतु हैं
+जाकी ज्ञानचन्द्रिका लोका-लोक माहिं न समावतु हैं ॥
+साम्यसिंधु-वर्द्धन जगनंदन, को शिर हरिगन नावतु हैं
+संशय विभ्रम मोह \`दौल' के, हर जो जगभरमावतु हैं ॥`,
+      sa: "",
+      en: `Chandraanana jina chandranaatha ke
+Chandraanana jina chandranaatha ke, charana chatura-chita dhyaavatu hain
+Karma-chakra-chakachoora chidaatama, chinamoorata pada paavatu hain | |
+Haahaa-hoohoo-naarada-tunbara, jaasu amala jasa gaavatu hain
+Padmaa sachee shivaa shyaamaadika, karadhara beena bajaavatu hain | |
+Bina ichchhaa upadesha maahin hita, ahita jagata darasaavatu hain
+Jaa padatata sura nara muni ghata chira, vikata vimoha nashaavatu hain | |
+Jaakee chandra barana tanadutison, kotika soora chhipaavatu hain
+Aatamajota udotamaahin saba, gyeya ananta dipaavatu hain | |
+Nitya-udaya akalanka achheena su, muni-udu-chitta ramaavatu hain
+Jaakee gyaanachandrikaa lokaa-loka maahin na samaavatu hain | |
+Saamyasindhu-varddhana jaganandana, ko shira harigana naavatu hain
+Sanshaya vibhrama moha \`daula' ke, hara jo jagabharamaavatu hain | |`,
+    },
+  },
+  {
+    id: "teri-sheetal-sheetal-murat",
+    type: "bhajan",
+    title: {
+      gu: "તેરી શીતલ-શીતલ મૂરત",
+      hi: "तेरी शीतल-शीतल मूरत",
+      sa: "",
+      en: "Teree Sheetala-sheetala Moorata",
+    },
+    text: {
+      gu: `તેરી શીતલ-શીતલ મૂરત
+તર્જ: તેરી પ્યારી પ્યારી સૂરત કો...
+તેરી શીતલ-શીતલ મૂરત લખ
+કહીં ભી નજર ના જમેં, પ્રભૂ શીતલ
+સૂરત કો નિહારેં પલ પલ તબ
+છબિ દૂજી નજર ના જમેં! પ્રભૂ શીતલ ॥
+ભવ દુ:ખ દાહ સહી હૈ ઘોર
+કર્મ બલી પર ચલા ન જોર
+તુમ મુખ ચન્દ્ર નિહાર મિલી અબ
+પરમ શાન્તિ સુખ શીતલ ઢોર
+નિજ પર કા જ્ઞાન જગે ઘટ મેં ભવ બંધન ભીડ થમેં ॥ પ્રભૂ..
+સકલ જ્ઞેય કે જ્ઞાયક હો, એક તુમ્હી જગ નાયક હો
+વીતરાગ સર્વજ્ઞ પ્રભૂ તુમ, નિજ સ્વરૂપ શિવદાયક હો
+\`સૌભાગ્ય' સફલ હો નર જીવન, ગતિ પંચમ ધામ ધમે ॥ પ્રભૂ ..`,
+      hi: `तेरी शीतल-शीतल मूरत
+तर्ज: तेरी प्यारी प्यारी सूरत को...
+तेरी शीतल-शीतल मूरत लख
+कहीं भी नजर ना जमें, प्रभू शीतल
+सूरत को निहारें पल पल तब
+छबि दूजी नजर ना जमें! प्रभू शीतल ॥
+भव दु:ख दाह सही है घोर
+कर्म बली पर चला न जोर
+तुम मुख चन्द्र निहार मिली अब
+परम शान्ति सुख शीतल ढोर
+निज पर का ज्ञान जगे घट में भव बंधन भीड़ थमें ॥ प्रभू..
+सकल ज्ञेय के ज्ञायक हो, एक तुम्ही जग नायक हो
+वीतराग सर्वज्ञ प्रभू तुम, निज स्वरूप शिवदायक हो
+\`सौभाग्य' सफल हो नर जीवन, गति पंचम धाम धमे ॥ प्रभू ..`,
+      sa: "",
+      en: `Teree sheetala-sheetala moorata
+Tarja: teree pyaaree pyaaree soorata ko...
+Teree sheetala-sheetala moorata lakha
+Kaheen bhee najara naa jamen, prabhoo sheetala
+Soorata ko nihaaren pala pala taba
+Chhabi doojee najara naa jamen! prabhoo sheetala | |
+Bhava du:kha daaha sahee hai ghora
+Karma balee para chalaa na jora
+Tuma mukha chandra nihaara milee aba
+Parama shaanti sukha sheetala dhora
+Nija para kaa gyaana jage ghata men bhava bandhana bheeda thamen | | prabhoo..
+Sakala gyeya ke gyaayaka ho, eka tumhee jaga naayaka ho
+Veetaraaga sarvagya prabhoo tuma, nija svaroopa shivadaayaka ho
+\`saubhaagya' saphala ho nara jeevana, gati panchama dhaama dhame | | prabhoo ..`,
+    },
+  },
+  {
+    id: "tujhe-prabhu-veer-kehte-hain",
+    type: "bhajan",
+    title: {
+      gu: "તુઝે પ્રભુ વીર કહતે હૈં",
+      hi: "तुझे प्रभु वीर कहते हैं",
+      sa: "",
+      en: "Tujhe Prabhu Veera Kahate Hain",
+    },
+    text: {
+      gu: `તુઝે પ્રભુ વીર કહતે હૈં
+તર્જ: યે મેરા પ્રેમપત્ર...
+તુઝે પ્રભુ વીર કહતે હૈં, ઔર અતિવીર કહતે હૈં।
+અનેકોં નામ તેરે પર, અધિક મહાવીર કહતે હૈં ॥
+અનંતો ગુણોં કા તૂ ધારી, તેરા યશગાન હમ ગાયેં,
+હે યુગ કે નાથ નિર્માતા, તુઝે નત શીશ નવાયેં,
+દયા હોવે પ્રભૂ ઐસી, કિ હમ સબ ભવ સે પાર હોં,
+ભવ સે પાર હોં, ભવ સે પાર હોં ॥ તુઝે પ્રભુ વીર …॥
+યુગોં સે જીવ યહ મેરા, દેહ કા યોગ હૈ પાતા,
+મોહ કે જાલ મેં ફંસકર, આત્મ નિજ ઔર નહીં જાતા,
+પિલા અધ્યાત્મ રસ સ્વામી, જ્ઞાન કી ક્ષુધા ધાર હો,
+ક્ષુધા ધાર હો, ક્ષુધા ધાર હો ॥ તુઝે પ્રભુ વીર …॥
+સત્ય શ્રદ્ધાન હો મેરે, કિ સમ્યક જ્ઞાન હો મેરે,
+યહી વિનતી મેરે સ્વામી, રહૂં ચરણોં મેં નિત તેરે,
+કભી ફિર મોક્ષ મિલ જાએ, કિ વૃદ્ધિ સુખ અપાર હો,
+સુખ અપાર હો, સુખ અપાર હો ॥ તુઝે પ્રભુ વીર …॥`,
+      hi: `तुझे प्रभु वीर कहते हैं
+तर्ज: ये मेरा प्रेमपत्र...
+तुझे प्रभु वीर कहते हैं, और अतिवीर कहते हैं।
+अनेकों नाम तेरे पर, अधिक महावीर कहते हैं ॥
+अनंतो गुणों का तू धारी, तेरा यशगान हम गायें,
+हे युग के नाथ निर्माता, तुझे नत शीश नवायें,
+दया होवे प्रभू ऐसी, कि हम सब भव से पार हों,
+भव से पार हों, भव से पार हों ॥ तुझे प्रभु वीर …॥
+युगों से जीव यह मेरा, देह का योग है पाता,
+मोह के जाल में फ़ंसकर, आत्म निज और नहीं जाता,
+पिला अध्यात्म रस स्वामी, ज्ञान की क्षुधा धार हो,
+क्षुधा धार हो, क्षुधा धार हो ॥ तुझे प्रभु वीर …॥
+सत्य श्रद्धान हो मेरे, कि सम्यक ज्ञान हो मेरे,
+यही विनती मेरे स्वामी, रहूं चरणों में नित तेरे,
+कभी फ़िर मोक्ष मिल जाए, कि वृद्धि सुख अपार हो,
+सुख अपार हो, सुख अपार हो ॥ तुझे प्रभु वीर …॥`,
+      sa: "",
+      en: `Tujhe prabhu veera kahate hain
+Tarja: ye meraa premapatra...
+Tujhe prabhu veera kahate hain, aura ativeera kahate hain |
+Anekon naama tere para, adhika mahaaveera kahate hain | |
+Ananto gunon kaa too dhaaree, teraa yashagaana hama gaayen,
+He yuga ke naatha nirmaataa, tujhe nata sheesha navaayen,
+Dayaa hove prabhoo aisee, ki hama saba bhava se paara hon,
+Bhava se paara hon, bhava se paara hon | | tujhe prabhu veera … | |
+Yugon se jeeva yaha meraa, deha kaa yoga hai paataa,
+Moha ke jaala men phansakara, aatma nija aura naheen jaataa,
+Pilaa adhyaatma rasa svaamee, gyaana kee kshudhaa dhaara ho,
+Kshudhaa dhaara ho, kshudhaa dhaara ho | | tujhe prabhu veera … | |
+Satya shraddhaana ho mere, ki samyaka gyaana ho mere,
+Yahee vinatee mere svaamee, rahoon charanon men nita tere,
+Kabhee phira moksha mila jaae, ki vriddhi sukha apaara ho,
+Sukha apaara ho, sukha apaara ho | | tujhe prabhu veera … | |`,
+    },
+  },
+  {
+    id: "aaj-mai-mahaveer-ji-aaya",
+    type: "bhajan",
+    title: {
+      gu: "આજ મૈં મહાવીર જી આયા",
+      hi: "आज मैं महावीर जी आया",
+      sa: "",
+      en: "Aaja Main Mahaaveera Jee Aayaa",
+    },
+    text: {
+      gu: `આજ મૈં મહાવીર જી આયા
+આજ મૈં મહાવીર જી આયા તેરે દરબાર મેં,
+કબ સુનાઈ હોગી મેરી આપકી સરકાર મેં।
+તેરી કિરપા સે હૈ માના લાખોં પ્રાણી તિર ગયે ।
+ક્યોં નહીં મેરી ખબર લેતે મૈં હું મંઝધાર મેં ।૧।
+કાટ દો કર્મોં કો મેરે હૈ યે ઇતની આરજૂ ।
+હો રહા હૂં ખ્વાર મૈં દુનિયા કે માયાચાર મેં ।૨।
+આપ કા સુમિરન કિયા જબ માનતુંગાચાર્ય ને ।
+ખુલ ગયી થી બેડિયાં ઝટ ઉનકી કારાગાર મેં ।૩।
+બન ગયા સૂલી સે સિંહાસન સુદર્શન કે લિયે ।
+હો રહા ગુણગાન હૈ ઉસ સેઠ કા સંસાર મેં ।૪।
+મુશ્કિલેં આસાન કર દો અપને ભક્તોં કી પ્રભો ।
+યહ વિનય ’પંકજ’ કી હૈ બસ આપકે દરબાર મેં ।૫।`,
+      hi: `आज मैं महावीर जी आया
+आज मैं महावीर जी आया तेरे दरबार में,
+कब सुनाई होगी मेरी आपकी सरकार में।
+तेरी किरपा से है माना लाखों प्राणी तिर गये ।
+क्यों नहीं मेरी खबर लेते मैं हुं मंझधार में ।१।
+काट दो कर्मों को मेरे है ये इतनी आरजू ।
+हो रहा हूं ख्वार मैं दुनिया के मायाचार में ।२।
+आप का सुमिरन किया जब मानतुंगाचार्य ने ।
+खुल गयी थी बेडियां झट उनकी कारागार में ।३।
+बन गया सूली से सिंहासन सुदर्शन के लिये ।
+हो रहा गुणगान है उस सेठ का संसार में ।४।
+मुश्किलें आसान कर दो अपने भक्तों की प्रभो ।
+यह विनय ’पंकज’ की है बस आपके दरबार में ।५।`,
+      sa: "",
+      en: `Aaja main mahaaveera jee aayaa
+Aaja main mahaaveera jee aayaa tere darabaara men,
+Kaba sunaaee hogee meree aapakee sarakaara men |
+Teree kirapaa se hai maanaa laakhon praanee tira gaye |
+Kyon naheen meree khabara lete main hun manjhadhaara men | 1 |
+Kaata do karmon ko mere hai ye itanee aarajoo |
+Ho rahaa hoon khvaara main duniyaa ke maayaachaara men | 2 |
+Aapa kaa sumirana kiyaa jaba maanatungaachaarya ne |
+Khula gayee thee bediyaan jhata unakee kaaraagaara men | 3 |
+Bana gayaa soolee se sinhaasana sudarshana ke liye |
+Ho rahaa gunagaana hai usa setha kaa sansaara men | 4 |
+Mushkilen aasaana kara do apane bhakton kee prabho |
+Yaha vinaya ’pankaja’ kee hai basa aapake darabaara men | 5 |`,
+    },
+  },
+  {
+    id: "mahara-adishvar-ji-ki",
+    type: "bhajan",
+    title: {
+      gu: "મ્હારા આદીશ્વર જી કી",
+      hi: "म्हारा आदीश्वर जी की",
+      sa: "",
+      en: "Mhaaraa Aadeeshvara Jee Kee",
+    },
+    text: {
+      gu: `મ્હારા આદીશ્વર જી કી
+મ્હારા આદીશ્વર જી કી સુન્દર મૂરત ….મ્હારે મન ભાઈ જી
+મ્હારે મન ભાઈ મ્હારે ચિત ચાહી, ….મ્હારે મન ભાઈ જી ।
+તીન છત્ર વાંકે સિર સોહે, ચૌંસઠ ચંવર ઢુરાઈ જી, ।
+મ્હારે મન ભાઈ મ્હારે ચિત ચાહી, ….મ્હારે મન ભાઈ જી ।૧।
+રત્ન સિંહાસન આપ વિરાજો, નાસા દૃષ્ટિ લગાઈ જી, ।
+મ્હારે મન ભાઈ મ્હારે ચિત ચાહી, ….મ્હારે મન ભાઈ જી ।૨।
+સેવક અર્જ કરે કર જોડે, આવાગમન મિટાઓ જી, ।
+મ્હારે મન ભાઈ મ્હારે ચિત ચાહી, ….મ્હારે મન ભાઈ જી ।૩।`,
+      hi: `म्हारा आदीश्वर जी की
+म्हारा आदीश्वर जी की सुन्दर मूरत ….म्हारे मन भाई जी
+म्हारे मन भाई म्हारे चित चाही, ….म्हारे मन भाई जी ।
+तीन छत्र वांके सिर सोहे, चौंसठ चंवर ढुराई जी, ।
+म्हारे मन भाई म्हारे चित चाही, ….म्हारे मन भाई जी ।१।
+रत्न सिंहासन आप विराजो, नासा दृष्टि लगाई जी, ।
+म्हारे मन भाई म्हारे चित चाही, ….म्हारे मन भाई जी ।२।
+सेवक अर्ज करे कर जोडे, आवागमन मिटाओ जी, ।
+म्हारे मन भाई म्हारे चित चाही, ….म्हारे मन भाई जी ।३।`,
+      sa: "",
+      en: `Mhaaraa aadeeshvara jee kee
+Mhaaraa aadeeshvara jee kee sundara moorata ….mhaare mana bhaaee jee
+Mhaare mana bhaaee mhaare chita chaahee, ….mhaare mana bhaaee jee |
+Teena chhatra vaanke sira sohe, chaunsatha chanvara dhuraaee jee, |
+Mhaare mana bhaaee mhaare chita chaahee, ….mhaare mana bhaaee jee | 1 |
+Ratna sinhaasana aapa viraajo, naasaa drishti lagaaee jee, |
+Mhaare mana bhaaee mhaare chita chaahee, ….mhaare mana bhaaee jee | 2 |
+Sevaka arja kare kara jode, aavaagamana mitaao jee, |
+Mhaare mana bhaaee mhaare chita chaahee, ….mhaare mana bhaaee jee | 3 |`,
+    },
+  },
+  {
+    id: "main-tere-ding-aaya-re",
+    type: "bhajan",
+    title: {
+      gu: "મૈં તેરે ઢિંગ આયા રે",
+      hi: "मैं तेरे ढिंग आया रे",
+      sa: "",
+      en: "Main Tere Dhinga Aayaa re",
+    },
+    text: {
+      gu: `મૈં તેરે ઢિંગ આયા રે
+તર્જ: મૈં ઉનકી બન જાઊં રે.
+મૈં તેરે ઢિંગ આયા રે, પદ્મ તેરે ઢિંગ આયા,
+મુખ મુખ સે જબ સુની પ્રશંસા, ચિત મેરા લલચાયા,
+ચિત મેરા લલચાયા રે, પદ્મ તેરે ઢિંગ આયા ॥
+ચલા મૈં ઘર સે તેરે દરશ કો,
+વરણૂં ક્યા વરણૂં ક્યા,વરણૂં ક્યા મૈં મેરે હરષ કો,
+મૈં ક્ષણ ક્ષણ મેં નામ તિહારા, રટતા રટ્તા આયા
+રટતા રટ્તા આયા રે ...પદ્મ તેરે ઢિંગ આયા ॥
+પથ મેં મૈંને પૂછા જિસકો,
+પાયા તેરા, પાયા તેરા, પાયા તેરા દર્શક ઉસકો,
+યહ સુન સુન મન હુઆ વિભોરિત, મગ નહીં મુઝે અઘાયા
+મગ નહી મુઝે અઘાયા રે ... પદ્મ તેરે ઢિંગ આયા ॥
+સન્મુખ તેરે ભીડ લગી હૈ,
+ભક્તિ કી, ભક્તિ કી, ભક્તિ કી ઇક ઉમંગ જગી હૈ,
+સબ જય જય કા નાદ ઉચારે, શુભ અવસર યહ પાયા,
+શુભ અવસર યહ પાયા રે ...પદ્મ તેરે ઢિંગ આયા ॥
+સફલ કામના કર પ્રભૂ મેરી,
+પાઊં મૈં, પાઊં મૈં, પાઊં મૈં ચરણ રજ તેરી,
+હોગી પુણ્ય વૃદ્ધિ આશા હૈ, દરશ તિહારા પાયા,
+દરશ તિહારા પાયા રે...પદ્મ તેરે ઢિંગ આયા ॥`,
+      hi: `मैं तेरे ढिंग आया रे
+तर्ज: मैं उनकी बन जाऊं रे.
+मैं तेरे ढिंग आया रे, पद्म तेरे ढिंग आया,
+मुख मुख से जब सुनी प्रशंसा, चित मेरा ललचाया,
+चित मेरा ललचाया रे, पद्म तेरे ढिंग आया ॥
+चला मैं घर से तेरे दरश को,
+वरणूं क्या वरणूं क्या,वरणूं क्या मैं मेरे हरष को,
+मैं क्षण क्षण में नाम तिहारा, रटता रट्ता आया
+रटता रट्ता आया रे ...पद्म तेरे ढिंग आया ॥
+पथ में मैंने पूछा जिसको,
+पाया तेरा, पाया तेरा, पाया तेरा दर्शक उसको,
+यह सुन सुन मन हुआ विभोरित, मग नहीं मुझे अघाया
+मग नही मुझे अघाया रे ... पद्म तेरे ढिंग आया ॥
+सन्मुख तेरे भीड लगी है,
+भक्ति की, भक्ति की, भक्ति की इक उमंग जगी है,
+सब जय जय का नाद उचारे, शुभ अवसर यह पाया,
+शुभ अवसर यह पाया रे ...पद्म तेरे ढिंग आया ॥
+सफ़ल कामना कर प्रभू मेरी,
+पाऊं मैं, पाऊं मैं, पाऊं मैं चरण रज तेरी,
+होगी पुण्य वृद्धि आशा है, दरश तिहारा पाया,
+दरश तिहारा पाया रे...पद्म तेरे ढिंग आया ॥`,
+      sa: "",
+      en: `Main tere dhinga aayaa re
+Tarja: main unakee bana jaaoon re.
+Main tere dhinga aayaa re, padma tere dhinga aayaa,
+Mukha mukha se jaba sunee prashansaa, chita meraa lalachaayaa,
+Chita meraa lalachaayaa re, padma tere dhinga aayaa | |
+Chalaa main ghara se tere darasha ko,
+Varanoon kyaa varanoon kyaa,varanoon kyaa main mere harasha ko,
+Main kshana kshana men naama tihaaraa, ratataa rattaa aayaa
+Ratataa rattaa aayaa re ...padma tere dhinga aayaa | |
+Patha men mainne poochhaa jisako,
+Paayaa teraa, paayaa teraa, paayaa teraa darshaka usako,
+Yaha suna suna mana huaa vibhorita, maga naheen mujhe aghaayaa
+Maga nahee mujhe aghaayaa re ... padma tere dhinga aayaa | |
+Sanmukha tere bheeda lagee hai,
+Bhakti kee, bhakti kee, bhakti kee ika umanga jagee hai,
+Saba jaya jaya kaa naada uchaare, shubha avasara yaha paayaa,
+Shubha avasara yaha paayaa re ...padma tere dhinga aayaa | |
+Saphala kaamanaa kara prabhoo meree,
+Paaoon main, paaoon main, paaoon main charana raja teree,
+Hogee punya vriddhi aashaa hai, darasha tihaaraa paayaa,
+Darasha tihaaraa paayaa re...padma tere dhinga aayaa | |`,
+    },
+  },
+  {
+    id: "bhavna-ki-chunri",
+    type: "bhajan",
+    title: {
+      gu: "ભાવના કી ચુનરી",
+      hi: "भावना की चुनरी",
+      sa: "",
+      en: "Bhaavanaa Kee Chunaree",
+    },
+    text: {
+      gu: `ભાવના કી ચુનરી
+ભાવના કી ચુનરી ઓઢ કે જિનમન્દિર મેં આવજો રે,
+આવજો આવજો આવજો રે, સારી નગરી બુલાવજો રે ॥
+ભાવના કી ચુનરી...
+શ્રદ્ધા કે રંગ સે રંગ લો ચુનરિયાં, જ્ઞાન ગુણોં સે જડી,
+મંગલ ઉત્સવ આજ દિવસ કા ,હોગી પ્રભાવના બડી,
+હો ... લેકે શ્રદ્ધા અપાર આપ આવજો રે,
+આપ આવજો આવજો આવજો રે,
+સારી નગરી બુલાવજો રે |૧| ભાવના કી ચુનરી...
+વીતરાગતા ઉર મેં ધારી ,વેશ દિગમ્બર લિયા,
+જગ કો મુક્તિ માર્ગ બતાયા, જગ કા કલ્યાણ કિયા,
+હો ... લેકે ભક્તિ અપાર આપ આવજો રે,
+આપ આવજો આવજો આવજો રે,
+સારી નગરી બુલાવજો રે |૨| ભાવના કી ચુનરી...`,
+      hi: `भावना की चुनरी
+भावना की चुनरी ओढ के जिनमन्दिर में आवजो रे,
+आवजो आवजो आवजो रे, सारी नगरी बुलावजो रे ॥
+भावना की चुनरी...
+श्रद्धा के रंग से रंग लो चुनरियां, ज्ञान गुणों से जडी,
+मंगल उत्सव आज दिवस का ,होगी प्रभावना बडी,
+हो ... लेके श्रद्धा अपार आप आवजो रे,
+आप आवजो आवजो आवजो रे,
+सारी नगरी बुलावजो रे |१| भावना की चुनरी...
+वीतरागता उर में धारी ,वेश दिगम्बर लिया,
+जग को मुक्ति मार्ग बताया, जग का कल्याण किया,
+हो ... लेके भक्ति अपार आप आवजो रे,
+आप आवजो आवजो आवजो रे,
+सारी नगरी बुलावजो रे |२| भावना की चुनरी...`,
+      sa: "",
+      en: `Bhaavanaa kee chunaree
+Bhaavanaa kee chunaree odha ke jinamandira men aavajo re,
+Aavajo aavajo aavajo re, saaree nagaree bulaavajo re | |
+Bhaavanaa kee chunaree...
+Shraddhaa ke ranga se ranga lo chunariyaan, gyaana gunon se jadee,
+Mangala utsava aaja divasa kaa ,hogee prabhaavanaa badee,
+Ho ... leke shraddhaa apaara aapa aavajo re,
+Aapa aavajo aavajo aavajo re,
+Saaree nagaree bulaavajo re | 1 | bhaavanaa kee chunaree...
+Veetaraagataa ura men dhaaree ,vesha digambara liyaa,
+Jaga ko mukti maarga bataayaa, jaga kaa kalyaana kiyaa,
+Ho ... leke bhakti apaara aapa aavajo re,
+Aapa aavajo aavajo aavajo re,
+Saaree nagaree bulaavajo re | 2 | bhaavanaa kee chunaree...`,
+    },
+  },
+  {
+    id: "prabhu-ji-ab-na-bhatkenge",
+    type: "bhajan",
+    title: {
+      gu: "પ્રભુ જી અબ ના ભટકેંગે",
+      hi: "प्रभु जी अब ना भटकेंगे",
+      sa: "",
+      en: "Prabhu Jee Aba Naa Bhatakenge",
+    },
+    text: {
+      gu: `પ્રભુ જી અબ ના ભટકેંગે
+પ્રભુ જી અબ ના ભટકેંગે સંસાર મેં,
+અબ અપની ખબર હમેં હો ગયી ॥
+ભૂલ રહે થે નિજ વૈભવ કો, પર કો અપના માના ।
+વિષ સમ પંચેંદ્રિય વિષયોં મેં, હી સુખ હમને જાના ।
+પર સે ભિન્ન લખૂં નિજ ચેતન... મુક્તિ નિશ્ચિત હોગી ।૧।
+મહા પુણ્ય સે હે જિનવર અબ, તેરા દર્શન પાયા ।
+શુદ્ધ અતીન્દ્રિય આનંદ રસ પીને કો,ચિત્ત લલચાયા ।
+નિર્વિકલ્પ નિજ અનુભૂતિ સે... મુક્તિ નિશ્ચિત હોગી ।૨।
+નિજ કો હી જાને પહિચાને, નિજ મેં હી રમ જાયે ।
+દ્રવ્ય ભાવ નોકર્મ રહિત હો, શાશ્વત શિવપદ પાયે ।
+રત્નત્રય નિધિયાં પ્રગટાએં... મુક્તિ નિશ્ચિત હોગી ।૩।`,
+      hi: `प्रभु जी अब ना भटकेंगे
+प्रभु जी अब ना भटकेंगे संसार में,
+अब अपनी खबर हमें हो गयी ॥
+भूल रहे थे निज वैभव को, पर को अपना माना ।
+विष सम पंचेंद्रिय विषयों में, ही सुख हमने जाना ।
+पर से भिन्न लखूं निज चेतन... मुक्ति निश्चित होगी ।१।
+महा पुण्य से हे जिनवर अब, तेरा दर्शन पाया ।
+शुद्ध अतीन्द्रिय आनंद रस पीने को,चित्त ललचाया ।
+निर्विकल्प निज अनुभूति से... मुक्ति निश्चित होगी ।२।
+निज को ही जाने पहिचाने, निज में ही रम जाये ।
+द्रव्य भाव नोकर्म रहित हो, शाश्वत शिवपद पाये ।
+रत्नत्रय निधियां प्रगटाएं... मुक्ति निश्चित होगी ।३।`,
+      sa: "",
+      en: `Prabhu jee aba naa bhatakenge
+Prabhu jee aba naa bhatakenge sansaara men,
+Aba apanee khabara hamen ho gayee | |
+Bhoola rahe the nija vaibhava ko, para ko apanaa maanaa |
+Visha sama panchendriya vishayon men, hee sukha hamane jaanaa |
+Para se bhinna lakhoon nija chetana... mukti nishchita hogee | 1 |
+Mahaa punya se he jinavara aba, teraa darshana paayaa |
+Shuddha ateendriya aananda rasa peene ko,chitta lalachaayaa |
+Nirvikalpa nija anubhooti se... mukti nishchita hogee | 2 |
+Nija ko hee jaane pahichaane, nija men hee rama jaaye |
+Dravya bhaava nokarma rahita ho, shaashvata shivapada paaye |
+Ratnatraya nidhiyaan pragataaen... mukti nishchita hogee | 3 |`,
+    },
+  },
+  {
+    id: "mann-bhaaye-chit-hulsaaye",
+    type: "bhajan",
+    title: {
+      gu: "મન ભાયે ચિત હુલસાયે",
+      hi: "मन भाये चित हुलसाये",
+      sa: "",
+      en: "Mana Bhaaye Chita Hulasaaye",
+    },
+    text: {
+      gu: `મન ભાયે ચિત હુલસાયે
+તર્જ : મન ડોલે...
+મન ભાયે ચિત હુલસાયે મેરે છાયા હર્ષ અપાર રે -
+લખ વીર તુમ્હારી મૂરતિયાં ॥
+દેખ લિયા મૈંને જગ સારા તુમસા નજર ના આયે,
+વીતરાગ મુદ્રા તુમ ધારે બૈઠે ધ્યાન લગાય-
+પ્રભૂ તુમ બૈઠે ધ્યાન લગાય,
+સુરપતિ આવે, મંગલ ગાવે, નાચે દે દે તાલ રે,
+લખ વીર તુમ્હારી મૂરતિયાં ॥
+અષ્ટ કર્મ કો જીત પ્રભૂ તુમ પાયા કેવલજ્ઞાન,
+દે ઉપદેશ બહુત જન તારે કહાં તક કરૂં બખાન-
+પ્રભૂ મૈં કહાં તક કરૂં બખાન,
+ભય જાયે,મેરે રોગ ના આયે,મેરે સુધરે કામ હજાર રે,
+લખ વીર તુમ્હારી મૂરતિયાં ॥
+રાગ દ્વેષ મેં લિપ્ત હુઆ મૈં સત કો નહીં પિછાના,
+પર વસ્તુ કો અપના સમઝા, ઝૂંઠે મત કો માના-
+પ્રભૂ જી ઉલટે મત કો માના,
+અબ તુમ પાયે, ભરમ નશાયે, ’પંકજ’ હોગા પાર રે,
+લખ વીર તુમ્હારી મૂરતિયાં ॥`,
+      hi: `मन भाये चित हुलसाये
+तर्ज : मन डोले...
+मन भाये चित हुलसाये मेरे छाया हर्ष अपार रे -
+लख वीर तुम्हारी मूरतियां ॥
+देख लिया मैंने जग सारा तुमसा नजर ना आये,
+वीतराग मुद्रा तुम धारे बैठे ध्यान लगाय-
+प्रभू तुम बैठे ध्यान लगाय,
+सुरपति आवे, मंगल गावे, नाचे दे दे ताल रे,
+लख वीर तुम्हारी मूरतियां ॥
+अष्ट कर्म को जीत प्रभू तुम पाया केवलज्ञान,
+दे उपदेश बहुत जन तारे कहां तक करूं बखान-
+प्रभू मैं कहां तक करूं बखान,
+भय जाये,मेरे रोग ना आये,मेरे सुधरे काम हजार रे,
+लख वीर तुम्हारी मूरतियां ॥
+राग द्वेष में लिप्त हुआ मैं सत को नहीं पिछाना,
+पर वस्तु को अपना समझा, झूंठे मत को माना-
+प्रभू जी उलटे मत को माना,
+अब तुम पाये, भरम नशाये, ’पंकज’ होगा पार रे,
+लख वीर तुम्हारी मूरतियां ॥`,
+      sa: "",
+      en: `Mana bhaaye chita hulasaaye
+Tarja : mana dole...
+Mana bhaaye chita hulasaaye mere chhaayaa harsha apaara re -
+Lakha veera tumhaaree mooratiyaan | |
+Dekha liyaa mainne jaga saaraa tumasaa najara naa aaye,
+Veetaraaga mudraa tuma dhaare baithe dhyaana lagaaya-
+Prabhoo tuma baithe dhyaana lagaaya,
+Surapati aave, mangala gaave, naache de de taala re,
+Lakha veera tumhaaree mooratiyaan | |
+Ashta karma ko jeeta prabhoo tuma paayaa kevalagyaana,
+De upadesha bahuta jana taare kahaan taka karoon bakhaana-
+Prabhoo main kahaan taka karoon bakhaana,
+Bhaya jaaye,mere roga naa aaye,mere sudhare kaama hajaara re,
+Lakha veera tumhaaree mooratiyaan | |
+Raaga dvesha men lipta huaa main sata ko naheen pichhaanaa,
+Para vastu ko apanaa samajhaa, jhoonthe mata ko maanaa-
+Prabhoo jee ulate mata ko maanaa,
+Aba tuma paaye, bharama nashaaye, ’pankaja’ hogaa paara re,
+Lakha veera tumhaaree mooratiyaan | |`,
+    },
+  },
+  {
+    id: "shudhatma-ka-shradhaan-hoga",
+    type: "bhajan",
+    title: {
+      gu: "શુદ્ધાત્મા કા શ્રદ્ધાન હોગા",
+      hi: "शुद्धात्मा का श्रद्धान होगा",
+      sa: "",
+      en: "Shuddhaatmaa Kaa Shraddhaana Hogaa",
+    },
+    text: {
+      gu: `શુદ્ધાત્મા કા શ્રદ્ધાન હોગા
+તર્જ: ઝિલમિલ સિતારોં કા...
+શુદ્ધાત્મા કા શ્રદ્ધાન હોગા,નિજ આત્મા તબ ભગવાન હોગા।
+નિજ મેં નિજ, પર મેં પર ભાસક,સમ્યકજ્ઞાન હોગા||
+નવ તત્વોં મેં છુપી હુઈ જો, જ્યોતિ ઉસે પ્રગટાઐંગે ।
+પર્યાયોં સે પાર ત્રિકાલી, ધ્રુવ કો લક્ષ્ય બનાઐંગે ।
+શુદ્ધ ચિદાનંદ રસપાન હોગા,
+નિજ આત્મા તબ ભગવાન હોગા ।૧। નિજ મેં નિજ....
+નિજ ચૈતન્ય મહા હિમગિરિ સે, પરિણતિ ઘન ટકરાઐંગે ।
+શુદ્ધ અતીન્દ્રિય આનંદ રસમય, અમૃત જલ બરસાયેંગે ।
+મોહ મહામલ પ્રક્ષાલ હોગા,
+નિજ આત્મા તબ ભગવાન હોગા ।૨। નિજ મેં નિજ..
+આત્મા કે ઉપવન મેં, રત્નત્રય પુષ્પ ખિલાયેંગે ।
+સ્વાનુભૂતિ કી સૌરભ સે, નિજ નંદન વન મહકાયેંગે ।
+સંયમ સે સુરભિત ઉદ્યાન હોગા,
+નિજ આત્મા તબ ભગવાન હોગા ।૩। નિજ મેં નિજ ….`,
+      hi: `शुद्धात्मा का श्रद्धान होगा
+तर्ज: झिलमिल सितारों का...
+शुद्धात्मा का श्रद्धान होगा,निज आत्मा तब भगवान होगा।
+निज में निज, पर में पर भासक,सम्यकज्ञान होगा||
+नव तत्वों में छुपी हुई जो, ज्योति उसे प्रगटाऐंगे ।
+पर्यायों से पार त्रिकाली, ध्रुव को लक्ष्य बनाऐंगे ।
+शुद्ध चिदानंद रसपान होगा,
+निज आत्मा तब भगवान होगा ।१। निज में निज....
+निज चैतन्य महा हिमगिरि से, परिणति घन टकराऐंगे ।
+शुद्ध अतीन्द्रिय आनंद रसमय, अमृत जल बरसायेंगे ।
+मोह महामल प्रक्षाल होगा,
+निज आत्मा तब भगवान होगा ।२। निज में निज..
+आत्मा के उपवन में, रत्नत्रय पुष्प खिलायेंगे ।
+स्वानुभूति की सौरभ से, निज नंदन वन महकायेंगे ।
+संयम से सुरभित उद्यान होगा,
+निज आत्मा तब भगवान होगा ।३। निज में निज ….`,
+      sa: "",
+      en: `Shuddhaatmaa kaa shraddhaana hogaa
+Tarja: jhilamila sitaaron kaa...
+Shuddhaatmaa kaa shraddhaana hogaa,nija aatmaa taba bhagavaana hogaa |
+Nija men nija, para men para bhaasaka,samyakagyaana hogaa | |
+Nava tatvon men chhupee huee jo, jyoti use pragataaainge |
+Paryaayon se paara trikaalee, dhruva ko lakshya banaaainge |
+Shuddha chidaananda rasapaana hogaa,
+Nija aatmaa taba bhagavaana hogaa | 1 | nija men nija....
+Nija chaitanya mahaa himagiri se, parinati ghana takaraaainge |
+Shuddha ateendriya aananda rasamaya, amrita jala barasaayenge |
+Moha mahaamala prakshaala hogaa,
+Nija aatmaa taba bhagavaana hogaa | 2 | nija men nija..
+Aatmaa ke upavana men, ratnatraya pushpa khilaayenge |
+Svaanubhooti kee saurabha se, nija nandana vana mahakaayenge |
+Sanyama se surabhita udyaana hogaa,
+Nija aatmaa taba bhagavaana hogaa | 3 | nija men nija ….`,
+    },
+  },
+  {
+    id: "aaya-kaha-se-kaha-se",
+    type: "bhajan",
+    title: {
+      gu: "આયા કહાં સે, કહાં હૈ",
+      hi: "आया कहां से, कहां है",
+      sa: "",
+      en: "Aayaa Kahaan Se, Kahaan hai",
+    },
+    text: {
+      gu: `આયા કહાં સે, કહાં હૈ
+આયા કહાં સે, કહાં હૈ જાના,
+ઢૂંઢ લે ઠિકાના ચેતન ઢૂંઢ લે ઠિકાના ।
+ઇક દિન ચેતન ગોરા તન યહ, મિટ્ટી મેં મિલ જાએગા ।
+કુટુમ્બ કબીલા પડા રહેગા, કોઈ બચા ના પાયેગા ।
+નહીં ચલેગા કોઈ બહાના...॥ ઢૂંઢ લે ઠિકાના...।૧।
+બાહર સુખ કો ખોજ રહા હૈ, બનતા ક્યોં દીવાના રે ।
+આતમ હી સુખ ખાન હૈ પ્યારે, ઇસકો ભૂલ ના જાના રે।
+સારે સુખોં કા યે હૈ ખજાના...॥ ઢૂંઢ લે ઠિકાના… ।૨।
+જબ તક તન મેં સાંસ રહેગી, સબ તુઝકો અપનાયેંગે ।
+જબ ન રહેંગે પ્રાણ જો તન મેં, સબ તુઝસે ઘબરાયેંગે ।
+તુઝકો પડેગા પ્યારે હૈ જાના...॥ ઢૂંઢ લે ઠિકાના...।૩।
+દૌલત કે દીવાનોં સુન લો, ઇક દિન ઐસા આયેગા ।
+ધન દૌલત ઔર રૂપ ખજાના, પડા યહીં રહ જાયેગા ।
+કન્ધા લગાયેગા સારા જમાના...॥ ઢૂંઢ લે ઠિકાના...।૪।
+ગુરુચરણોં કે ધ્યાન સે ચેતન, ભવસાગર તિર જાયેગા ।
+સમ્યગ્દર્શન જ્ઞાન સે પ્યારે, દુખ તેરા મિટ જાયેગા ।
+સારે સુખોં કા હૈ યે ખજાના...॥ ઢૂંઢ લે ઠિકાના...।૫।`,
+      hi: `आया कहां से, कहां है
+आया कहां से, कहां है जाना,
+ढूंढ ले ठिकाना चेतन ढूंढ ले ठिकाना ।
+इक दिन चेतन गोरा तन यह, मिट्टी में मिल जाएगा ।
+कुटुम्ब कबीला पडा रहेगा, कोई बचा ना पायेगा ।
+नहीं चलेगा कोई बहाना...॥ ढूंढ ले ठिकाना...।१।
+बाहर सुख को खोज रहा है, बनता क्यों दीवाना रे ।
+आतम ही सुख खान है प्यारे, इसको भूल ना जाना रे।
+सारे सुखों का ये है खजाना...॥ ढूंढ ले ठिकाना… ।२।
+जब तक तन में सांस रहेगी, सब तुझको अपनायेंगे ।
+जब न रहेंगे प्राण जो तन में, सब तुझसे घबरायेंगे ।
+तुझको पडेगा प्यारे है जाना...॥ ढूंढ ले ठिकाना...।३।
+दौलत के दीवानों सुन लो, इक दिन ऐसा आयेगा ।
+धन दौलत और रूप खजाना, पडा यहीं रह जायेगा ।
+कन्धा लगायेगा सारा जमाना...॥ ढूंढ ले ठिकाना...।४।
+गुरुचरणों के ध्यान से चेतन, भवसागर तिर जायेगा ।
+सम्यग्दर्शन ज्ञान से प्यारे, दुख तेरा मिट जायेगा ।
+सारे सुखों का है ये खजाना...॥ ढूंढ ले ठिकाना...।५।`,
+      sa: "",
+      en: `Aayaa kahaan se, kahaan hai
+Aayaa kahaan se, kahaan hai jaanaa,
+Dhoondha le thikaanaa chetana dhoondha le thikaanaa |
+Ika dina chetana goraa tana yaha, mittee men mila jaaegaa |
+Kutumba kabeelaa padaa rahegaa, koee bachaa naa paayegaa |
+Naheen chalegaa koee bahaanaa... | | dhoondha le thikaanaa... | 1 |
+Baahara sukha ko khoja rahaa hai, banataa kyon deevaanaa re |
+Aatama hee sukha khaana hai pyaare, isako bhoola naa jaanaa re |
+Saare sukhon kaa ye hai khajaanaa... | | dhoondha le thikaanaa… | 2 |
+Jaba taka tana men saansa rahegee, saba tujhako apanaayenge |
+Jaba na rahenge praana jo tana men, saba tujhase ghabaraayenge |
+Tujhako padegaa pyaare hai jaanaa... | | dhoondha le thikaanaa... | 3 |
+Daulata ke deevaanon suna lo, ika dina aisaa aayegaa |
+Dhana daulata aura roopa khajaanaa, padaa yaheen raha jaayegaa |
+Kandhaa lagaayegaa saaraa jamaanaa... | | dhoondha le thikaanaa... | 4 |
+Gurucharanon ke dhyaana se chetana, bhavasaagara tira jaayegaa |
+Samyagdarshana gyaana se pyaare, dukha teraa mita jaayegaa |
+Saare sukhon kaa hai ye khajaanaa... | | dhoondha le thikaanaa... | 5 |`,
+    },
+  },
+  {
+    id: "veetragi-dev-tumhare-jaisa",
+    type: "bhajan",
+    title: {
+      gu: "વીતરાગી દેવ તુમ્હારે જૈસા",
+      hi: "वीतरागी देव तुम्हारे जैसा",
+      sa: "",
+      en: "Veetaraagee Deva Tumhaare Jaisaa",
+    },
+    text: {
+      gu: `વીતરાગી દેવ તુમ્હારે જૈસા
+તર્જ: કસ્મે વાદે પ્યાર...
+વીતરાગી દેવ તુમ્હારે જૈસા જગ મેં દેવ કહાં ।
+માર્ગ બતાયા હૈ જો જગ કો ,કહ ન સકે કોઈ ઔર યહાં। વીતરાગી દેવ...
+હૈં સબ દ્રવ્ય સ્વતંત્ર જગત મેં,કોઈ ન કિસી કા કાર્ય કરે
+અપને અપને સ્વચતુષ્ટય મેં ,સભી દ્રવ્ય વિશ્રામ કરે ।
+અપની અપની સહજ ગુફા મેં, રહતે પર સે મૌન યહાં॥
+ભાવ શુભાશુભ કા ભી કર્તા , બનતા જો દીવાના હૈ ।
+જ્ઞાયક ભાવ શુભાશુભ સે ભી, ભિન્ન ન ઉસને જાના હૈ ।
+અપને સે અનજાન તુઝે, ભગવાન કહેં જિનદેવ યહાં॥
+પુણ્ય ભાવ ભી પર આશ્રિત હૈ, ઉસમેં ધર્મ નહી હોતા ।
+જ્ઞાન ભાવ મેં નિજ પરિણતિ સે બંધન કર્મ નહીં હોતા ।
+નિજ આશ્રય સે હી મુક્તિ હૈ, કહતે હૈં જિનદેવ યહાં ॥`,
+      hi: `वीतरागी देव तुम्हारे जैसा
+तर्ज: कस्मे वादे प्यार...
+वीतरागी देव तुम्हारे जैसा जग में देव कहां ।
+मार्ग बताया है जो जग को ,कह न सके कोई और यहां। वीतरागी देव...
+हैं सब द्रव्य स्वतंत्र जगत में,कोई न किसी का कार्य करे
+अपने अपने स्वचतुष्टय में ,सभी द्रव्य विश्राम करे ।
+अपनी अपनी सहज गुफ़ा में, रहते पर से मौन यहां॥
+भाव शुभाशुभ का भी कर्ता , बनता जो दीवाना है ।
+ज्ञायक भाव शुभाशुभ से भी, भिन्न न उसने जाना है ।
+अपने से अनजान तुझे, भगवान कहें जिनदेव यहां॥
+पुण्य भाव भी पर आश्रित है, उसमें धर्म नही होता ।
+ज्ञान भाव में निज परिणति से बंधन कर्म नहीं होता ।
+निज आश्रय से ही मुक्ति है, कहते हैं जिनदेव यहां ॥`,
+      sa: "",
+      en: `Veetaraagee deva tumhaare jaisaa
+Tarja: kasme vaade pyaara...
+Veetaraagee deva tumhaare jaisaa jaga men deva kahaan |
+Maarga bataayaa hai jo jaga ko ,kaha na sake koee aura yahaan | veetaraagee deva...
+Hain saba dravya svatantra jagata men,koee na kisee kaa kaarya kare
+Apane apane svachatushtaya men ,sabhee dravya vishraama kare |
+Apanee apanee sahaja guphaa men, rahate para se mauna yahaan | |
+Bhaava shubhaashubha kaa bhee kartaa , banataa jo deevaanaa hai |
+Gyaayaka bhaava shubhaashubha se bhee, bhinna na usane jaanaa hai |
+Apane se anajaana tujhe, bhagavaana kahen jinadeva yahaan | |
+Punya bhaava bhee para aashrita hai, usamen dharma nahee hotaa |
+Gyaana bhaava men nija parinati se bandhana karma naheen hotaa |
+Nija aashraya se hee mukti hai, kahate hain jinadeva yahaan | |`,
+    },
+  },
+  {
+    id: "tum-jaisa-mai-bhi-bann-jau",
+    type: "bhajan",
+    title: {
+      gu: "તુમ જૈસા મૈં ભી બન જાઊં",
+      hi: "तुम जैसा मैं भी बन जाऊं",
+      sa: "",
+      en: "Tuma Jaisaa Main Bhee Bana Jaaoon",
+    },
+    text: {
+      gu: `તુમ જૈસા મૈં ભી બન જાઊં
+તર્જ : ચાંદ સી મહ્બૂબા...
+તુમ જૈસા મૈં ભી બન જાઊં, ઐસા મૈંને સોચા હૈ,
+તુમ જૈસી સમતા પા જાઊં, ઐસા મૈંને સોચા હૈ ।
+ભવ વન મેં ભટક રહા ભગવન, ઐસી ચિન્મૂરત ન પાઈ હૈ।
+તેરે દર્શન સે નિજ દર્શન કી,સુધિ અપને આપહી આઈ હૈ।
+શાંતિ પ્રદાતા મંગલદાતા, મુશ્કિલ સે મૈંને ખોજા હૈ,
+તુમ જૈસી સમતા પા જાઊં.... ।૧।
+કિતની પ્રતિકૂલ પરિસ્થિતિ મેં,મુઝકો વૈરાગ્ય ન આતા હૈ
+સંસાર અસાર નહીં લગતા, મન રાગ રંગ મેં જાતા હૈ।
+વિષય વાસના કી જડ ગહરી, કાટો નાથ ભરોસા હૈ,
+તુમ જૈસી સમતા પા જાઊં....।૨।
+હે જિનધર્મ કે પ્રેમી સુન લો, કહ ગયે કુંદ કુંદ સ્વામી ।
+ભવ સાગર સે તિરને મેં ફિર, કલ્યાણી માઁ શ્રી જિનવાણી |
+રૂપ તુમ્હારા સબસે ન્યારા, કરના સિર્ફ ભરોસા હૈ,
+તુમ જૈસી સમતા પા જાઊં....।૩।`,
+      hi: `तुम जैसा मैं भी बन जाऊं
+तर्ज : चांद सी मह्बूबा...
+तुम जैसा मैं भी बन जाऊं, ऐसा मैंने सोचा है,
+तुम जैसी समता पा जाऊं, ऐसा मैंने सोचा है ।
+भव वन में भटक रहा भगवन, ऐसी चिन्मूरत न पाई है।
+तेरे दर्शन से निज दर्शन की,सुधि अपने आपही आई है।
+शांति प्रदाता मंगलदाता, मुश्किल से मैंने खोजा है,
+तुम जैसी समता पा जाऊं.... ।१।
+कितनी प्रतिकूल परिस्थिति में,मुझको वैराग्य न आता है
+संसार असार नहीं लगता, मन राग रंग में जाता है।
+विषय वासना की जड गहरी, काटो नाथ भरोसा है,
+तुम जैसी समता पा जाऊं....।२।
+हे जिनधर्म के प्रेमी सुन लो, कह गये कुंद कुंद स्वामी ।
+भव सागर से तिरने में फ़िर, कल्याणी माँ श्री जिनवाणी |
+रूप तुम्हारा सबसे न्यारा, करना सिर्फ़ भरोसा है,
+तुम जैसी समता पा जाऊं....।३।`,
+      sa: "",
+      en: `Tuma jaisaa main bhee bana jaaoon
+Tarja : chaanda see mahboobaa...
+Tuma jaisaa main bhee bana jaaoon, aisaa mainne sochaa hai,
+Tuma jaisee samataa paa jaaoon, aisaa mainne sochaa hai |
+Bhava vana men bhataka rahaa bhagavana, aisee chinmoorata na paaee hai |
+Tere darshana se nija darshana kee,sudhi apane aapahee aaee hai |
+Shaanti pradaataa mangaladaataa, mushkila se mainne khojaa hai,
+Tuma jaisee samataa paa jaaoon.... | 1 |
+Kitanee pratikoola paristhiti men,mujhako vairaagya na aataa hai
+Sansaara asaara naheen lagataa, mana raaga ranga men jaataa hai |
+Vishaya vaasanaa kee jada gaharee, kaato naatha bharosaa hai,
+Tuma jaisee samataa paa jaaoon.... | 2 |
+He jinadharma ke premee suna lo, kaha gaye kunda kunda svaamee |
+Bhava saagara se tirane men phira, kalyaanee maan shree jinavaanee |
+Roopa tumhaaraa sabase nyaaraa, karanaa sirpha bharosaa hai,
+Tuma jaisee samataa paa jaaoon.... | 3 |`,
+    },
+  },
+  {
+    id: "aaye-tere-dwaar-sunn-le",
+    type: "bhajan",
+    title: {
+      gu: "આયે તેરે દ્વાર સુન લે",
+      hi: "आये तेरे द्वार सुन ले",
+      sa: "",
+      en: "Aaye Tere Dvaara Suna Le",
+    },
+    text: {
+      gu: `આયે તેરે દ્વાર સુન લે
+આયે તેરે દ્વાર સુન લે ભક્તોં કી પુકાર
+ત્રિશલા લાલ રે॥ટેક॥
+કુણ્ડલપુર મેં જનમ લિયો તબ, બજને લગી થી શહનાઈ,
+દીપાવલી કો મુક્તિ પાઈ તબ મન મેં સબકે તહનાઈ,
+તુમ પા ગયે મુક્તિ ધામ
+હમ ભી પાયેં નિજ કા ધામ...ત્રિશલા લાલ રે॥૧॥
+સુન્દર સ્યાદ્વાદકી સરગમ, જબ તુમને થી બરસાઈ,
+ભવ્યજનોં કો આનંદકારી, અમૃત ધારા બરસાઈ,
+ભવિજન તુમકો નિજસમ જાન
+કર ગયે આતમ કા કલ્યાણ...ત્રિશલા લાલ રે॥૨॥
+નીર ક્ષીર સમ તન ચેતન કો, ભિન્ન સદા હી બતાયા હૈ,
+જિન ચેતન કે દર્શન પા, નિજ ચેતન દર્શન પાયા હૈ,
+મૈં પાઊં નિજ કા ધામ
+વહી સચ્ચા જિન કા ધામ...ત્રિશલા લાલ રે॥૩॥`,
+      hi: `आये तेरे द्वार सुन ले
+आये तेरे द्वार सुन ले भक्तों की पुकार
+त्रिशला लाल रे॥टेक॥
+कुण्डलपुर में जनम लियो तब, बजने लगी थी शहनाई,
+दीपावली को मुक्ति पाई तब मन में सबके तहनाई,
+तुम पा गये मुक्ति धाम
+हम भी पायें निज का धाम...त्रिशला लाल रे॥१॥
+सुन्दर स्याद्वादकी सरगम, जब तुमने थी बरसाई,
+भव्यजनों को आनंदकारी, अमृत धारा बरसाई,
+भविजन तुमको निजसम जान
+कर गये आतम का कल्याण...त्रिशला लाल रे॥२॥
+नीर क्षीर सम तन चेतन को, भिन्न सदा ही बताया है,
+जिन चेतन के दर्शन पा, निज चेतन दर्शन पाया है,
+मैं पाऊं निज का धाम
+वही सच्चा जिन का धाम...त्रिशला लाल रे॥३॥`,
+      sa: "",
+      en: `Aaye tere dvaara suna le
+Aaye tere dvaara suna le bhakton kee pukaara
+Trishalaa laala re | | teka | |
+Kundalapura men janama liyo taba, bajane lagee thee shahanaaee,
+Deepaavalee ko mukti paaee taba mana men sabake tahanaaee,
+Tuma paa gaye mukti dhaama
+Hama bhee paayen nija kaa dhaama...trishalaa laala re | | 1 | |
+Sundara syaadvaadakee saragama, jaba tumane thee barasaaee,
+Bhavyajanon ko aanandakaaree, amrita dhaaraa barasaaee,
+Bhavijana tumako nijasama jaana
+Kara gaye aatama kaa kalyaana...trishalaa laala re | | 2 | |
+Neera ksheera sama tana chetana ko, bhinna sadaa hee bataayaa hai,
+Jina chetana ke darshana paa, nija chetana darshana paayaa hai,
+Main paaoon nija kaa dhaama
+Vahee sachchaa jina kaa dhaama...trishalaa laala re | | 3 | |`,
+    },
+  },
+  {
+    id: "nirkhat-jinchandra-vachan",
+    type: "bhajan",
+    title: {
+      gu: "નિરખત જિનચન્દ્ર-વદન",
+      hi: "निरखत जिनचन्द्र-वदन",
+      sa: "",
+      en: "Nirakhata Jinachandra-vadana",
+    },
+    text: {
+      gu: `નિરખત જિનચન્દ્ર-વદન
+નિરખત જિનચન્દ્ર-વદન, સ્વપદસુરુચિ આઈ ।।ટેક. ।।
+પ્રગટી નિજ આનકી, પિછાન જ્ઞાન ભાનકી ।
+કલા ઉદોત હોત કામ, જામિની પલાઈ ।।૧ ।।
+શાશ્વત આનન્દ સ્વાદ, પાયો વિનસ્યો વિષાદ ।
+આનમેં અનિષ્ટ ઇષ્ટ, કલ્પના નસાઈ ।।૨ ।।
+સાધી નિજ સાધકી, સમાધિ મોહ વ્યાધિકી ।
+ઉપાધિકો વિરાધિકૈં, આરાધના સુહાઈ ।।૩ ।।
+ધન દિન છિન આજ સુગુનિ, ચિંતેં જિનરાજ અબૈ ।
+સુધરે સબ કાજ \`દૌલ', અચલ ઋદ્ધિ પાઈ ।।૪ ।।`,
+      hi: `निरखत जिनचन्द्र-वदन
+निरखत जिनचन्द्र-वदन, स्वपदसुरुचि आई ।।टेक. ।।
+प्रगटी निज आनकी, पिछान ज्ञान भानकी ।
+कला उदोत होत काम, जामिनी पलाई ।।१ ।।
+शाश्वत आनन्द स्वाद, पायो विनस्यो विषाद ।
+आनमें अनिष्ट इष्ट, कल्पना नसाई ।।२ ।।
+साधी निज साधकी, समाधि मोह व्याधिकी ।
+उपाधिको विराधिकैं, आराधना सुहाई ।।३ ।।
+धन दिन छिन आज सुगुनि, चिंतें जिनराज अबै ।
+सुधरे सब काज \`दौल', अचल ऋद्धि पाई ।।४ ।।`,
+      sa: "",
+      en: `Nirakhata jinachandra-vadana
+Nirakhata jinachandra-vadana, svapadasuruchi aaee | | teka. | |
+Pragatee nija aanakee, pichhaana gyaana bhaanakee |
+Kalaa udota hota kaama, jaaminee palaaee | | 1 | |
+Shaashvata aananda svaada, paayo vinasyo vishaada |
+Aanamen anishta ishta, kalpanaa nasaaee | | 2 | |
+Saadhee nija saadhakee, samaadhi moha vyaadhikee |
+Upaadhiko viraadhikain, aaraadhanaa suhaaee | | 3 | |
+Dhana dina chhina aaja suguni, chinten jinaraaja abai |
+Sudhare saba kaaja \`daula', achala riddhi paaee | | 4 | |`,
+    },
+  },
+  {
+    id: "dekho-ji-adishwar-swami",
+    type: "bhajan",
+    title: {
+      gu: "દેખો જી આદીશ્વર સ્વામી",
+      hi: "देखो जी आदीश्वर स्वामी",
+      sa: "",
+      en: "Dekho Jee Aadeeshvara Svaamee",
+    },
+    text: {
+      gu: `દેખો જી આદીશ્વર સ્વામી
+દેખો જી આદીશ્વર સ્વામી કૈસા ધ્યાન લગાયા હૈ ।
+કર ઊપરિ કર સુભગ વિરાજૈ, આસન થિર ઠહરાયા હૈ ।।
+જગત-વિભૂતિ ભૂતિસમ તજકર, નિજાનન્દ પદ ધ્યાયા હૈ।
+સુરભિત શ્વાસા, આશા વાસા, નાસાદૃષ્ટિ સુહાયા હૈ ।।
+કંચન વરન ચલૈ મન રંચ ન, સુરગિર જ્યોં થિર થાયા હૈ।
+જાસ પાસ અહિ મોર મૃગી હરિ, જાતિવિરોધ નસાયા હૈ।।
+શુધ ઉપયોગ હુતાશન મેં જિન,વસુવિધિ સમિધ જલાયા હૈ|
+શ્યામલિ અલકાવલિ શિર સોહૈ, માનોં ધુઆઁ ઉડાયા હૈ ।।
+જીવન-મરન અલાભ-લાભ જિન, તૃન-મનિકો સમ ભાયા હૈ|
+સુર નર નાગ નમહિં પદ જાકૈ, \`દૌલ' તાસ જસ ગાયા હૈ।।`,
+      hi: `देखो जी आदीश्वर स्वामी
+देखो जी आदीश्वर स्वामी कैसा ध्यान लगाया है ।
+कर ऊपरि कर सुभग विराजै, आसन थिर ठहराया है ।।
+जगत-विभूति भूतिसम तजकर, निजानन्द पद ध्याया है।
+सुरभित श्वासा, आशा वासा, नासादृष्टि सुहाया है ।।
+कंचन वरन चलै मन रंच न, सुरगिर ज्यों थिर थाया है।
+जास पास अहि मोर मृगी हरि, जातिविरोध नसाया है।।
+शुध उपयोग हुताशन में जिन,वसुविधि समिध जलाया है|
+श्यामलि अलकावलि शिर सोहै, मानों धुआँ उड़ाया है ।।
+जीवन-मरन अलाभ-लाभ जिन, तृन-मनिको सम भाया है|
+सुर नर नाग नमहिं पद जाकै, \`दौल' तास जस गाया है।।`,
+      sa: "",
+      en: `Dekho jee aadeeshvara svaamee
+Dekho jee aadeeshvara svaamee kaisaa dhyaana lagaayaa hai |
+Kara oopari kara subhaga viraajai, aasana thira thaharaayaa hai | |
+Jagata-vibhooti bhootisama tajakara, nijaananda pada dhyaayaa hai |
+Surabhita shvaasaa, aashaa vaasaa, naasaadrishti suhaayaa hai | |
+Kanchana varana chalai mana rancha na, suragira jyon thira thaayaa hai |
+Jaasa paasa ahi mora mrigee hari, jaativirodha nasaayaa hai | |
+Shudha upayoga hutaashana men jina,vasuvidhi samidha jalaayaa hai |
+Shyaamali alakaavali shira sohai, maanon dhuaan udaayaa hai | |
+Jeevana-marana alaabha-laabha jina, trina-maniko sama bhaayaa hai |
+Sura nara naaga namahin pada jaakai, \`daula' taasa jasa gaayaa hai | |`,
+    },
+  },
+  {
+    id: "o-jagat-ke-shaantidaata",
+    type: "bhajan",
+    title: {
+      gu: "ઓ જગત કે શાન્તિદાતા",
+      hi: "ओ जगत के शान्तिदाता",
+      sa: "",
+      en: "O Jagata ke Shaantidaataa",
+    },
+    text: {
+      gu: `ઓ જગત કે શાન્તિદાતા
+તર્જ: ઓ બસંતી પવન પાગલ...
+ઓ જગત કે શાન્તિદાતા, શાન્તિ જિનેશ્વર,
+જય હો તેરી॥ટેક॥
+મોહ માયા મેં ફંસા, તુઝકો ભી પહિચાના નહી।
+જ્ઞાન હૈ ના ધ્યાન દિલ મેં ધર્મ કો જાના નહીં।
+દો સહારા, મુક્તિદાતા, શાન્તિ જિનેશ્વર, જય હો તેરી.....॥
+બનકે સેવક હમ ખડે હૈં, આજ તેરે દ્વાર પે।
+હો કૃપા જિનવર તો બેડા, પાર હો સંસાર સે।
+તેરે ગુણ સ્વામી મૈં ગાતા, શાન્તિ જિનેશ્વર, જય હો તેરી.....॥
+કિસકો મૈં અપના કહૂં, કોઈ નજર આતા નહીં।
+ઇસ જહાં મેં આપ બિન કોઈ ભી મન ભાતા નહીં।
+તુમ હી હો ત્રિભુવન વિધાતા, શાન્તિ જિનેશ્વર, જય હો તેરી...॥`,
+      hi: `ओ जगत के शान्तिदाता
+तर्ज: ओ बसंती पवन पागल...
+ओ जगत के शान्तिदाता, शान्ति जिनेश्वर,
+जय हो तेरी॥टेक॥
+मोह माया में फ़ंसा, तुझको भी पहिचाना नही।
+ज्ञान है ना ध्यान दिल में धर्म को जाना नहीं।
+दो सहारा, मुक्तिदाता, शान्ति जिनेश्वर, जय हो तेरी.....॥
+बनके सेवक हम खडे हैं, आज तेरे द्वार पे।
+हो कृपा जिनवर तो बेडा, पार हो संसार से।
+तेरे गुण स्वामी मैं गाता, शान्ति जिनेश्वर, जय हो तेरी.....॥
+किसको मैं अपना कहूं, कोई नजर आता नहीं।
+इस जहां में आप बिन कोई भी मन भाता नहीं।
+तुम ही हो त्रिभुवन विधाता, शान्ति जिनेश्वर, जय हो तेरी...॥`,
+      sa: "",
+      en: `O jagata ke shaantidaataa
+Tarja: o basantee pavana paagala...
+O jagata ke shaantidaataa, shaanti jineshvara,
+Jaya ho teree | | teka | |
+Moha maayaa men phansaa, tujhako bhee pahichaanaa nahee |
+Gyaana hai naa dhyaana dila men dharma ko jaanaa naheen |
+Do sahaaraa, muktidaataa, shaanti jineshvara, jaya ho teree..... | |
+Banake sevaka hama khade hain, aaja tere dvaara pe |
+Ho kripaa jinavara to bedaa, paara ho sansaara se |
+Tere guna svaamee main gaataa, shaanti jineshvara, jaya ho teree..... | |
+Kisako main apanaa kahoon, koee najara aataa naheen |
+Isa jahaan men aapa bina koee bhee mana bhaataa naheen |
+Tuma hee ho tribhuvana vidhaataa, shaanti jineshvara, jaya ho teree... | |`,
+    },
+  },
+  {
+    id: "chah-mujhe-hai-darshan-ki",
+    type: "bhajan",
+    title: {
+      gu: "ચાહ મુઝે હૈ દર્શન કી",
+      hi: "चाह मुझे है दर्शन की",
+      sa: "",
+      en: "Chaaha Mujhe hai Darshana Kee",
+    },
+    text: {
+      gu: `ચાહ મુઝે હૈ દર્શન કી
+તર્જ : પ્રભુ દર્શન સે જીવન કી....
+ચાહ મુઝે હૈ દર્શન કી, પ્રભુ કે ચરણ સ્પર્શન કી ।।
+વીતરાગ-છવિ પ્યારી હૈ, જગજન કો મનહારી હૈ ।
+મૂરત મેરે ભગવન કી, વીર કે ચરણ સ્પર્શન કી ।।
+કુછ ભી નહીં શ્રૃંગાર કિયે, હાથ નહીં હથિયાર લિયે ।
+ફૌજ ભગાઈ કર્મન કી, પ્રભુ કે ચરણ સ્પર્શન કી ।।
+સમતા પાઠ પઢાતી હૈ, ધ્યાન કી યાદ દિલાતી હૈ ।
+નાસાદૃષ્ટિ લખો ઇનકી, પ્રભુ કે ચરણ સ્પર્શન કી ।।
+હાથ પે હાથ ધરે ઐસે, કરના કુછ ન રહા જૈસે ।
+દેખ દશા પદ્માસન કી, વીર કે ચરણ સ્પર્શન કી ।।
+જો શિવ-આનન્દ ચાહો તુમ, ઇન-સા ધ્યાન લગાઓ તુમ ।
+વિપત હરે ભવ-ભટકન કી,પ્રભુ કે ચરણ સ્પર્શન કી ||`,
+      hi: `चाह मुझे है दर्शन की
+तर्ज : प्रभु दर्शन से जीवन की....
+चाह मुझे है दर्शन की, प्रभु के चरण स्पर्शन की ।।
+वीतराग-छवि प्यारी है, जगजन को मनहारी है ।
+मूरत मेरे भगवन की, वीर के चरण स्पर्शन की ।।
+कुछ भी नहीं श्रृंगार किये, हाथ नहीं हथियार लिये ।
+फौज भगाई कर्मन की, प्रभु के चरण स्पर्शन की ।।
+समता पाठ पढ़ाती है, ध्यान की याद दिलाती है ।
+नासादृष्टि लखो इनकी, प्रभु के चरण स्पर्शन की ।।
+हाथ पे हाथ धरे ऐसे, करना कुछ न रहा जैसे ।
+देख दशा पद्मासन की, वीर के चरण स्पर्शन की ।।
+जो शिव-आनन्द चाहो तुम, इन-सा ध्यान लगाओ तुम ।
+विपत हरे भव-भटकन की,प्रभु के चरण स्पर्शन की ||`,
+      sa: "",
+      en: `Chaaha mujhe hai darshana kee
+Tarja : prabhu darshana se jeevana kee....
+Chaaha mujhe hai darshana kee, prabhu ke charana sparshana kee | |
+Veetaraaga-chhavi pyaaree hai, jagajana ko manahaaree hai |
+Moorata mere bhagavana kee, veera ke charana sparshana kee | |
+Kuchha bhee naheen shrringaara kiye, haatha naheen hathiyaara liye |
+Phauja bhagaaee karmana kee, prabhu ke charana sparshana kee | |
+Samataa paatha padhaatee hai, dhyaana kee yaada dilaatee hai |
+Naasaadrishti lakho inakee, prabhu ke charana sparshana kee | |
+Haatha pe haatha dhare aise, karanaa kuchha na rahaa jaise |
+Dekha dashaa padmaasana kee, veera ke charana sparshana kee | |
+Jo shiva-aananda chaaho tuma, ina-saa dhyaana lagaao tuma |
+Vipata hare bhava-bhatakana kee,prabhu ke charana sparshana kee | |`,
+    },
+  },
+  {
+    id: "karuna-sagar-bhagwan",
+    type: "bhajan",
+    title: {
+      gu: "કરુણા સાગર ભગવાન",
+      hi: "करुणा सागर भगवान",
+      sa: "",
+      en: "Karunaa Saagara Bhagavaana",
+    },
+    text: {
+      gu: `કરુણા સાગર ભગવાન
+તર્જ: હોઠોં સે છૂ લો...
+કરુણા સાગર ભગવાન, ભવ પાર લગા દેના ।
+તૂફાં હૈ બહુત ભારી, મેરી નાવ બચા દેના ॥
+મોહી બનકર મૈંને અબ તક જીવન ખોયા ।
+અપને હી હાથોં સે કાટોં કા બીજ બોયા ॥
+અબ શરણ તેરી આયા, દુખ જાલ હટા દેના ।૧। કરુણા સાગર..
+મૈંને ચહુંગતિયોં મેં બહુ કષ્ટ ઉઠાયા હૈ ।
+લખ ચૌરાસી ફિરતે સુખ ચૈન ન પાયા હૈ ॥
+દુખિયા હૂં ભટક રહા પ્રભુ લાજ બચા દેના ।૨। કરુણા સાગર..
+ભગવન તેરી ભક્તિ સે સંકટ ટલ જાતે હૈં ।
+અજ્ઞાન તિમિર મિટતા સુખ અમૃત પાતે હૈં।
+ચરણોં મેં ખડા પ્રભુજી મુઝે રાહ બતા દેના ।૩। કરુણા સાગર..`,
+      hi: `करुणा सागर भगवान
+तर्ज: होठों से छू लो...
+करुणा सागर भगवान, भव पार लगा देना ।
+तूफ़ां है बहुत भारी, मेरी नाव बचा देना ॥
+मोही बनकर मैंने अब तक जीवन खोया ।
+अपने ही हाथों से काटों का बीज बोया ॥
+अब शरण तेरी आया, दुख जाल हटा देना ।१। करुणा सागर..
+मैंने चहुंगतियों में बहु कष्ट उठाया है ।
+लख चौरासी फ़िरते सुख चैन न पाया है ॥
+दुखिया हूं भटक रहा प्रभु लाज बचा देना ।२। करुणा सागर..
+भगवन तेरी भक्ति से संकट टल जाते हैं ।
+अज्ञान तिमिर मिटता सुख अमृत पाते हैं।
+चरणों में खडा प्रभुजी मुझे राह बता देना ।३। करुणा सागर..`,
+      sa: "",
+      en: `Karunaa saagara bhagavaana
+Tarja: hothon se chhoo lo...
+Karunaa saagara bhagavaana, bhava paara lagaa denaa |
+Toophaan hai bahuta bhaaree, meree naava bachaa denaa | |
+Mohee banakara mainne aba taka jeevana khoyaa |
+Apane hee haathon se kaaton kaa beeja boyaa | |
+Aba sharana teree aayaa, dukha jaala hataa denaa | 1 | karunaa saagara..
+Mainne chahungatiyon men bahu kashta uthaayaa hai |
+Lakha chauraasee phirate sukha chaina na paayaa hai | |
+Dukhiyaa hoon bhataka rahaa prabhu laaja bachaa denaa | 2 | karunaa saagara..
+Bhagavana teree bhakti se sankata tala jaate hain |
+Agyaana timira mitataa sukha amrita paate hain |
+Charanon men khadaa prabhujee mujhe raaha bataa denaa | 3 | karunaa saagara..`,
+    },
+  },
+  {
+    id: "paras-prabhu-ka-darshan-hoga",
+    type: "bhajan",
+    title: {
+      gu: "પારસ પ્રભુ કા દર્શન હોગા",
+      hi: "पारस प्रभु का दर्शन होगा",
+      sa: "",
+      en: "Paarasa Prabhu Kaa Darshana Hogaa",
+    },
+    text: {
+      gu: `પારસ પ્રભુ કા દર્શન હોગા
+પારસ પ્રભુ કા દર્શન હોગા, ચરણોં મેં ઉનકે તન મન હોગા।
+ઐસા સુન્દર, ઉજ્જવલ, અપના જીવન હોગા॥ટેક॥
+પારસ પ્રભુ કો ભજૂં, સાંઝ ઔર સવેરે ।
+મોહ તૃષ્ણા કો તજૂં, તબ હી કુછ કાજ બને રે।
+દશ વિધિ ધર્મ કા પાલન હોગા,
+ચરણોં મેં ઉનકે તન મન હોગા। ઐસા સુન્દર....
+ફિર તો દુનિયા કે સબ હી, ઝમેલે છૂટ જાયેંગે।
+કર્મોં કે બન્ધન ભી, અવશ્ય છૂટ જાયેગે।
+કેવલ જ્ઞાન કા દર્શન હોગા,
+ચરણોં મેં ઉનકે તન મન હોગા। ઐસા સુન્દર....`,
+      hi: `पारस प्रभु का दर्शन होगा
+पारस प्रभु का दर्शन होगा, चरणों में उनके तन मन होगा।
+ऐसा सुन्दर, उज्जवल, अपना जीवन होगा॥टेक॥
+पारस प्रभु को भजूं, सांझ और सवेरे ।
+मोह तृष्णा को तजूं, तब ही कुछ काज बने रे।
+दश विधि धर्म का पालन होगा,
+चरणों में उनके तन मन होगा। ऐसा सुन्दर....
+फ़िर तो दुनिया के सब ही, झमेले छूट जायेंगे।
+कर्मों के बन्धन भी, अवश्य छूट जायेगे।
+केवल ज्ञान का दर्शन होगा,
+चरणों में उनके तन मन होगा। ऐसा सुन्दर....`,
+      sa: "",
+      en: `Paarasa prabhu kaa darshana hogaa
+Paarasa prabhu kaa darshana hogaa, charanon men unake tana mana hogaa |
+Aisaa sundara, ujjavala, apanaa jeevana hogaa | | teka | |
+Paarasa prabhu ko bhajoon, saanjha aura savere |
+Moha trishnaa ko tajoon, taba hee kuchha kaaja bane re |
+Dasha vidhi dharma kaa paalana hogaa,
+Charanon men unake tana mana hogaa | aisaa sundara....
+Phira to duniyaa ke saba hee, jhamele chhoota jaayenge |
+Karmon ke bandhana bhee, avashya chhoota jaayege |
+Kevala gyaana kaa darshana hogaa,
+Charanon men unake tana mana hogaa | aisaa sundara....`,
+    },
+  },
+  {
+    id: "girnari-par-tap-kalyanak-nemi-banenge-muniraaj-re",
+    type: "bhajan",
+    title: {
+      gu: "ગિરનારી પર તપ કલ્યાણક નેમિ બનેંગે મુનિરાજ રે",
+      hi: "गिरनारी पर तप कल्याणक नेमि बनेंगे मुनिराज रे",
+      sa: "",
+      en: "Giranaaree Para Tapa Kalyaanaka Nemi Banenge Muniraaja re",
+    },
+    text: {
+      gu: `ગિરનારી પર તપ કલ્યાણક નેમિ બનેંગે મુનિરાજ રે
+આએ લૌકાંતિક બ્રહ્મચારી, હુએ પ્રસન્ન દેખ નર નારી,
+ધન્ય દિવસ હૈ આજ રે , ધન્ય દિવસ હૈ આજ રે ।૧।
+પ્રભુજી બારહ ભવના ભાયે , પરિણતિ મેં વૈરાગ્ય બઢાયે,
+હમ ભી બનેંગે મુનિરાજ રે , હમ ભી બનેંગે મુનિરાજ રે ।૨।
+શુદ્ધાતમ રસ કો હી ચાહે , વિષય ભોગ વિષ સમ હી લાગે ,
+રાગ લગે અંગાર રે , રાગ લગે અંગાર રે ।૩।
+પ્રભુ જી વેશ દિગમ્બર ધારે , ચેતન કો નિર્ગ્રન્થ નિહારે ,
+બરસે આનંદ ધાર રે , બરસે આનંદ ધાર રે ।૪।`,
+      hi: `गिरनारी पर तप कल्याणक नेमि बनेंगे मुनिराज रे
+आए लौकांतिक ब्रह्मचारी, हुए प्रसन्न देख नर नारी,
+धन्य दिवस है आज रे , धन्य दिवस है आज रे ।१।
+प्रभुजी बारह भवना भाये , परिणति में वैराग्य बढाये,
+हम भी बनेंगे मुनिराज रे , हम भी बनेंगे मुनिराज रे ।२।
+शुद्धातम रस को ही चाहे , विषय भोग विष सम ही लागे ,
+राग लगे अंगार रे , राग लगे अंगार रे ।३।
+प्रभु जी वेश दिगम्बर धारे , चेतन को निर्ग्रन्थ निहारे ,
+बरसे आनंद धार रे , बरसे आनंद धार रे ।४।`,
+      sa: "",
+      en: `Giranaaree para tapa kalyaanaka nemi banenge muniraaja re
+Aae laukaantika brahmachaaree, hue prasanna dekha nara naaree,
+Dhanya divasa hai aaja re , dhanya divasa hai aaja re | 1 |
+Prabhujee baaraha bhavanaa bhaaye , parinati men vairaagya badhaaye,
+Hama bhee banenge muniraaja re , hama bhee banenge muniraaja re | 2 |
+Shuddhaatama rasa ko hee chaahe , vishaya bhoga visha sama hee laage ,
+Raaga lage angaara re , raaga lage angaara re | 3 |
+Prabhu jee vesha digambara dhaare , chetana ko nirgrantha nihaare ,
+Barase aananda dhaara re , barase aananda dhaara re | 4 |`,
+    },
+  },
+  {
+    id: "ghar-ghar-aanand-chhayo",
+    type: "bhajan",
+    title: {
+      gu: "ઘર ઘર આનંદ છાયો, જન્મ મહોત્સવ મનાયો- મનાયો",
+      hi: "घर घर आनंद छायो, जन्म महोत्सव मनायो- मनायो",
+      sa: "",
+      en: "Ghara Ghara Aananda Chhaayo, Janma Mahotsava Manaayo- Manaayo",
+    },
+    text: {
+      gu: `ઘર ઘર આનંદ છાયો, જન્મ મહોત્સવ મનાયો- મનાયો ।
+અંતિમ જન્મ હુઆ પ્રભુજી કા,મોક્ષ મહાફલ પાયોજી પાયો|
+સ્વર્ગ પુરી સે સુરપતિ આયે, એરાવત હાથી લે આયે,
+જીવન સફલ હુઆ સુરપતિ કા,જન્મમરણ કો શીઘ્ર નશાયે,
+મંગલ મહોત્સવ મનાયો મનાયો, ઘર ઘર...॥
+પુણ્ય ઉદય હૈ આજ હમારે, નગરી મેં જિનરાજ પધા્રે,
+જિનદર્શન કી પ્યાસ જગાયે, ભક્તિ સહિત સુરરાજ પધારે,
+આતમ રસ બરસાયો બરસાયો, ઘર ઘર...॥
+ધન્ય ધન્ય તુમ દેવી જાઓ, સર્વપ્રથમ દર્શન સુખ પાઓ,
+કષ્ટ ન કિંચિત હો માતા કો, માયામયી સુત દેકર આઓ,
+આતમ દર્શન પાઓ જી પાઓ, ઘર ઘર...॥
+હરિ ને નેત્ર હજાર બનાયે, તો ભી તૃપ્ત નહીં હો પાયે,
+જ્ઞાન ચક્ષુ સે જિન દર્શન કર, એક અભેદ સ્વભાવ લખાયે,
+જીવન સફલ બનાયો બનાયો, ઘર ઘર...॥`,
+      hi: `घर घर आनंद छायो, जन्म महोत्सव मनायो- मनायो ।
+अंतिम जन्म हुआ प्रभुजी का,मोक्ष महाफ़ल पायोजी पायो|
+स्वर्ग पुरी से सुरपति आये, एरावत हाथी ले आये,
+जीवन सफ़ल हुआ सुरपति का,जन्ममरण को शीघ्र नशाये,
+मंगल महोत्सव मनायो मनायो, घर घर...॥
+पुण्य उदय है आज हमारे, नगरी में जिनराज पधा्रे,
+जिनदर्शन की प्यास जगाये, भक्ति सहित सुरराज पधारे,
+आतम रस बरसायो बरसायो, घर घर...॥
+धन्य धन्य तुम देवी जाओ, सर्वप्रथम दर्शन सुख पाओ,
+कष्ट न किंचित हो माता को, मायामयी सुत देकर आओ,
+आतम दर्शन पाओ जी पाओ, घर घर...॥
+हरि ने नेत्र हजार बनाये, तो भी तृप्त नहीं हो पाये,
+ज्ञान चक्षु से जिन दर्शन कर, एक अभेद स्वभाव लखाये,
+जीवन सफ़ल बनायो बनायो, घर घर...॥`,
+      sa: "",
+      en: `Ghara ghara aananda chhaayo, janma mahotsava manaayo- manaayo |
+Antima janma huaa prabhujee kaa,moksha mahaaphala paayojee paayo |
+Svarga puree se surapati aaye, eraavata haathee le aaye,
+Jeevana saphala huaa surapati kaa,janmamarana ko sheeghra nashaaye,
+Mangala mahotsava manaayo manaayo, ghara ghara... | |
+Punya udaya hai aaja hamaare, nagaree men jinaraaja padhaare,
+Jinadarshana kee pyaasa jagaaye, bhakti sahita suraraaja padhaare,
+Aatama rasa barasaayo barasaayo, ghara ghara... | |
+Dhanya dhanya tuma devee jaao, sarvaprathama darshana sukha paao,
+Kashta na kinchita ho maataa ko, maayaamayee suta dekara aao,
+Aatama darshana paao jee paao, ghara ghara... | |
+Hari ne netra hajaara banaaye, to bhee tripta naheen ho paaye,
+Gyaana chakshu se jina darshana kara, eka abheda svabhaava lakhaaye,
+Jeevana saphala banaayo banaayo, ghara ghara... | |`,
+    },
+  },
+  {
+    id: "divya-dhvani-veera-khirai-aaj-shubh-din",
+    type: "bhajan",
+    title: {
+      gu: "દિવ્ય ધ્વનિ વીરા ખિરાઈ આજ શુભ દિન",
+      hi: "दिव्य ध्वनि वीरा खिराई आज शुभ दिन",
+      sa: "",
+      en: "Divya Dhvani Veeraa Khiraaee Aaja Shubha Dina",
+    },
+    text: {
+      gu: `દિવ્ય ધ્વનિ વીરા ખિરાઈ આજ શુભ દિન,
+ધન્ય ધન્ય સાવન કી પહલી હૈ એકમ ॥
+આત્મ સ્વભાવં પરભાવ ભિન્નં,આપૂર્ણ માદ્યન્ત વિમુક્ત મેકમ ॥
+દિવ્ય ધ્વનિ....
+વૈસાખ દસમી કો ઘાતિયા ખિપાયે,
+મેરે પ્રભુ વિપુલાચલ પર આયે,
+ક્ષણ મેં લોકાલોક લખાયે, કિન્તુ ન પ્રભુ ઉપદેશ સુનાયે,
+કાલ લબ્ધિ વાણી કી આયી નહી ઉસ દિન,
+ધન્ય ધન્ય સાવન કી પહલી હૈ એકમ...
+ઇન્દ્ર અવધિજ્ઞાન ઉપયોગ લગાયે,
+સમવસરણ મેં ગણધર ના પાયે,
+ઇન્દ્રભૂતિ ગૌતમ મેં યોગ્યતા લખાયે,
+વીર પ્રભુ કે દર્શન કો આયે,
+કાલ લબ્ધિ લેકર કે આઈ આજ ગૌતમ,
+ધન્ય ધન્ય સાવન કી પહલી હૈ એકમ...
+મેરે પ્રભુ ઓંકાર ધ્વનિ કો ખિરાયે,
+ગૌતમ દ્વાદશ અંગ રચાયે,
+ઉત્પાદ વ્યય ધ્રૌવ્ય સત સમઝાયે,
+તન ચેતન ભિન્ન ભિન્ન બતાયે,
+ભેદ વિજ્ઞાન સુહાયો આજ શુભ દિન,
+ધન્ય ધન્ય સાવન કી પહલી હૈ એકમ...
+ય એવ મુક્ત્વા નય પક્ષપાતં, સ્વરૂપ ગુપ્તા નિવસન્તિ નિત્યં,
+વિકલ્પ જાલ ચ્યુત શાંત ચિત્તા, સ્તયેવ સાક્ષાતામૃતં પિબન્તિ ,
+સ્વાનુભૂતિ કી કલા સિખાઈ આજ શુભ દિન,
+ધન્ય ધન્ય સાવન કી પહલી હૈ એકમ...`,
+      hi: `दिव्य ध्वनि वीरा खिराई आज शुभ दिन,
+धन्य धन्य सावन की पहली है एकम ॥
+आत्म स्वभावं परभाव भिन्नं,आपूर्ण माद्यन्त विमुक्त मेकम ॥
+दिव्य ध्वनि....
+वैसाख दसमी को घातिया खिपाये,
+मेरे प्रभु विपुलाचल पर आये,
+क्षण में लोकालोक लखाये, किन्तु न प्रभु उपदेश सुनाये,
+काल लब्धि वाणी की आयी नही उस दिन,
+धन्य धन्य सावन की पहली है एकम...
+इन्द्र अवधिज्ञान उपयोग लगाये,
+समवसरण में गणधर ना पाये,
+इन्द्रभूति गौतम में योग्यता लखाये,
+वीर प्रभु के दर्शन को आये,
+काल लब्धि लेकर के आई आज गौतम,
+धन्य धन्य सावन की पहली है एकम...
+मेरे प्रभु ओंकार ध्वनि को खिराये,
+गौतम द्वादश अंग रचाये,
+उत्पाद व्यय ध्रौव्य सत समझाये,
+तन चेतन भिन्न भिन्न बताये,
+भेद विज्ञान सुहायो आज शुभ दिन,
+धन्य धन्य सावन की पहली है एकम...
+य एव मुक्त्वा नय पक्षपातं, स्वरूप गुप्ता निवसन्ति नित्यं,
+विकल्प जाल च्युत शांत चित्ता, स्तयेव साक्षातामृतं पिबन्ति ,
+स्वानुभूति की कला सिखाई आज शुभ दिन,
+धन्य धन्य सावन की पहली है एकम...`,
+      sa: "",
+      en: `Divya dhvani veeraa khiraaee aaja shubha dina,
+Dhanya dhanya saavana kee pahalee hai ekama | |
+Aatma svabhaavan parabhaava bhinnan,aapoorna maadyanta vimukta mekama | |
+Divya dhvani....
+Vaisaakha dasamee ko ghaatiyaa khipaaye,
+Mere prabhu vipulaachala para aaye,
+Kshana men lokaaloka lakhaaye, kintu na prabhu upadesha sunaaye,
+Kaala labdhi vaanee kee aayee nahee usa dina,
+Dhanya dhanya saavana kee pahalee hai ekama...
+Indra avadhigyaana upayoga lagaaye,
+Samavasarana men ganadhara naa paaye,
+Indrabhooti gautama men yogyataa lakhaaye,
+Veera prabhu ke darshana ko aaye,
+Kaala labdhi lekara ke aaee aaja gautama,
+Dhanya dhanya saavana kee pahalee hai ekama...
+Mere prabhu onkaara dhvani ko khiraaye,
+Gautama dvaadasha anga rachaaye,
+Utpaada vyaya dhrauvya sata samajhaaye,
+Tana chetana bhinna bhinna bataaye,
+Bheda vigyaana suhaayo aaja shubha dina,
+Dhanya dhanya saavana kee pahalee hai ekama...
+Ya eva muktvaa naya pakshapaatan, svaroopa guptaa nivasanti nityan,
+Vikalpa jaala chyuta shaanta chittaa, stayeva saakshaataamritan pibanti ,
+Svaanubhooti kee kalaa sikhaaee aaja shubha dina,
+Dhanya dhanya saavana kee pahalee hai ekama...`,
+    },
+  },
+  {
+    id: "bhesh-digamber-dhaar-chale-hai-muni-dulha-banke",
+    type: "bhajan",
+    title: {
+      gu: "ભેષ દિગમ્બર ધાર ચલે હૈં મુનિ દૂલ્હા બનકે",
+      hi: "भेष दिगम्बर धार चले हैं मुनि दूल्हा बनके",
+      sa: "",
+      en: "Bhesha Digambara Dhaara Chale Hain Muni Doolhaa Banake",
+    },
+    text: {
+      gu: `ભેષ દિગમ્બર ધાર ચલે હૈં મુનિ દૂલ્હા બનકે
+મુક્તિપુરી કે દ્વાર ચલે હૈં મુનિ દૂલ્હા બનકે ॥
+પંચ મહાવ્રત જામા સજાયા, દશલક્ષણ કા સેહરા બંધાયા,
+ચારિત્ર રથ હો સવાર...ચલે હૈં મુનિ દૂલ્હા બનકે ॥
+બારહ ભાવના સંગ બારાતી, સમિતિ ગુપ્તિ સબ હિલ મિલ ગાતી,
+હર્ષ સે મંગલાચાર...ચલે હૈં મુનિ દૂલ્હા બનકે ॥
+રાગ દ્વેષ આતિશબાજી છૂટી, ક્રોધ કષાય કી લડિયાં ટૂટી,
+સમતા પાયલ ઝનકાર...ચલે હૈં મુનિ દૂલ્હા બનકે ॥
+શુક્લધ્યાન કી અગ્નિ જલાકર,હોમ કિયા નિજકર્મ ખિપાકર,
+તપ તેરા યશગાન...ચલે હૈં મુનિ દૂલ્હા બનકે ॥
+શુભ બેલ શિવરમણી વરેંગે, મુક્તિ મહલ મેં પ્રવેશ કરેંગે,
+ગૂંજેગી ધ્વનિ જયકાર...ચલે હૈં મુનિ દૂલ્હા બનકે ॥`,
+      hi: `भेष दिगम्बर धार चले हैं मुनि दूल्हा बनके
+मुक्तिपुरी के द्वार चले हैं मुनि दूल्हा बनके ॥
+पंच महाव्रत जामा सजाया, दशलक्षण का सेहरा बंधाया,
+चारित्र रथ हो सवार...चले हैं मुनि दूल्हा बनके ॥
+बारह भावना संग बाराती, समिति गुप्ति सब हिल मिल गाती,
+हर्ष से मंगलाचार...चले हैं मुनि दूल्हा बनके ॥
+राग द्वेष आतिशबाजी छूटी, क्रोध कषाय की लडियां टूटी,
+समता पायल झनकार...चले हैं मुनि दूल्हा बनके ॥
+शुक्लध्यान की अग्नि जलाकर,होम किया निजकर्म खिपाकर,
+तप तेरा यशगान...चले हैं मुनि दूल्हा बनके ॥
+शुभ बेल शिवरमणी वरेंगे, मुक्ति महल में प्रवेश करेंगे,
+गूंजेगी ध्वनि जयकार...चले हैं मुनि दूल्हा बनके ॥`,
+      sa: "",
+      en: `Bhesha digambara dhaara chale hain muni doolhaa banake
+Muktipuree ke dvaara chale hain muni doolhaa banake | |
+Pancha mahaavrata jaamaa sajaayaa, dashalakshana kaa seharaa bandhaayaa,
+Chaaritra ratha ho savaara...chale hain muni doolhaa banake | |
+Baaraha bhaavanaa sanga baaraatee, samiti gupti saba hila mila gaatee,
+Harsha se mangalaachaara...chale hain muni doolhaa banake | |
+Raaga dvesha aatishabaajee chhootee, krodha kashaaya kee ladiyaan tootee,
+Samataa paayala jhanakaara...chale hain muni doolhaa banake | |
+Shukladhyaana kee agni jalaakara,homa kiyaa nijakarma khipaakara,
+Tapa teraa yashagaana...chale hain muni doolhaa banake | |
+Shubha bela shivaramanee varenge, mukti mahala men pravesha karenge,
+Goonjegee dhvani jayakaara...chale hain muni doolhaa banake | |`,
+    },
+  },
+  {
+    id: "jinvar-aanan-bhaan-niharat",
+    type: "bhajan",
+    title: {
+      gu: "જિનવર આનન ભાન નિહારત",
+      hi: "जिनवर आनन भान निहारत",
+      sa: "",
+      en: "Jinavara Aanana Bhaana Nihaarata",
+    },
+    text: {
+      gu: `જિનવર-આનન-ભાન નિહારત
+તર્જ: દેખો જી આદીશ્‍વર...
+જિનવર-આનન-ભાન નિહારત, ભ્રમતમ ઘાન નસાયા હૈ ।।
+વચન-કિરન-પ્રસરનતૈં ભવિજન, મનસરોજ સરસાયા હૈ ।
+ભવદુખકારન સુખવિસતારન, કુપથ સુપથ દરસાયા હૈ ।૧।
+વિનસાઈ કજ જલસરસાઈ, નિશિચર સમર દુરાયા હૈ ।
+તસ્કર પ્રબલ કષાય પલાયે, જિન ધનબોધ ચુરાયા હૈ ।૨।
+લખિયત ઉડુગ ન કુભાવ કહૂઁ અબ, મોહ ઉલૂક લજાયા હૈ ।
+હઁસ કોક કો શોક નશ્યો નિજ, પરનતિચકવી પાયા હૈ ।૩।
+કર્મબંધ-કજકોપ બંધે ચિર, ભવિ-અલિ મુંચન પાયા હૈ ।
+દૌલ ઉજાસ નિજાતમ અનુભવ,ઉર જગ અન્તર છાયા હૈ ।૪।`,
+      hi: `जिनवर-आनन-भान निहारत
+तर्ज: देखो जी आदीश्‍वर...
+जिनवर-आनन-भान निहारत, भ्रमतम घान नसाया है ।।
+वचन-किरन-प्रसरनतैं भविजन, मनसरोज सरसाया है ।
+भवदुखकारन सुखविसतारन, कुपथ सुपथ दरसाया है ।१।
+विनसाई कज जलसरसाई, निशिचर समर दुराया है ।
+तस्कर प्रबल कषाय पलाये, जिन धनबोध चुराया है ।२।
+लखियत उडुग न कुभाव कहूँ अब, मोह उलूक लजाया है ।
+हँस कोक को शोक नश्यो निज, परनतिचकवी पाया है ।३।
+कर्मबंध-कजकोप बंधे चिर, भवि-अलि मुंचन पाया है ।
+दौल उजास निजातम अनुभव,उर जग अन्तर छाया है ।४।`,
+      sa: "",
+      en: `Jinavara-aanana-bhaana nihaarata
+Tarja: dekho jee aadeesh‍vara...
+Jinavara-aanana-bhaana nihaarata, bhramatama ghaana nasaayaa hai | |
+Vachana-kirana-prasaranatain bhavijana, manasaroja sarasaayaa hai |
+Bhavadukhakaarana sukhavisataarana, kupatha supatha darasaayaa hai | 1 |
+Vinasaaee kaja jalasarasaaee, nishichara samara duraayaa hai |
+Taskara prabala kashaaya palaaye, jina dhanabodha churaayaa hai | 2 |
+Lakhiyata uduga na kubhaava kahoon aba, moha ulooka lajaayaa hai |
+Hansa koka ko shoka nashyo nija, paranatichakavee paayaa hai | 3 |
+Karmabandha-kajakopa bandhe chira, bhavi-ali munchana paayaa hai |
+Daula ujaasa nijaatama anubhava,ura jaga antara chhaayaa hai | 4 |`,
+    },
+  },
+  {
+    id: "naache-re-inder-dev-re",
+    type: "bhajan",
+    title: {
+      gu: "નાચે રે ઇન્દર દેવ રે",
+      hi: "नाचे रे इन्दर देव रे",
+      sa: "",
+      en: "Naache re Indara Deva re",
+    },
+    text: {
+      gu: `નાચે રે ઇન્દર દેવ રે....નાચે રે ઇન્દર દેવ રે,
+જન્મ કલ્યાણ કી બજ રહી બધૈયા મુક્તિ મેં અબ કા દેર રે।
+નાચે રે ઇન્દર દેવ રે...
+શિવાદેવી કે ગર્ભ મેં આયે, દેખો જી નેમિકુમાર રે,
+સમુદ્રવિજય જી ફલ બતાવેં, હોવે ખુશિયાં અપાર રે॥
+નાચે રે ઇન્દર દેવ રે...
+શિવાદેવી ને લલના જાયો, જાયો નેમિકુમાર રે,
+સમુદ્રવિજય જી મુહરેં લુટાયેં, દેખો દોઈ દોઈ હાથ રે॥
+નાચે રે ઇન્દર દેવ રે...
+દેવ દેવિયાં સ્વર્ગ સે આયે, મન મેં ખુશિયાં અપાર રે,
+છપ્પન કુમારી મંગલ ગાવેં, ગાવેં મંગલાચાર રે॥
+નાચે રે ઇન્દર દેવ રે...`,
+      hi: `नाचे रे इन्दर देव रे....नाचे रे इन्दर देव रे,
+जन्म कल्याण की बज रही बधैया मुक्ति में अब का देर रे।
+नाचे रे इन्दर देव रे...
+शिवादेवी के गर्भ में आये, देखो जी नेमिकुमार रे,
+समुद्रविजय जी फ़ल बतावें, होवे खुशियां अपार रे॥
+नाचे रे इन्दर देव रे...
+शिवादेवी ने ललना जायो, जायो नेमिकुमार रे,
+समुद्रविजय जी मुहरें लुटायें, देखो दोई दोई हाथ रे॥
+नाचे रे इन्दर देव रे...
+देव देवियां स्वर्ग से आये, मन में खुशियां अपार रे,
+छप्पन कुमारी मंगल गावें, गावें मंगलाचार रे॥
+नाचे रे इन्दर देव रे...`,
+      sa: "",
+      en: `Naache re indara deva re....naache re indara deva re,
+Janma kalyaana kee baja rahee badhaiyaa mukti men aba kaa dera re |
+Naache re indara deva re...
+Shivaadevee ke garbha men aaye, dekho jee nemikumaara re,
+Samudravijaya jee phala bataaven, hove khushiyaan apaara re | |
+Naache re indara deva re...
+Shivaadevee ne lalanaa jaayo, jaayo nemikumaara re,
+Samudravijaya jee muharen lutaayen, dekho doee doee haatha re | |
+Naache re indara deva re...
+Deva deviyaan svarga se aaye, mana men khushiyaan apaara re,
+Chhappana kumaaree mangala gaaven, gaaven mangalaachaara re | |
+Naache re indara deva re...`,
+    },
+  },
+  {
+    id: "ghadi-ghadi-pal-pal-chhin-chhin",
+    type: "bhajan",
+    title: {
+      gu: "ઘડિ-ઘડિ પલ-પલ છિન-છિન",
+      hi: "घड़ि-घड़ि पल-पल छिन-छिन",
+      sa: "",
+      en: "Ghadi-ghadi Pala-pala Chhina-chhina",
+    },
+    text: {
+      gu: `ઘડિ-ઘડિ પલ-પલ છિન-છિન
+ઘડિ-ઘડિ પલ-પલ છિન-છિન નિશદિન,
+પ્રભુજી કા સુમિરન કરલે રે ॥
+પ્રભુ સુમિરેતૈં પાપ કટત હૈં,
+જનમમરનદુખ હરલે રે ॥૧॥
+મનવચકાય લગાય ચરન ચિત,
+જ્ઞાન હિયે વિચ ધર લે રે ॥૨॥
+\`દૌલતરામ' ધર્મનૌકા ચઢિ,
+ભવસાગર તૈં તિર લે રે ॥૩॥`,
+      hi: `घड़ि-घड़ि पल-पल छिन-छिन
+घड़ि-घड़ि पल-पल छिन-छिन निशदिन,
+प्रभुजी का सुमिरन करले रे ॥
+प्रभु सुमिरेतैं पाप कटत हैं,
+जनममरनदुख हरले रे ॥१॥
+मनवचकाय लगाय चरन चित,
+ज्ञान हिये विच धर ले रे ॥२॥
+\`दौलतराम' धर्मनौका चढ़ि,
+भवसागर तैं तिर ले रे ॥३॥`,
+      sa: "",
+      en: `Ghadi-ghadi pala-pala chhina-chhina
+Ghadi-ghadi pala-pala chhina-chhina nishadina,
+Prabhujee kaa sumirana karale re | |
+Prabhu sumiretain paapa katata hain,
+Janamamaranadukha harale re | | 1 | |
+Manavachakaaya lagaaya charana chita,
+Gyaana hiye vicha dhara le re | | 2 | |
+\`daulataraama' dharmanaukaa chadhi,
+Bhavasaagara tain tira le re | | 3 | |`,
+    },
+  },
+  {
+    id: "chanvleshvar-paarsnaath",
+    type: "bhajan",
+    title: {
+      gu: "ચઁવલેશ્વર પારસનાથ",
+      hi: "चँवलेश्वर पारसनाथ",
+      sa: "",
+      en: "Chanvaleshvara Paarasanaatha",
+    },
+    text: {
+      gu: `ચઁવલેશ્વર પારસનાથ
+ચઁવલેશ્વર પારસનાથ , મ્હારી નૈયા પાર લગાજો
+મ્હેં સુન સુન અતિશય સારા , આયા દર્શન હિત સારા।
+હોજી મ્હાને પાર કરો મંઝધાર, મ્હારી નૈયા પાર લગાજો ।૧।
+ઊંચા પર્વત ગહરી ઝાડી , નીચે બહ રહી નદિયાં ભારી।
+હોજી થાંકા દર્શન પર બલિહાર,મ્હારી નૈયા પાર લગાજો ।૨।
+થે ચિંતામણિ રતન કહાવો , દુખિયા રા દુખ મિટાઓ।
+મ્હાકે અંતર જ્યોતિ જગાર, મ્હારી નૈયા પાર લગાજો ।૩।
+તોડી માન કમઠ કી માલા , ત્યારા નાગ નાગિન કાલા।
+બન ગયા દેવ કૃપા તબ ધાર , મ્હારી નૈયા પાર લગાજો ।૪।
+મ્હૈં ભી અજયમેરું સું આયા , થાંકા દર્શન કર હરષાયા।
+જાવાં દર્શન પર બલિહાર મ્હારી નૈયા પાર લગાજો ।૫।
+થાંકો નામ મંત્ર જો ધ્યાવે , બ્યાકાં સગલા દુખ મિટ જાવે।
+પ્રગટે શીલ આત્મબલ સાર , મ્હારી નૈયા પાર લગાજો ।૬।`,
+      hi: `चँवलेश्वर पारसनाथ
+चँवलेश्वर पारसनाथ , म्हारी नैया पार लगाजो
+म्हें सुन सुन अतिशय सारा , आया दर्शन हित सारा।
+होजी म्हाने पार करो मंझधार, म्हारी नैया पार लगाजो ।१।
+ऊंचा पर्वत गहरी झाडी , नीचे बह रही नदियां भारी।
+होजी थांका दर्शन पर बलिहार,म्हारी नैया पार लगाजो ।२।
+थे चिंतामणि रतन कहावो , दुखिया रा दुख मिटाओ।
+म्हाके अंतर ज्योति जगार, म्हारी नैया पार लगाजो ।३।
+तोडी मान कमठ की माला , त्यारा नाग नागिन काला।
+बन गया देव कृपा तब धार , म्हारी नैया पार लगाजो ।४।
+म्हैं भी अजयमेरुं सुं आया , थांका दर्शन कर हरषाया।
+जावां दर्शन पर बलिहार म्हारी नैया पार लगाजो ।५।
+थांको नाम मंत्र जो ध्यावे , ब्याकां सगला दुख मिट जावे।
+प्रगटे शील आत्मबल सार , म्हारी नैया पार लगाजो ।६।`,
+      sa: "",
+      en: `Chanvaleshvara paarasanaatha
+Chanvaleshvara paarasanaatha , mhaaree naiyaa paara lagaajo
+Mhen suna suna atishaya saaraa , aayaa darshana hita saaraa |
+Hojee mhaane paara karo manjhadhaara, mhaaree naiyaa paara lagaajo | 1 |
+Oonchaa parvata gaharee jhaadee , neeche baha rahee nadiyaan bhaaree |
+Hojee thaankaa darshana para balihaara,mhaaree naiyaa paara lagaajo | 2 |
+The chintaamani ratana kahaavo , dukhiyaa raa dukha mitaao |
+Mhaake antara jyoti jagaara, mhaaree naiyaa paara lagaajo | 3 |
+Todee maana kamatha kee maalaa , tyaaraa naaga naagina kaalaa |
+Bana gayaa deva kripaa taba dhaara , mhaaree naiyaa paara lagaajo | 4 |
+Mhain bhee ajayamerun sun aayaa , thaankaa darshana kara harashaayaa |
+Jaavaan darshana para balihaara mhaaree naiyaa paara lagaajo | 5 |
+Thaanko naama mantra jo dhyaave , byaakaan sagalaa dukha mita jaave |
+Pragate sheela aatmabala saara , mhaaree naiyaa paara lagaajo | 6 |`,
+    },
+  },
+  {
+    id: "din-aayo-din-aayo",
+    type: "bhajan",
+    title: {
+      gu: "દિન-આયો દિન-આયો દિન-આયો",
+      hi: "दिन-आयो दिन-आयो दिन-आयो",
+      sa: "",
+      en: "Dina-aayo Dina-aayo Dina-aayo",
+    },
+    text: {
+      gu: `દિન-આયો દિન-આયો દિન-આયો,
+આજ જન્મકલ્યાણક દિન આયો ॥
+ઝૂમે આજ નર-નારી ઐસે હરષાય,
+મ્હારો તન મનવા પ્રભુ કે ગુણ ગાયે,
+રંગ-લાગ્યો રંગ-લાગ્યો રંગ-લાગ્યો,
+થારી ભક્તિ મેં મ્હારો પ્રભુ રંગ-લાગ્યો ॥
+તન ભીગે મન ભીગે, ભીગે મોરો આતમ,
+પ્રભુ ને બતાયો આતમ પરમાતમ,
+રંગ-લાગ્યો રંગ-લાગ્યો રંગ-લાગ્યો,
+થારી ભક્તિ મેં મ્હારો પ્રભુ રંગ-લાગ્યો ॥
+સોલહ સપને માઁ ને દેખે, ઉનકા ફલ રાજા સે પૂછા,
+રાની તેરે ગર્ભ સે પુત્ર જન્મ લેગા, તીન લોક કા નાથ બનેગા,
+હરષાયો હરષાયો હરષાયો,
+માતા શિવા દેવી કો મન હરષાયો ॥
+સૌરીપુર મેં જન્મ હુઆ હૈ, તીન ભુવન આનંદ હુઆ હૈ,
+ઇંદ્ર ઇંદ્રાણી મિલ ખુશિયાં મનાવે, મંગલકારી ગીત સુનાવેં,
+ફલ પાયો ફલ પાયો ફલ પાયો,
+માતા શિવાદેવી ને શુભ ફલ પાયો ॥`,
+      hi: `दिन-आयो दिन-आयो दिन-आयो,
+आज जन्मकल्याणक दिन आयो ॥
+झूमे आज नर-नारी ऐसे हरषाय,
+म्हारो तन मनवा प्रभु के गुण गाये,
+रंग-लाग्यो रंग-लाग्यो रंग-लाग्यो,
+थारी भक्ति में म्हारो प्रभु रंग-लाग्यो ॥
+तन भीगे मन भीगे, भीगे मोरो आतम,
+प्रभु ने बतायो आतम परमातम,
+रंग-लाग्यो रंग-लाग्यो रंग-लाग्यो,
+थारी भक्ति में म्हारो प्रभु रंग-लाग्यो ॥
+सोलह सपने माँ ने देखे, उनका फ़ल राजा से पूछा,
+रानी तेरे गर्भ से पुत्र जन्म लेगा, तीन लोक का नाथ बनेगा,
+हरषायो हरषायो हरषायो,
+माता शिवा देवी को मन हरषायो ॥
+सौरीपुर में जन्म हुआ है, तीन भुवन आनंद हुआ है,
+इंद्र इंद्राणी मिल खुशियां मनावे, मंगलकारी गीत सुनावें,
+फ़ल पायो फ़ल पायो फ़ल पायो,
+माता शिवादेवी ने शुभ फ़ल पायो ॥`,
+      sa: "",
+      en: `Dina-aayo dina-aayo dina-aayo,
+Aaja janmakalyaanaka dina aayo | |
+Jhoome aaja nara-naaree aise harashaaya,
+Mhaaro tana manavaa prabhu ke guna gaaye,
+Ranga-laagyo ranga-laagyo ranga-laagyo,
+Thaaree bhakti men mhaaro prabhu ranga-laagyo | |
+Tana bheege mana bheege, bheege moro aatama,
+Prabhu ne bataayo aatama paramaatama,
+Ranga-laagyo ranga-laagyo ranga-laagyo,
+Thaaree bhakti men mhaaro prabhu ranga-laagyo | |
+Solaha sapane maan ne dekhe, unakaa phala raajaa se poochhaa,
+Raanee tere garbha se putra janma legaa, teena loka kaa naatha banegaa,
+Harashaayo harashaayo harashaayo,
+Maataa shivaa devee ko mana harashaayo | |
+Saureepura men janma huaa hai, teena bhuvana aananda huaa hai,
+Indra indraanee mila khushiyaan manaave, mangalakaaree geeta sunaaven,
+Phala paayo phala paayo phala paayo,
+Maataa shivaadevee ne shubha phala paayo | |`,
+    },
+  },
+  {
+    id: "paras-pyara-lago",
+    type: "bhajan",
+    title: {
+      gu: "પારસ પ્યારા લાગો",
+      hi: "पारस प्यारा लागो",
+      sa: "",
+      en: "Paarasa Pyaaraa Laago",
+    },
+    text: {
+      gu: `પારસ પ્યારા લાગો
+પારસ પ્યારા લાગો, ચઁવલેશ્વર પ્યારા લાગો ।
+થાંકી બાંકડલી ઝાડ્યાં મેં, ગૈલો ભૂલ્યો જી મ્હારા પારસજી,
+મ્હૈં રસ્તો કિયાં પાવાંલા॥ પારસ પ્યારા … ॥
+અબ ડર લાગે છૈ મ્હાને, હર બાર પુકારાં થાંને ।
+થાંકા પર્વત રા જંગલ મેં, સિંહ ધડૂકે હો ચઁવલેશ્વર જી,
+મ્હૈં રસ્તો કિયાં પાવાંલા॥ પારસ પ્યારા … ॥
+થે રાગ દ્વેષ ન ત્યાગા, મ્હૈ આયા ભાગ્યા ભાગ્યા ।
+થાંકા પર્વત રી ભાટા કી, ઠોકર લાગી હો ચઁવલેશ્વર જી,
+મ્હૈં રસ્તો કિયાં પાવાંલા॥ પારસ પ્યારા … ॥
+મ્હે અજમેર શહર સે ચાલ્યા, થાંકા ઊંચા દેખ્યા માલા ।
+મ્હાને પેડ્યા પેડ્યા ચઢવો, પ્યારો લાગે હો ચઁવલેશ્વર જી,
+મ્હૈં રસ્તો કિયાં પાવાંલા॥ પારસ પ્યારા … ॥
+થાંકા વિશાલ દર્શન પાયા, જદ તન મન સે હરષાયા ।
+થાંકી છતરી કી તો શોભા, ન્યારી લાગે હો ચઁવલેશ્વર જી,
+મ્હૈં રસ્તો કિયાં પાવાંલા॥ પારસ પ્યારા … ॥
+થે ઝૂંઠ બોલબો છોડો, ઔર ધર્મ સૂં નાતો જોડો ।
+મ્હારી બાંકડલી ઝાડ્યાં મેં, ગૈલો પાવો જી મ્હારા સેવક જી,
+થે સીધો રસ્તો પાવોલા॥ પારસ પ્યારા … ॥`,
+      hi: `पारस प्यारा लागो
+पारस प्यारा लागो, चँवलेश्वर प्यारा लागो ।
+थांकी बांकडली झाड्यां में, गैलो भूल्यो जी म्हारा पारसजी,
+म्हैं रस्तो कियां पावांला॥ पारस प्यारा … ॥
+अब डर लागे छै म्हाने, हर बार पुकारां थांने ।
+थांका पर्वत रा जंगल में, सिंह धडूके हो चँवलेश्वर जी,
+म्हैं रस्तो कियां पावांला॥ पारस प्यारा … ॥
+थे राग द्वेष न त्यागा, म्है आया भाग्या भाग्या ।
+थांका पर्वत री भाटा की, ठोकर लागी हो चँवलेश्वर जी,
+म्हैं रस्तो कियां पावांला॥ पारस प्यारा … ॥
+म्हे अजमेर शहर से चाल्या, थांका ऊंचा देख्या माला ।
+म्हाने पेड्या पेड्या चढवो, प्यारो लागे हो चँवलेश्वर जी,
+म्हैं रस्तो कियां पावांला॥ पारस प्यारा … ॥
+थांका विशाल दर्शन पाया, जद तन मन से हरषाया ।
+थांकी छतरी की तो शोभा, न्यारी लागे हो चँवलेश्वर जी,
+म्हैं रस्तो कियां पावांला॥ पारस प्यारा … ॥
+थे झूंठ बोलबो छोडो, और धर्म सूं नातो जोडो ।
+म्हारी बांकडली झाड्यां में, गैलो पावो जी म्हारा सेवक जी,
+थे सीधो रस्तो पावोला॥ पारस प्यारा … ॥`,
+      sa: "",
+      en: `Paarasa pyaaraa laago
+Paarasa pyaaraa laago, chanvaleshvara pyaaraa laago |
+Thaankee baankadalee jhaadyaan men, gailo bhoolyo jee mhaaraa paarasajee,
+Mhain rasto kiyaan paavaanlaa | | paarasa pyaaraa … | |
+Aba dara laage chhai mhaane, hara baara pukaaraan thaanne |
+Thaankaa parvata raa jangala men, sinha dhadooke ho chanvaleshvara jee,
+Mhain rasto kiyaan paavaanlaa | | paarasa pyaaraa … | |
+The raaga dvesha na tyaagaa, mhai aayaa bhaagyaa bhaagyaa |
+Thaankaa parvata ree bhaataa kee, thokara laagee ho chanvaleshvara jee,
+Mhain rasto kiyaan paavaanlaa | | paarasa pyaaraa … | |
+Mhe ajamera shahara se chaalyaa, thaankaa oonchaa dekhyaa maalaa |
+Mhaane pedyaa pedyaa chadhavo, pyaaro laage ho chanvaleshvara jee,
+Mhain rasto kiyaan paavaanlaa | | paarasa pyaaraa … | |
+Thaankaa vishaala darshana paayaa, jada tana mana se harashaayaa |
+Thaankee chhataree kee to shobhaa, nyaaree laage ho chanvaleshvara jee,
+Mhain rasto kiyaan paavaanlaa | | paarasa pyaaraa … | |
+The jhoontha bolabo chhodo, aura dharma soon naato jodo |
+Mhaaree baankadalee jhaadyaan men, gailo paavo jee mhaaraa sevaka jee,
+The seedho rasto paavolaa | | paarasa pyaaraa … | |`,
+    },
+  },
+  {
+    id: "nemi-jineshvar",
+    type: "bhajan",
+    title: {
+      gu: "નેમિ જિનેશ્‍વર",
+      hi: "नेमि जिनेश्‍वर",
+      sa: "",
+      en: "Nemi Jinesh‍vara",
+    },
+    text: {
+      gu: `નેમિ જિનેશ્‍વર
+નેમિ જિનેશ્‍વર...
+નેમિ જિનેશ્‍વર તેરી જય જયકાર કરે હમ સારે ॥
+ભવ ભય હારી, મમ હિત કારી,
+તુમ હો જ્ઞાતા, તુમ હો દૃષ્ટા ।
+પ્રાણી માત્ર કે પ્રભુ આપને સારે કષ્ટ નિવારે ॥ નેમિ જિનેશ્‍વર..
+વિઘ્ન વિનાશક, સ્વ-પર પ્રકાશક,
+તુમ્હીં મહન્તા, તુમ ભગવન્તા।
+તીન જગત કે જ્ઞેયાકાર નિહારે ॥ નેમિ જિનેશ્‍વર..
+જ્ઞેય પ્રકાશક, હેય વિનાશા,
+ઉપાદેય નિજ, તુમ દર્શાયા।
+ઇંદ્ર સુરેન્દ્ર નરેન્દ્ર તુમ્હારી આરતી ઉતારેં ॥ નેમિ જિનેશ્‍વર...`,
+      hi: `नेमि जिनेश्‍वर
+नेमि जिनेश्‍वर...
+नेमि जिनेश्‍वर तेरी जय जयकार करे हम सारे ॥
+भव भय हारी, मम हित कारी,
+तुम हो ज्ञाता, तुम हो दृष्टा ।
+प्राणी मात्र के प्रभु आपने सारे कष्ट निवारे ॥ नेमि जिनेश्‍वर..
+विघ्न विनाशक, स्व-पर प्रकाशक,
+तुम्हीं महन्ता, तुम भगवन्ता।
+तीन जगत के ज्ञेयाकार निहारे ॥ नेमि जिनेश्‍वर..
+ज्ञेय प्रकाशक, हेय विनाशा,
+उपादेय निज, तुम दर्शाया।
+इंद्र सुरेन्द्र नरेन्द्र तुम्हारी आरती उतारें ॥ नेमि जिनेश्‍वर...`,
+      sa: "",
+      en: `Nemi jinesh‍vara
+Nemi jinesh‍vara...
+Nemi jinesh‍vara teree jaya jayakaara kare hama saare | |
+Bhava bhaya haaree, mama hita kaaree,
+Tuma ho gyaataa, tuma ho drishtaa |
+Praanee maatra ke prabhu aapane saare kashta nivaare | | nemi jinesh‍vara..
+Vighna vinaashaka, sva-para prakaashaka,
+Tumheen mahantaa, tuma bhagavantaa |
+Teena jagata ke gyeyaakaara nihaare | | nemi jinesh‍vara..
+Gyeya prakaashaka, heya vinaashaa,
+Upaadeya nija, tuma darshaayaa |
+Indra surendra narendra tumhaaree aaratee utaaren | | nemi jinesh‍vara...`,
+    },
+  },
+  {
+    id: "shouripur-vale-shouripur-vale",
+    type: "bhajan",
+    title: {
+      gu: "શૌરીપુર વાલે શૌરીપુર વાલે",
+      hi: "शौरीपुर वाले शौरीपुर वाले",
+      sa: "",
+      en: "Shaureepura Vaale Shaureepura Vaale",
+    },
+    text: {
+      gu: `શૌરીપુર વાલે શૌરીપુર વાલે
+શૌરીપુર વાલે શૌરીપુર વાલે, નેમિજી હમારે શૌરીપુર વાલે ॥
+શિવાદેવી ઘર જન્મ લિયો હૈ,
+માતા કી કોખ કો ધન્ય કિયો હૈ
+અંતિમ જન્મ હુઆ પ્રભુજી કા, જન્મ મરણ કો નાશ કિયો હૈ
+સમુદ્રવિજય કે આંખોં કે તારે... નેમિજી હમારે .. ।૧।
+સ્વર્ગ પુરી સે સુરપતિ આયે, ઐરાવત હાથી લે આયે ।
+પાંડુક શિલા પર પ્રભુ કો બિઠાયે, ક્ષીરોદધિ સે ન્હવન કરાયે॥
+રતન બરસાયે હાં ન્હવન કરાયે... નેમિજી હમારે .. ।૨।
+દેખો ભૈયા ઇન્દ્ર ભી આયે, પંચકલ્યાણક કા ઉત્સવ કરાયે ।
+પ્રભુ દર્શન કર અતિ હરષાયે, મંગલ તાંડવ નૃત્ય રચાયે ॥
+સભી હરષાયે હાં ખુશિયાં મનાયે...નેમિજી હમારે .. ।૩।
+તન સે ભિન્ન નિજાતમ નિરખે, નિજ અંતર કા વૈભવ પરખે ।
+ભેદ જ્ઞાન કી જ્યોતિ જલાવે, સંયમ કી મહિમા ચિત લાવે ॥
+ગયે ગિરનારે ગયે ગિરનારે... નેમિજી હમારે .. ।૪।`,
+      hi: `शौरीपुर वाले शौरीपुर वाले
+शौरीपुर वाले शौरीपुर वाले, नेमिजी हमारे शौरीपुर वाले ॥
+शिवादेवी घर जन्म लियो है,
+माता की कोख को धन्य कियो है
+अंतिम जन्म हुआ प्रभुजी का, जन्म मरण को नाश कियो है
+समुद्रविजय के आंखों के तारे... नेमिजी हमारे .. ।१।
+स्वर्ग पुरी से सुरपति आये, ऐरावत हाथी ले आये ।
+पांडुक शिला पर प्रभु को बिठाये, क्षीरोदधि से न्हवन कराये॥
+रतन बरसाये हां न्हवन कराये... नेमिजी हमारे .. ।२।
+देखो भैया इन्द्र भी आये, पंचकल्याणक का उत्सव कराये ।
+प्रभु दर्शन कर अति हरषाये, मंगल तांडव नृत्य रचाये ॥
+सभी हरषाये हां खुशियां मनाये...नेमिजी हमारे .. ।३।
+तन से भिन्न निजातम निरखे, निज अंतर का वैभव परखे ।
+भेद ज्ञान की ज्योति जलावे, संयम की महिमा चित लावे ॥
+गये गिरनारे गये गिरनारे... नेमिजी हमारे .. ।४।`,
+      sa: "",
+      en: `Shaureepura vaale shaureepura vaale
+Shaureepura vaale shaureepura vaale, nemijee hamaare shaureepura vaale | |
+Shivaadevee ghara janma liyo hai,
+Maataa kee kokha ko dhanya kiyo hai
+Antima janma huaa prabhujee kaa, janma marana ko naasha kiyo hai
+Samudravijaya ke aankhon ke taare... nemijee hamaare .. | 1 |
+Svarga puree se surapati aaye, airaavata haathee le aaye |
+Paanduka shilaa para prabhu ko bithaaye, ksheerodadhi se nhavana karaaye | |
+Ratana barasaaye haan nhavana karaaye... nemijee hamaare .. | 2 |
+Dekho bhaiyaa indra bhee aaye, panchakalyaanaka kaa utsava karaaye |
+Prabhu darshana kara ati harashaaye, mangala taandava nritya rachaaye | |
+Sabhee harashaaye haan khushiyaan manaaye...nemijee hamaare .. | 3 |
+Tana se bhinna nijaatama nirakhe, nija antara kaa vaibhava parakhe |
+Bheda gyaana kee jyoti jalaave, sanyama kee mahimaa chita laave | |
+Gaye giranaare gaye giranaare... nemijee hamaare .. | 4 |`,
+    },
+  },
+  {
+    id: "rom-rom-me-nemikunwar-ke-upsham-ras-ki-dhara",
+    type: "bhajan",
+    title: {
+      gu: "રોમ રોમ મેં નેમિકુંવર કે, ઉપશમ રસ કી ધારા",
+      hi: "रोम रोम में नेमिकुंवर के, उपशम रस की धारा",
+      sa: "",
+      en: "Roma Roma Men Nemikunvara Ke, Upashama Rasa Kee Dhaaraa",
+    },
+    text: {
+      gu: `રોમ રોમ મેં નેમિકુંવર કે, ઉપશમ રસ કી ધારા,
+રાગ દ્વેષ કે બંધન તોડે, વેષ દિગમ્બર ધારા ॥
+બ્યાહ કરન કો આયે, સંગ બરાતી લાયે,
+પશુઓં કો બંધન મેં દેખા, દયા સિંધુ લહરાયે,
+ધિક ધિક જગ કી સ્વારથ વૃત્તિ, કહીં ન સુક્ખ લઘારા ॥
+રાજુલ અતિ અકુલાયે, નૌ ભવ કી યાદ દિલાયે,
+નેમિ કહે જગ મેં ન કિસી કા, કોઈ કભી હો પાયે।
+રાગરૂપ અંગારોં દ્વારા, જલતા હૈ જગ સારા ॥
+નૌ ભવ કા સુમિરણ કર નેમિ, આતમ તત્વ વિચારે,
+શાશ્વત ધ્રુવ ચૈતન્ય રાજ કી, મહિમા ચિત મેં ધારે,
+લહરાતા વૈરાગ્ય સિંધુ અબ, ભાયેં ભાવના બારા ॥
+રાજુલ કે પ્રતિ રાગ તજા હૈ, મુક્તિ વધૂ કો બ્યાહેં,
+નગ્ન દિગમ્બર દીક્ષા ધર કર, આતમ ધ્યાન લગાયેં,
+ભવ બંધન કા નાશ કરેંગે, પાવેં સુખ અપારા ॥`,
+      hi: `रोम रोम में नेमिकुंवर के, उपशम रस की धारा,
+राग द्वेष के बंधन तोडे, वेष दिगम्बर धारा ॥
+ब्याह करन को आये, संग बराती लाये,
+पशुओं को बंधन में देखा, दया सिंधु लहराये,
+धिक धिक जग की स्वारथ वृत्ति, कहीं न सुक्ख लघारा ॥
+राजुल अति अकुलाये, नौ भव की याद दिलाये,
+नेमि कहे जग में न किसी का, कोई कभी हो पाये।
+रागरूप अंगारों द्वारा, जलता है जग सारा ॥
+नौ भव का सुमिरण कर नेमि, आतम तत्व विचारे,
+शाश्वत ध्रुव चैतन्य राज की, महिमा चित में धारे,
+लहराता वैराग्य सिंधु अब, भायें भावना बारा ॥
+राजुल के प्रति राग तजा है, मुक्ति वधू को ब्याहें,
+नग्न दिगम्बर दीक्षा धर कर, आतम ध्यान लगायें,
+भव बंधन का नाश करेंगे, पावें सुख अपारा ॥`,
+      sa: "",
+      en: `Roma roma men nemikunvara ke, upashama rasa kee dhaaraa,
+Raaga dvesha ke bandhana tode, vesha digambara dhaaraa | |
+Byaaha karana ko aaye, sanga baraatee laaye,
+Pashuon ko bandhana men dekhaa, dayaa sindhu laharaaye,
+Dhika dhika jaga kee svaaratha vritti, kaheen na sukkha laghaaraa | |
+Raajula ati akulaaye, nau bhava kee yaada dilaaye,
+Nemi kahe jaga men na kisee kaa, koee kabhee ho paaye |
+Raagaroopa angaaron dvaaraa, jalataa hai jaga saaraa | |
+Nau bhava kaa sumirana kara nemi, aatama tatva vichaare,
+Shaashvata dhruva chaitanya raaja kee, mahimaa chita men dhaare,
+Laharaataa vairaagya sindhu aba, bhaayen bhaavanaa baaraa | |
+Raajula ke prati raaga tajaa hai, mukti vadhoo ko byaahen,
+Nagna digambara deekshaa dhara kara, aatama dhyaana lagaayen,
+Bhava bandhana kaa naasha karenge, paaven sukha apaaraa | |`,
+    },
+  },
+  {
+    id: "ashariri-siddh-bhagvaan",
+    type: "bhajan",
+    title: {
+      gu: "અશરીરી-સિદ્ધ ભગવાન",
+      hi: "अशरीरी-सिद्ध भगवान",
+      sa: "",
+      en: "Ashareeree-siddha Bhagavaana",
+    },
+    text: {
+      gu: `અશરીરી-સિદ્ધ ભગવાન
+અશરીરી-સિદ્ધ ભગવાન, આદર્શ તુમ્હીં મેરે
+અવિરુદ્ધ શુદ્ધ ચિદ્‍ઘન, ઉત્કર્ષ તુમ્હીં મેરે ॥ટેક॥
+સમ્યક્ત્વ સુદર્શન જ્ઞાન, અગુરુલઘુ અવગાહન
+સૂક્ષ્મત્વ વીર્ય ગુણખાન, નિર્બાધિત સુખવેદન
+હે ગુણ-અનન્ત કે ધામ, વન્દન અગણિત મેરે ।૧।
+રાગાદિ રહિત નિર્મલ, જન્માદિ રહિત અવિકલ
+કુલ ગોત્ર રહિત નિષ્કુલ, માયાદિ રહિત નિશ્છલ
+રહતે નિજ મેં નિશ્ચલ, નિષ્કર્મ સાધ્ય મેરે ।૨।
+રાગાદિ રહિત ઉપયોગ, જ્ઞાયક પ્રતિભાસી હો
+સ્વાશ્રિત શાશ્વત-સુખ ભોગ, શુદ્ધાત્મ-વિલાસી હો
+હે સ્વયં સિદ્ધ ભગવાન, તુમ સાધ્ય બનો મેરે ।૩।
+ભવિજન તુમ-સમ નિજ-રૂપ, ધ્યાકર તુમ-સમ હોતે
+ચૈતન્ય પિણ્ડ શિવ-ભૂપ, હોકર સબ દુખ ખોતે ॥
+ચૈતન્યરાજ સુખખાન, દુખ દૂર કરો મેરે ।૪।`,
+      hi: `अशरीरी-सिद्ध भगवान
+अशरीरी-सिद्ध भगवान, आदर्श तुम्हीं मेरे
+अविरुद्ध शुद्ध चिद्‍घन, उत्कर्ष तुम्हीं मेरे ॥टेक॥
+सम्यक्त्व सुदर्शन ज्ञान, अगुरुलघु अवगाहन
+सूक्ष्मत्व वीर्य गुणखान, निर्बाधित सुखवेदन
+हे गुण-अनन्त के धाम, वन्दन अगणित मेरे ।१।
+रागादि रहित निर्मल, जन्मादि रहित अविकल
+कुल गोत्र रहित निष्कुल, मायादि रहित निश्छल
+रहते निज में निश्चल, निष्कर्म साध्य मेरे ।२।
+रागादि रहित उपयोग, ज्ञायक प्रतिभासी हो
+स्वाश्रित शाश्वत-सुख भोग, शुद्धात्म-विलासी हो
+हे स्वयं सिद्ध भगवान, तुम साध्य बनो मेरे ।३।
+भविजन तुम-सम निज-रूप, ध्याकर तुम-सम होते
+चैतन्य पिण्ड शिव-भूप, होकर सब दुख खोते ॥
+चैतन्यराज सुखखान, दुख दूर करो मेरे ।४।`,
+      sa: "",
+      en: `Ashareeree-siddha bhagavaana
+Ashareeree-siddha bhagavaana, aadarsha tumheen mere
+Aviruddha shuddha chid‍ghana, utkarsha tumheen mere | | teka | |
+Samyaktva sudarshana gyaana, agurulaghu avagaahana
+Sookshmatva veerya gunakhaana, nirbaadhita sukhavedana
+He guna-ananta ke dhaama, vandana aganita mere | 1 |
+Raagaadi rahita nirmala, janmaadi rahita avikala
+Kula gotra rahita nishkula, maayaadi rahita nishchhala
+Rahate nija men nishchala, nishkarma saadhya mere | 2 |
+Raagaadi rahita upayoga, gyaayaka pratibhaasee ho
+Svaashrita shaashvata-sukha bhoga, shuddhaatma-vilaasee ho
+He svayan siddha bhagavaana, tuma saadhya bano mere | 3 |
+Bhavijana tuma-sama nija-roopa, dhyaakara tuma-sama hote
+Chaitanya pinda shiva-bhoopa, hokara saba dukha khote | |
+Chaitanyaraaja sukhakhaana, dukha doora karo mere | 4 |`,
+    },
+  },
+  {
+    id: "kaipdrum-yah-samavsaran-hai",
+    type: "bhajan",
+    title: {
+      gu: "કલ્પદ્રુમ યહ સમવસરણ હૈ, ભવ્ય જીવ કા શરણાગાર",
+      hi: "कल्पद्रुम यह समवसरण है, भव्य जीव का शरणागार",
+      sa: "",
+      en: "Kalpadruma Yaha Samavasarana Hai, Bhavya Jeeva Kaa Sharanaagaara",
+    },
+    text: {
+      gu: `કલ્પદ્રુમ યહ સમવસરણ હૈ, ભવ્ય જીવ કા શરણાગાર,
+જિનમુખ ઘન સે સદા બરસતી, ચિદાનંદ મય અમૃત ધાર ॥
+જહાં ધર્મ વર્ષા હોતી વહ, સમસરણ અનુપન છવિમાન,
+કલ્પવૃક્ષ સમ ભવ્યજનોં કો, દેતા ગુણ અનંત કી ખાન।
+સુરપતિ કી આજ્ઞા સે ધનપતિ, રચના કરતે હૈં સુખકાર,
+નિજ કી કૃતિ હી ભાસિત હોતી, અતિ આશ્ચર્યમયી મનહાર ॥
+નિજજ્ઞાયક સ્વભાવ મેં જમકર,પ્રભુ ને જબ ધ્યાયા શુક્લધ્યાન
+મોહભાવ ક્ષયકર પ્રગટાયા, યથાખ્યાત ચારિત્ર મહાન,
+તબ અંતર્મુહૂર્ત મેં પ્રગટા, કેવલજ્ઞાન મહાસુખકાર,,
+દર્પણ મેં પ્રતિબિમ્બ તુલ્ય જો, લોકાલોક પ્રકાશન હાર ॥
+ગુણ અનંતમય કલા પ્રકાશિત, ચેતન ચંદ્ર અપૂર્વ મહાન,
+રાગ આગ કી દાહ રહિત, શીતલ ઝરના ઝરતા અભિરાગ,
+જિન વૈભવ મેં તન્મય હોકર, ભોગેં પ્રભુ આનંદ અપાર,
+જ્ઞેય ઝલતે સભી જ્ઞાન મેં, કિન્તુ ન જ્ઞેયોં કા આધાર ॥
+દર્શન જ્ઞાન વીર્ય સુખ સે હૈ, સદા સુશોભિત ચેતન રાજ,
+ચૌંતિસ અતિશય આઠ પ્રાતિહાર્યોં સે શોભિત હૈ જિનરાજ,
+અંતર્બાહ્ય પ્રભુત્વ નિરખકર, લહેં અનંત આનંદ અપાર,
+પ્રભુ કે ચરણ કમલ મેં વંદન, કર પાતે સુખ શાંતિ અપાર ॥`,
+      hi: `कल्पद्रुम यह समवसरण है, भव्य जीव का शरणागार,
+जिनमुख घन से सदा बरसती, चिदानंद मय अमृत धार ॥
+जहां धर्म वर्षा होती वह, समसरण अनुपन छविमान,
+कल्पवृक्ष सम भव्यजनों को, देता गुण अनंत की खान।
+सुरपति की आज्ञा से धनपति, रचना करते हैं सुखकार,
+निज की कृति ही भासित होती, अति आश्चर्यमयी मनहार ॥
+निजज्ञायक स्वभाव में जमकर,प्रभु ने जब ध्याया शुक्लध्यान
+मोहभाव क्षयकर प्रगटाया, यथाख्यात चारित्र महान,
+तब अंतर्मुहूर्त में प्रगटा, केवलज्ञान महासुखकार,,
+दर्पण में प्रतिबिम्ब तुल्य जो, लोकालोक प्रकाशन हार ॥
+गुण अनंतमय कला प्रकाशित, चेतन चंद्र अपूर्व महान,
+राग आग की दाह रहित, शीतल झरना झरता अभिराग,
+जिन वैभव में तन्मय होकर, भोगें प्रभु आनंद अपार,
+ज्ञेय झलते सभी ज्ञान में, किन्तु न ज्ञेयों का आधार ॥
+दर्शन ज्ञान वीर्य सुख से है, सदा सुशोभित चेतन राज,
+चौंतिस अतिशय आठ प्रातिहार्यों से शोभित है जिनराज,
+अंतर्बाह्य प्रभुत्व निरखकर, लहें अनंत आनंद अपार,
+प्रभु के चरण कमल में वंदन, कर पाते सुख शांति अपार ॥`,
+      sa: "",
+      en: `Kalpadruma yaha samavasarana hai, bhavya jeeva kaa sharanaagaara,
+Jinamukha ghana se sadaa barasatee, chidaananda maya amrita dhaara | |
+Jahaan dharma varshaa hotee vaha, samasarana anupana chhavimaana,
+Kalpavriksha sama bhavyajanon ko, detaa guna ananta kee khaana |
+Surapati kee aagyaa se dhanapati, rachanaa karate hain sukhakaara,
+Nija kee kriti hee bhaasita hotee, ati aashcharyamayee manahaara | |
+Nijagyaayaka svabhaava men jamakara,prabhu ne jaba dhyaayaa shukladhyaana
+Mohabhaava kshayakara pragataayaa, yathaakhyaata chaaritra mahaana,
+Taba antarmuhoorta men pragataa, kevalagyaana mahaasukhakaara,,
+Darpana men pratibimba tulya jo, lokaaloka prakaashana haara | |
+Guna anantamaya kalaa prakaashita, chetana chandra apoorva mahaana,
+Raaga aaga kee daaha rahita, sheetala jharanaa jharataa abhiraaga,
+Jina vaibhava men tanmaya hokara, bhogen prabhu aananda apaara,
+Gyeya jhalate sabhee gyaana men, kintu na gyeyon kaa aadhaara | |
+Darshana gyaana veerya sukha se hai, sadaa sushobhita chetana raaja,
+Chauntisa atishaya aatha praatihaaryon se shobhita hai jinaraaja,
+Antarbaahya prabhutva nirakhakara, lahen ananta aananda apaara,
+Prabhu ke charana kamala men vandana, kara paate sukha shaanti apaara | |`,
+    },
+  },
+  {
+    id: "janme-hai-shri-jinraiyan",
+    type: "bhajan",
+    title: {
+      gu: "જન્મેં હૈં શ્રી જિનરાઇયાં",
+      hi: "जन्में हैं श्री जिनराइयां",
+      sa: "",
+      en: "Janmen Hain Shree Jinaraaiyaan",
+    },
+    text: {
+      gu: `ગાવો રી બધાઈયાં, બજાઓ મિલ સુખ શહનાઇયાં,
+જન્મેં હૈં શ્રી જિનરાઇયાં॥
+ધન્ય મરુદેવી ને જાયો હૈ લલના,
+વિશ્વ ઝુલાયે જિસે આજ નૈન પલના,
+જગ હર પાઇયાં કિ સૂરજ ચાંદ જલાઇયાં ॥ જન્મેં હૈં...॥
+છપ્પન કુમારિયોં ને કી માત સેવા,
+રચી થી અયોધ્યા નગરી સ્વર્ગ સમ દેવા,
+ધનદ ઉમગાઇયાં, રત્ન હૈ અપાર બરસાઇયાં ॥ જન્મેં હૈં...॥
+આજ અયોધ્યા સાયે, બના શુભ નગર હૈ,
+ચહકા હૈ ચપ્પા ચપ્પા, છટા મનહર હૈ,
+તોરણહાર સજાઇયાં, બંદનવાર બધાઇયાં ॥ જન્મેં હૈં...॥
+ધન્ય હૈ વો નર જિન જન્મોત્સવ મનાતે,
+પુણ્ય ઉદય સે ઐસા અવસર પાતે,
+પ્રભુ ગુણ ગાઇયાં, શીલ નિજભાગ વરાઇયાં ॥ જન્મેં હૈં...॥`,
+      hi: `गावो री बधाईयां, बजाओ मिल सुख शहनाइयां,
+जन्में हैं श्री जिनराइयां॥
+धन्य मरुदेवी ने जायो है ललना,
+विश्व झुलाये जिसे आज नैन पलना,
+जग हर पाइयां कि सूरज चांद जलाइयां ॥ जन्में हैं...॥
+छप्पन कुमारियों ने की मात सेवा,
+रची थी अयोध्या नगरी स्वर्ग सम देवा,
+धनद उमगाइयां, रत्न है अपार बरसाइयां ॥ जन्में हैं...॥
+आज अयोध्या साये, बना शुभ नगर है,
+चहका है चप्पा चप्पा, छटा मनहर है,
+तोरणहार सजाइयां, बंदनवार बधाइयां ॥ जन्में हैं...॥
+धन्य है वो नर जिन जन्मोत्सव मनाते,
+पुण्य उदय से ऐसा अवसर पाते,
+प्रभु गुण गाइयां, शील निजभाग वराइयां ॥ जन्में हैं...॥`,
+      sa: "",
+      en: `Gaavo ree badhaaeeyaan, bajaao mila sukha shahanaaiyaan,
+Janmen hain shree jinaraaiyaan | |
+Dhanya marudevee ne jaayo hai lalanaa,
+Vishva jhulaaye jise aaja naina palanaa,
+Jaga hara paaiyaan ki sooraja chaanda jalaaiyaan | | janmen hain... | |
+Chhappana kumaariyon ne kee maata sevaa,
+Rachee thee ayodhyaa nagaree svarga sama devaa,
+Dhanada umagaaiyaan, ratna hai apaara barasaaiyaan | | janmen hain... | |
+Aaja ayodhyaa saaye, banaa shubha nagara hai,
+Chahakaa hai chappaa chappaa, chhataa manahara hai,
+Toranahaara sajaaiyaan, bandanavaara badhaaiyaan | | janmen hain... | |
+Dhanya hai vo nara jina janmotsava manaate,
+Punya udaya se aisaa avasara paate,
+Prabhu guna gaaiyaan, sheela nijabhaaga varaaiyaan | | janmen hain... | |`,
+    },
+  },
+  {
+    id: "shri-arhant-chhabi-lakhi-hirde",
+    type: "bhajan",
+    title: {
+      gu: "શ્રી અરહંત છબિ લખિ હિરદૈ",
+      hi: "श्री अरहंत छबि लखि हिरदै",
+      sa: "",
+      en: "Shree Arahanta Chhabi Lakhi Hiradai",
+    },
+    text: {
+      gu: `શ્રી અરહંત છબિ લખિ હિરદૈ
+તર્જ: દેખો જી આદીશ્‍વર...
+શ્રી અરહંત છબિ લખિ હિરદૈ, આનન્દ અનુપમ છાયા હૈ ॥ટેક॥
+વીતરાગ મુદ્રા હિતકારી, આસન પદ્મ લગાયા હૈ
+દૃષ્ટિ નાસિકા અગ્રધાર મનુ, ધ્યાન મહાન બઢાયા હૈ ।૧।
+રૂપ સુધાકર અંજલિ ભરભર, પીવત અતિ સુખ પાયા હૈ
+તારન-તરન જગત હિતકારી,વિરદ સચીપતિ ગાયા હૈ ।૨।
+તુમ મુખ-ચન્દ્ર નયન કે મારગ, હિરદૈ માહિં સમાયા હૈ
+ભ્રમતમ દુ:ખ આતાપ નસ્યો સબ, સુખસાગર બઢિ આયા હૈ ।૩
+પ્રકટી ઉર સન્તોષ ચન્દ્રિકા, નિજ સ્વરૂપ દર્શાયા હૈ
+ધન્ય-ધન્ય તુમ છવિ \`જિનેશ્વર', દેખત હી સુખ પાયા હૈ ।૪।`,
+      hi: `श्री अरहंत छबि लखि हिरदै
+तर्ज: देखो जी आदीश्‍वर...
+श्री अरहंत छबि लखि हिरदै, आनन्द अनुपम छाया है ॥टेक॥
+वीतराग मुद्रा हितकारी, आसन पद्म लगाया है
+दृष्टि नासिका अग्रधार मनु, ध्यान महान बढ़ाया है ।१।
+रूप सुधाकर अंजलि भरभर, पीवत अति सुख पाया है
+तारन-तरन जगत हितकारी,विरद सचीपति गाया है ।२।
+तुम मुख-चन्द्र नयन के मारग, हिरदै माहिं समाया है
+भ्रमतम दु:ख आताप नस्यो सब, सुखसागर बढ़ि आया है ।३
+प्रकटी उर सन्तोष चन्द्रिका, निज स्वरूप दर्शाया है
+धन्य-धन्य तुम छवि \`जिनेश्वर', देखत ही सुख पाया है ।४।`,
+      sa: "",
+      en: `Shree arahanta chhabi lakhi hiradai
+Tarja: dekho jee aadeesh‍vara...
+Shree arahanta chhabi lakhi hiradai, aananda anupama chhaayaa hai | | teka | |
+Veetaraaga mudraa hitakaaree, aasana padma lagaayaa hai
+Drishti naasikaa agradhaara manu, dhyaana mahaana badhaayaa hai | 1 |
+Roopa sudhaakara anjali bharabhara, peevata ati sukha paayaa hai
+Taarana-tarana jagata hitakaaree,virada sacheepati gaayaa hai | 2 |
+Tuma mukha-chandra nayana ke maaraga, hiradai maahin samaayaa hai
+Bhramatama du:kha aataapa nasyo saba, sukhasaagara badhi aayaa hai | 3
+Prakatee ura santosha chandrikaa, nija svaroopa darshaayaa hai
+Dhanya-dhanya tuma chhavi \`jineshvara', dekhata hee sukha paayaa hai | 4 |`,
+    },
+  },
+  {
+    id: "rom-rom-pulkit-ho-jaay",
+    type: "bhajan",
+    title: {
+      gu: "રોમ રો્મ પુલકિત હો જાય",
+      hi: "रोम रो्म पुलकित हो जाय",
+      sa: "",
+      en: "Roma Roma Pulakita ho Jaaya",
+    },
+    text: {
+      gu: `રોમ રો્મ પુલકિત હો જાય
+રોમ રો્મ પુલકિત હો જાય, જબ જિનવર કે દર્શન પાય
+જ્ઞાનાનન્દ કલિયાઁ ખિલ જાયઁ,જબ જિનવર કે દર્શન પાય ॥
+જિન-મન્દિર મેં શ્રી જિનરાજ, તન-મન્દિર મેં ચેતનરાજ
+તન-ચેતન કો ભિન્ન પિછાન, જીવન સફલ હુઆ હૈ આજ ॥
+વીતરાગ સર્વજ્ઞ-દેવ પ્રભુ, આયે હમ તેરે દરબાર
+તેરે દર્શન સે નિજ દર્શન, પાકર હોવેં ભવ સે પાર
+મોહ-મહાતમ તુરત વિલાય, જબ જિનવર કે દર્શન પાય ।૧।
+દર્શન-જ્ઞાન અનન્ત પ્રભુ કા, બલ અનન્ત આનન્દ અપાર
+ગુણ અનન્ત સે શોભિત હૈં પ્રભુ,મહિમા જગ મેં અપરમ્પાર ॥
+શુદ્ધાતમ કી મહિમા આય, જબ જિનવર કે દર્શન પાય ।૨।
+લોકાલોક ઝલકતે જિસમેં, ઐસા પ્રભુ કા કેવલજ્ઞાન
+લીન રહેં નિજ શુદ્ધાતમ મેં, પ્રતિક્ષણ હો આનન્દ મહાન ॥
+જ્ઞાયક પર દૃષ્ટિ જમ જાય, જબ જિનવર કે દર્શન પાય ।૩।
+પ્રભુ કી અન્તર્મુખ-મુદ્રા લખિ, પરિણતિ મેં પ્રકટે સમભાવ
+ક્ષણ-ભર મેં હોં પ્રાપ્ત વિલય કો,પર-આશ્રિત સમ્પૂર્ણ વિભાવ॥
+રત્નત્રય-નિધિયાઁ પ્રકટાય, જબ જિનવર કે દર્શન પાય ।૪।`,
+      hi: `रोम रो्म पुलकित हो जाय
+रोम रो्म पुलकित हो जाय, जब जिनवर के दर्शन पाय
+ज्ञानानन्द कलियाँ खिल जायँ,जब जिनवर के दर्शन पाय ॥
+जिन-मन्दिर में श्री जिनराज, तन-मन्दिर में चेतनराज
+तन-चेतन को भिन्न पिछान, जीवन सफल हुआ है आज ॥
+वीतराग सर्वज्ञ-देव प्रभु, आये हम तेरे दरबार
+तेरे दर्शन से निज दर्शन, पाकर होवें भव से पार
+मोह-महातम तुरत विलाय, जब जिनवर के दर्शन पाय ।१।
+दर्शन-ज्ञान अनन्त प्रभु का, बल अनन्त आनन्द अपार
+गुण अनन्त से शोभित हैं प्रभु,महिमा जग में अपरम्पार ॥
+शुद्धातम की महिमा आय, जब जिनवर के दर्शन पाय ।२।
+लोकालोक झलकते जिसमें, ऐसा प्रभु का केवलज्ञान
+लीन रहें निज शुद्धातम में, प्रतिक्षण हो आनन्द महान ॥
+ज्ञायक पर दृष्टि जम जाय, जब जिनवर के दर्शन पाय ।३।
+प्रभु की अन्तर्मुख-मुद्रा लखि, परिणति में प्रकटे समभाव
+क्षण-भर में हों प्राप्त विलय को,पर-आश्रित सम्पूर्ण विभाव॥
+रत्नत्रय-निधियाँ प्रकटाय, जब जिनवर के दर्शन पाय ।४।`,
+      sa: "",
+      en: `Roma roma pulakita ho jaaya
+Roma roma pulakita ho jaaya, jaba jinavara ke darshana paaya
+Gyaanaananda kaliyaan khila jaayan,jaba jinavara ke darshana paaya | |
+Jina-mandira men shree jinaraaja, tana-mandira men chetanaraaja
+Tana-chetana ko bhinna pichhaana, jeevana saphala huaa hai aaja | |
+Veetaraaga sarvagya-deva prabhu, aaye hama tere darabaara
+Tere darshana se nija darshana, paakara hoven bhava se paara
+Moha-mahaatama turata vilaaya, jaba jinavara ke darshana paaya | 1 |
+Darshana-gyaana ananta prabhu kaa, bala ananta aananda apaara
+Guna ananta se shobhita hain prabhu,mahimaa jaga men aparampaara | |
+Shuddhaatama kee mahimaa aaya, jaba jinavara ke darshana paaya | 2 |
+Lokaaloka jhalakate jisamen, aisaa prabhu kaa kevalagyaana
+Leena rahen nija shuddhaatama men, pratikshana ho aananda mahaana | |
+Gyaayaka para drishti jama jaaya, jaba jinavara ke darshana paaya | 3 |
+Prabhu kee antarmukha-mudraa lakhi, parinati men prakate samabhaava
+Kshana-bhara men hon praapta vilaya ko,para-aashrita sampoorna vibhaava | |
+Ratnatraya-nidhiyaan prakataaya, jaba jinavara ke darshana paaya | 4 |`,
+    },
+  },
+  {
+    id: "mahaveera-jhhoole-palna-jara-houle-jhhota-deejo",
+    type: "bhajan",
+    title: {
+      gu: "મહાવીરા ઝૂલે પલના, જરા હૌલે ઝોટા દીજો",
+      hi: "महावीरा झूले पलना, जरा हौले झोटा दीजो",
+      sa: "",
+      en: "Mahaaveeraa Jhoole Palanaa, Jaraa Haule Jhotaa Deejo",
+    },
+    text: {
+      gu: `મહાવીરા ઝૂલે પલના, જરા હૌલે ઝોટા દીજો॥
+કૌન કે ઘર તેરો જનમ ભયો હૈ, કૌન ને જાયો લલના ॥જરા
+સિદ્ધારથ ઘર જન્મ લિયો હૈ, ત્રિશલા ને જાયો લલના ॥ જરા..
+કાહે કો તેરો બન્યોં પાલનો, કાહે કે લાગે ફુંદના ॥ જરા..
+અગર ચંદન કો બણ્યોં પાલનો, રેશમ કે લાગે ફુંદના ॥ જરા..
+પૈરોં મેં ઘુંઘરૂ હાથ મેં ઝુંઝના, આંગન મેં ચાલે લલના ॥જરા...
+અંદર સે બાહર લે જાવે, બાહર સે અંદર લે જાવે,
+નજર ના લાગે લલના ॥ જરા...`,
+      hi: `महावीरा झूले पलना, जरा हौले झोटा दीजो॥
+कौन के घर तेरो जनम भयो है, कौन ने जायो ललना ॥जरा
+सिद्धारथ घर जन्म लियो है, त्रिशला ने जायो ललना ॥ जरा..
+काहे को तेरो बन्यों पालनो, काहे के लागे फ़ुंदना ॥ जरा..
+अगर चंदन को बण्यों पालनो, रेशम के लागे फ़ुंदना ॥ जरा..
+पैरों में घुंघरू हाथ में झुंझना, आंगन में चाले ललना ॥जरा...
+अंदर से बाहर ले जावे, बाहर से अंदर ले जावे,
+नजर ना लागे ललना ॥ जरा...`,
+      sa: "",
+      en: `Mahaaveeraa jhoole palanaa, jaraa haule jhotaa deejo | |
+Kauna ke ghara tero janama bhayo hai, kauna ne jaayo lalanaa | | jaraa
+Siddhaaratha ghara janma liyo hai, trishalaa ne jaayo lalanaa | | jaraa..
+Kaahe ko tero banyon paalano, kaahe ke laage phundanaa | | jaraa..
+Agara chandana ko banyon paalano, reshama ke laage phundanaa | | jaraa..
+Pairon men ghungharoo haatha men jhunjhanaa, aangana men chaale lalanaa | | jaraa...
+Andara se baahara le jaave, baahara se andara le jaave,
+Najara naa laage lalanaa | | jaraa...`,
+    },
+  },
+  {
+    id: "shri-jinvar-pad-dhyave-je-nar",
+    type: "bhajan",
+    title: {
+      gu: "શ્રી જિનવર પદ ધ્યાવેં જે નર",
+      hi: "श्री जिनवर पद ध्यावें जे नर",
+      sa: "",
+      en: "Shree Jinavara Pada Dhyaaven Je Nara",
+    },
+    text: {
+      gu: `શ્રી જિનવર પદ ધ્યાવેં જે નર
+શ્રી જિનવર પદ ધ્યાવેં જે નર, શ્રી જિનવર પદ ધ્યાવેં હૈં ॥
+તિનકી કર્મ કાલિમા વિનશે, પરમ બ્રહ્મ હો જાવેં હૈં
+ઉપલ-અગ્નિ સંયોગ પાય જિમિ, કંચન વિમલ કહાવેં હૈં ।૧।
+ચન્દ્રોજ્જ્વલ જસ તિનકો જગ મેં, પણ્ડિત જન નિત ગાવેં હૈં
+જૈસે કમલ સુગન્ધ દશોં દિશ, પવન સહજ ફૈલાવેં હૈં ।૨।
+તિનહિ મિલન કો મુક્તિ સુન્દરી, ચિત અભિલાષા લાવેં હૈં
+કૃષિમેં તૃણ જિમિ સહજ ઉપજિયો, સ્વર્ગાદિકસુખ પાવેંહૈં ।૩।
+જનમ-જરા-મૃત દાવાનલ યે, ભાવ સલિલ તૈં બુઝાવેં હૈં ।
+ભાગચંદ કહાઁ તાંઈ વરને, તિનહિ ઇન્દ્ર શિર નાવેં હૈં ।૪।`,
+      hi: `श्री जिनवर पद ध्यावें जे नर
+श्री जिनवर पद ध्यावें जे नर, श्री जिनवर पद ध्यावें हैं ॥
+तिनकी कर्म कालिमा विनशे, परम ब्रह्म हो जावें हैं
+उपल-अग्नि संयोग पाय जिमि, कंचन विमल कहावें हैं ।१।
+चन्द्रोज्ज्वल जस तिनको जग में, पण्डित जन नित गावें हैं
+जैसे कमल सुगन्ध दशों दिश, पवन सहज फैलावें हैं ।२।
+तिनहि मिलन को मुक्ति सुन्दरी, चित अभिलाषा लावें हैं
+कृषिमें तृण जिमि सहज उपजियो, स्वर्गादिकसुख पावेंहैं ।३।
+जनम-जरा-मृत दावानल ये, भाव सलिल तैं बुझावें हैं ।
+भागचंद कहाँ तांई वरने, तिनहि इन्द्र शिर नावें हैं ।४।`,
+      sa: "",
+      en: `Shree jinavara pada dhyaaven je nara
+Shree jinavara pada dhyaaven je nara, shree jinavara pada dhyaaven hain | |
+Tinakee karma kaalimaa vinashe, parama brahma ho jaaven hain
+Upala-agni sanyoga paaya jimi, kanchana vimala kahaaven hain | 1 |
+Chandrojjvala jasa tinako jaga men, pandita jana nita gaaven hain
+Jaise kamala sugandha dashon disha, pavana sahaja phailaaven hain | 2 |
+Tinahi milana ko mukti sundaree, chita abhilaashaa laaven hain
+Krishimen trina jimi sahaja upajiyo, svargaadikasukha paavenhain | 3 |
+Janama-jaraa-mrita daavaanala ye, bhaava salila tain bujhaaven hain |
+Bhaagachanda kahaan taanee varane, tinahi indra shira naaven hain | 4 |`,
+    },
+  },
+  {
+    id: "tere-panch-huye-kalyan-prabhu",
+    type: "bhajan",
+    title: {
+      gu: "તેરે પાંચ હુયે કલ્યાણ પ્રભુ",
+      hi: "तेरे पांच हुये कल्याण प्रभु",
+      sa: "",
+      en: "Tere Paancha Huye Kalyaana Prabhu",
+    },
+    text: {
+      gu: `તેરે પાંચ હુયે કલ્યાણ પ્રભુ ઇક બાર મેરા કલ્યાણ કર દે।
+અંતર્યામી અંતર્જ્ઞાની પ્રભુ દૂર મેરા અજ્ઞાન કર દે॥
+ગર્ભ સમય મેં રત્ન જો બરસે, ઉનમેં સે એક રતન નહીં ચાહૂં,
+જન્મ સમય ક્ષીરોદધિ સે ઇન્દ્રોં ને કિયા વો ન્હવન નહીં ચાહૂં
+મૈં ક્યા ચાહૂં સુનલે ૨
+જો ચિત્ત કો નિર્મલ શાંત કરે વહીં ગંધોદક મુઝે દાન કર દે
+ધાર દિગમ્બર વેશ કિયા તપ
+તપ કર વિષય વિકાર કો ત્યાગા
+સાર નહીં સંસાર મેં કોઈ ઇસીલિયે સંસાર કો ત્યાગા ॥
+મૈં ક્યા ચાહૂં સુનલે ૨
+અપને લિયે બરસોં ધ્યાન કિયા મેરી ઓર ભી થોડા ધ્યાન કર દે
+કેવલજ્ઞાન કી મિલ ગઈ જ્યોતિ લોકાલોક દિખાને વાલી,
+સમવશરણ મેં ખિર ગઈ વાણી સબકી સમઝ મેં આને વાલી ॥
+મૈં ક્યા ચાહૂં સુનલે ૨
+હે વીતરાગ સર્વજ્ઞ પ્રભુ મેઝે તેરા દર્શ આસાન કર દે ॥
+તીર્થંકર બનકર તૂ પ્રગટા સ્વાભાવિક થી મુક્તિ તેરી,
+મુક્તિ મુઝકો દે તબ દેના ભવ ભવ કી ભક્તિ તેરી ॥
+મૈં ક્યા ચાહૂં સુનલે ૨
+નિશદિન તેરે ગુણગાન કરૂં બસ ઇતના હી ભગવાન કર દે ॥
+યહાં કૌન હૈ ઐસા તેરે સિવા ઔરોં કો જો અપને સમાન કર દે॥`,
+      hi: `तेरे पांच हुये कल्याण प्रभु इक बार मेरा कल्याण कर दे।
+अंतर्यामी अंतर्ज्ञानी प्रभु दूर मेरा अज्ञान कर दे॥
+गर्भ समय में रत्न जो बरसे, उनमें से एक रतन नहीं चाहूं,
+जन्म समय क्षीरोदधि से इन्द्रों ने किया वो न्हवन नहीं चाहूं
+मैं क्या चाहूं सुनले २
+जो चित्त को निर्मल शांत करे वहीं गंधोदक मुझे दान कर दे
+धार दिगम्बर वेश किया तप
+तप कर विषय विकार को त्यागा
+सार नहीं संसार में कोई इसीलिये संसार को त्यागा ॥
+मैं क्या चाहूं सुनले २
+अपने लिये बरसों ध्यान किया मेरी ओर भी थोडा ध्यान कर दे
+केवलज्ञान की मिल गई ज्योति लोकालोक दिखाने वाली,
+समवशरण में खिर गई वाणी सबकी समझ में आने वाली ॥
+मैं क्या चाहूं सुनले २
+हे वीतराग सर्वज्ञ प्रभु मेझे तेरा दर्श आसान कर दे ॥
+तीर्थंकर बनकर तू प्रगटा स्वाभाविक थी मुक्ति तेरी,
+मुक्ति मुझको दे तब देना भव भव की भक्ति तेरी ॥
+मैं क्या चाहूं सुनले २
+निशदिन तेरे गुणगान करूं बस इतना ही भगवान कर दे ॥
+यहां कौन है ऐसा तेरे सिवा औरों को जो अपने समान कर दे॥`,
+      sa: "",
+      en: `Tere paancha huye kalyaana prabhu ika baara meraa kalyaana kara de |
+Antaryaamee antargyaanee prabhu doora meraa agyaana kara de | |
+Garbha samaya men ratna jo barase, unamen se eka ratana naheen chaahoon,
+Janma samaya ksheerodadhi se indron ne kiyaa vo nhavana naheen chaahoon
+Main kyaa chaahoon sunale 2
+Jo chitta ko nirmala shaanta kare vaheen gandhodaka mujhe daana kara de
+Dhaara digambara vesha kiyaa tapa
+Tapa kara vishaya vikaara ko tyaagaa
+Saara naheen sansaara men koee iseeliye sansaara ko tyaagaa | |
+Main kyaa chaahoon sunale 2
+Apane liye barason dhyaana kiyaa meree ora bhee thodaa dhyaana kara de
+Kevalagyaana kee mila gaee jyoti lokaaloka dikhaane vaalee,
+Samavasharana men khira gaee vaanee sabakee samajha men aane vaalee | |
+Main kyaa chaahoon sunale 2
+He veetaraaga sarvagya prabhu mejhe teraa darsha aasaana kara de | |
+Teerthankara banakara too pragataa svaabhaavika thee mukti teree,
+Mukti mujhako de taba denaa bhava bhava kee bhakti teree | |
+Main kyaa chaahoon sunale 2
+Nishadina tere gunagaana karoon basa itanaa hee bhagavaana kara de | |
+Yahaan kauna hai aisaa tere sivaa auron ko jo apane samaana kara de | |`,
+    },
+  },
+  {
+    id: "surpati-le-apne-sheesh",
+    type: "bhajan",
+    title: {
+      gu: "સુરપતિ લે અપને શીશ",
+      hi: "सुरपति ले अपने शीश",
+      sa: "",
+      en: "Surapati Le Apane Sheesha",
+    },
+    text: {
+      gu: `સુરપતિ લે અપને શીશ, જગત કે ઈશ ગયે ગિરિરાજા,
+જા પાણ્ડુકશિલા વિરાજા ॥ સુરપતિ...॥
+શિલ્પી કુબેર વહાઁ આકર કે, ક્ષીરોદધિ મેરુ લગા કરકે,
+રુચિ પૈઢિ લે આયે, સાગર કા જલ તાજા,
+ફિર ન્હવન કિયો જિનરાજા ॥ સુરપતિ...॥
+નીલમ પન્ના વૈડુર્યમણિ, કલશા લેકર કે દેવગણિ,
+એક સહસ આઠ કલશા લેકર નભરાજા,
+ફિર ન્હવન કિયો જિનરાજા ॥ સુરપતિ...॥
+વસુ યોજન ગહરાઈ વાલે, ચઉ યોજન ચૌડાઈ વાલે,
+ઇક યોજન મુખ કે કલશ ઢરે જિનમાથા,
+નહિં જરા ડિગે શિશુનાથા ॥ સુરપતિ...॥
+સૌધર્મ ઇન્દ્ર અરુ ઈશાન, પ્રભુ કલશ કરેં ધર યુગ પાના,
+અરુ સનત્કુમાર મહેન્દ્ર દોઉ જિનરાજા,
+શિર ચમર ઢુરાવેં સાજા ॥ સુરપતિ...॥
+ઐરાવત પુનિ પ્રભુ લાકર કે, માતા કી ગોદ બિઠા કરકે,
+અતિ અચરજ તાણ્ડવ નૃત્ય કિયો દિવિરાજા,
+સ્તુતિ કરકે જિનરાજા ॥ સુરપતિ...॥`,
+      hi: `सुरपति ले अपने शीश, जगत के ईश गये गिरिराजा,
+जा पाण्डुकशिला विराजा ॥ सुरपति...॥
+शिल्पी कुबेर वहाँ आकर के, क्षीरोदधि मेरु लगा करके,
+रुचि पैढि ले आये, सागर का जल ताजा,
+फ़िर न्हवन कियो जिनराजा ॥ सुरपति...॥
+नीलम पन्ना वैडुर्यमणि, कलशा लेकर के देवगणि,
+एक सहस आठ कलशा लेकर नभराजा,
+फ़िर न्हवन कियो जिनराजा ॥ सुरपति...॥
+वसु योजन गहराई वाले, चउ योजन चौडाई वाले,
+इक योजन मुख के कलश ढरे जिनमाथा,
+नहिं जरा डिगे शिशुनाथा ॥ सुरपति...॥
+सौधर्म इन्द्र अरु ईशान, प्रभु कलश करें धर युग पाना,
+अरु सनत्कुमार महेन्द्र दोउ जिनराजा,
+शिर चमर ढुरावें साजा ॥ सुरपति...॥
+ऐरावत पुनि प्रभु लाकर के, माता की गोद बिठा करके,
+अति अचरज ताण्डव नृत्य कियो दिविराजा,
+स्तुति करके जिनराजा ॥ सुरपति...॥`,
+      sa: "",
+      en: `Surapati le apane sheesha, jagata ke eesha gaye giriraajaa,
+Jaa paandukashilaa viraajaa | | surapati... | |
+Shilpee kubera vahaan aakara ke, ksheerodadhi meru lagaa karake,
+Ruchi paidhi le aaye, saagara kaa jala taajaa,
+Phira nhavana kiyo jinaraajaa | | surapati... | |
+Neelama pannaa vaiduryamani, kalashaa lekara ke devagani,
+Eka sahasa aatha kalashaa lekara nabharaajaa,
+Phira nhavana kiyo jinaraajaa | | surapati... | |
+Vasu yojana gaharaaee vaale, chau yojana chaudaaee vaale,
+Ika yojana mukha ke kalasha dhare jinamaathaa,
+Nahin jaraa dige shishunaathaa | | surapati... | |
+Saudharma indra aru eeshaana, prabhu kalasha karen dhara yuga paanaa,
+Aru sanatkumaara mahendra dou jinaraajaa,
+Shira chamara dhuraaven saajaa | | surapati... | |
+Airaavata puni prabhu laakara ke, maataa kee goda bithaa karake,
+Ati acharaja taandava nritya kiyo diviraajaa,
+Stuti karake jinaraajaa | | surapati... | |`,
+    },
+  },
+  {
+    id: "panch-param-parmeshthi-dekhe",
+    type: "bhajan",
+    title: {
+      gu: "પંચ પરમ પરમેષ્ઠી દેખે",
+      hi: "पंच परम परमेष्ठी देखे",
+      sa: "",
+      en: "Pancha Parama Parameshthee Dekhe",
+    },
+    text: {
+      gu: `પંચ પરમ પરમેષ્ઠી દેખે
+પંચ પરમ પરમેષ્ઠી દેખે, હૃદય હર્ષિત હોતા હૈ,
+આનન્દ ઉલ્લસિત હોતા હૈ, હો સમ્યગ્દર્શન હોતા હૈ ॥
+દર્શ-જ્ઞાન-સુખ-વીર્ય સ્વરૂપી, ગુણ અનન્ત કે ધારી હૈં
+જગ કો મુક્તિમાર્ગ બતાતે , નિજ ચૈતન્ય વિહારી હૈં
+મોક્ષમાર્ગ કે નેતા દેખે, વિશ્વ તત્ત્વ કે જ્ઞાતા દેખે ॥હૃદય।૧।
+દ્રવ્ય-ભાવ-નોકર્મ રહિત, જો, સિદ્ધાલય કે વાસી હૈં
+આતમ કો પ્રતિબિમ્બિત કરતે, અજર અમર અવિનાશી હૈ
+શાશ્વત સુખ કે ભોગી દેખે, યોગરહિત નિજયોગી દેખે ॥હૃદય।૨
+સાધુ સંઘ કે અનુશાસક જો, ધર્મતીર્થ કે નાયક હૈં
+નિજ-પર કે હિતકારી ગુરુવર, દેવ-ધર્મ પરિચાયક હૈં
+ગુણ છત્તીસ સુપાલક દેખે, મુક્તિમાર્ગ સંચાલક દેખે ॥હૃદય।૩
+જિનવાણી કો હૃદયંગમ કર, શુદ્ધાતમ રસ પીતે હૈં
+દ્વાદશાંગ કે ધારક મુનિવર, જ્ઞાનાનન્દ મેં જીતે હૈં
+દ્રવ્ય-ભાવ શ્રુત ધારી દેખે, બીસ-પાઁચ ગુણધારી દેખે ॥હૃદય।૪।
+નિજસ્વભાવ સાધનરત સાધુ, પરમ દિગમ્બર વનવાસી
+સહજ શુદ્ધ ચૈતન્યરાજમય, નિજપરિણતિ કે અભિલાષી
+ચલતે-ફિરતે સિદ્ધપ્રભુ દેખે, બીસ-આઠ ગુણમય વિભુ દેખે ॥હૃદય હર્ષિત હોતા હૈ .. ।૫।`,
+      hi: `पंच परम परमेष्ठी देखे
+पंच परम परमेष्ठी देखे, हृदय हर्षित होता है,
+आनन्द उल्लसित होता है, हो सम्यग्दर्शन होता है ॥
+दर्श-ज्ञान-सुख-वीर्य स्वरूपी, गुण अनन्त के धारी हैं
+जग को मुक्तिमार्ग बताते , निज चैतन्य विहारी हैं
+मोक्षमार्ग के नेता देखे, विश्व तत्त्व के ज्ञाता देखे ॥हृदय।१।
+द्रव्य-भाव-नोकर्म रहित, जो, सिद्धालय के वासी हैं
+आतम को प्रतिबिम्बित करते, अजर अमर अविनाशी है
+शाश्वत सुख के भोगी देखे, योगरहित निजयोगी देखे ॥हृदय।२
+साधु संघ के अनुशासक जो, धर्मतीर्थ के नायक हैं
+निज-पर के हितकारी गुरुवर, देव-धर्म परिचायक हैं
+गुण छत्तीस सुपालक देखे, मुक्तिमार्ग संचालक देखे ॥हृदय।३
+जिनवाणी को हृदयंगम कर, शुद्धातम रस पीते हैं
+द्वादशांग के धारक मुनिवर, ज्ञानानन्द में जीते हैं
+द्रव्य-भाव श्रुत धारी देखे, बीस-पाँच गुणधारी देखे ॥हृदय।४।
+निजस्वभाव साधनरत साधु, परम दिगम्बर वनवासी
+सहज शुद्ध चैतन्यराजमय, निजपरिणति के अभिलाषी
+चलते-फिरते सिद्धप्रभु देखे, बीस-आठ गुणमय विभु देखे ॥हृदय हर्षित होता है .. ।५।`,
+      sa: "",
+      en: `Pancha parama parameshthee dekhe
+Pancha parama parameshthee dekhe, hridaya harshita hotaa hai,
+Aananda ullasita hotaa hai, ho samyagdarshana hotaa hai | |
+Darsha-gyaana-sukha-veerya svaroopee, guna ananta ke dhaaree hain
+Jaga ko muktimaarga bataate , nija chaitanya vihaaree hain
+Mokshamaarga ke netaa dekhe, vishva tattva ke gyaataa dekhe | | hridaya | 1 |
+Dravya-bhaava-nokarma rahita, jo, siddhaalaya ke vaasee hain
+Aatama ko pratibimbita karate, ajara amara avinaashee hai
+Shaashvata sukha ke bhogee dekhe, yogarahita nijayogee dekhe | | hridaya | 2
+Saadhu sangha ke anushaasaka jo, dharmateertha ke naayaka hain
+Nija-para ke hitakaaree guruvara, deva-dharma parichaayaka hain
+Guna chhatteesa supaalaka dekhe, muktimaarga sanchaalaka dekhe | | hridaya | 3
+Jinavaanee ko hridayangama kara, shuddhaatama rasa peete hain
+Dvaadashaanga ke dhaaraka munivara, gyaanaananda men jeete hain
+Dravya-bhaava shruta dhaaree dekhe, beesa-paancha gunadhaaree dekhe | | hridaya | 4 |
+Nijasvabhaava saadhanarata saadhu, parama digambara vanavaasee
+Sahaja shuddha chaitanyaraajamaya, nijaparinati ke abhilaashee
+Chalate-phirate siddhaprabhu dekhe, beesa-aatha gunamaya vibhu dekhe | | hridaya harshita hotaa hai .. | 5 |`,
+    },
+  },
+  {
+    id: "ik-anjane-rahi-ne-shivpur-ka-marag-chhod-diya",
+    type: "bhajan",
+    title: {
+      gu: "ઇક અનજાને રાહી ને શિવપુર કા મારગ છોડ દિયા",
+      hi: "इक अनजाने राही ने शिवपुर का मारग छोड दिया",
+      sa: "",
+      en: "Ika Anajaane Raahee Ne Shivapura Kaa Maaraga Chhoda Diyaa",
+    },
+    text: {
+      gu: `મમતા કી પતવાર ના તોડી આખિર કો દમ તોડ દિયા ।
+ઇક અનજાને રાહી ને શિવપુર કા મારગ છોડ દિયા ॥ટેક॥.
+નર્ક મેં જિસને ભાવના ભાયી માનુષ તન કો પાને કી,
+ભેષ દિગમ્બર ધારણ કરકે મુક્તિ પદ કો પાને કી,
+લેકિન દેખો આજ યે હાલત મમતા કે દીવાને કી,
+ચેતન હોકર જડ દ્રવ્યોં સે કૈસે નાતા જોડ લિયા॥ ઇક..
+મમતા કે બન્ધન મે બંધ કર ક્યા યુગ યુગ તક સોના હૈ,
+મોહ અરી કા સચમુચ ઇસ પર હો ગયા જાદૂ ટોના હૈ,
+ચેતન ક્યા નરતન કો પાકર અબ ભી યોં હી ખોના હૈ,
+મન કા રથ ક્યોં શિવમારગ સે કુમારગ પર મોડ દિયા ॥ઇક.
+મત ખોના દુનિયા મેં આકર યે બસ્તી અનજાની હૈ,
+જાયેગા હર જાને વાલા જગ કી રીતિ પુરાની હૈ,
+જીવન બન જાતા યહાં પંકજ સબકી એક કહાની હૈ,
+ચેતન નિજ સ્વરુપ દેખા તો દુખ કા દામન તોડ દિયા ॥ઇક`,
+      hi: `ममता की पतवार ना तोडी आखिर को दम तोड दिया ।
+इक अनजाने राही ने शिवपुर का मारग छोड दिया ॥टेक॥.
+नर्क में जिसने भावना भायी मानुष तन को पाने की,
+भेष दिगम्बर धारण करके मुक्ति पद को पाने की,
+लेकिन देखो आज ये हालत ममता के दीवाने की,
+चेतन होकर जड द्रव्यों से कैसे नाता जोड लिया॥ इक..
+ममता के बन्धन मे बंध कर क्या युग युग तक सोना है,
+मोह अरी का सचमुच इस पर हो गया जादू टोना है,
+चेतन क्या नरतन को पाकर अब भी यों ही खोना है,
+मन का रथ क्यों शिवमारग से कुमारग पर मोड दिया ॥इक.
+मत खोना दुनिया में आकर ये बस्ती अनजानी है,
+जायेगा हर जाने वाला जग की रीति पुरानी है,
+जीवन बन जाता यहां पंकज सबकी एक कहानी है,
+चेतन निज स्वरुप देखा तो दुख का दामन तोड दिया ॥इक`,
+      sa: "",
+      en: `Mamataa kee patavaara naa todee aakhira ko dama toda diyaa |
+Ika anajaane raahee ne shivapura kaa maaraga chhoda diyaa | | teka | | .
+Narka men jisane bhaavanaa bhaayee maanusha tana ko paane kee,
+Bhesha digambara dhaarana karake mukti pada ko paane kee,
+Lekina dekho aaja ye haalata mamataa ke deevaane kee,
+Chetana hokara jada dravyon se kaise naataa joda liyaa | | ika..
+Mamataa ke bandhana me bandha kara kyaa yuga yuga taka sonaa hai,
+Moha aree kaa sachamucha isa para ho gayaa jaadoo tonaa hai,
+Chetana kyaa naratana ko paakara aba bhee yon hee khonaa hai,
+Mana kaa ratha kyon shivamaaraga se kumaaraga para moda diyaa | | ika.
+Mata khonaa duniyaa men aakara ye bastee anajaanee hai,
+Jaayegaa hara jaane vaalaa jaga kee reeti puraanee hai,
+Jeevana bana jaataa yahaan pankaja sabakee eka kahaanee hai,
+Chetana nija svarupa dekhaa to dukha kaa daamana toda diyaa | | ika`,
+    },
+  },
+  {
+    id: "vando-adbhut-chandrveer-jeen",
+    type: "bhajan",
+    title: {
+      gu: "વન્દોં અદ્ભુત ચન્દ્રવીર જિન",
+      hi: "वन्दों अद्भुत चन्द्रवीर जिन",
+      sa: "",
+      en: "Vandon Adbhuta Chandraveera Jina",
+    },
+    text: {
+      gu: `વન્દોં અદ્ભુત ચન્દ્રવીર જિન
+તર્જ: દેખો જી આદીશ્‍વર...
+વન્દોં અદ્ભુત ચન્દ્રવીર જિન, ભવિચકોર ચિત હારી
+ચિદાનન્દ અંબુધિ અબ ઉછર્યો ભવ તપ નાશન હારી ॥ટેક॥
+સિદ્ધારથ નૃપ કુલ નભ મણ્ડલ, ખણ્ડન ભ્રમ-તમ ભારી
+પરમાનન્દ જલધિ વિસ્તારન, પાપ તાપ છય કારી ।૧।
+ઉદિત નિરન્તર ત્રિભુવન અન્તર, કીરત કિરન પસારી
+દોષ મલંક કલંક અખકિ, મોહ રાહુ નિરવારી ।૨।
+કર્માવરણ પયોધ અરોધિત, બોધિત શિવ મગચારી
+ગણધરાદિ મુનિ ઉડ્ગન સેવત,નિત પૂનમ તિથિ ધારી ।૩।
+અખિલ અલોકાકાશ ઉલંઘન, જાસુ જ્ઞાન ઉજયારી ।
+\`દૌલત' તનસા કુમુદિનિમોદન, જ્યોં ચરમ જગતારી ।૪।`,
+      hi: `वन्दों अद्भुत चन्द्रवीर जिन
+तर्ज: देखो जी आदीश्‍वर...
+वन्दों अद्भुत चन्द्रवीर जिन, भविचकोर चित हारी
+चिदानन्द अंबुधि अब उछर्यो भव तप नाशन हारी ॥टेक॥
+सिद्धारथ नृप कुल नभ मण्डल, खण्डन भ्रम-तम भारी
+परमानन्द जलधि विस्तारन, पाप ताप छय कारी ।१।
+उदित निरन्तर त्रिभुवन अन्तर, कीरत किरन पसारी
+दोष मलंक कलंक अखकि, मोह राहु निरवारी ।२।
+कर्मावरण पयोध अरोधित, बोधित शिव मगचारी
+गणधरादि मुनि उड्गन सेवत,नित पूनम तिथि धारी ।३।
+अखिल अलोकाकाश उलंघन, जासु ज्ञान उजयारी ।
+\`दौलत' तनसा कुमुदिनिमोदन, ज्यों चरम जगतारी ।४।`,
+      sa: "",
+      en: `Vandon adbhuta chandraveera jina
+Tarja: dekho jee aadeesh‍vara...
+Vandon adbhuta chandraveera jina, bhavichakora chita haaree
+Chidaananda anbudhi aba uchharyo bhava tapa naashana haaree | | teka | |
+Siddhaaratha nripa kula nabha mandala, khandana bhrama-tama bhaaree
+Paramaananda jaladhi vistaarana, paapa taapa chhaya kaaree | 1 |
+Udita nirantara tribhuvana antara, keerata kirana pasaaree
+Dosha malanka kalanka akhaki, moha raahu niravaaree | 2 |
+Karmaavarana payodha arodhita, bodhita shiva magachaaree
+Ganadharaadi muni udgana sevata,nita poonama tithi dhaaree | 3 |
+Akhila alokaakaasha ulanghana, jaasu gyaana ujayaaree |
+\`daulata' tanasaa kumudinimodana, jyon charama jagataaree | 4 |`,
+    },
+  },
+  {
+    id: "nadi-naav-sanjog-mile-jyo",
+    type: "bhajan",
+    title: {
+      gu: "નદી નાવ સંજોગ મિલે જ્યોં",
+      hi: "नदी नाव संजोग मिले ज्यों",
+      sa: "",
+      en: "Nadee Naava Sanjoga Mile Jyon",
+    },
+    text: {
+      gu: `ચેતન તૂઁ તિહુઁ કાલ અકેલા,
+નદી નાવ સંજોગ મિલે જ્યોં, ત્યોં કુટુમ્બ કા મેલા ॥
+યહ સંસાર અસાર રૂપ સબ, જ્યોં પટપેખન ખેલા,
+સુખ સમ્પત્તિ શરીર જલ બુદ બુદ, વિનશત નાહીં બેલા ॥
+મોહી મગન આતમ ગુન ભૂલત, પૂરી તોહી ગલ જેલા,
+મૈ મૈ કરત ચહુંગતિ ડોલત, બોલત જૈસે છૈલા ॥
+કહત બનારસિ મિથ્યામત તજ, હોય સુગુરુ કા ચેલા,
+તાસ વચન પરતીત આન જિય,હોઈ સહજ સુર ઝેલા ॥`,
+      hi: `चेतन तूँ तिहुँ काल अकेला,
+नदी नाव संजोग मिले ज्यों, त्यों कुटुम्ब का मेला ॥
+यह संसार असार रूप सब, ज्यों पटपेखन खेला,
+सुख सम्पत्ति शरीर जल बुद बुद, विनशत नाहीं बेला ॥
+मोही मगन आतम गुन भूलत, पूरी तोही गल जेला,
+मै मै करत चहुंगति डोलत, बोलत जैसे छैला ॥
+कहत बनारसि मिथ्यामत तज, होय सुगुरु का चेला,
+तास वचन परतीत आन जिय,होई सहज सुर झेला ॥`,
+      sa: "",
+      en: `Chetana toon tihun kaala akelaa,
+Nadee naava sanjoga mile jyon, tyon kutumba kaa melaa | |
+Yaha sansaara asaara roopa saba, jyon patapekhana khelaa,
+Sukha sampatti shareera jala buda buda, vinashata naaheen belaa | |
+Mohee magana aatama guna bhoolata, pooree tohee gala jelaa,
+Mai mai karata chahungati dolata, bolata jaise chhailaa | |
+Kahata banaarasi mithyaamata taja, hoya suguru kaa chelaa,
+Taasa vachana parateeta aana jiya,hoee sahaja sura jhelaa | |`,
+    },
+  },
+  {
+    id: "darbaar-tumhara-manhar-hai",
+    type: "bhajan",
+    title: {
+      gu: "દરબાર તુમ્હારા મનહર હૈ",
+      hi: "दरबार तुम्हारा मनहर है",
+      sa: "",
+      en: "Darabaara Tumhaaraa Manahara hai",
+    },
+    text: {
+      gu: `દરબાર તુમ્હારા મનહર હૈ
+દરબાર તુમ્હારા મનહર હૈ, પ્રભુ દર્શન કર હર્ષાયે હૈં
+દરબાર તુમ્હારે આયે હૈં, દરબાર તુમ્હારે આયે હૈં ।।ટેક।।
+ભક્તિ કરેંગે ચિત સે તુમ્હારી, તૃપ્ત ભી હોગી ચાહ હમારી
+ભાવ રહેં નિત ઉત્તમ ઐસે, ઘટ કે પટ મેં લાયે હૈં ।૧।
+જિસને ચિંતન કિયા તુમ્હારા, મિલા ઉસે સંતોષ સહારા
+શરણે જો ભી આયે હૈં, નિજઆતમ કો લખ પાયે હૈં ।૨।
+વિનય યહી હૈ પ્રભૂ હમારી, આતમ કી મહકે ફુલવારી
+અનુગામી હો તુમપદ પાવન,\`વૃદ્ધિ' ચરણ સિર નાયે હૈં ।૩।`,
+      hi: `दरबार तुम्हारा मनहर है
+दरबार तुम्हारा मनहर है, प्रभु दर्शन कर हर्षाये हैं
+दरबार तुम्हारे आये हैं, दरबार तुम्हारे आये हैं ।।टेक।।
+भक्ति करेंगे चित से तुम्हारी, तृप्त भी होगी चाह हमारी
+भाव रहें नित उत्तम ऐसे, घट के पट में लाये हैं ।१।
+जिसने चिंतन किया तुम्हारा, मिला उसे संतोष सहारा
+शरणे जो भी आये हैं, निजआतम को लख पाये हैं ।२।
+विनय यही है प्रभू हमारी, आतम की महके फुलवारी
+अनुगामी हो तुमपद पावन,\`वृद्धि' चरण सिर नाये हैं ।३।`,
+      sa: "",
+      en: `Darabaara tumhaaraa manahara hai
+Darabaara tumhaaraa manahara hai, prabhu darshana kara harshaaye hain
+Darabaara tumhaare aaye hain, darabaara tumhaare aaye hain | | teka | |
+Bhakti karenge chita se tumhaaree, tripta bhee hogee chaaha hamaaree
+Bhaava rahen nita uttama aise, ghata ke pata men laaye hain | 1 |
+Jisane chintana kiyaa tumhaaraa, milaa use santosha sahaaraa
+Sharane jo bhee aaye hain, nijaaatama ko lakha paaye hain | 2 |
+Vinaya yahee hai prabhoo hamaaree, aatama kee mahake phulavaaree
+Anugaamee ho tumapada paavana,\`vriddhi' charana sira naaye hain | 3 |`,
+    },
+  },
+  {
+    id: "ek-tumhari-adhaar-ho-jag-main",
+    type: "bhajan",
+    title: {
+      gu: "એક તુમ્હીં આધાર હો જગ મેં",
+      hi: "एक तुम्हीं आधार हो जग में",
+      sa: "",
+      en: "Eka Tumheen Aadhaara ho Jaga Men",
+    },
+    text: {
+      gu: `એક તુમ્હીં આધાર હો જગ મેં
+એક તુમ્હીં આધાર હો જગ મેં, અય મેરે ભગવાન
+કિ તુમસા ઔર નહીં બલવાન
+સઁભલ ન પાયા ગોતે ખાયા, તુમ બિન હો હૈરાન
+કિ તુમસા ઔર નહીં બલવાન ॥ટેક॥
+આયા સમય બડા સુખકારી, આતમ-બોધ કલા વિસ્તારી
+મૈં ચેતન, તન વસ્તુમન્યારી, સ્વયં ચરાચર ઝલકી સારી
+નિજ અન્તર મેં જ્યોતિ જ્ઞાન કી અક્ષયનિધિ મહાન,
+કિ તુમસા ઔર નહીં બલવાન ।૧।
+દુનિયા મેં ઇક શરણ જિનંદા, પાપ-પુણ્ય કા બુરા યે ફંદા
+મૈં શિવભૂપ રૂપ સુખકંદા, જ્ઞાતા-દૃષ્ટા તુમ-સા બંદા
+મુઝ કારજ કે કારણ તુમ હો, ઔર નહીં મતિમાન
+કિ તુમસા ઔર નહીં બલવાન ।૨।
+સહજ સ્વભાવ ભાવ દરશાઊઁ , પર પરિણતિ સે ચિત્ત હટાઊઁ
+પુનિ-પુનિ જગ મેં જન્મ નપાઊઁ,સિદ્ધસમાન સ્વયં બનજાઊઁ
+ચિદાનન્દ ચૈતન્ય પ્રભુ કા હૈ સૌભાગ્ય પ્રધાન
+કિ તુમસા ઔર નહીં બલવાન ।૩।`,
+      hi: `एक तुम्हीं आधार हो जग में
+एक तुम्हीं आधार हो जग में, अय मेरे भगवान
+कि तुमसा और नहीं बलवान
+सँभल न पाया गोते खाया, तुम बिन हो हैरान
+कि तुमसा और नहीं बलवान ॥टेक॥
+आया समय बड़ा सुखकारी, आतम-बोध कला विस्तारी
+मैं चेतन, तन वस्तुमन्यारी, स्वयं चराचर झलकी सारी
+निज अन्तर में ज्योति ज्ञान की अक्षयनिधि महान,
+कि तुमसा और नहीं बलवान ।१।
+दुनिया में इक शरण जिनंदा, पाप-पुण्य का बुरा ये फंदा
+मैं शिवभूप रूप सुखकंदा, ज्ञाता-दृष्टा तुम-सा बंदा
+मुझ कारज के कारण तुम हो, और नहीं मतिमान
+कि तुमसा और नहीं बलवान ।२।
+सहज स्वभाव भाव दरशाऊँ , पर परिणति से चित्त हटाऊँ
+पुनि-पुनि जग में जन्म नपाऊँ,सिद्धसमान स्वयं बनजाऊँ
+चिदानन्द चैतन्य प्रभु का है सौभाग्य प्रधान
+कि तुमसा और नहीं बलवान ।३।`,
+      sa: "",
+      en: `Eka tumheen aadhaara ho jaga men
+Eka tumheen aadhaara ho jaga men, aya mere bhagavaana
+Ki tumasaa aura naheen balavaana
+Sanbhala na paayaa gote khaayaa, tuma bina ho hairaana
+Ki tumasaa aura naheen balavaana | | teka | |
+Aayaa samaya badaa sukhakaaree, aatama-bodha kalaa vistaaree
+Main chetana, tana vastumanyaaree, svayan charaachara jhalakee saaree
+Nija antara men jyoti gyaana kee akshayanidhi mahaana,
+Ki tumasaa aura naheen balavaana | 1 |
+Duniyaa men ika sharana jinandaa, paapa-punya kaa buraa ye phandaa
+Main shivabhoopa roopa sukhakandaa, gyaataa-drishtaa tuma-saa bandaa
+Mujha kaaraja ke kaarana tuma ho, aura naheen matimaana
+Ki tumasaa aura naheen balavaana | 2 |
+Sahaja svabhaava bhaava darashaaoon , para parinati se chitta hataaoon
+Puni-puni jaga men janma napaaoon,siddhasamaana svayan banajaaoon
+Chidaananda chaitanya prabhu kaa hai saubhaagya pradhaana
+Ki tumasaa aura naheen balavaana | 3 |`,
+    },
+  },
+  {
+    id: "bhaya-thari-bawli-jawani-chaali-re",
+    type: "bhajan",
+    title: {
+      gu: "ભાયા થારી બાવલી જવાની ચાલી રે",
+      hi: "भाया थारी बावली जवानी चाली रे",
+      sa: "",
+      en: "Bhaayaa Thaaree Baavalee Javaanee Chaalee re",
+    },
+    text: {
+      gu: `ભાયા થારી બાવલી જવાની ચાલી રે,
+ભગવાન ભજન તૂં કદ કરસી થારી ગરદન હાલી રે ॥
+લાખ ચોરાસી જીવાજૂન મેં મુશ્કિલ નરતન પાયો,
+તૂં જીવન ને ખેલ સમઝકર બિરધા કીયાં ગમાયો,
+આયો મૂઠી બાઁધ મુસાફિર જાસી હાથા ખાલી રે ।૧।
+ઝૂઁઠ કપટ કર જોડ જોડ ધન કોઠા ભરી તિજોરી રે,
+ધર્મ કમાઈ કરી ન દમડી કોરી મૂઁછ મરોડી રે,
+હૈ મિથ્યા અભિમાન આઁખ કી થોથી થારી લાલી રે ।૨।
+કંચન કાયા કામ ન આસી થારા ગોતી નાતી રે,
+આતમરામ અકેલો જાસી પડી રહેગી માટી રે,
+જન્તર મન્તર ધન સમ્પત સે મોત ટલે નહીં ટાલી રે ।૩।
+આપા પર કો ભેદ સમઝલે ખોલ હિયા કી આઁખ રે,
+વીતરાગ જિન દર્શન તજકર અઠી ઉઠી મત ઝાઁક રે,
+પદ પૂજા સૌભાગ્ય કરેલી શિવ રમણી લે થાલી રે ।૪।`,
+      hi: `भाया थारी बावली जवानी चाली रे,
+भगवान भजन तूं कद करसी थारी गरदन हाली रे ॥
+लाख चोरासी जीवाजून में मुश्किल नरतन पायो,
+तूं जीवन ने खेल समझकर बिरधा कीयां गमायो,
+आयो मूठी बाँध मुसाफिर जासी हाथा खाली रे ।१।
+झूँठ कपट कर जोड़ जोड़ धन कोठा भरी तिजोरी रे,
+धर्म कमाई करी न दमड़ी कोरी मूँछ मरोड़ी रे,
+है मिथ्या अभिमान आँख की थोथी थारी लाली रे ।२।
+कंचन काया काम न आसी थारा गोती नाती रे,
+आतमराम अकेलो जासी पड़ी रहेगी माटी रे,
+जन्तर मन्तर धन सम्पत से मोत टले नहीं टाली रे ।३।
+आपा पर को भेद समझले खोल हिया की आँख रे,
+वीतराग जिन दर्शन तजकर अठी उठी मत झाँक रे,
+पद पूजा सौभाग्य करेली शिव रमणी ले थाली रे ।४।`,
+      sa: "",
+      en: `Bhaayaa thaaree baavalee javaanee chaalee re,
+Bhagavaana bhajana toon kada karasee thaaree garadana haalee re | |
+Laakha choraasee jeevaajoona men mushkila naratana paayo,
+Toon jeevana ne khela samajhakara biradhaa keeyaan gamaayo,
+Aayo moothee baandha musaaphira jaasee haathaa khaalee re | 1 |
+Jhoontha kapata kara joda joda dhana kothaa bharee tijoree re,
+Dharma kamaaee karee na damadee koree moonchha marodee re,
+Hai mithyaa abhimaana aankha kee thothee thaaree laalee re | 2 |
+Kanchana kaayaa kaama na aasee thaaraa gotee naatee re,
+Aatamaraama akelo jaasee padee rahegee maatee re,
+Jantara mantara dhana sampata se mota tale naheen taalee re | 3 |
+Aapaa para ko bheda samajhale khola hiyaa kee aankha re,
+Veetaraaga jina darshana tajakara athee uthee mata jhaanka re,
+Pada poojaa saubhaagya karelee shiva ramanee le thaalee re | 4 |`,
+    },
+  },
+  {
+    id: "tumhare-dhyaan-ki-murat",
+    type: "bhajan",
+    title: {
+      gu: "તિહારે ધ્યાન કી મૂરત",
+      hi: "तिहारे ध्यान की मूरत",
+      sa: "",
+      en: "Tihaare Dhyaana Kee Moorata",
+    },
+    text: {
+      gu: `તિહારે ધ્યાન કી મૂરત
+તિહારે ધ્યાન કી મૂરત, અજબ છવિ કો દિખાતી હૈ
+વિષય કી વાસના તજ કર,નિજાતમ લૌ લગાતી હૈ ॥ટેક॥
+તેરે દર્શન સે હે સ્વામી! લખા હૈ રૂપ મૈં તેરા
+તજૂઁ કબ રાગ તન-ધન કા, યે સબ મેરે વિજાતી હૈં ।૧।
+જગત કે દેવ સબ દેખે, કોઈ રાગી કોઈ દ્વેષી
+કિસી કે હાથ આયુધ હૈ, કિસી કો નાર ભાતી હૈ ।૨।
+જગત કે દેવ હઠગ્રાહી, કુનય કે પક્ષપાતી હૈં
+તૂ હી સુનય કા હૈ વેત્તા, વચન તેરે અઘાતી હૈં ।૩।
+મુઝે કુછ ચાહ નહીં જગ કી, યહી હૈ ચાહ સ્વામી જી
+જપૂઁ તુમ નામ કી માલા, જો મેરે કામ આતી હૈ ।૪।
+તુમ્હારી છવિ નિરખ સ્વામી, નિજાતમ લૌ લગી મેરે
+યહી લૌ પાર કર દેગી, જો ભક્તોં કો સુહાતી હૈ ।૫।`,
+      hi: `तिहारे ध्यान की मूरत
+तिहारे ध्यान की मूरत, अजब छवि को दिखाती है
+विषय की वासना तज कर,निजातम लौ लगाती है ॥टेक॥
+तेरे दर्शन से हे स्वामी! लखा है रूप मैं तेरा
+तजूँ कब राग तन-धन का, ये सब मेरे विजाती हैं ।१।
+जगत के देव सब देखे, कोई रागी कोई द्वेषी
+किसी के हाथ आयुध है, किसी को नार भाती है ।२।
+जगत के देव हठग्राही, कुनय के पक्षपाती हैं
+तू ही सुनय का है वेत्ता, वचन तेरे अघाती हैं ।३।
+मुझे कुछ चाह नहीं जग की, यही है चाह स्वामी जी
+जपूँ तुम नाम की माला, जो मेरे काम आती है ।४।
+तुम्हारी छवि निरख स्वामी, निजातम लौ लगी मेरे
+यही लौ पार कर देगी, जो भक्तों को सुहाती है ।५।`,
+      sa: "",
+      en: `Tihaare dhyaana kee moorata
+Tihaare dhyaana kee moorata, ajaba chhavi ko dikhaatee hai
+Vishaya kee vaasanaa taja kara,nijaatama lau lagaatee hai | | teka | |
+Tere darshana se he svaamee! lakhaa hai roopa main teraa
+Tajoon kaba raaga tana-dhana kaa, ye saba mere vijaatee hain | 1 |
+Jagata ke deva saba dekhe, koee raagee koee dveshee
+Kisee ke haatha aayudha hai, kisee ko naara bhaatee hai | 2 |
+Jagata ke deva hathagraahee, kunaya ke pakshapaatee hain
+Too hee sunaya kaa hai vettaa, vachana tere aghaatee hain | 3 |
+Mujhe kuchha chaaha naheen jaga kee, yahee hai chaaha svaamee jee
+Japoon tuma naama kee maalaa, jo mere kaama aatee hai | 4 |
+Tumhaaree chhavi nirakha svaamee, nijaatama lau lagee mere
+Yahee lau paara kara degee, jo bhakton ko suhaatee hai | 5 |`,
+    },
+  },
+  {
+    id: "dhyan-dhar-re-prabhu-ko",
+    type: "bhajan",
+    title: {
+      gu: "ધ્યાન ધર લે પ્રભૂ કો",
+      hi: "ध्यान धर ले प्रभू को",
+      sa: "",
+      en: "Dhyaana Dhara Le Prabhoo ko",
+    },
+    text: {
+      gu: `ધ્યાન ધર લે પ્રભૂ કો ધ્યાન ધર લે,
+આ માથે ઊબી મૌત ભાયા જ્ઞાન કરલે ॥ટેક॥
+ફૂલ ગુલાબી કોમલ કાયા, યા પલ મેં મુરઝાસી,
+જોબન જોર જવાની થારી, સન્ધ્યા સી ઢલ જાસી ।૧।
+હાડ માંસ કા પીંજરા પર, યા રૂપાલી ચામ,
+દેખ રિઝાયો બાવલા, ક્યૂં જડ કો બણ્યો ગુલામ ।૨।
+લામ્બો ચૌડો માંડ પસારો, કીયાં રહ્યો હૈ ફૂલ,
+હાટ હવેલી કામ ન આસી, યા સોના કી ઝૂલ ।૩।
+ભાઈ બન્ધુ કુટુમ્બ કબીલો, હૈ મતલબ કો સારો,
+આપા પર કો ભેદ સમઝલે જદ હોસી નિસ્તારો ।૪।
+મોક્ષ મહલ કો સાંચો મારગ, યો છ: જરા સમઝલે,
+ઉત્તમ કુલ સૌભાગ્ય મિલ્યો હૈ, આતમરામ સુમરલૌ ।૫।`,
+      hi: `ध्यान धर ले प्रभू को ध्यान धर ले,
+आ माथे ऊबी मौत भाया ज्ञान करले ॥टेक॥
+फूल गुलाबी कोमल काया, या पल में मुरझासी,
+जोबन जोर जवानी थारी, सन्ध्या सी ढल जासी ।१।
+हाड़ मांस का पींजरा पर, या रूपाली चाम,
+देख रिझायो बावला, क्यूं जड़ को बण्यो गुलाम ।२।
+लाम्बो चौड़ो मांड पसारो, कीयां रह्यो है फूल,
+हाट हवेली काम न आसी, या सोना की झूल ।३।
+भाई बन्धु कुटुम्ब कबीलो, है मतलब को सारो,
+आपा पर को भेद समझले जद होसी निस्तारो ।४।
+मोक्ष महल को सांचो मारग, यो छ: जरा समझले,
+उत्तम कुल सौभाग्य मिल्यो है, आतमराम सुमरलौ ।५।`,
+      sa: "",
+      en: `Dhyaana dhara le prabhoo ko dhyaana dhara le,
+Aa maathe oobee mauta bhaayaa gyaana karale | | teka | |
+Phoola gulaabee komala kaayaa, yaa pala men murajhaasee,
+Jobana jora javaanee thaaree, sandhyaa see dhala jaasee | 1 |
+Haada maansa kaa peenjaraa para, yaa roopaalee chaama,
+Dekha rijhaayo baavalaa, kyoon jada ko banyo gulaama | 2 |
+Laambo chaudo maanda pasaaro, keeyaan rahyo hai phoola,
+Haata havelee kaama na aasee, yaa sonaa kee jhoola | 3 |
+Bhaaee bandhu kutumba kabeelo, hai matalaba ko saaro,
+Aapaa para ko bheda samajhale jada hosee nistaaro | 4 |
+Moksha mahala ko saancho maaraga, yo chha: jaraa samajhale,
+Uttama kula saubhaagya milyo hai, aatamaraama sumaralau | 5 |`,
+    },
+  },
+  {
+    id: "mere-man-mandir-main-aan",
+    type: "bhajan",
+    title: {
+      gu: "મેરે મન-મન્દિર મેં આન",
+      hi: "मेरे मन-मन्दिर में आन",
+      sa: "",
+      en: "Mere Mana-mandira Men Aana",
+    },
+    text: {
+      gu: `મેરે મન-મન્દિર મેં આન
+મેરે મન-મન્દિર મેં આન, પધારો મહાવીર ભગવાન ॥ટેક॥
+ભગવન તુમ આનન્દ સરોવર, રૂપ તુમ્હારા મહા મનોહર
+નિશિ-દિન રહે તુમ્હારા ધ્યાન,પધારો મહાવીર ભગવાન ।૧।
+સુર કિન્નર ગણધર ગુણ ગાતે, યોગી તેરા ધ્યાન લગાતે
+ગાતે સબ તેરા યશગાન, પધારો મહાવીર ભગવાન ।૨।
+જો તેરી શરણાગત આયા, તૂને ઉસકો પાર લગાયા
+તુમ હો દયાનિધિ ભગવાન, પધારો મહાવીર ભગવાન ।૩।
+ભગત જનોં કે કષ્ટ નિવારેં, આપ તરેં હમકો ભી તારેં
+કીજે હમકો આપ સમાન, પધારો મહાવીર ભગવાન ।૪।
+આયે હૈં હમ શરણ તિહારી, ભક્તિ હો સ્વીકાર હમારી
+તુમહો કરુણા દયાનિધાન, પધારો મહાવીર ભગવાન ।૫।
+રોમ-રોમ પર તેજ તુમ્હારા, ભૂ-મણ્ડલ તુમસે ઉજિયારા
+રવિ-શશિ તુમસે જ્યોતિર્માન, પધારો મહાવીર ભગવાન ।૬।`,
+      hi: `मेरे मन-मन्दिर में आन
+मेरे मन-मन्दिर में आन, पधारो महावीर भगवान ॥टेक॥
+भगवन तुम आनन्द सरोवर, रूप तुम्हारा महा मनोहर
+निशि-दिन रहे तुम्हारा ध्यान,पधारो महावीर भगवान ।१।
+सुर किन्नर गणधर गुण गाते, योगी तेरा ध्यान लगाते
+गाते सब तेरा यशगान, पधारो महावीर भगवान ।२।
+जो तेरी शरणागत आया, तूने उसको पार लगाया
+तुम हो दयानिधि भगवान, पधारो महावीर भगवान ।३।
+भगत जनों के कष्ट निवारें, आप तरें हमको भी तारें
+कीजे हमको आप समान, पधारो महावीर भगवान ।४।
+आये हैं हम शरण तिहारी, भक्ति हो स्वीकार हमारी
+तुमहो करुणा दयानिधान, पधारो महावीर भगवान ।५।
+रोम-रोम पर तेज तुम्हारा, भू-मण्डल तुमसे उजियारा
+रवि-शशि तुमसे ज्योतिर्मान, पधारो महावीर भगवान ।६।`,
+      sa: "",
+      en: `Mere mana-mandira men aana
+Mere mana-mandira men aana, padhaaro mahaaveera bhagavaana | | teka | |
+Bhagavana tuma aananda sarovara, roopa tumhaaraa mahaa manohara
+Nishi-dina rahe tumhaaraa dhyaana,padhaaro mahaaveera bhagavaana | 1 |
+Sura kinnara ganadhara guna gaate, yogee teraa dhyaana lagaate
+Gaate saba teraa yashagaana, padhaaro mahaaveera bhagavaana | 2 |
+Jo teree sharanaagata aayaa, toone usako paara lagaayaa
+Tuma ho dayaanidhi bhagavaana, padhaaro mahaaveera bhagavaana | 3 |
+Bhagata janon ke kashta nivaaren, aapa taren hamako bhee taaren
+Keeje hamako aapa samaana, padhaaro mahaaveera bhagavaana | 4 |
+Aaye hain hama sharana tihaaree, bhakti ho sveekaara hamaaree
+Tumaho karunaa dayaanidhaana, padhaaro mahaaveera bhagavaana | 5 |
+Roma-roma para teja tumhaaraa, bhoo-mandala tumase ujiyaaraa
+Ravi-shashi tumase jyotirmaana, padhaaro mahaaveera bhagavaana | 6 |`,
+    },
+  },
+  {
+    id: "narkho-ang-ang-jinvar-ke",
+    type: "bhajan",
+    title: {
+      gu: "નિરખો અંગ-અંગ જિનવર કે",
+      hi: "निरखो अंग-अंग जिनवर के",
+      sa: "",
+      en: "Nirakho Anga-anga Jinavara ke",
+    },
+    text: {
+      gu: `નિરખો અંગ-અંગ જિનવર કે
+નિરખો અંગ-અંગ જિનવર કે, જિનસે ઝલકે શાન્તિ અપાર ॥
+ચરણ-કમલ જિનવર કહેં, ઘૂમા સબ સંસાર
+પર ક્ષણભંગુર જગત મેં, નિજ આત્મતત્ત્વ હી સાર
+યાતૈં પદ્માસન વિરાજે જિનવર, ઝલકે શાન્તિ અપાર ।૧।
+હસ્ત-યુગલ જિનવર કહેં, પર કા કર્તા હોય
+ઐસી મિથ્યાબુદ્ધિ સે હી, ભ્રમણ ચતુરગતિ હોય
+યાતૈં પદ્માસન વિરાજે જિનવર, ઝલકે શાન્તિ અપાર ।૨।
+લોચન દ્વય જિનવર કહેં, દેખા સબ સંસાર
+પર દુ:ખમય ગતિ ચતુર મેં, ધ્રુવ આત્મતત્ત્વ હી સાર
+યાતૈં નાશાદૃષ્ટિ વિરાજે જિનવર, ઝલકે શાન્તિ અપાર ।૩।
+અન્તર્મુખ મુદ્રા અહો, આત્મતત્ત્વ દરશાય
+જિનદર્શન કર નિજદર્શન પા, સત્ગુરુ વચન સુહાય
+યાતૈં અન્તર્દૃષ્ટિ વિરાજે જિનવર, ઝલકે શાન્તિ અપાર ।૪।`,
+      hi: `निरखो अंग-अंग जिनवर के
+निरखो अंग-अंग जिनवर के, जिनसे झलके शान्ति अपार ॥
+चरण-कमल जिनवर कहें, घूमा सब संसार
+पर क्षणभंगुर जगत में, निज आत्मतत्त्व ही सार
+यातैं पद्मासन विराजे जिनवर, झलके शान्ति अपार ।१।
+हस्त-युगल जिनवर कहें, पर का कर्ता होय
+ऐसी मिथ्याबुद्धि से ही, भ्रमण चतुरगति होय
+यातैं पद्मासन विराजे जिनवर, झलके शान्ति अपार ।२।
+लोचन द्वय जिनवर कहें, देखा सब संसार
+पर दु:खमय गति चतुर में, ध्रुव आत्मतत्त्व ही सार
+यातैं नाशादृष्टि विराजे जिनवर, झलके शान्ति अपार ।३।
+अन्तर्मुख मुद्रा अहो, आत्मतत्त्व दरशाय
+जिनदर्शन कर निजदर्शन पा, सत्गुरु वचन सुहाय
+यातैं अन्तर्दृष्टि विराजे जिनवर, झलके शान्ति अपार ।४।`,
+      sa: "",
+      en: `Nirakho anga-anga jinavara ke
+Nirakho anga-anga jinavara ke, jinase jhalake shaanti apaara | |
+Charana-kamala jinavara kahen, ghoomaa saba sansaara
+Para kshanabhangura jagata men, nija aatmatattva hee saara
+Yaatain padmaasana viraaje jinavara, jhalake shaanti apaara | 1 |
+Hasta-yugala jinavara kahen, para kaa kartaa hoya
+Aisee mithyaabuddhi se hee, bhramana chaturagati hoya
+Yaatain padmaasana viraaje jinavara, jhalake shaanti apaara | 2 |
+Lochana dvaya jinavara kahen, dekhaa saba sansaara
+Para du:khamaya gati chatura men, dhruva aatmatattva hee saara
+Yaatain naashaadrishti viraaje jinavara, jhalake shaanti apaara | 3 |
+Antarmukha mudraa aho, aatmatattva darashaaya
+Jinadarshana kara nijadarshana paa, satguru vachana suhaaya
+Yaatain antardrishti viraaje jinavara, jhalake shaanti apaara | 4 |`,
+    },
+  },
+  {
+    id: "jeev-tu-bhramat-sadeev-akela",
+    type: "bhajan",
+    title: {
+      gu: "જીવ! તૂ ભ્રમત સદીવ અકેલા",
+      hi: "जीव! तू भ्रमत सदीव अकेला",
+      sa: "",
+      en: "Jeeva! Too Bhramata Sadeeva Akelaa",
+    },
+    text: {
+      gu: `જીવ! તૂ ભ્રમત સદીવ અકેલા ।
+સંગ સાથી કોઈ નહિં તેરા ॥ટેક॥
+અપના સુખદુખ આપ હિ ભુગતૈ, હોત કુટુંબ ન ભેલા,
+સ્વાર્થ ભયૈં સબ બિછુરિ જાત હૈં, વિઘટ જાત જ્યોં મેલા ।૧।
+રક્ષક કોઇ ન પૂરન હ્વૈ જબ, આયુ અંત કી બેલા,
+ફૂટત પારિ બઁધત નહીં જૈસેં, દુદ્ધર જલકો ઠેલા ।૨।
+તન ધન જીવન વિનશિ જાત જ્યોં, ઇન્દ્રજાલ કા ખેલા,
+ભાગચન્દ ઇમિ લખ કરિ ભાઈ, હો સતગુરુ કા ચેલા ।૩।`,
+      hi: `जीव! तू भ्रमत सदीव अकेला ।
+संग साथी कोई नहिं तेरा ॥टेक॥
+अपना सुखदुख आप हि भुगतै, होत कुटुंब न भेला,
+स्वार्थ भयैं सब बिछुरि जात हैं, विघट जात ज्यों मेला ।१।
+रक्षक कोइ न पूरन ह्वै जब, आयु अंत की बेला,
+फूटत पारि बँधत नहीं जैसें, दुद्धर जलको ठेला ।२।
+तन धन जीवन विनशि जात ज्यों, इन्द्रजाल का खेला,
+भागचन्द इमि लख करि भाई, हो सतगुरु का चेला ।३।`,
+      sa: "",
+      en: `Jeeva! too bhramata sadeeva akelaa |
+Sanga saathee koee nahin teraa | | teka | |
+Apanaa sukhadukha aapa hi bhugatai, hota kutunba na bhelaa,
+Svaartha bhayain saba bichhuri jaata hain, vighata jaata jyon melaa | 1 |
+Rakshaka koi na poorana hvai jaba, aayu anta kee belaa,
+Phootata paari bandhata naheen jaisen, duddhara jalako thelaa | 2 |
+Tana dhana jeevana vinashi jaata jyon, indrajaala kaa khelaa,
+Bhaagachanda imi lakha kari bhaaee, ho sataguru kaa chelaa | 3 |`,
+    },
+  },
+  {
+    id: "aao-jin-mandir-main-aao",
+    type: "bhajan",
+    title: {
+      gu: "આઓ જિન મંદિર મેં આઓ",
+      hi: "आओ जिन मंदिर में आओ",
+      sa: "",
+      en: "Aao Jina Mandira Men Aao",
+    },
+    text: {
+      gu: `આઓ જિન મંદિર મેં આઓ
+આઓ જિન મંદિર મેં આઓ, શ્રી જિનવર કે દર્શન પાઓ
+જિન શાસન કી મહિમા ગાઓ,
+આયા-આયા રે અવસર આનન્દ કા ॥ટેક॥
+હે જિનવર તવ શરણ મેં, સેવક આયા આજ
+શિવપુર પથ દરશાય કે,દીજે નિજ પદ રાજ ॥
+પ્રભુ અબ શુદ્ધાતમ બતલાઓ
+ચહુઁગતિ દુ:ખ સે શીઘ્ર છુડાઓ
+દિવ્ય-ધ્વનિ અમૃત બરસાઓ
+આયા-પ્યાસા મૈં સેવક આનન્દ કા ।૧।
+જિનવર દર્શન કીજિએ, આતમ દર્શન હોય
+મોહમહાતમ નાશિ કે, ભ્રમણ ચતુર્ગતિ ખોય
+શુદ્ધાતમ કો લક્ષ્ય બનાઓ
+નિર્મલ ભેદ-જ્ઞાન પ્રકટાઓ
+અબ વિષયોં સે ચિત્ત હટાઓ
+પાઓ-પાઓ રે મારગ નિર્વાણ કા ।૨।
+ચિદાનન્દ ચૈતન્યમય, શુદ્ધાતમ કો જાન
+નિજ સ્વરૂપ મેં લીન હો, પાઓ કેવલજ્ઞાન
+નવ કેવલ લબ્ધિ પ્રકટાઓ
+ફિર યોગોં કો નષ્ટ કરાઓ
+અવિનાશી સિદ્ધ પદ કો પાઓ
+આયા-આયા રે અવસર આનન્દ કા ।૩।`,
+      hi: `आओ जिन मंदिर में आओ
+आओ जिन मंदिर में आओ, श्री जिनवर के दर्शन पाओ
+जिन शासन की महिमा गाओ,
+आया-आया रे अवसर आनन्द का ॥टेक॥
+हे जिनवर तव शरण में, सेवक आया आज
+शिवपुर पथ दरशाय के,दीजे निज पद राज ॥
+प्रभु अब शुद्धातम बतलाओ
+चहुँगति दु:ख से शीघ्र छुड़ाओ
+दिव्य-ध्वनि अमृत बरसाओ
+आया-प्यासा मैं सेवक आनन्द का ।१।
+जिनवर दर्शन कीजिए, आतम दर्शन होय
+मोहमहातम नाशि के, भ्रमण चतुर्गति खोय
+शुद्धातम को लक्ष्य बनाओ
+निर्मल भेद-ज्ञान प्रकटाओ
+अब विषयों से चित्त हटाओ
+पाओ-पाओ रे मारग निर्वाण का ।२।
+चिदानन्द चैतन्यमय, शुद्धातम को जान
+निज स्वरूप में लीन हो, पाओ केवलज्ञान
+नव केवल लब्धि प्रकटाओ
+फिर योगों को नष्ट कराओ
+अविनाशी सिद्ध पद को पाओ
+आया-आया रे अवसर आनन्द का ।३।`,
+      sa: "",
+      en: `Aao jina mandira men aao
+Aao jina mandira men aao, shree jinavara ke darshana paao
+Jina shaasana kee mahimaa gaao,
+Aayaa-aayaa re avasara aananda kaa | | teka | |
+He jinavara tava sharana men, sevaka aayaa aaja
+Shivapura patha darashaaya ke,deeje nija pada raaja | |
+Prabhu aba shuddhaatama batalaao
+Chahungati du:kha se sheeghra chhudaao
+Divya-dhvani amrita barasaao
+Aayaa-pyaasaa main sevaka aananda kaa | 1 |
+Jinavara darshana keejie, aatama darshana hoya
+Mohamahaatama naashi ke, bhramana chaturgati khoya
+Shuddhaatama ko lakshya banaao
+Nirmala bheda-gyaana prakataao
+Aba vishayon se chitta hataao
+Paao-paao re maaraga nirvaana kaa | 2 |
+Chidaananda chaitanyamaya, shuddhaatama ko jaana
+Nija svaroopa men leena ho, paao kevalagyaana
+Nava kevala labdhi prakataao
+Phira yogon ko nashta karaao
+Avinaashee siddha pada ko paao
+Aayaa-aayaa re avasara aananda kaa | 3 |`,
+    },
+  },
+  {
+    id: "prabhu-hum-sab-ka-ek",
+    type: "bhajan",
+    title: {
+      gu: "પ્રભુ હમ સબ કા એક",
+      hi: "प्रभु हम सब का एक",
+      sa: "",
+      en: "Prabhu Hama Saba Kaa Eka",
+    },
+    text: {
+      gu: `પ્રભુ હમ સબ કા એક
+પ્રભુ હમ સબ કા એક, તૂ હી હૈ, તારણહારા રે
+તુમ કો ભૂલા, ફિરા વહી નર, મારા મારા રે ॥ટેક॥
+બડા પુણ્ય અવસર યહ આયા, આજ તુમ્હારા દર્શન પાયા
+ફૂલા મન યહ હુઆ સફલ, મેરા જીવન સારા રે ।૧।
+ભક્તિ મેં અબ ચિત્ત લગાયા, ચેતન મેં તબ ચિત લલચાયા
+વીતરાગી દેવ! કરો અબ, ભવ સે પારા રે ।૨।
+જીવન મેં મૈં નાથ કો પાઊઁ, વીતરાગી ભાવ બઢાઊઁ
+ભક્તિભાવ સે પ્રભુ ચરણન મેં, જાઊઁ-જાઊઁ રે ।૪।
+અબ તો મેરી ઓર નિહારો, ભવસમુદ્ર સે નાવ ઉબારો
+\`પંકજ' કા લો હાથ પકડ, મૈં પાઊઁ કિનારા રે ।૩।`,
+      hi: `प्रभु हम सब का एक
+प्रभु हम सब का एक, तू ही है, तारणहारा रे
+तुम को भूला, फिरा वही नर, मारा मारा रे ॥टेक॥
+बड़ा पुण्य अवसर यह आया, आज तुम्हारा दर्शन पाया
+फूला मन यह हुआ सफल, मेरा जीवन सारा रे ।१।
+भक्ति में अब चित्त लगाया, चेतन में तब चित ललचाया
+वीतरागी देव! करो अब, भव से पारा रे ।२।
+जीवन में मैं नाथ को पाऊँ, वीतरागी भाव बढ़ाऊँ
+भक्तिभाव से प्रभु चरणन में, जाऊँ-जाऊँ रे ।४।
+अब तो मेरी ओर निहारो, भवसमुद्र से नाव उबारो
+\`पंकज' का लो हाथ पकड़, मैं पाऊँ किनारा रे ।३।`,
+      sa: "",
+      en: `Prabhu hama saba kaa eka
+Prabhu hama saba kaa eka, too hee hai, taaranahaaraa re
+Tuma ko bhoolaa, phiraa vahee nara, maaraa maaraa re | | teka | |
+Badaa punya avasara yaha aayaa, aaja tumhaaraa darshana paayaa
+Phoolaa mana yaha huaa saphala, meraa jeevana saaraa re | 1 |
+Bhakti men aba chitta lagaayaa, chetana men taba chita lalachaayaa
+Veetaraagee deva! karo aba, bhava se paaraa re | 2 |
+Jeevana men main naatha ko paaoon, veetaraagee bhaava badhaaoon
+Bhaktibhaava se prabhu charanana men, jaaoon-jaaoon re | 4 |
+Aba to meree ora nihaaro, bhavasamudra se naava ubaaro
+\`pankaja' kaa lo haatha pakada, main paaoon kinaaraa re | 3 |`,
+    },
+  },
+  {
+    id: "dholi-ho-gai-re-kali-kaamli",
+    type: "bhajan",
+    title: {
+      gu: "ધોલી હો ગઈ રે કાલી કામલી",
+      hi: "धोली हो गई रे काली कामली",
+      sa: "",
+      en: "Dholee ho Gaee re Kaalee Kaamalee",
+    },
+    text: {
+      gu: `ધોલી હો ગઈ રે કાલી કામલી માથા કી થારી
+ધોલી હો ગઈ રે કાલી કામલી,
+સુરજ્ઞાની ચેતો, ધોલી હો ગઈ રે કાલી કામલી ॥ટેર॥
+વદન ગઠીલો કંચન કાયા, લાલ બૂઁદ રંગ થારો,
+હુયો અપૂરવ ફેર ફાર સબ, ઢાંચો બદલ્યો સારો ।૧।
+નાક કાન આઁખ્યા કી કિરિયા સુસ્ત પડ ગઈ સારી,
+કાજૂ ઔર અખરોટ ચબે નહિં દાઁતા બિના સુપારી જી ।૨।
+હાલણ લાગી નાડ કમર ભી ઝુક કર બણી કવાની,
+મુંડો દેખ આરસી સોચો ઢલ ગઈ કયાં જવાની જી ।૩।
+ન્યાય નીતિ ને તજકર છોડી ભોગ સંપદા ભાઈ,
+બાત-બાત મેં ઝૂઠ કપટ છલ, કીની માયાચારી ।૪।
+બૈઠ હતાઈ તાસ ચોપડા ખેલ્યો બુલા ખિલાય,
+લડયા પરાયા ભોલા ભાઈ ફૂલ્યા નહીં સમાય ।૫।
+પ્રભૂ ભક્તિ મેં રૂચિ ન લીની નહીં કરૂણા ચિતધારી,
+વીતરાગ દર્શન નહીં રૂચિયો ઉમર ખોદઈ સારી જી ।૬।
+પુન્ય યોગ \`સૌભાગ્ય' મિલ્યો હૈ નરકુલ ઉત્તમ પ્યારો,
+નિજાનંદ સમતા રસ પીલ્યો હોસી ભવ નિસ્તારો ।૭।`,
+      hi: `धोली हो गई रे काली कामली माथा की थारी
+धोली हो गई रे काली कामली,
+सुरज्ञानी चेतो, धोली हो गई रे काली कामली ॥टेर॥
+वदन गठीलो कंचन काया, लाल बूँद रंग थारो,
+हुयो अपूरव फेर फार सब, ढांचो बदल्यो सारो ।१।
+नाक कान आँख्या की किरिया सुस्त पड़ गई सारी,
+काजू और अखरोट चबे नहिं दाँता बिना सुपारी जी ।२।
+हालण लागी नाड़ कमर भी झुक कर बणी कवानी,
+मुंडो देख आरसी सोचो ढल गई कयां जवानी जी ।३।
+न्याय नीति ने तजकर छोड़ी भोग संपदा भाई,
+बात-बात में झूठ कपट छल, कीनी मायाचारी ।४।
+बैठ हताई तास चोपड़ा खेल्यो बुला खिलाय,
+लड़या पराया भोला भाई फूल्या नहीं समाय ।५।
+प्रभू भक्ति में रूचि न लीनी नहीं करूणा चितधारी,
+वीतराग दर्शन नहीं रूचियो उमर खोदई सारी जी ।६।
+पुन्य योग \`सौभाग्य' मिल्यो है नरकुल उत्तम प्यारो,
+निजानंद समता रस पील्यो होसी भव निस्तारो ।७।`,
+      sa: "",
+      en: `Dholee ho gaee re kaalee kaamalee maathaa kee thaaree
+Dholee ho gaee re kaalee kaamalee,
+Suragyaanee cheto, dholee ho gaee re kaalee kaamalee | | tera | |
+Vadana gatheelo kanchana kaayaa, laala boonda ranga thaaro,
+Huyo apoorava phera phaara saba, dhaancho badalyo saaro | 1 |
+Naaka kaana aankhyaa kee kiriyaa susta pada gaee saaree,
+Kaajoo aura akharota chabe nahin daantaa binaa supaaree jee | 2 |
+Haalana laagee naada kamara bhee jhuka kara banee kavaanee,
+Mundo dekha aarasee socho dhala gaee kayaan javaanee jee | 3 |
+Nyaaya neeti ne tajakara chhodee bhoga sanpadaa bhaaee,
+Baata-baata men jhootha kapata chhala, keenee maayaachaaree | 4 |
+Baitha hataaee taasa chopadaa khelyo bulaa khilaaya,
+Ladayaa paraayaa bholaa bhaaee phoolyaa naheen samaaya | 5 |
+Prabhoo bhakti men roochi na leenee naheen karoonaa chitadhaaree,
+Veetaraaga darshana naheen roochiyo umara khodaee saaree jee | 6 |
+Punya yoga \`saubhaagya' milyo hai narakula uttama pyaaro,
+Nijaananda samataa rasa peelyo hosee bhava nistaaro | 7 |`,
+    },
+  },
+  {
+    id: "dhanya-dhanya-aaj-ghadi",
+    type: "bhajan",
+    title: {
+      gu: "ધન્ય-ધન્ય આજ ઘડી",
+      hi: "धन्य-धन्य आज घड़ी",
+      sa: "",
+      en: "Dhanya-dhanya Aaja Ghadee",
+    },
+    text: {
+      gu: `ધન્ય-ધન્ય આજ ઘડી
+ધન્ય-ધન્ય આજ ઘડી કૈસી સુખકાર હૈ
+સિદ્ધોં કા દરબાર હૈ યે સિદ્ધોં કા દરબાર હૈ ॥
+ખુશિયાઁ અપાર આજ હર દિલ મેં છાઈ હૈં
+દર્શન કે હેતુ દેખો જનતા અકુલાઈ હૈ
+ચારોં ઓર દેખ લો ભીડ બેશુમાર હૈ ॥૧॥
+ભક્તિ સે નૃત્ય-ગાન કોઈ હૈ કર રહે
+આતમ સુબોધ કર પાપોં સે ડર રહે
+પલ-પલ પુણ્ય કા ભરે ભણ્ડાર હૈ ॥૨॥
+જય-જય કે નાદ સે ગૂઁજા આકાશ હૈ
+છૂટેંગે પાપ સબ નિશ્ચય યહ આજ હૈ
+દેખ લો \`સૌભાગ્ય' ખુલા આજ મુક્તિ દ્વાર હૈ ॥૩॥`,
+      hi: `धन्य-धन्य आज घड़ी
+धन्य-धन्य आज घड़ी कैसी सुखकार है
+सिद्धों का दरबार है ये सिद्धों का दरबार है ॥
+खुशियाँ अपार आज हर दिल में छाई हैं
+दर्शन के हेतु देखो जनता अकुलाई है
+चारों ओर देख लो भीड़ बेशुमार है ॥१॥
+भक्ति से नृत्य-गान कोई है कर रहे
+आतम सुबोध कर पापों से डर रहे
+पल-पल पुण्य का भरे भण्डार है ॥२॥
+जय-जय के नाद से गूँजा आकाश है
+छूटेंगे पाप सब निश्चय यह आज है
+देख लो \`सौभाग्य' खुला आज मुक्ति द्वार है ॥३॥`,
+      sa: "",
+      en: `Dhanya-dhanya aaja ghadee
+Dhanya-dhanya aaja ghadee kaisee sukhakaara hai
+Siddhon kaa darabaara hai ye siddhon kaa darabaara hai | |
+Khushiyaan apaara aaja hara dila men chhaaee hain
+Darshana ke hetu dekho janataa akulaaee hai
+Chaaron ora dekha lo bheeda beshumaara hai | | 1 | |
+Bhakti se nritya-gaana koee hai kara rahe
+Aatama subodha kara paapon se dara rahe
+Pala-pala punya kaa bhare bhandaara hai | | 2 | |
+Jaya-jaya ke naada se goonjaa aakaasha hai
+Chhootenge paapa saba nishchaya yaha aaja hai
+Dekha lo \`saubhaagya' khulaa aaja mukti dvaara hai | | 3 | |`,
+    },
+  },
+  {
+    id: "bhajan-bin-yonhi-janam-gamayo",
+    type: "bhajan",
+    title: {
+      gu: "ભજન બિન યોંહી જનમ ગમાયો",
+      hi: "भजन बिन योंही जनम गमायो",
+      sa: "",
+      en: "Bhajana Bina Yonhee Janama Gamaayo",
+    },
+    text: {
+      gu: `ભજન બિન યોંહી જનમ ગમાયો ॥ટેર॥
+પાની પહલી પાલ ન બાઁધી, ફિર પીછૈ પછતાયો ।૧।
+રામા-મોહ ભયે દિન ખોવત, આશા પાશ બઁધાયો ।
+જપ તપ સંજમદાન નહીં દીનોં માનુષ જનમ હરાયો ।૨।
+દેહ શીસ જબ કાઁપન લાગી, દસન ચલાચલ થાયો ।
+લાગી આગિ બુઝાવન કારન ચાહત કૂપ ખુદાયો ।૩।
+કાલ અનાદિ ગુમાયો ભ્રમતાં, કબહુઁ ન થિર ચિત લાયો ।
+હરી વિષય સુખ ભરમ ભુલાનો,મૃગ તૃષ્ણા વશિ ધાયો ।૪।`,
+      hi: `भजन बिन योंही जनम गमायो ॥टेर॥
+पानी पहली पाल न बाँधी, फिर पीछै पछतायो ।१।
+रामा-मोह भये दिन खोवत, आशा पाश बँधायो ।
+जप तप संजमदान नहीं दीनों मानुष जनम हरायो ।२।
+देह शीस जब काँपन लागी, दसन चलाचल थायो ।
+लागी आगि बुझावन कारन चाहत कूप खुदायो ।३।
+काल अनादि गुमायो भ्रमतां, कबहुँ न थिर चित लायो ।
+हरी विषय सुख भरम भुलानो,मृग तृष्णा वशि धायो ।४।`,
+      sa: "",
+      en: `Bhajana bina yonhee janama gamaayo | | tera | |
+Paanee pahalee paala na baandhee, phira peechhai pachhataayo | 1 |
+Raamaa-moha bhaye dina khovata, aashaa paasha bandhaayo |
+Japa tapa sanjamadaana naheen deenon maanusha janama haraayo | 2 |
+Deha sheesa jaba kaanpana laagee, dasana chalaachala thaayo |
+Laagee aagi bujhaavana kaarana chaahata koopa khudaayo | 3 |
+Kaala anaadi gumaayo bhramataan, kabahun na thira chita laayo |
+Haree vishaya sukha bharama bhulaano,mriga trishnaa vashi dhaayo | 4 |`,
+    },
+  },
+  {
+    id: "veer-prabhu-ke-ye-bol",
+    type: "bhajan",
+    title: {
+      gu: "વીર પ્રભુ કે યે બોલ",
+      hi: "वीर प्रभु के ये बोल",
+      sa: "",
+      en: "Veera Prabhu ke Ye Bola",
+    },
+    text: {
+      gu: `વીર પ્રભુ કે યે બોલ
+વીર પ્રભુ કે યે બોલ, તેરા પ્રભુ! તુઝ હી મેં ડોલે
+તુઝ હી મેં ડોલે, હાઁ તુઝ હી મેં ડોલે
+મન કી તૂ ઘુંડી કો ખોલ, ખોલ-ખોલ-ખોલ
+તેરા પ્રભુ તુઝ હી મેં ડોલે ॥ટેક॥
+ક્યોં જાતા ગિરનાર, ક્યોં જાતા કાશી
+ઘટ હી મેં હૈ તેરે, ઘટ-ઘટ કા વાસી
+અન્તર કા કોના ટટોલ, ટોલ-ટોલ-ટોલ ।૧।
+ચારોં કષાયોં કો તૂને હૈ પાલા
+આતમ પ્રભુ કો જો કરતી હૈ કાલા
+ઇનકી તો સંગતિ કો છોડ, છોડ-છોડ-છોડ ।૨।
+પર મેં જો ઢૂઁઢા ન ભગવાન પાયા
+સંસાર કો હી હૈ તૂને બઢાયા
+દેખો નિજાતમ કી ઓર, ઓર-ઓર-ઓર ।૩।
+મસ્તોં કી દુનિયા મેં તૂ મસ્ત હો જા
+આતમ કે રંગ મેં ઐસા તૂ રઁગ જા
+આતમ કો આતમ મેં ઘોલ-ઘોલ-ઘોલ ।૪।
+ભગવાન બનને કી તાકત હૈ તુઝમેં
+તૂ માન બૈઠા પુજારી હૂઁ બસ મૈં
+ઐસી તૂ માન્યતા કો છોડ, છોડ-છોડ-છોડ ।૫।`,
+      hi: `वीर प्रभु के ये बोल
+वीर प्रभु के ये बोल, तेरा प्रभु! तुझ ही में डोले
+तुझ ही में डोले, हाँ तुझ ही में डोले
+मन की तू घुंडी को खोल, खोल-खोल-खोल
+तेरा प्रभु तुझ ही में डोले ॥टेक॥
+क्यों जाता गिरनार, क्यों जाता काशी
+घट ही में है तेरे, घट-घट का वासी
+अन्तर का कोना टटोल, टोल-टोल-टोल ।१।
+चारों कषायों को तूने है पाला
+आतम प्रभु को जो करती है काला
+इनकी तो संगति को छोड़, छोड़-छोड़-छोड़ ।२।
+पर में जो ढूँढा न भगवान पाया
+संसार को ही है तूने बढ़ाया
+देखो निजातम की ओर, ओर-ओर-ओर ।३।
+मस्तों की दुनिया में तू मस्त हो जा
+आतम के रंग में ऐसा तू रँग जा
+आतम को आतम में घोल-घोल-घोल ।४।
+भगवान बनने की ताकत है तुझमें
+तू मान बैठा पुजारी हूँ बस मैं
+ऐसी तू मान्यता को छोड़, छोड़-छोड़-छोड़ ।५।`,
+      sa: "",
+      en: `Veera prabhu ke ye bola
+Veera prabhu ke ye bola, teraa prabhu! tujha hee men dole
+Tujha hee men dole, haan tujha hee men dole
+Mana kee too ghundee ko khola, khola-khola-khola
+Teraa prabhu tujha hee men dole | | teka | |
+Kyon jaataa giranaara, kyon jaataa kaashee
+Ghata hee men hai tere, ghata-ghata kaa vaasee
+Antara kaa konaa tatola, tola-tola-tola | 1 |
+Chaaron kashaayon ko toone hai paalaa
+Aatama prabhu ko jo karatee hai kaalaa
+Inakee to sangati ko chhoda, chhoda-chhoda-chhoda | 2 |
+Para men jo dhoondhaa na bhagavaana paayaa
+Sansaara ko hee hai toone badhaayaa
+Dekho nijaatama kee ora, ora-ora-ora | 3 |
+Maston kee duniyaa men too masta ho jaa
+Aatama ke ranga men aisaa too ranga jaa
+Aatama ko aatama men ghola-ghola-ghola | 4 |
+Bhagavaana banane kee taakata hai tujhamen
+Too maana baithaa pujaaree hoon basa main
+Aisee too maanyataa ko chhoda, chhoda-chhoda-chhoda | 5 |`,
+    },
+  },
+  {
+    id: "aaj-hum-jinraaj",
+    type: "bhajan",
+    title: {
+      gu: "આજ હમ જિનરાજ",
+      hi: "आज हम जिनराज",
+      sa: "",
+      en: "Aaja Hama Jinaraaja",
+    },
+    text: {
+      gu: `આજ હમ જિનરાજ
+આજ હમ જિનરાજ! તુમ્હારે દ્વારે આયે
+હાઁ જી હાઁ હમ, આયે-આયે ॥ટેક॥
+દેખે દેવ જગત કે સારે, એક નહીં મન ભાયે
+પુણ્ય-ઉદય સે આજ તિહારે, દર્શન કર સુખ પાયે ।૧।
+જન્મ-મરણ નિત કરતે-કરતે, કાલ અનન્ત ગમાયે
+અબ તો સ્વામી જન્મ-મરણ કા,દુ:ખડા સહા ન જાયે ।૨।
+ભવસાગર મેં નાવ હમારી, કબ સે ગોતા ખાયે
+તુમહી સ્વામી હાથ બઢાકર, તારો તો તિર જાયે ।૩।
+અનુકમ્પા હો જાય આપકી, આકુલતા મિટ જાયે
+પંકજ કી પ્રભુ યહી વીનતી, ચરણ-શરણ મિલ જાયે ।૪।`,
+      hi: `आज हम जिनराज
+आज हम जिनराज! तुम्हारे द्वारे आये
+हाँ जी हाँ हम, आये-आये ॥टेक॥
+देखे देव जगत के सारे, एक नहीं मन भाये
+पुण्य-उदय से आज तिहारे, दर्शन कर सुख पाये ।१।
+जन्म-मरण नित करते-करते, काल अनन्त गमाये
+अब तो स्वामी जन्म-मरण का,दु:खड़ा सहा न जाये ।२।
+भवसागर में नाव हमारी, कब से गोता खाये
+तुमही स्वामी हाथ बढ़ाकर, तारो तो तिर जाये ।३।
+अनुकम्पा हो जाय आपकी, आकुलता मिट जाये
+पंकज की प्रभु यही वीनती, चरण-शरण मिल जाये ।४।`,
+      sa: "",
+      en: `Aaja hama jinaraaja
+Aaja hama jinaraaja! tumhaare dvaare aaye
+Haan jee haan hama, aaye-aaye | | teka | |
+Dekhe deva jagata ke saare, eka naheen mana bhaaye
+Punya-udaya se aaja tihaare, darshana kara sukha paaye | 1 |
+Janma-marana nita karate-karate, kaala ananta gamaaye
+Aba to svaamee janma-marana kaa,du:khadaa sahaa na jaaye | 2 |
+Bhavasaagara men naava hamaaree, kaba se gotaa khaaye
+Tumahee svaamee haatha badhaakara, taaro to tira jaaye | 3 |
+Anukampaa ho jaaya aapakee, aakulataa mita jaaye
+Pankaja kee prabhu yahee veenatee, charana-sharana mila jaaye | 4 |`,
+    },
+  },
+  {
+    id: "nirkhi-nirkhi-manhar-murat",
+    type: "bhajan",
+    title: {
+      gu: "નિરખી નિરખી મનહર મૂરત",
+      hi: "निरखी निरखी मनहर मूरत",
+      sa: "",
+      en: "Nirakhee Nirakhee Manahara Moorata",
+    },
+    text: {
+      gu: `નિરખી નિરખી મનહર મૂરત
+તર્જ: નગરી નગરી દ્વારે દ્વારે...
+નિરખી નિરખી મનહર મૂરત તોરી હો જિનન્દા,
+ખોઈ ખોઈ આતમ નિધિ નિજ પાઈ હો જિનન્દા ॥
+ના સમઝી સે અબલો મૈંને પર કો અપના માન કે
+પર કો અપના માન કે
+માયા કી મમતા મેં ડોલા, તુમકો નહીં પિછાન કે
+તુમકો નહીં પિછાન કે
+અબ ભૂલોં પર રોતા યહ મન, મોરા હો જિનન્દા ।૧।
+ભોગ રોગ કા ઘર હૈ મૈંને, આજ ચરાચર દેખા હૈ
+આજ ચરાચર દેખા હૈ ।
+આતમ ધન કે આગે જગ કા ઝૂઁઠા સારા લેખા હૈ
+ઝૂઁઠા સારા લેખા હૈ
+અપને મેં ઘુલ મિલ જાઊઁ, વર પાવૂઁ જિનન્દા ।૨।
+તૂ ભવનાશી મૈં ભવવાસી, ભવ સે પાર ઉતરના હૈ
+ભવ સે પાર ઉતરના હૈ
+શુદ્ધ સ્વરૂપી હોકર તુમસા, શિવરમણી કો વરના હૈ
+શિવરમણી કો વરના હૈ
+જ્ઞાનજ્યોતિ \`સૌભાગ્ય' જગે ઘટ, મોરે હો જિનન્દા ।૩।`,
+      hi: `निरखी निरखी मनहर मूरत
+तर्ज: नगरी नगरी द्वारे द्वारे...
+निरखी निरखी मनहर मूरत तोरी हो जिनन्दा,
+खोई खोई आतम निधि निज पाई हो जिनन्दा ॥
+ना समझी से अबलो मैंने पर को अपना मान के
+पर को अपना मान के
+माया की ममता में डोला, तुमको नहीं पिछान के
+तुमको नहीं पिछान के
+अब भूलों पर रोता यह मन, मोरा हो जिनन्दा ।१।
+भोग रोग का घर है मैंने, आज चराचर देखा है
+आज चराचर देखा है ।
+आतम धन के आगे जग का झूँठा सारा लेखा है
+झूँठा सारा लेखा है
+अपने में घुल मिल जाऊँ, वर पावूँ जिनन्दा ।२।
+तू भवनाशी मैं भववासी, भव से पार उतरना है
+भव से पार उतरना है
+शुद्ध स्वरूपी होकर तुमसा, शिवरमणी को वरना है
+शिवरमणी को वरना है
+ज्ञानज्योति \`सौभाग्य' जगे घट, मोरे हो जिनन्दा ।३।`,
+      sa: "",
+      en: `Nirakhee nirakhee manahara moorata
+Tarja: nagaree nagaree dvaare dvaare...
+Nirakhee nirakhee manahara moorata toree ho jinandaa,
+Khoee khoee aatama nidhi nija paaee ho jinandaa | |
+Naa samajhee se abalo mainne para ko apanaa maana ke
+Para ko apanaa maana ke
+Maayaa kee mamataa men dolaa, tumako naheen pichhaana ke
+Tumako naheen pichhaana ke
+Aba bhoolon para rotaa yaha mana, moraa ho jinandaa | 1 |
+Bhoga roga kaa ghara hai mainne, aaja charaachara dekhaa hai
+Aaja charaachara dekhaa hai |
+Aatama dhana ke aage jaga kaa jhoonthaa saaraa lekhaa hai
+Jhoonthaa saaraa lekhaa hai
+Apane men ghula mila jaaoon, vara paavoon jinandaa | 2 |
+Too bhavanaashee main bhavavaasee, bhava se paara utaranaa hai
+Bhava se paara utaranaa hai
+Shuddha svaroopee hokara tumasaa, shivaramanee ko varanaa hai
+Shivaramanee ko varanaa hai
+Gyaanajyoti \`saubhaagya' jage ghata, more ho jinandaa | 3 |`,
+    },
+  },
+  {
+    id: "mere-kab-hwe-wa-din-ki-sughri",
+    type: "bhajan",
+    title: {
+      gu: "મેરે કબ હ્વૈ વા દિન કી સુઘરી",
+      hi: "मेरे कब ह्वै वा दिन की सुघरी",
+      sa: "",
+      en: "Mere Kaba Hvai Vaa Dina Kee Sugharee",
+    },
+    text: {
+      gu: `મેરે કબ હ્વૈ વા દિન કી સુઘરી ।।ટેક ।।
+તન વિન વસન અસનવિન વનમેં, નિવસોં નાસાદૃષ્ટિધરી ॥
+પુણ્યપાપ પરસૌં કબ વિરચોં, પરચોં નિજનિધિ ચિરવિસરી
+તજ ઉપાધિ સજિ સહજસમાધી, સહોં ઘામ હિમ મેઘઝરી ।૧।
+કબ થિરજોગ ધરોં ઐસો મોહિ, ઉપલ જાન મૃગ ખાજ હરી
+ધ્યાન-કમાન તાન અનુભવ-શર,છેદોં કિહિ દિન મોહ અરી ।૨।
+કબ તૃનકંચન એક ગનોં અરુ, મનિજડિતાલય શૈલદરી
+દૌલત સત ગુરુચરન સેવ જો, પુરવો આશ યહૈ હમરી ।૩।`,
+      hi: `मेरे कब ह्वै वा दिन की सुघरी ।।टेक ।।
+तन विन वसन असनविन वनमें, निवसों नासादृष्टिधरी ॥
+पुण्यपाप परसौं कब विरचों, परचों निजनिधि चिरविसरी
+तज उपाधि सजि सहजसमाधी, सहों घाम हिम मेघझरी ।१।
+कब थिरजोग धरों ऐसो मोहि, उपल जान मृग खाज हरी
+ध्यान-कमान तान अनुभव-शर,छेदों किहि दिन मोह अरी ।२।
+कब तृनकंचन एक गनों अरु, मनिजडितालय शैलदरी
+दौलत सत गुरुचरन सेव जो, पुरवो आश यहै हमरी ।३।`,
+      sa: "",
+      en: `Mere kaba hvai vaa dina kee sugharee | | teka | |
+Tana vina vasana asanavina vanamen, nivason naasaadrishtidharee | |
+Punyapaapa parasaun kaba virachon, parachon nijanidhi chiravisaree
+Taja upaadhi saji sahajasamaadhee, sahon ghaama hima meghajharee | 1 |
+Kaba thirajoga dharon aiso mohi, upala jaana mriga khaaja haree
+Dhyaana-kamaana taana anubhava-shara,chhedon kihi dina moha aree | 2 |
+Kaba trinakanchana eka ganon aru, manijaditaalaya shailadaree
+Daulata sata gurucharana seva jo, puravo aasha yahai hamaree | 3 |`,
+    },
+  },
+  {
+    id: "tori-pal-pal-nirkhen-muratiyan",
+    type: "bhajan",
+    title: {
+      gu: "તોરી પલ પલ નિરખેં મૂરતિયાઁ",
+      hi: "तोरी पल पल निरखें मूरतियाँ",
+      sa: "",
+      en: "Toree Pala Pala Nirakhen Mooratiyaan",
+    },
+    text: {
+      gu: `તોરી પલ પલ નિરખેં મૂરતિયાઁ
+તોરી પલ પલ નિરખેં મૂરતિયાઁ,
+આતમ રસ ભીની યહ સૂરતિયાઁ ॥ટેર॥
+ઘોર મિથ્યાત્વ રત હો તુમ્હેં છોડકર
+ભોગ ભોગે હૈં જડ સે લગન જોડકર
+ચારોં ગતિ મેં ભ્રમણ, કર કર જામન મરણ
+લખિ અપની ન સચ્ચી સૂરતિયાઁ ।૧।
+તેરે દર્શન સે જ્યોતિ જગી જ્ઞાન કી
+પથ પકડી હૈ હમને સ્વકલ્યાણ કી
+પદ તુઝસા મહાન, લગા આતમ કા ધ્યાન
+પાવે \`સૌભાગ્ય' પાવન શિવ ગતિયાઁ ।૨।`,
+      hi: `तोरी पल पल निरखें मूरतियाँ
+तोरी पल पल निरखें मूरतियाँ,
+आतम रस भीनी यह सूरतियाँ ॥टेर॥
+घोर मिथ्यात्व रत हो तुम्हें छोड़कर
+भोग भोगे हैं जड़ से लगन जोड़कर
+चारों गति में भ्रमण, कर कर जामन मरण
+लखि अपनी न सच्ची सूरतियाँ ।१।
+तेरे दर्शन से ज्योति जगी ज्ञान की
+पथ पकड़ी है हमने स्वकल्याण की
+पद तुझसा महान, लगा आतम का ध्यान
+पावे \`सौभाग्य' पावन शिव गतियाँ ।२।`,
+      sa: "",
+      en: `Toree pala pala nirakhen mooratiyaan
+Toree pala pala nirakhen mooratiyaan,
+Aatama rasa bheenee yaha sooratiyaan | | tera | |
+Ghora mithyaatva rata ho tumhen chhodakara
+Bhoga bhoge hain jada se lagana jodakara
+Chaaron gati men bhramana, kara kara jaamana marana
+Lakhi apanee na sachchee sooratiyaan | 1 |
+Tere darshana se jyoti jagee gyaana kee
+Patha pakadee hai hamane svakalyaana kee
+Pada tujhasaa mahaana, lagaa aatama kaa dhyaana
+Paave \`saubhaagya' paavana shiva gatiyaan | 2 |`,
+    },
+  },
+  {
+    id: "tere-darshan-se-mera-dil",
+    type: "bhajan",
+    title: {
+      gu: "તેરે દર્શન સે મેરા દિલ",
+      hi: "तेरे दर्शन से मेरा दिल",
+      sa: "",
+      en: "Tere Darshana se Meraa Dila",
+    },
+    text: {
+      gu: `તેરે દર્શન સે મેરા દિલ
+તર્જ: ઇક પરદેસી મેરા દિલ...
+તેરે દર્શન સે મેરા દિલ ખિલ ગયા
+મુક્તિ કે મહલ કા સુરાજ્ય મિલ ગયા
+આતમ કે સુજ્ઞાન કા સુભાન હો ગયા
+ભવ કા વિનાશી તત્ત્વજ્ઞાન હો ગયા ॥ટેર॥
+તેરી સચ્ચી પ્રીત કી યહી હૈ નિશાની
+ભોગોં સે છૂટ બને આતમ સુધ્યાની
+કર્મોં કી જીત કા સુસાજ મિલ ગયા ॥ મુક્તિ કે.. ।૧।
+તેરી પરતીત હરે વ્યાધિયાઁ પુરાની
+જામન મરણ હર દે શિવરાની
+પ્રભો સુખ શાન્તિ સુમન આજ ખિલ ગયા ॥ મુક્તિ કે.. ।૨।
+જ્ઞાનાનન્દ અતુલ ધન રાશી
+સિદ્ધ સમાન વરૂઁ અવિનાશી
+યહી સૌભાગ્ય" શિવરાજ મિલ ગયા ॥ મુક્તિ કે .. ।૩।`,
+      hi: `तेरे दर्शन से मेरा दिल
+तर्ज: इक परदेसी मेरा दिल...
+तेरे दर्शन से मेरा दिल खिल गया
+मुक्ति के महल का सुराज्य मिल गया
+आतम के सुज्ञान का सुभान हो गया
+भव का विनाशी तत्त्वज्ञान हो गया ॥टेर॥
+तेरी सच्ची प्रीत की यही है निशानी
+भोगों से छूट बने आतम सुध्यानी
+कर्मों की जीत का सुसाज मिल गया ॥ मुक्ति के.. ।१।
+तेरी परतीत हरे व्याधियाँ पुरानी
+जामन मरण हर दे शिवरानी
+प्रभो सुख शान्ति सुमन आज खिल गया ॥ मुक्ति के.. ।२।
+ज्ञानानन्द अतुल धन राशी
+सिद्ध समान वरूँ अविनाशी
+यही सौभाग्य" शिवराज मिल गया ॥ मुक्ति के .. ।३।`,
+      sa: "",
+      en: `Tere darshana se meraa dila
+Tarja: ika paradesee meraa dila...
+Tere darshana se meraa dila khila gayaa
+Mukti ke mahala kaa suraajya mila gayaa
+Aatama ke sugyaana kaa subhaana ho gayaa
+Bhava kaa vinaashee tattvagyaana ho gayaa | | tera | |
+Teree sachchee preeta kee yahee hai nishaanee
+Bhogon se chhoota bane aatama sudhyaanee
+Karmon kee jeeta kaa susaaja mila gayaa | | mukti ke.. | 1 |
+Teree parateeta hare vyaadhiyaan puraanee
+Jaamana marana hara de shivaraanee
+Prabho sukha shaanti sumana aaja khila gayaa | | mukti ke.. | 2 |
+Gyaanaananda atula dhana raashee
+Siddha samaana varoon avinaashee
+Yahee saubhaagya" shivaraaja mila gayaa | | mukti ke .. | 3 |`,
+    },
+  },
+  {
+    id: "aur-abai-na-kudev-suhaavai",
+    type: "bhajan",
+    title: {
+      gu: "ઔર અબૈ ન કુદેવ સુહાવૈ",
+      hi: "और अबै न कुदेव सुहावै",
+      sa: "",
+      en: "Aura Abai na Kudeva Suhaavai",
+    },
+    text: {
+      gu: `ઔર અબૈ ન કુદેવ સુહાવૈ, જિન થાકે ચરનન રતિ જોરી ॥
+કામકોહવશ ગહૈં અશન અસિ, અંક નિશંક ધરૈ તિય ગોરી
+ઔરનકે કિમ ભાવ સુધારૈં, આપ કુભાવ-ભારધર-ધોરી ॥
+તુમ વિનમોહ અકોહછોહવિન, છકે શાંત રસ પીય કટોરી
+તુમ તજ સેય અમેય ભરી જો, જાનત હો વિપદા સબ મોરી ॥
+તુમ તજ તિનૈ ભજૈ શઠ જો સો દાખ ન ચાખત ખાત નિમોરી
+હે જગતાર ઉધાર દૌલકો, નિકટ વિકટ ભવજલધિ હિલોરી ॥`,
+      hi: `और अबै न कुदेव सुहावै, जिन थाके चरनन रति जोरी ॥
+कामकोहवश गहैं अशन असि, अंक निशंक धरै तिय गोरी
+औरनके किम भाव सुधारैं, आप कुभाव-भारधर-धोरी ॥
+तुम विनमोह अकोहछोहविन, छके शांत रस पीय कटोरी
+तुम तज सेय अमेय भरी जो, जानत हो विपदा सब मोरी ॥
+तुम तज तिनै भजै शठ जो सो दाख न चाखत खात निमोरी
+हे जगतार उधार दौलको, निकट विकट भवजलधि हिलोरी ॥`,
+      sa: "",
+      en: `Aura abai na kudeva suhaavai, jina thaake charanana rati joree | |
+Kaamakohavasha gahain ashana asi, anka nishanka dharai tiya goree
+Auranake kima bhaava sudhaarain, aapa kubhaava-bhaaradhara-dhoree | |
+Tuma vinamoha akohachhohavina, chhake shaanta rasa peeya katoree
+Tuma taja seya ameya bharee jo, jaanata ho vipadaa saba moree | |
+Tuma taja tinai bhajai shatha jo so daakha na chaakhata khaata nimoree
+He jagataara udhaara daulako, nikata vikata bhavajaladhi hiloree | |`,
+    },
+  },
+  {
+    id: "svami-tera-mukhda-hai-man",
+    type: "bhajan",
+    title: {
+      gu: "સ્વામી તેરા મુખડા હૈ મન",
+      hi: "स्वामी तेरा मुखड़ा है मन",
+      sa: "",
+      en: "Svaamee Teraa Mukhadaa hai Mana",
+    },
+    text: {
+      gu: `સ્વામી તેરા મુખડા હૈ મન
+તર્જ: ભૈયા મેરે રાખી...
+સ્વામી તેરા મુખડા હૈ મન કો લુભાના
+સ્વામી તેરા ગૌરવ હૈ મન કો ડુલાના
+દેખા ના ઐસા સુહાના-૨ ॥ સ્વામી .. ॥
+યે છવિ યે તપ ત્યાગ જગત કા,ભાવ જગાતા આતમ બલ કા
+હરતા હૈ નરકોં કા જાના-૨ ॥ સ્વામી.. ।૧।
+જો પથ તૂને હૈ અપનાયા, વો મન મેરે ભી અતિ ભાયા
+પાઊઁ મૈં તુમ પદ લુભાના-૨ ॥ સ્વામી.. ।૨।
+પંચમ ગતિ કા મૈં વર ચાહૂઁ, જીવન કા સૌભાગ્ય દિપાઊઁ
+ગૂઁજે હૈં અંતર તરાના-૨ ॥ સ્વામી.. ।૩।`,
+      hi: `स्वामी तेरा मुखड़ा है मन
+तर्ज: भैया मेरे राखी...
+स्वामी तेरा मुखड़ा है मन को लुभाना
+स्वामी तेरा गौरव है मन को डुलाना
+देखा ना ऐसा सुहाना-२ ॥ स्वामी .. ॥
+ये छवि ये तप त्याग जगत का,भाव जगाता आतम बल का
+हरता है नरकों का जाना-२ ॥ स्वामी.. ।१।
+जो पथ तूने है अपनाया, वो मन मेरे भी अति भाया
+पाऊँ मैं तुम पद लुभाना-२ ॥ स्वामी.. ।२।
+पंचम गति का मैं वर चाहूँ, जीवन का सौभाग्य दिपाऊँ
+गूँजे हैं अंतर तराना-२ ॥ स्वामी.. ।३।`,
+      sa: "",
+      en: `Svaamee teraa mukhadaa hai mana
+Tarja: bhaiyaa mere raakhee...
+Svaamee teraa mukhadaa hai mana ko lubhaanaa
+Svaamee teraa gaurava hai mana ko dulaanaa
+Dekhaa naa aisaa suhaanaa-2 | | svaamee .. | |
+Ye chhavi ye tapa tyaaga jagata kaa,bhaava jagaataa aatama bala kaa
+Harataa hai narakon kaa jaanaa-2 | | svaamee.. | 1 |
+Jo patha toone hai apanaayaa, vo mana mere bhee ati bhaayaa
+Paaoon main tuma pada lubhaanaa-2 | | svaamee.. | 2 |
+Panchama gati kaa main vara chaahoon, jeevana kaa saubhaagya dipaaoon
+Goonje hain antara taraanaa-2 | | svaamee.. | 3 |`,
+    },
+  },
+  {
+    id: "teri-shanti-chhavi-pe-main",
+    type: "bhajan",
+    title: {
+      gu: "તેરી શાંતિ છવિ પે મૈં",
+      hi: "तेरी शांति छवि पे मैं",
+      sa: "",
+      en: "Teree Shaanti Chhavi Pe Main",
+    },
+    text: {
+      gu: `તેરી શાંતિ છવિ પે મૈં
+તેરી શાંતિ છવિ પે મૈં બલિ બલિ જાઊઁ
+ખુલે નયન મારગ આ દિલ મૈં બિઠાઊઁ ॥
+લેખા ના દેખા, ધર્મ પાપ જોડા,
+બના ભોગ લિપ્સા કિ ચાહોં મેં દૌડા,
+સહે દુખ જો જો કહા લો સુનાઊઁ ॥ તેરી શાંતિ... ।૧।
+તેરા જ્ઞાન ગૌરવ જો ગણધર ને ગાયા
+વહી ગીત પાવન મુઝે આજ ભાયા
+ઉસી કે સુરોં મેં સુનો મૈં સુનાઊઁ ॥ તેરી શાંતિ છવિ.. ।૨।
+જગી આત્મ જ્યોતિ સમ્યક્ત્વ તત્ત્વ કી
+ઘટી હૈ ઘટા શામ મિથ્યા વિકલ કી
+નિજાનન્દ સૌભાગ્ય સેહરા સજાઊઁ-૨ ॥ તેરી શાંતિ છવિ. ।૩।`,
+      hi: `तेरी शांति छवि पे मैं
+तेरी शांति छवि पे मैं बलि बलि जाऊँ
+खुले नयन मारग आ दिल मैं बिठाऊँ ॥
+लेखा ना देखा, धर्म पाप जोड़ा,
+बना भोग लिप्सा कि चाहों में दौड़ा,
+सहे दुख जो जो कहा लो सुनाऊँ ॥ तेरी शांति... ।१।
+तेरा ज्ञान गौरव जो गणधर ने गाया
+वही गीत पावन मुझे आज भाया
+उसी के सुरों में सुनो मैं सुनाऊँ ॥ तेरी शांति छवि.. ।२।
+जगी आत्म ज्योति सम्यक्त्व तत्त्व की
+घटी है घटा शाम मिथ्या विकल की
+निजानन्द सौभाग्य सेहरा सजाऊँ-२ ॥ तेरी शांति छवि. ।३।`,
+      sa: "",
+      en: `Teree shaanti chhavi pe main
+Teree shaanti chhavi pe main bali bali jaaoon
+Khule nayana maaraga aa dila main bithaaoon | |
+Lekhaa naa dekhaa, dharma paapa jodaa,
+Banaa bhoga lipsaa ki chaahon men daudaa,
+Sahe dukha jo jo kahaa lo sunaaoon | | teree shaanti... | 1 |
+Teraa gyaana gaurava jo ganadhara ne gaayaa
+Vahee geeta paavana mujhe aaja bhaayaa
+Usee ke suron men suno main sunaaoon | | teree shaanti chhavi.. | 2 |
+Jagee aatma jyoti samyaktva tattva kee
+Ghatee hai ghataa shaama mithyaa vikala kee
+Nijaananda saubhaagya seharaa sajaaoon-2 | | teree shaanti chhavi. | 3 |`,
+    },
+  },
+  {
+    id: "aaj-si-suhani-su-ghadi",
+    type: "bhajan",
+    title: {
+      gu: "આજ સી સુહાની સુ ઘડી",
+      hi: "आज सी सुहानी सु घड़ी",
+      sa: "",
+      en: "Aaja See Suhaanee Su Ghadee",
+    },
+    text: {
+      gu: `આજ સી સુહાની સુ ઘડી
+આજ સી સુહાની સુ ઘડી ઇતની
+કલ ના મિલેગી ઢૂઁઢો ચાહે જિતની ॥ટેક॥
+આયા કહાઁ સે હૈ જાના કહાઁ, સોચો તુમ્હારા ઠિકાના કહાઁ
+લાયે થે ક્યા હૈ કમાયા યહાઁ, લે જાના તુમકો હૈ ક્યા-૨ વહાઁ
+ધારે અનેકોં હૈ તૂને જનમ, ગિનાવેં કહાઁ લો હૈ આતી શરમ
+નરદેહ પાકર અહો પુણ્ય ધન,
+ભોગોં મેં જીવન ક્યોં કરતે ખતમ
+પ્રભૂ કે ચરણ મેં લગા લો લગન, વહી એકસચ્ચે હૈં તારણતરણ
+છૂટેગા ભવ દુ:ખ જામન મરણ, સૌભાગ્ય પાવોગે મુક્તિ રમણ`,
+      hi: `आज सी सुहानी सु घड़ी
+आज सी सुहानी सु घड़ी इतनी
+कल ना मिलेगी ढूँढ़ो चाहे जितनी ॥टेक॥
+आया कहाँ से है जाना कहाँ, सोचो तुम्हारा ठिकाना कहाँ
+लाये थे क्या है कमाया यहाँ, ले जाना तुमको है क्या-२ वहाँ
+धारे अनेकों है तूने जनम, गिनावें कहाँ लो है आती शरम
+नरदेह पाकर अहो पुण्य धन,
+भोगों में जीवन क्यों करते खतम
+प्रभू के चरण में लगा लो लगन, वही एकसच्चे हैं तारणतरण
+छूटेगा भव दु:ख जामन मरण, सौभाग्य पावोगे मुक्ति रमण`,
+      sa: "",
+      en: `Aaja see suhaanee su ghadee
+Aaja see suhaanee su ghadee itanee
+Kala naa milegee dhoondho chaahe jitanee | | teka | |
+Aayaa kahaan se hai jaanaa kahaan, socho tumhaaraa thikaanaa kahaan
+Laaye the kyaa hai kamaayaa yahaan, le jaanaa tumako hai kyaa-2 vahaan
+Dhaare anekon hai toone janama, ginaaven kahaan lo hai aatee sharama
+Naradeha paakara aho punya dhana,
+Bhogon men jeevana kyon karate khatama
+Prabhoo ke charana men lagaa lo lagana, vahee ekasachche hain taaranatarana
+Chhootegaa bhava du:kha jaamana marana, saubhaagya paavoge mukti ramana`,
+    },
+  },
+  {
+    id: "esa-mohi-kyo-na-adhogati-javai",
+    type: "bhajan",
+    title: {
+      gu: "ઐસા મોહી ક્યોં ન અધોગતિ જાવૈ",
+      hi: "ऐसा मोही क्यों न अधोगति जावै",
+      sa: "",
+      en: "Aisaa Mohee Kyon na Adhogati Jaavai",
+    },
+    text: {
+      gu: `ઐસા મોહી ક્યોં ન અધોગતિ જાવૈ,
+જાકો જિનવાની ન સુહાવૈ ।ટેક.।
+વીતરાગસે દેવ છોડકર, ભૈરવ યક્ષ મનાવૈ ।
+કલ્પલતા દયાલુતા તજિ, હિંસા ઇન્દ્રાયનિ વાવૈ ।૧।
+રુચૈ ન ગુરુ નિર્ગ્રન્થ ભેષ બહુ, - પરિગ્રહી ગુરુ ભાવૈ ।
+પરધન પરતિયકો અભિલાષૈ, અશન અશોધિત ખાવૈ ।૨।
+પરકી વિભવ દેખ હ્વૈ સોગી, પરદુખ હરખ લહાવૈ ।
+ધર્મ હેતુ ઇક દામ ન ખરચૈ, ઉપવન લક્ષ બહાવૈ ।૩।
+જ્યોં ગૃહ મેં સંચૈ બહુ અઘ ત્યોં, વનહૂ મેં ઉપજાવૈ ।
+અમ્બર ત્યાગ કહાય દિગમ્બર, બાઘમ્બર તન છાવૈ ।૪।
+આરમ્ભ તજ શઠ યંત્ર મંત્ર કરિ, જનપૈ પૂજ્ય મનાવૈ ।
+ધામ વામ તજ દાસી રાખૈ, બાહિર મઢી બનાવૈ ।૫।
+નામ ધરાય જતી તપસી મન, વિષયનિમેં લલચાવૈ
+દૌલત સો અનન્ત ભવ ભટકૈ, ઓરનકો ભટકાવૈ ।૬।`,
+      hi: `ऐसा मोही क्यों न अधोगति जावै,
+जाको जिनवानी न सुहावै ।टेक.।
+वीतरागसे देव छोड़कर, भैरव यक्ष मनावै ।
+कल्पलता दयालुता तजि, हिंसा इन्द्रायनि वावै ।१।
+रुचै न गुरु निर्ग्रन्थ भेष बहु, - परिग्रही गुरु भावै ।
+परधन परतियको अभिलाषै, अशन अशोधित खावै ।२।
+परकी विभव देख ह्वै सोगी, परदुख हरख लहावै ।
+धर्म हेतु इक दाम न खरचै, उपवन लक्ष बहावै ।३।
+ज्यों गृह में संचै बहु अघ त्यों, वनहू में उपजावै ।
+अम्बर त्याग कहाय दिगम्बर, बाघम्बर तन छावै ।४।
+आरम्भ तज शठ यंत्र मंत्र करि, जनपै पूज्य मनावै ।
+धाम वाम तज दासी राखै, बाहिर मढ़ी बनावै ।५।
+नाम धराय जती तपसी मन, विषयनिमें ललचावै
+दौलत सो अनन्त भव भटकै, ओरनको भटकावै ।६।`,
+      sa: "",
+      en: `Aisaa mohee kyon na adhogati jaavai,
+Jaako jinavaanee na suhaavai | teka. |
+Veetaraagase deva chhodakara, bhairava yaksha manaavai |
+Kalpalataa dayaalutaa taji, hinsaa indraayani vaavai | 1 |
+Ruchai na guru nirgrantha bhesha bahu, - parigrahee guru bhaavai |
+Paradhana paratiyako abhilaashai, ashana ashodhita khaavai | 2 |
+Parakee vibhava dekha hvai sogee, paradukha harakha lahaavai |
+Dharma hetu ika daama na kharachai, upavana laksha bahaavai | 3 |
+Jyon griha men sanchai bahu agha tyon, vanahoo men upajaavai |
+Ambara tyaaga kahaaya digambara, baaghambara tana chhaavai | 4 |
+Aarambha taja shatha yantra mantra kari, janapai poojya manaavai |
+Dhaama vaama taja daasee raakhai, baahira madhee banaavai | 5 |
+Naama dharaaya jatee tapasee mana, vishayanimen lalachaavai
+Daulata so ananta bhava bhatakai, oranako bhatakaavai | 6 |`,
+    },
+  },
+  {
+    id: "prabhu-darshan-kar-jivan-ki",
+    type: "bhajan",
+    title: {
+      gu: "પ્રભુ દર્શન કર જીવન કી",
+      hi: "प्रभु दर्शन कर जीवन की",
+      sa: "",
+      en: "Prabhu Darshana Kara Jeevana Kee",
+    },
+    text: {
+      gu: `પ્રભુ દર્શન કર જીવન કી
+પ્રભુ દર્શન કર જીવન કી, ભીડ ભગી મેરે કર્મન કી ॥ટેર॥
+ભવ બન ભ્રમતા હારા થા પાયા નહીં કિનારા થા
+ઘડી સુખદ આઈ સુમરણ કી ।૧। ભીડ ભગી..
+શાન્ત છબી મન ભાઈ હૈ, નૈનન બીચ સમાઈ હૈ
+દૂર હટૂઁ નહીં પલ છિન ભી ।૨। ભીડ ભગી..
+નિજ પદ કા \`સૌભાગ્ય' વરૂં, અરુ ન કિસી કી ચાહ કરૂઁ
+સફલ કામના હો મન કી ।૩। ભીડ ભગી..`,
+      hi: `प्रभु दर्शन कर जीवन की
+प्रभु दर्शन कर जीवन की, भीड़ भगी मेरे कर्मन की ॥टेर॥
+भव बन भ्रमता हारा था पाया नहीं किनारा था
+घड़ी सुखद आई सुमरण की ।१। भीड़ भगी..
+शान्त छबी मन भाई है, नैनन बीच समाई है
+दूर हटूँ नहीं पल छिन भी ।२। भीड़ भगी..
+निज पद का \`सौभाग्य' वरूं, अरु न किसी की चाह करूँ
+सफल कामना हो मन की ।३। भीड़ भगी..`,
+      sa: "",
+      en: `Prabhu darshana kara jeevana kee
+Prabhu darshana kara jeevana kee, bheeda bhagee mere karmana kee | | tera | |
+Bhava bana bhramataa haaraa thaa paayaa naheen kinaaraa thaa
+Ghadee sukhada aaee sumarana kee | 1 | bheeda bhagee..
+Shaanta chhabee mana bhaaee hai, nainana beecha samaaee hai
+Doora hatoon naheen pala chhina bhee | 2 | bheeda bhagee..
+Nija pada kaa \`saubhaagya' varoon, aru na kisee kee chaaha karoon
+Saphala kaamanaa ho mana kee | 3 | bheeda bhagee..`,
+    },
+  },
+  {
+    id: "teri-sundar-murat-dekh-prabho",
+    type: "bhajan",
+    title: {
+      gu: "તેરી સુન્દર મૂરત દેખ પ્રભો",
+      hi: "तेरी सुन्दर मूरत देख प्रभो",
+      sa: "",
+      en: "Teree Sundara Moorata Dekha Prabho",
+    },
+    text: {
+      gu: `તેરી સુન્દર મૂરત દેખ પ્રભો
+તેરી સુન્દર મૂરત દેખ પ્રભો, મૈં જીવન દુખ સબ ભૂલ ગયા
+યહ પાવન પ્રતિમા દેખ પ્રભો ॥ટેક॥
+જ્યોં કાલી ઘટાયેં આતી હૈં, ત્યોં કોયલ કૂક મચાતી હૈ
+મેરા રોમ રોમ ત્યોં હર્ષિત હૈ, હાઁ હર્ષિત હૈ
+યહ ચન્દ્ર છવિ જિન દેખ પ્રભો ।૧।
+ઓ...દોષ કે હરનેવાલે હો,ઓ મોક્ષ કે વરનેવાલે હો
+મેરા મન ભક્તિ મેં લીન હુઆ,હાઁ, લીન હુઆ
+ઇસકો તો નિભાના દેખ પ્રભો ।૨।
+હર શ્વાંસ મેં તેરી હી લય હો, કર્મોં પે સદા વિજય ભી હો
+યહ જીવન તુઝસા જીવન હો,હાઁ જીવન હો
+\`સૌભાગ્ય' યહ હી લિખ લેખ પ્રભો ।૩।`,
+      hi: `तेरी सुन्दर मूरत देख प्रभो
+तेरी सुन्दर मूरत देख प्रभो, मैं जीवन दुख सब भूल गया
+यह पावन प्रतिमा देख प्रभो ॥टेक॥
+ज्यों काली घटायें आती हैं, त्यों कोयल कूक मचाती है
+मेरा रोम रोम त्यों हर्षित है, हाँ हर्षित है
+यह चन्द्र छवि जिन देख प्रभो ।१।
+ओ...दोष के हरनेवाले हो,ओ मोक्ष के वरनेवाले हो
+मेरा मन भक्ति में लीन हुआ,हाँ, लीन हुआ
+इसको तो निभाना देख प्रभो ।२।
+हर श्वांस में तेरी ही लय हो, कर्मों पे सदा विजय भी हो
+यह जीवन तुझसा जीवन हो,हाँ जीवन हो
+\`सौभाग्य' यह ही लिख लेख प्रभो ।३।`,
+      sa: "",
+      en: `Teree sundara moorata dekha prabho
+Teree sundara moorata dekha prabho, main jeevana dukha saba bhoola gayaa
+Yaha paavana pratimaa dekha prabho | | teka | |
+Jyon kaalee ghataayen aatee hain, tyon koyala kooka machaatee hai
+Meraa roma roma tyon harshita hai, haan harshita hai
+Yaha chandra chhavi jina dekha prabho | 1 |
+O...dosha ke haranevaale ho,o moksha ke varanevaale ho
+Meraa mana bhakti men leena huaa,haan, leena huaa
+Isako to nibhaanaa dekha prabho | 2 |
+Hara shvaansa men teree hee laya ho, karmon pe sadaa vijaya bhee ho
+Yaha jeevana tujhasaa jeevana ho,haan jeevana ho
+\`saubhaagya' yaha hee likha lekha prabho | 3 |`,
+    },
+  },
+  {
+    id: "vardhman-lalna-se-kahe",
+    type: "bhajan",
+    title: {
+      gu: "વર્ધમાન લલના સે કહે",
+      hi: "वर्धमान ललना से कहे",
+      sa: "",
+      en: "Vardhamaana Lalanaa se Kahe",
+    },
+    text: {
+      gu: `વર્ધમાન લલના સે કહે
+વર્ધમાન લલના સે કહે ત્રિશલા માતા
+લાલ મેરે શાદી ક્યોં નહીં રચાતા...॥ટેક॥
+બોલે મુસ્કુરાતે વીરા, સુનો મેરી માઈ
+કિતની હી બાર મૈને શદિયાં રચાઈ
+શાદિયાં રચાઈ ફિર ભી હો, શાદિયાં રચાઈ ફિર ભી,
+પાઈ નહીં સાતા, ઇસીલિયે માતા.. ।૧।
+બોલે મુસ્કુરાતે વીરા, જગત કે સહારે
+નેમિનાથ હૈં યે સચ્ચે સાથી હમારે
+ઉન મૂક પ્રાણિયોં કા હો, ઉન મૂક પ્રાણિયોં કા હો
+રુદન હૈ બુલાતા, ઇસીલિયે માતા.. ।૨।
+બોલે મુસ્કુરાતે વીરા, સુનો મેરી માઈ
+નરભવ મેં ઉમ્ર હમને થોડી કમાઈ
+ભવ-ભવ કા દુખ ભૈયા હો, ભવ-ભવ કા દુખ ભૈયા
+સહા નહીં જાતા, ઇસીલિયે માતા... ।૩।
+સુનો મૈયા આતમ કા, બન કે પુજારી
+તોડૂંગા કર્મોં કી જંજીર સારી
+રાજપાટ વૈભવ યે હો, રાજપાટ વૈભવ યે
+કુછ ન સુહાતા, ઇસીલિયે માતા...।૪।`,
+      hi: `वर्धमान ललना से कहे
+वर्धमान ललना से कहे त्रिशला माता
+लाल मेरे शादी क्यों नहीं रचाता...॥टेक॥
+बोले मुस्कुराते वीरा, सुनो मेरी माई
+कितनी ही बार मैने शदियां रचाई
+शादियां रचाई फ़िर भी हो, शादियां रचाई फ़िर भी,
+पाई नहीं साता, इसीलिये माता.. ।१।
+बोले मुस्कुराते वीरा, जगत के सहारे
+नेमिनाथ हैं ये सच्चे साथी हमारे
+उन मूक प्राणियों का हो, उन मूक प्राणियों का हो
+रुदन है बुलाता, इसीलिये माता.. ।२।
+बोले मुस्कुराते वीरा, सुनो मेरी माई
+नरभव में उम्र हमने थोडी कमाई
+भव-भव का दुख भैया हो, भव-भव का दुख भैया
+सहा नहीं जाता, इसीलिये माता... ।३।
+सुनो मैया आतम का, बन के पुजारी
+तोडूंगा कर्मों की जंजीर सारी
+राजपाट वैभव ये हो, राजपाट वैभव ये
+कुछ न सुहाता, इसीलिये माता...।४।`,
+      sa: "",
+      en: `Vardhamaana lalanaa se kahe
+Vardhamaana lalanaa se kahe trishalaa maataa
+Laala mere shaadee kyon naheen rachaataa... | | teka | |
+Bole muskuraate veeraa, suno meree maaee
+Kitanee hee baara maine shadiyaan rachaaee
+Shaadiyaan rachaaee phira bhee ho, shaadiyaan rachaaee phira bhee,
+Paaee naheen saataa, iseeliye maataa.. | 1 |
+Bole muskuraate veeraa, jagata ke sahaare
+Neminaatha hain ye sachche saathee hamaare
+Una mooka praaniyon kaa ho, una mooka praaniyon kaa ho
+Rudana hai bulaataa, iseeliye maataa.. | 2 |
+Bole muskuraate veeraa, suno meree maaee
+Narabhava men umra hamane thodee kamaaee
+Bhava-bhava kaa dukha bhaiyaa ho, bhava-bhava kaa dukha bhaiyaa
+Sahaa naheen jaataa, iseeliye maataa... | 3 |
+Suno maiyaa aatama kaa, bana ke pujaaree
+Todoongaa karmon kee janjeera saaree
+Raajapaata vaibhava ye ho, raajapaata vaibhava ye
+Kuchha na suhaataa, iseeliye maataa... | 4 |`,
+    },
+  },
+  {
+    id: "hum-to-kabhu-na-nij-ghar-aaye",
+    type: "bhajan",
+    title: {
+      gu: "હમ તો કબહુઁ ન નિજ ઘર આયે",
+      hi: "हम तो कबहुँ न निज घर आये",
+      sa: "",
+      en: "Hama To Kabahun na Nija Ghara Aaye",
+    },
+    text: {
+      gu: `હમ તો કબહુઁ ન નિજ ઘર આયે ।
+પરઘર ફિરત બહુત દિન બીતે, નામ અનેક ધરાયે ॥
+પરપદ નિજપદ માનિ મગન હ્વૈ, પરપરનતિ લપટાયે,
+શુદ્ધ બુદ્ધ સુખ કન્દ મનોહર, ચેતન ભાવ ન ભાયે ।૧।
+નર પશુ દેવ નરક નિજ જાન્યો, પરજય બુદ્ધિ લહાયે,
+અમલ અખણ્ડ અતુલ અવિનાશી, આતમગુન નહિં ગાયે ।૨।
+યહ બહુ ભૂલ ભઈ હમરી ફિર, કહા કાજ પછતાયે,
+દૌલ તજૌ અજહૂઁ વિષયનકો, સતગુરુ વચન સુનાયે ।૩।`,
+      hi: `हम तो कबहुँ न निज घर आये ।
+परघर फिरत बहुत दिन बीते, नाम अनेक धराये ॥
+परपद निजपद मानि मगन ह्वै, परपरनति लपटाये,
+शुद्ध बुद्ध सुख कन्द मनोहर, चेतन भाव न भाये ।१।
+नर पशु देव नरक निज जान्यो, परजय बुद्धि लहाये,
+अमल अखण्ड अतुल अविनाशी, आतमगुन नहिं गाये ।२।
+यह बहु भूल भई हमरी फिर, कहा काज पछताये,
+दौल तजौ अजहूँ विषयनको, सतगुरु वचन सुनाये ।३।`,
+      sa: "",
+      en: `Hama to kabahun na nija ghara aaye |
+Paraghara phirata bahuta dina beete, naama aneka dharaaye | |
+Parapada nijapada maani magana hvai, paraparanati lapataaye,
+Shuddha buddha sukha kanda manohara, chetana bhaava na bhaaye | 1 |
+Nara pashu deva naraka nija jaanyo, parajaya buddhi lahaaye,
+Amala akhanda atula avinaashee, aatamaguna nahin gaaye | 2 |
+Yaha bahu bhoola bhaee hamaree phira, kahaa kaaja pachhataaye,
+Daula tajau ajahoon vishayanako, sataguru vachana sunaaye | 3 |`,
+    },
+  },
+  {
+    id: "vartman-ko-vardhmaan-ki-aavshyakta",
+    type: "bhajan",
+    title: {
+      gu: "વર્તમાન કો વર્ધમાન કી આવશ્યકતા",
+      hi: "वर्तमान को वर्धमान की आवश्यकता",
+      sa: "",
+      en: "Vartamaana ko Vardhamaana Kee Aavashyakataa",
+    },
+    text: {
+      gu: `વર્તમાન કો વર્ધમાન કી આવશ્યકતા
+હર આત્મા દુખી હૈ, સુખ શાંતિ ખો ચુકી હૈ,
+પરદૃષ્ટિ હોકે વ્યાકુલ, મહાવીર પે રુકી હૈ
+મહાવીર... મહાવીર...મહાવીર...મહાવીર...
+હિંસા પીડિત વિશ્વ રાહ મહાવીર કી તકતા હૈ,
+વર્તમાન કો વર્ધમાન કી આવશ્યકતા હૈ
+પાપોં કે દલદલ મેં ફંસકર ધર્મ સિસકતા હૈ, વર્તમાન...
+હિંસા કે બાદલ છાયેં સંસાર પર,
+સર્વનાશ કે દુનિયા ખડી કગાર પર
+નહીં શાસ્ત્રોં મેં અબ શસ્ત્રોં મેં હોડ હૈ,
+માનવતા રોતી હૈ અપની હાર પર
+મહાવીર હી પથભૂલોં કો સમઝા સકતા હૈ, હિંસા પીડિત ॥
+યદીયે ચૈતન્યે મુકુર ઇવ ભાવાશ્ચિદચિતઃ,
+સમં ભ્રાન્તિ ધ્રૌવ્ય-વ્યય-જનિ-લસન્તૌsન્તરહિતા।
+જગત્સાક્ષી માર્ગ-પ્રગટન-પરો-ભાનુરિવ યો,
+મહાવીર સ્વામી નયન-પથ-ગામી-ભવતુમમે॥
+બાંધો પ્રભુ કો ભક્તિ ભાવ કી ડોર સે,
+કરો પ્રાર્થના સબ જીવોં કી ઓર સે
+વીતરાગ વ્યથિતોં કે દુખ પર ધ્યાન દેં,
+હમકો કરે કૃતાર્થ કૃપા કી કોર સે
+પ્રભુ કે નયનોં સે કરુણા કા નીર ઝલકતા હૈ, હિંસા પીડિત ॥
+વર્ધમાન કે આદર્શોં પર ધ્યાન દો,
+હિતોપદેશોં કો અંતર મેં સ્થાન દો।
+તુમ જિસકે વંશજ જિસકી સંતાન હો,
+હોકર એક ઉસે પૂરા સમ્માન દો।
+મિલકર જીને મેં હી જીવન કી સાર્થકતા હૈ, હિંસા પીડિત ॥
+મહામોહાંતક-પ્રશમનઃપ્રાકસ્મિક-ભિષઙ,
+નિરાપેક્ષો બન્ધુર્વિદિત-મહિમા મઙ્ગલકરઃ।
+શરણ્યઃ સાધૂનાં ભવ ભયભૃતામુત્તમગુણો,
+મહાવીર સ્વામી નયન-પથ-ગામી-ભવતુમમે॥
+વહ આયે તો હર સંકટ કો પ્રાણ હો,
+અભય સુરક્ષિત સર્વ સુખી હર પ્રાણ હો।
+જિયો ઔર જીને દો કે મહામંત્ર સે,
+વિશ્વ શાંતિ પાયે સબકા કલ્યાણ હો।
+પ્રભુ કી મૃદુ વાણી મેં આધ્યામિક માદકતા હૈ,હિંસા પીડિત ॥
+મહાવીર... મહાવીર...મહાવીર...મહાવીર...
+વર્તમાન કો વર્ધમાન કી આવશ્યકતા હૈ ...`,
+      hi: `वर्तमान को वर्धमान की आवश्यकता
+हर आत्मा दुखी है, सुख शांति खो चुकी है,
+परदृष्टि होके व्याकुल, महावीर पे रुकी है
+महावीर... महावीर...महावीर...महावीर...
+हिंसा पीडित विश्व राह महावीर की तकता है,
+वर्तमान को वर्धमान की आवश्यकता है
+पापों के दलदल में फ़ंसकर धर्म सिसकता है, वर्तमान...
+हिंसा के बादल छायें संसार पर,
+सर्वनाश के दुनिया खडी कगार पर
+नहीं शास्त्रों में अब शस्त्रों में होड है,
+मानवता रोती है अपनी हार पर
+महावीर ही पथभूलों को समझा सकता है, हिंसा पीडित ॥
+यदीये चैतन्ये मुकुर इव भावाश्चिदचितः,
+समं भ्रान्ति ध्रौव्य-व्यय-जनि-लसन्तौsन्तरहिता।
+जगत्साक्षी मार्ग-प्रगटन-परो-भानुरिव यो,
+महावीर स्वामी नयन-पथ-गामी-भवतुममे॥
+बांधो प्रभु को भक्ति भाव की डोर से,
+करो प्रार्थना सब जीवों की ओर से
+वीतराग व्यथितों के दुख पर ध्यान दें,
+हमको करे कृतार्थ कृपा की कोर से
+प्रभु के नयनों से करुणा का नीर झलकता है, हिंसा पीडित ॥
+वर्धमान के आदर्शों पर ध्यान दो,
+हितोपदेशों को अंतर में स्थान दो।
+तुम जिसके वंशज जिसकी संतान हो,
+होकर एक उसे पूरा सम्मान दो।
+मिलकर जीने में ही जीवन की सार्थकता है, हिंसा पीडित ॥
+महामोहांतक-प्रशमनःप्राकस्मिक-भिषङ,
+निरापेक्षो बन्धुर्विदित-महिमा मङ्गलकरः।
+शरण्यः साधूनां भव भयभृतामुत्तमगुणो,
+महावीर स्वामी नयन-पथ-गामी-भवतुममे॥
+वह आये तो हर संकट को प्राण हो,
+अभय सुरक्षित सर्व सुखी हर प्राण हो।
+जियो और जीने दो के महामंत्र से,
+विश्व शांति पाये सबका कल्याण हो।
+प्रभु की मृदु वाणी में आध्यामिक मादकता है,हिंसा पीडित ॥
+महावीर... महावीर...महावीर...महावीर...
+वर्तमान को वर्धमान की आवश्यकता है ...`,
+      sa: "",
+      en: `Vartamaana ko vardhamaana kee aavashyakataa
+Hara aatmaa dukhee hai, sukha shaanti kho chukee hai,
+Paradrishti hoke vyaakula, mahaaveera pe rukee hai
+Mahaaveera... mahaaveera...mahaaveera...mahaaveera...
+Hinsaa peedita vishva raaha mahaaveera kee takataa hai,
+Vartamaana ko vardhamaana kee aavashyakataa hai
+Paapon ke daladala men phansakara dharma sisakataa hai, vartamaana...
+Hinsaa ke baadala chhaayen sansaara para,
+Sarvanaasha ke duniyaa khadee kagaara para
+Naheen shaastron men aba shastron men hoda hai,
+Maanavataa rotee hai apanee haara para
+Mahaaveera hee pathabhoolon ko samajhaa sakataa hai, hinsaa peedita | |
+Yadeeye chaitanye mukura iva bhaavaashchidachitah,
+Saman bhraanti dhrauvya-vyaya-jani-lasantausntarahitaa |
+Jagatsaakshee maarga-pragatana-paro-bhaanuriva yo,
+Mahaaveera svaamee nayana-patha-gaamee-bhavatumame | |
+Baandho prabhu ko bhakti bhaava kee dora se,
+Karo praarthanaa saba jeevon kee ora se
+Veetaraaga vyathiton ke dukha para dhyaana den,
+Hamako kare kritaartha kripaa kee kora se
+Prabhu ke nayanon se karunaa kaa neera jhalakataa hai, hinsaa peedita | |
+Vardhamaana ke aadarshon para dhyaana do,
+Hitopadeshon ko antara men sthaana do |
+Tuma jisake vanshaja jisakee santaana ho,
+Hokara eka use pooraa sammaana do |
+Milakara jeene men hee jeevana kee saarthakataa hai, hinsaa peedita | |
+Mahaamohaantaka-prashamanahpraakasmika-bhishanga,
+Niraapeksho bandhurvidita-mahimaa manggalakarah |
+Sharanyah saadhoonaan bhava bhayabhritaamuttamaguno,
+Mahaaveera svaamee nayana-patha-gaamee-bhavatumame | |
+Vaha aaye to hara sankata ko praana ho,
+Abhaya surakshita sarva sukhee hara praana ho |
+Jiyo aura jeene do ke mahaamantra se,
+Vishva shaanti paaye sabakaa kalyaana ho |
+Prabhu kee mridu vaanee men aadhyaamika maadakataa hai,hinsaa peedita | |
+Mahaaveera... mahaaveera...mahaaveera...mahaaveera...
+Vartamaana ko vardhamaana kee aavashyakataa hai ...`,
+    },
+  },
+  {
+    id: "tum-hi-ho-gyata",
+    type: "bhajan",
+    title: {
+      gu: "તુમ હી હો જ્ઞાતા",
+      hi: "तुम ही हो ज्ञाता",
+      sa: "",
+      en: "Tuma Hee ho Gyaataa",
+    },
+    text: {
+      gu: `તુમ હી હો જ્ઞાતા
+તુમ હી હો જ્ઞાતા, દૃષ્ટા તુમ્હી હો,
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥
+તુમ હી હો ત્યાગી, તુમ હી વૈરાગી
+તુમ હી હો ધર્મી, સર્વજ્ઞ સ્વામી
+હો કર્મ જેતા, તીરથ પ્રણેતા
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥
+તુમહી હો નિશ્ચલ, નિષ્કામ ભગવન
+નિર્દોષ તુમ હો, હે વિશ્વભૂષણ
+તુમ્હેં ત્રિવિધ હૈ વન્દન હમારી
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥
+તુમહી સકલ હો, તુમહી નિકલ હો
+તુમહીં હજારોં હો નામધારી
+કોઈ ના તુમસા હિતોપકારી
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥
+જો તિર સકે ના ભવ સિંધુ માંહી
+કિયા ક્ષણોં મેં હૈ પાર તુમને
+બૈરી હૈ પાવન મુક્તિરમા કો
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥
+જો જ્ઞાન નિર્મલ હૈ નાથ તુમમેં
+વહી પ્રગટ હો વીરત્વ હમમેં
+મિલે પરમપદ સૌભાગ્ય હમકો
+તુમ હી જગોત્તમ, શરણ તુમ્હી હો ॥`,
+      hi: `तुम ही हो ज्ञाता
+तुम ही हो ज्ञाता, दृष्टा तुम्ही हो,
+तुम ही जगोत्तम, शरण तुम्ही हो ॥
+तुम ही हो त्यागी, तुम ही वैरागी
+तुम ही हो धर्मी, सर्वज्ञ स्वामी
+हो कर्म जेता, तीरथ प्रणेता
+तुम ही जगोत्तम, शरण तुम्ही हो ॥
+तुमही हो निश्चल, निष्काम भगवन
+निर्दोष तुम हो, हे विश्वभूषण
+तुम्हें त्रिविध है वन्दन हमारी
+तुम ही जगोत्तम, शरण तुम्ही हो ॥
+तुमही सकल हो, तुमही निकल हो
+तुमहीं हजारों हो नामधारी
+कोई ना तुमसा हितोपकारी
+तुम ही जगोत्तम, शरण तुम्ही हो ॥
+जो तिर सके ना भव सिंधु मांही
+किया क्षणों में है पार तुमने
+बैरी है पावन मुक्तिरमा को
+तुम ही जगोत्तम, शरण तुम्ही हो ॥
+जो ज्ञान निर्मल है नाथ तुममें
+वही प्रगट हो वीरत्व हममें
+मिले परमपद सौभाग्य हमको
+तुम ही जगोत्तम, शरण तुम्ही हो ॥`,
+      sa: "",
+      en: `Tuma hee ho gyaataa
+Tuma hee ho gyaataa, drishtaa tumhee ho,
+Tuma hee jagottama, sharana tumhee ho | |
+Tuma hee ho tyaagee, tuma hee vairaagee
+Tuma hee ho dharmee, sarvagya svaamee
+Ho karma jetaa, teeratha pranetaa
+Tuma hee jagottama, sharana tumhee ho | |
+Tumahee ho nishchala, nishkaama bhagavana
+Nirdosha tuma ho, he vishvabhooshana
+Tumhen trividha hai vandana hamaaree
+Tuma hee jagottama, sharana tumhee ho | |
+Tumahee sakala ho, tumahee nikala ho
+Tumaheen hajaaron ho naamadhaaree
+Koee naa tumasaa hitopakaaree
+Tuma hee jagottama, sharana tumhee ho | |
+Jo tira sake naa bhava sindhu maanhee
+Kiyaa kshanon men hai paara tumane
+Bairee hai paavana muktiramaa ko
+Tuma hee jagottama, sharana tumhee ho | |
+Jo gyaana nirmala hai naatha tumamen
+Vahee pragata ho veeratva hamamen
+Mile paramapada saubhaagya hamako
+Tuma hee jagottama, sharana tumhee ho | |`,
+    },
+  },
+  {
+    id: "aatam-roop-anupam-adbhut",
+    type: "bhajan",
+    title: {
+      gu: "આતમ રૂપ અનૂપમ અદ્ભુત",
+      hi: "आतम रूप अनूपम अद्भुत",
+      sa: "",
+      en: "Aatama Roopa Anoopama Adbhuta",
+    },
+    text: {
+      gu: `આતમ રૂપ અનૂપમ અદ્ભુત, યાહિ લખૈં ભવ સિંધુ તરો ॥ટેક॥
+અલ્પકાલ મેં ભરત ચક્રધર, નિજ આતમકો ધ્યાય ખરો
+કેવલજ્ઞાન પાય ભવિ બોધે, તતછિન પાયૌ લોકશિરો ।૧।
+યા બિન સમુઝે દ્રવ્ય-લિંગમુનિ, ઉગ્ર તપનકર ભાર ભરો
+નવગ્રીવક પર્યન્ત જાય ચિર, ફેર ભવાર્ણવ માહિં પરો ।૨।
+સમ્યગ્દર્શન જ્ઞાન ચરન તપ, યેહિ જગત મેં સાર નરો
+પૂરવ શિવકો ગયે જાહિં અબ, ફિર જૈહૈં,યહ નિયત કરો ।૩।
+કોટિ ગ્રન્થકો સાર યહી હૈ, યે હી જિનવાની ઉચરો
+\`દૌલ' ધ્યાય અપને આતમકો, મુક્તિરમા તબ વેગ બરો ।૪।`,
+      hi: `आतम रूप अनूपम अद्भुत, याहि लखैं भव सिंधु तरो ॥टेक॥
+अल्पकाल में भरत चक्रधर, निज आतमको ध्याय खरो
+केवलज्ञान पाय भवि बोधे, ततछिन पायौ लोकशिरो ।१।
+या बिन समुझे द्रव्य-लिंगमुनि, उग्र तपनकर भार भरो
+नवग्रीवक पर्यन्त जाय चिर, फेर भवार्णव माहिं परो ।२।
+सम्यग्दर्शन ज्ञान चरन तप, येहि जगत में सार नरो
+पूरव शिवको गये जाहिं अब, फिर जैहैं,यह नियत करो ।३।
+कोटि ग्रन्थको सार यही है, ये ही जिनवानी उचरो
+\`दौल' ध्याय अपने आतमको, मुक्तिरमा तब वेग बरो ।४।`,
+      sa: "",
+      en: `Aatama roopa anoopama adbhuta, yaahi lakhain bhava sindhu taro | | teka | |
+Alpakaala men bharata chakradhara, nija aatamako dhyaaya kharo
+Kevalagyaana paaya bhavi bodhe, tatachhina paayau lokashiro | 1 |
+Yaa bina samujhe dravya-lingamuni, ugra tapanakara bhaara bharo
+Navagreevaka paryanta jaaya chira, phera bhavaarnava maahin paro | 2 |
+Samyagdarshana gyaana charana tapa, yehi jagata men saara naro
+Poorava shivako gaye jaahin aba, phira jaihain,yaha niyata karo | 3 |
+Koti granthako saara yahee hai, ye hee jinavaanee ucharo
+\`daula' dhyaaya apane aatamako, muktiramaa taba vega baro | 4 |`,
+    },
+  },
+  {
+    id: "naath-tumhari-pooja-main-sab",
+    type: "bhajan",
+    title: {
+      gu: "નાથ તુમ્હારી પૂજા મેં સબ",
+      hi: "नाथ तुम्हारी पूजा में सब",
+      sa: "",
+      en: "Naatha Tumhaaree Poojaa Men Saba",
+    },
+    text: {
+      gu: `નાથ તુમ્હારી પૂજા મેં સબ
+તર્જ: ફૂલ તુમ્હેં ભેજા હૈ...
+નાથ તુમ્હારી પૂજા મેં સબ, સ્વાહા કરને આયા
+તુમ જૈસા બનને કે કારણ, શરણ તુમ્હારી આયા ॥
+પંચેન્દ્રિય કા લક્ષ્ય કરૂઁ મૈં, ઇસ અગ્નિ મેં સ્વાહા
+ઇન્દ્ર-નરેન્દ્રોં કે વૈભવ કી, ચાહ કરૂઁ મૈં સ્વાહા
+તેરી સાક્ષી સે અનુપમ મૈં યજ્ઞ રચાને આયા ।૧।
+જગ કી માન પ્રતિષ્ઠા કો ભી, કરના મુઝકો સ્વાહા
+નહીં મૂલ્ય ઇસ મન્દ ભાવ કા, વ્રત-તપ આદિ સ્વાહા
+વીતરાગ કે પથ પર ચલને કા પ્રણ લેકર આયા ।૨।
+અરે જગત કે અપશબ્દોં કો, કરના મુઝકો સ્વાહા
+પર લક્ષ્યી સબ હી વૃત્તી કો, કરના મુઝકો સ્વાહા
+અક્ષય નિરંકુશ પદ પાને ઔર પુણ્ય લુટાને આયા ।૩।
+તુમહો પૂજ્ય પુજારી મૈં, યહ ભેદ કરૂઁગા સ્વાહા
+બસ અભેદ મેં તન્મય હોના, ઔર સભી કુછ સ્વાહા
+અબ પામર ભગવાન બને, યહ સીખ સીખને આયા ।૪।`,
+      hi: `नाथ तुम्हारी पूजा में सब
+तर्ज: फ़ूल तुम्हें भेजा है...
+नाथ तुम्हारी पूजा में सब, स्वाहा करने आया
+तुम जैसा बनने के कारण, शरण तुम्हारी आया ॥
+पंचेन्द्रिय का लक्ष्य करूँ मैं, इस अग्नि में स्वाहा
+इन्द्र-नरेन्द्रों के वैभव की, चाह करूँ मैं स्वाहा
+तेरी साक्षी से अनुपम मैं यज्ञ रचाने आया ।१।
+जग की मान प्रतिष्ठा को भी, करना मुझको स्वाहा
+नहीं मूल्य इस मन्द भाव का, व्रत-तप आदि स्वाहा
+वीतराग के पथ पर चलने का प्रण लेकर आया ।२।
+अरे जगत के अपशब्दों को, करना मुझको स्वाहा
+पर लक्ष्यी सब ही वृत्ती को, करना मुझको स्वाहा
+अक्षय निरंकुश पद पाने और पुण्य लुटाने आया ।३।
+तुमहो पूज्य पुजारी मैं, यह भेद करूँगा स्वाहा
+बस अभेद में तन्मय होना, और सभी कुछ स्वाहा
+अब पामर भगवान बने, यह सीख सीखने आया ।४।`,
+      sa: "",
+      en: `Naatha tumhaaree poojaa men saba
+Tarja: phoola tumhen bhejaa hai...
+Naatha tumhaaree poojaa men saba, svaahaa karane aayaa
+Tuma jaisaa banane ke kaarana, sharana tumhaaree aayaa | |
+Panchendriya kaa lakshya karoon main, isa agni men svaahaa
+Indra-narendron ke vaibhava kee, chaaha karoon main svaahaa
+Teree saakshee se anupama main yagya rachaane aayaa | 1 |
+Jaga kee maana pratishthaa ko bhee, karanaa mujhako svaahaa
+Naheen moolya isa manda bhaava kaa, vrata-tapa aadi svaahaa
+Veetaraaga ke patha para chalane kaa prana lekara aayaa | 2 |
+Are jagata ke apashabdon ko, karanaa mujhako svaahaa
+Para lakshyee saba hee vrittee ko, karanaa mujhako svaahaa
+Akshaya nirankusha pada paane aura punya lutaane aayaa | 3 |
+Tumaho poojya pujaaree main, yaha bheda karoongaa svaahaa
+Basa abheda men tanmaya honaa, aura sabhee kuchha svaahaa
+Aba paamara bhagavaana bane, yaha seekha seekhane aayaa | 4 |`,
+    },
+  },
+  {
+    id: "bhav-bhav-rule-hai",
+    type: "bhajan",
+    title: {
+      gu: "ભવ ભવ રુલે હૈં",
+      hi: "भव भव रुले हैं",
+      sa: "",
+      en: "Bhava Bhava Rule Hain",
+    },
+    text: {
+      gu: `ભવ ભવ રુલે હૈં
+તર્જ: ચુપ ચુપ ખડે હો...
+ભવ ભવ રુલે હૈં, ન પાયા કોઈ પાર હૈ
+તેરા હી આધાર હૈ તેરા હી આધાર હૈ ॥
+જીવન કી નાવ યહ કર્મોં કે માર સે
+ઉલઝી હૈ બીચ બીચ ગતિયોં કી માર સે
+રહી સહી પતિકા તૂ હી પતવાર હૈ ।૧। તેરા હી...
+સીતા કે શીલ કો તુને દિપાયા હૈ
+સૂલી સે સેઠ કો આસન બિઠાયા હૈ
+ખિલી ખિલી કલિ સા કિયા નાગ હાર હૈ ।૨। તેરા હી...
+મહિમા કા પાર જબ સુર નર ના પા સકે
+'સૌભાગ્ય' પ્રભુ ગુણ તેરે ક્યા ગા સકે
+બાર બાર આપકો સાદર નમસ્કાર હૈ ।૩। તેરા હી...`,
+      hi: `भव भव रुले हैं
+तर्ज: चुप चुप खड़े हो...
+भव भव रुले हैं, न पाया कोई पार है
+तेरा ही आधार है तेरा ही आधार है ॥
+जीवन की नाव यह कर्मों के मार से
+उलझी है बीच बीच गतियों की मार से
+रही सही पतिका तू ही पतवार है ।१। तेरा ही...
+सीता के शील को तुने दिपाया है
+सूली से सेठ को आसन बिठाया है
+खिली खिली कलि सा किया नाग हार है ।२। तेरा ही...
+महिमा का पार जब सुर नर ना पा सके
+'सौभाग्य' प्रभु गुण तेरे क्या गा सके
+बार बार आपको सादर नमस्कार है ।३। तेरा ही...`,
+      sa: "",
+      en: `Bhava bhava rule hain
+Tarja: chupa chupa khade ho...
+Bhava bhava rule hain, na paayaa koee paara hai
+Teraa hee aadhaara hai teraa hee aadhaara hai | |
+Jeevana kee naava yaha karmon ke maara se
+Ulajhee hai beecha beecha gatiyon kee maara se
+Rahee sahee patikaa too hee patavaara hai | 1 | teraa hee...
+Seetaa ke sheela ko tune dipaayaa hai
+Soolee se setha ko aasana bithaayaa hai
+Khilee khilee kali saa kiyaa naaga haara hai | 2 | teraa hee...
+Mahimaa kaa paara jaba sura nara naa paa sake
+'saubhaagya' prabhu guna tere kyaa gaa sake
+Baara baara aapako saadara namaskaara hai | 3 | teraa hee...`,
+    },
+  },
+  {
+    id: "apni-sudhi-bhool-aap",
+    type: "bhajan",
+    title: {
+      gu: "અપની સુધિ ભૂલ આપ",
+      hi: "अपनी सुधि भूल आप",
+      sa: "",
+      en: "Apanee Sudhi Bhoola Aapa",
+    },
+    text: {
+      gu: `અપની સુધિ ભૂલ આપ, આપ દુખ ઉપાયૌ,
+જ્યૌં શુક નભચાલ વિસરિ નલિની લટકાયો ॥
+ચેતન અવિરુદ્ધ શુદ્ધ, દરશ બોધમય વિશુદ્ધ
+તજિ જડ-રસ-ફરસ રૂપ, પુદ્ગલ અપનાયૌ ।૧।
+ઇન્દ્રિયસુખ દુખ મેં નિત્ત, પાગ રાગ રુખ મેં ચિત્ત
+દાયકભવ વિપતિ વૃન્દ, બન્ધકો બઢાયૌ ।૨।
+ચાહ દાહ દાહૈ, ત્યાગૌ ન તાહિ ચાહૈ
+સમતાસુધા ન ગાહૈ જિન, નિકટ જો બતાયૌ ।૩।
+માનુષભવ સુકુલ પાય, જિનવર શાસન લહાય
+\`દૌલ' નિજસ્વભાવ ભજ, અનાદિ જો ન ધ્યાયૌ ।૪।`,
+      hi: `अपनी सुधि भूल आप, आप दुख उपायौ,
+ज्यौं शुक नभचाल विसरि नलिनी लटकायो ॥
+चेतन अविरुद्ध शुद्ध, दरश बोधमय विशुद्ध
+तजि जड़-रस-फरस रूप, पुद्गल अपनायौ ।१।
+इन्द्रियसुख दुख में नित्त, पाग राग रुख में चित्त
+दायकभव विपति वृन्द, बन्धको बढ़ायौ ।२।
+चाह दाह दाहै, त्यागौ न ताहि चाहै
+समतासुधा न गाहै जिन, निकट जो बतायौ ।३।
+मानुषभव सुकुल पाय, जिनवर शासन लहाय
+\`दौल' निजस्वभाव भज, अनादि जो न ध्यायौ ।४।`,
+      sa: "",
+      en: `Apanee sudhi bhoola aapa, aapa dukha upaayau,
+Jyaun shuka nabhachaala visari nalinee latakaayo | |
+Chetana aviruddha shuddha, darasha bodhamaya vishuddha
+Taji jada-rasa-pharasa roopa, pudgala apanaayau | 1 |
+Indriyasukha dukha men nitta, paaga raaga rukha men chitta
+Daayakabhava vipati vrinda, bandhako badhaayau | 2 |
+Chaaha daaha daahai, tyaagau na taahi chaahai
+Samataasudhaa na gaahai jina, nikata jo bataayau | 3 |
+Maanushabhava sukula paaya, jinavara shaasana lahaaya
+\`daula' nijasvabhaava bhaja, anaadi jo na dhyaayau | 4 |`,
+    },
+  },
+  {
+    id: "karta-hoon-tumhara-sumran",
+    type: "bhajan",
+    title: {
+      gu: "કરતા હૂઁ તુમ્હારા સુમરણ",
+      hi: "करता हूँ तुम्हारा सुमरण",
+      sa: "",
+      en: "Karataa Hoon Tumhaaraa Sumarana",
+    },
+    text: {
+      gu: `કરતા હૂઁ તુમ્હારા સુમરણ
+કરતા હૂઁ તુમ્હારા સુમરણ ઉદ્ધાર કરો જી
+મંઝધાર મેં હૂઁ અટકા, બેડા પાર કરો જી
+હે રિષભ જિનંદા, હે રિષભ જિનંદા ॥
+આયા હૂઁ બડી આશા સે તુમ્હારે દરબાર મેં
+ના પાયા કભી ભી ચેના, ઇસ દુખમય સંસાર મેં
+દેતે હૈં કર્મ દુઃખ ઇનકા, સંહાર કરો જી ।૧।
+કરતા હૂઁ ચરણ પ્રક્ષાલન, આરતિયાઁ ઉતારૂં
+શત શત મૈં કરૂં પડ વંદન, તન મન હૈં સભી વારૂઁ
+પદ મેં હો ઠિકાના મેરા, તરણ તાર કરો જી ।૨।
+જલ, ચંદન, અક્ષત, ઉજ્જવલ,યે સુમન ચરુ લીન
+યે દીપ ધુપ ફલ સભી પ્રભુ અરપન હૈ કીને
+મલ પાપ છુડા કર તુમસા, અવિકાર કરો જી ।૩।
+નાભિ રાજા કે નંદન, મરૂ દેવી દુલારે
+આએ જો શરણ મેં ઉનકો પ્રભુ આપને તારે
+શિવ તક પહુંચા કર મુઝકો, ઉપકાર કરો જી ।૪।`,
+      hi: `करता हूँ तुम्हारा सुमरण
+करता हूँ तुम्हारा सुमरण उद्धार करो जी
+मंझधार में हूँ अटका, बेडा पार करो जी
+हे रिषभ जिनंदा, हे रिषभ जिनंदा ॥
+आया हूँ बड़ी आशा से तुम्हारे दरबार में
+ना पाया कभी भी चेना, इस दुखमय संसार में
+देते हैं कर्म दुःख इनका, संहार करो जी ।१।
+करता हूँ चरण प्रक्षालन, आरतियाँ उतारूं
+शत शत मैं करूं पड़ वंदन, तन मन हैं सभी वारूँ
+पद में हो ठिकाना मेरा, तरण तार करो जी ।२।
+जल, चंदन, अक्षत, उज्जवल,ये सुमन चरु लीन
+ये दीप धुप फल सभी प्रभु अरपन है कीने
+मल पाप छुडा कर तुमसा, अविकार करो जी ।३।
+नाभि राजा के नंदन, मरू देवी दुलारे
+आए जो शरण में उनको प्रभु आपने तारे
+शिव तक पहुंचा कर मुझको, उपकार करो जी ।४।`,
+      sa: "",
+      en: `Karataa hoon tumhaaraa sumarana
+Karataa hoon tumhaaraa sumarana uddhaara karo jee
+Manjhadhaara men hoon atakaa, bedaa paara karo jee
+He rishabha jinandaa, he rishabha jinandaa | |
+Aayaa hoon badee aashaa se tumhaare darabaara men
+Naa paayaa kabhee bhee chenaa, isa dukhamaya sansaara men
+Dete hain karma duhkha inakaa, sanhaara karo jee | 1 |
+Karataa hoon charana prakshaalana, aaratiyaan utaaroon
+Shata shata main karoon pada vandana, tana mana hain sabhee vaaroon
+Pada men ho thikaanaa meraa, tarana taara karo jee | 2 |
+Jala, chandana, akshata, ujjavala,ye sumana charu leena
+Ye deepa dhupa phala sabhee prabhu arapana hai keene
+Mala paapa chhudaa kara tumasaa, avikaara karo jee | 3 |
+Naabhi raajaa ke nandana, maroo devee dulaare
+Aae jo sharana men unako prabhu aapane taare
+Shiva taka pahunchaa kara mujhako, upakaara karo jee | 4 |`,
+    },
+  },
+  {
+    id: "jiya-kab-tak-uljhhega-sansaar-vikalpo-me",
+    type: "bhajan",
+    title: {
+      gu: "જિયા કબ તક ઉલઝેગા સંસાર વિકલ્પોં મે",
+      hi: "जिया कब तक उलझेगा संसार विकल्पों मे",
+      sa: "",
+      en: "Jiyaa Kaba Taka Ulajhegaa Sansaara Vikalpon me",
+    },
+    text: {
+      gu: `જિયા કબ તક ઉલઝેગા સંસાર વિકલ્પોં મે।
+કિતને ભવ બીત ચુકે, સંકલ્પ વિકલ્પોં મેં ॥ટેક॥
+ઉડ ઉડ કર યહ ચેતન, ગતિ ગતિ મેં જાતા હૈ
+ભોગોં મેં લિપ્ત સદા ભવ ભવ દુખ પાતા હૈ
+નિજ તો ન સુહાતા હૈ, પર હી મન ભાતા હૈ
+યે જીવન બીત રહા, ઝૂંઠે સંકલ્પોં મેં ।૧।
+તૂ કૌન કહાં કા હૈ ઔર ક્યા હૈ નામ અરે
+આયા કિસ ગાંવ સે હૈ, જાના કિસ ગાંવ અરે
+યહ તન તો પુદ્ગલ હૈ, દો દિન કા ઠાઠ અરે
+અન્તર મુખ હો જા તૂ, તો સુખ અતિ કલ્પોં મેં ।૨।
+યદિ અવસર ચૂકા તો, ભવ ભવ પછતાયેગા
+યહ નર ભવ કઠિન મહા, કિસ ગતિ મેં જાયેગા
+નર ભવ પાયા ભી તો, જિન કુલ નહીં પાયેગા
+અનગિનત જન્મોં મેં,અનગિનત વિકલ્પોં મેં ।૩।`,
+      hi: `जिया कब तक उलझेगा संसार विकल्पों मे।
+कितने भव बीत चुके, संकल्प विकल्पों में ॥टेक॥
+उड उड कर यह चेतन, गति गति में जाता है
+भोगों में लिप्त सदा भव भव दुख पाता है
+निज तो न सुहाता है, पर ही मन भाता है
+ये जीवन बीत रहा, झूंठे संकल्पों में ।१।
+तू कौन कहां का है और क्या है नाम अरे
+आया किस गांव से है, जाना किस गांव अरे
+यह तन तो पुद्गल है, दो दिन का ठाठ अरे
+अन्तर मुख हो जा तू, तो सुख अति कल्पों में ।२।
+यदि अवसर चूका तो, भव भव पछतायेगा
+यह नर भव कठिन महा, किस गति में जायेगा
+नर भव पाया भी तो, जिन कुल नहीं पायेगा
+अनगिनत जन्मों में,अनगिनत विकल्पों में ।३।`,
+      sa: "",
+      en: `Jiyaa kaba taka ulajhegaa sansaara vikalpon me |
+Kitane bhava beeta chuke, sankalpa vikalpon men | | teka | |
+Uda uda kara yaha chetana, gati gati men jaataa hai
+Bhogon men lipta sadaa bhava bhava dukha paataa hai
+Nija to na suhaataa hai, para hee mana bhaataa hai
+Ye jeevana beeta rahaa, jhoonthe sankalpon men | 1 |
+Too kauna kahaan kaa hai aura kyaa hai naama are
+Aayaa kisa gaanva se hai, jaanaa kisa gaanva are
+Yaha tana to pudgala hai, do dina kaa thaatha are
+Antara mukha ho jaa too, to sukha ati kalpon men | 2 |
+Yadi avasara chookaa to, bhava bhava pachhataayegaa
+Yaha nara bhava kathina mahaa, kisa gati men jaayegaa
+Nara bhava paayaa bhee to, jina kula naheen paayegaa
+Anaginata janmon men,anaginata vikalpon men | 3 |`,
+    },
+  },
+  {
+    id: "bhatke-hue-raahi-ko-prabhu",
+    type: "bhajan",
+    title: {
+      gu: "ભટકે હુએ રાહી કો પ્રભુ",
+      hi: "भटके हुए राही को प्रभु",
+      sa: "",
+      en: "Bhatake Hue Raahee ko Prabhu",
+    },
+    text: {
+      gu: `ભટકે હુએ રાહી કો પ્રભુ
+તર્જ: મેરા ગીત અમર કર દો...
+ભટકે હુએ રાહી કો પ્રભુ રાહ બતા દેના
+ઇસ ડગમગ નૈયા કી પ્રભુ કી લાજ બચાલેના ॥
+જગ કી માયા ને મુઝે, પથ સે ભટકાયા હૈ
+ભોગોં કી પિપાસા ને ભવ વન મેં ભ્રમાયા હૈ
+કરુણાસાગર ભગવાન, સત પથ દિખલા દેના ।૧।
+બાહર કે વૈભવ મેં, મૈં ખુદ કો ભૂલ ગયા
+મમતા ઔર માયા કે, ઝૂલે મેં ઝૂલ ગયા
+અબ શરણ તેરી આયા, ગફલત સે બચા દેના ।૨।
+દુઃખ કા દાવાનલ હૈ, ચહુઁ ઓર અંધેરા હૈ
+બોઝલ ઇસ જીવન મેં, ચૌરાસી કા ફેરા હૈ
+બુઝતે હુએ દીપક કી, પ્રભુ જ્યોત જગા દેના ।૩।`,
+      hi: `भटके हुए राही को प्रभु
+तर्ज: मेरा गीत अमर कर दो...
+भटके हुए राही को प्रभु राह बता देना
+इस डगमग नैया की प्रभु की लाज बचालेना ॥
+जग की माया ने मुझे, पथ से भटकाया है
+भोगों की पिपासा ने भव वन में भ्रमाया है
+करुणासागर भगवान, सत पथ दिखला देना ।१।
+बाहर के वैभव में, मैं ख़ुद को भूल गया
+ममता और माया के, झूले में झूल गया
+अब शरण तेरी आया, गफलत से बचा देना ।२।
+दुःख का दावानल है, चहुँ ओर अंधेरा है
+बोझल इस जीवन में, चौरासी का फेरा है
+बुझते हुए दीपक की, प्रभु ज्योत जगा देना ।३।`,
+      sa: "",
+      en: `Bhatake hue raahee ko prabhu
+Tarja: meraa geeta amara kara do...
+Bhatake hue raahee ko prabhu raaha bataa denaa
+Isa dagamaga naiyaa kee prabhu kee laaja bachaalenaa | |
+Jaga kee maayaa ne mujhe, patha se bhatakaayaa hai
+Bhogon kee pipaasaa ne bhava vana men bhramaayaa hai
+Karunaasaagara bhagavaana, sata patha dikhalaa denaa | 1 |
+Baahara ke vaibhava men, main khuda ko bhoola gayaa
+Mamataa aura maayaa ke, jhoole men jhoola gayaa
+Aba sharana teree aayaa, gaphalata se bachaa denaa | 2 |
+Duhkha kaa daavaanala hai, chahun ora andheraa hai
+Bojhala isa jeevana men, chauraasee kaa pheraa hai
+Bujhate hue deepaka kee, prabhu jyota jagaa denaa | 3 |`,
+    },
+  },
+  {
+    id: "lambi-hai-dagariya",
+    type: "bhajan",
+    title: {
+      gu: "લમ્બી હૈ ડગરિયા",
+      hi: "लम्बी है डगरिया",
+      sa: "",
+      en: "Lambee hai Dagariyaa",
+    },
+    text: {
+      gu: `કબધૌં સર પર ધર ડોલેગા, પાપોં કી ગઠરિયા,
+કરલે કરલે હલ્કા બોઝા, લમ્બી હૈ ડગરિયા ।ટેર।
+યહ સંસાર બિહડ બન પંછી, કુલ તરુવર સમ જાન લે
+આયુ રેન બસેરા કરકે, ઉડ જાના હૈ માન લે
+ફિર ભોગોં મેં તડફ રહા ક્યોં, જલ બિન જ્યોં મછલિયા ।૧।
+ચિંતામણિ સમ મનુષ જનમ પા, નિજ સ્વભાવ ક્યોં ભૂલા હૈ
+અક્ષય આતમ દ્રવ્ય છોડકર, નશ્વર પર ક્યોં ફૂલા હૈ
+ક્ષણ ભંગુર હૈ તન ધન યૌવન, જિમિ સાવન બદરિયા ।૨।
+પરિગ્રહ પોટ ઉતાર સયાને, રત્નત્રય ઉર ધાર લે
+પંચમ ગતિ સૌભાગ્ય મિલેગી, વીતરાગ પથ સાર લે
+પ્રભુ ભક્તિ બિન બીત ના જાયે, તેરી પ્રિય ઉમરિયા ।૩।`,
+      hi: `कबधौं सर पर धर डोलेगा, पापों की गठरिया,
+करले करले हल्का बोझा, लम्बी है डगरिया ।टेर।
+यह संसार बिहड बन पंछी, कुल तरुवर सम जान ले
+आयु रेन बसेरा करके, उड जाना है मान ले
+फ़िर भोगों में तडफ़ रहा क्यों, जल बिन ज्यों मछलिया ।१।
+चिंतामणि सम मनुष जनम पा, निज स्वभाव क्यों भूला है
+अक्षय आतम द्रव्य छोडकर, नश्वर पर क्यों फ़ूला है
+क्षण भंगुर है तन धन यौवन, जिमि सावन बदरिया ।२।
+परिग्रह पोट उतार सयाने, रत्नत्रय उर धार ले
+पंचम गति सौभाग्य मिलेगी, वीतराग पथ सार ले
+प्रभु भक्ति बिन बीत ना जाये, तेरी प्रिय उमरिया ।३।`,
+      sa: "",
+      en: `Kabadhaun sara para dhara dolegaa, paapon kee gathariyaa,
+Karale karale halkaa bojhaa, lambee hai dagariyaa | tera |
+Yaha sansaara bihada bana panchhee, kula taruvara sama jaana le
+Aayu rena baseraa karake, uda jaanaa hai maana le
+Phira bhogon men tadapha rahaa kyon, jala bina jyon machhaliyaa | 1 |
+Chintaamani sama manusha janama paa, nija svabhaava kyon bhoolaa hai
+Akshaya aatama dravya chhodakara, nashvara para kyon phoolaa hai
+Kshana bhangura hai tana dhana yauvana, jimi saavana badariyaa | 2 |
+Parigraha pota utaara sayaane, ratnatraya ura dhaara le
+Panchama gati saubhaagya milegee, veetaraaga patha saara le
+Prabhu bhakti bina beeta naa jaaye, teree priya umariyaa | 3 |`,
+    },
+  },
+  {
+    id: "tu-gyaan-ka-sagar",
+    type: "bhajan",
+    title: {
+      gu: "તૂ જ્ઞાન કા સાગર હૈ",
+      hi: "तू ज्ञान का सागर है",
+      sa: "",
+      en: "Too Gyaana Kaa Saagara hai",
+    },
+    text: {
+      gu: `તૂ જ્ઞાન કા સાગર હૈ
+તૂ જ્ઞાન કા સાગર હૈ, આનંદ કા સાગર હૈ
+ઉસી આનંદ કે પ્યાસે હુમ,
+નિજ જ્ઞાન સુધા ચાખે, નિજ જ્ઞાન સુધા ચાખે,
+પ્રભુ અબ તેરી કૃપા સે હમ ॥ તૂ જ્ઞાન..
+વિષય ભોગ મેં તન્મય હોકર, ખોયા હૈ જીવન વૃથા, ખોયા હૈ..
+બાત પ્રભુ તેરી એક ના માની, અપની હી ધુન મેં રહા, અપની..
+જાના હૈ કિધર હમકો-૨ ઔર આયે હૈં કહાં સે હમ ।૧। તૂ ..
+આતમ અનુભવ અમૃત તજ કે, પિયા વિષય જડ કા, પિયા..
+મોહ નશે મેં પાગલ હોકર, કિયા ના તત્વ વિચાર, કિયા ના..
+નૈયા હૈ મેરી મઝધાર-૨, ઇસી સે પ્રભુ કો બુલાતે હમ ।૨। તૂ...
+ભૂલ રહે હૈં રાહ વતન કી, ભટક રહે સંસાર, ભટક...
+ભીખ માંગતે દર દર ભ્રમતે, ઘર મેં ભરા હૈ ભંડાર, ઘર મેં...
+નિજધામ હમારા હૈ-૨, જહાં હૈ સ્વદેસ યહાં સે હમ ।૩। તૂ....`,
+      hi: `तू ज्ञान का सागर है
+तू ज्ञान का सागर है, आनंद का सागर है
+उसी आनंद के प्यासे हुम,
+निज ज्ञान सुधा चाखे, निज ज्ञान सुधा चाखे,
+प्रभु अब तेरी कृपा से हम ॥ तू ज्ञान..
+विषय भोग में तन्मय होकर, खोया है जीवन वृथा, खोया है..
+बात प्रभु तेरी एक ना मानी, अपनी ही धुन में रहा, अपनी..
+जाना है किधर हमको-२ और आये हैं कहां से हम ।१। तू ..
+आतम अनुभव अमृत तज के, पिया विषय जड का, पिया..
+मोह नशे में पागल होकर, किया ना तत्व विचार, किया ना..
+नैया है मेरी मझधार-२, इसी से प्रभु को बुलाते हम ।२। तू...
+भूल रहे हैं राह वतन की, भटक रहे संसार, भटक...
+भीख मांगते दर दर भ्रमते, घर में भरा है भंडार, घर में...
+निजधाम हमारा है-२, जहां है स्वदेस यहां से हम ।३। तू....`,
+      sa: "",
+      en: `Too gyaana kaa saagara hai
+Too gyaana kaa saagara hai, aananda kaa saagara hai
+Usee aananda ke pyaase huma,
+Nija gyaana sudhaa chaakhe, nija gyaana sudhaa chaakhe,
+Prabhu aba teree kripaa se hama | | too gyaana..
+Vishaya bhoga men tanmaya hokara, khoyaa hai jeevana vrithaa, khoyaa hai..
+Baata prabhu teree eka naa maanee, apanee hee dhuna men rahaa, apanee..
+Jaanaa hai kidhara hamako-2 aura aaye hain kahaan se hama | 1 | too ..
+Aatama anubhava amrita taja ke, piyaa vishaya jada kaa, piyaa..
+Moha nashe men paagala hokara, kiyaa naa tatva vichaara, kiyaa naa..
+Naiyaa hai meree majhadhaara-2, isee se prabhu ko bulaate hama | 2 | too...
+Bhoola rahe hain raaha vatana kee, bhataka rahe sansaara, bhataka...
+Bheekha maangate dara dara bhramate, ghara men bharaa hai bhandaara, ghara men...
+Nijadhaama hamaaraa hai-2, jahaan hai svadesa yahaan se hama | 3 | too....`,
+    },
+  },
+  {
+    id: "haro-peer-meri-trishla-ke-lala",
+    type: "bhajan",
+    title: {
+      gu: "હરો પીર મેરી ત્રિશલા કે લાલા",
+      hi: "हरो पीर मेरी त्रिशला के लाला",
+      sa: "",
+      en: "Haro Peera Meree Trishalaa ke Laalaa",
+    },
+    text: {
+      gu: `હરો પીર મેરી ત્રિશલા કે લાલા
+હરો પીર મેરી ત્રિશલા કે લાલા
+મૈં સેવક તુમ્હારા બડા ભોલા ભાલા ॥
+મુઝે ઠગ લિયા અષ્ટ કર્મોં ને સ્વામી,
+ભટકતા ફિરા મૈં બના મૂઢગામી,
+વિષય ભોગ ને મુઝપે(હો...) વિષય ભોગ ને મુઝપે,
+ઐસા જાદૂ ડાલા, હુઆ મતવાલા ।૧।
+મૈં પર કો હી અપના સમઝતા રહા હૂઁ,
+વૃથા વિકથા મેં ઉલઝતા રહા હૂઁ,
+ધરમ ક્યા હૈ મૈંને કભી (હો..) ધરમ ક્યા હૈ મૈંને કભી,
+દેખા ન ભાલા, યૂઁ હી વક્ત ટાલા ।૨।
+ન દેખા ગયા તુમસે જગ કે દુખોં કો ,
+તજા ક્ષણ મેં અપને સારે સુખોં કો,
+અહિંસા સે મેટી તુમને (હો..) અહિંસા સે મેટી તુમને,
+હિંસા કી જ્વાલા, હુઈ દીપમાલા ।૩।
+સુના હૈ પ્રભો આપ સુનતે હો સબકી,
+આતી હૈ પંકજ કો વો યાદ તબકી,
+સતી ચંદના કા તુમને(હો..) સતી ચંદના કા તુમને,
+સંકટ થા ટાલા, યહ સચ હૈ દયાલા ।૪।`,
+      hi: `हरो पीर मेरी त्रिशला के लाला
+हरो पीर मेरी त्रिशला के लाला
+मैं सेवक तुम्हारा बड़ा भोला भाला ॥
+मुझे ठग लिया अष्ट कर्मों ने स्वामी,
+भटकता फिरा मैं बना मूढगामी,
+विषय भोग ने मुझपे(हो...) विषय भोग ने मुझपे,
+ऐसा जादू डाला, हुआ मतवाला ।१।
+मैं पर को ही अपना समझता रहा हूँ,
+वृथा विकथा में उलझता रहा हूँ,
+धरम क्या है मैंने कभी (हो..) धरम क्या है मैंने कभी,
+देखा न भाला, यूँ ही वक्त टाला ।२।
+न देखा गया तुमसे जग के दुखों को ,
+तजा क्षण में अपने सारे सुखों को,
+अहिंसा से मेटी तुमने (हो..) अहिंसा से मेटी तुमने,
+हिंसा की ज्वाला, हुई दीपमाला ।३।
+सुना है प्रभो आप सुनते हो सबकी,
+आती है पंकज को वो याद तबकी,
+सती चंदना का तुमने(हो..) सती चंदना का तुमने,
+संकट था टाला, यह सच है दयाला ।४।`,
+      sa: "",
+      en: `Haro peera meree trishalaa ke laalaa
+Haro peera meree trishalaa ke laalaa
+Main sevaka tumhaaraa badaa bholaa bhaalaa | |
+Mujhe thaga liyaa ashta karmon ne svaamee,
+Bhatakataa phiraa main banaa moodhagaamee,
+Vishaya bhoga ne mujhape(ho...) vishaya bhoga ne mujhape,
+Aisaa jaadoo daalaa, huaa matavaalaa | 1 |
+Main para ko hee apanaa samajhataa rahaa hoon,
+Vrithaa vikathaa men ulajhataa rahaa hoon,
+Dharama kyaa hai mainne kabhee (ho..) dharama kyaa hai mainne kabhee,
+Dekhaa na bhaalaa, yoon hee vakta taalaa | 2 |
+Na dekhaa gayaa tumase jaga ke dukhon ko ,
+Tajaa kshana men apane saare sukhon ko,
+Ahinsaa se metee tumane (ho..) ahinsaa se metee tumane,
+Hinsaa kee jvaalaa, huee deepamaalaa | 3 |
+Sunaa hai prabho aapa sunate ho sabakee,
+Aatee hai pankaja ko vo yaada tabakee,
+Satee chandanaa kaa tumane(ho..) satee chandanaa kaa tumane,
+Sankata thaa taalaa, yaha sacha hai dayaalaa | 4 |`,
+    },
+  },
+  {
+    id: "din-raat-svami-tere-geet-gaaun",
+    type: "bhajan",
+    title: {
+      gu: "દિન રાત સ્વામી તેરે ગીત ગાઊં",
+      hi: "दिन रात स्वामी तेरे गीत गाऊं",
+      sa: "",
+      en: "Dina Raata Svaamee Tere Geeta Gaaoon",
+    },
+    text: {
+      gu: `દિન રાત સ્વામી તેરે ગીત ગાઊં
+દિન રાત સ્વામી તેરે ગીત ગાઊં,
+ભાવોં કી કલિયાં ચરણે ખિલાઊં ॥
+તેરી શાંત મૂરત મુઝે ભા ગઈ હૈ,
+મેરે નૈનોં મેં નજર આ ગઈ હૈ,
+મૈં અપને મેં અપને કો કૈસે સમાઊં, ભાવોં કી કલિયાં...
+મૈં સારે જહાં મેં કહીં સુખ ના પાયા,
+હૈ ગમ કા ભરા ગહરા દરિયા હૈ છાયા,
+યે જીવન નૈયા મૈં કૈસે તિરાઊં, ભાવોં કી કલિયાં...
+નિગોદાવસ્થા સે માનવ ગતિ તક,
+તુઝે લાખ ઢૂંઢા ન પાયા મૈં અબ તક,
+કહાં મેરી મંજિલ તુઝે કૈસે પાઊં, ભાવોં કી કલિયાં..
+યહી આસ જિનવર શરણ પાઊં તેરી,
+મિટ જાય મેરી યે ભવ ભવ કી ફેરી,
+શરણ દો તુમ્હેં નાથ શીશ નવાઊં, ભાવોં કી કલિયાં...`,
+      hi: `दिन रात स्वामी तेरे गीत गाऊं
+दिन रात स्वामी तेरे गीत गाऊं,
+भावों की कलियां चरणे खिलाऊं ॥
+तेरी शांत मूरत मुझे भा गई है,
+मेरे नैनों में नजर आ गई है,
+मैं अपने में अपने को कैसे समाऊं, भावों की कलियां...
+मैं सारे जहां में कहीं सुख ना पाया,
+है गम का भरा गहरा दरिया है छाया,
+ये जीवन नैया मैं कैसे तिराऊं, भावों की कलियां...
+निगोदावस्था से मानव गति तक,
+तुझे लाख ढूंढा न पाया मैं अब तक,
+कहां मेरी मंजिल तुझे कैसे पाऊं, भावों की कलियां..
+यही आस जिनवर शरण पाऊं तेरी,
+मिट जाय मेरी ये भव भव की फ़ेरी,
+शरण दो तुम्हें नाथ शीश नवाऊं, भावों की कलियां...`,
+      sa: "",
+      en: `Dina raata svaamee tere geeta gaaoon
+Dina raata svaamee tere geeta gaaoon,
+Bhaavon kee kaliyaan charane khilaaoon | |
+Teree shaanta moorata mujhe bhaa gaee hai,
+Mere nainon men najara aa gaee hai,
+Main apane men apane ko kaise samaaoon, bhaavon kee kaliyaan...
+Main saare jahaan men kaheen sukha naa paayaa,
+Hai gama kaa bharaa gaharaa dariyaa hai chhaayaa,
+Ye jeevana naiyaa main kaise tiraaoon, bhaavon kee kaliyaan...
+Nigodaavasthaa se maanava gati taka,
+Tujhe laakha dhoondhaa na paayaa main aba taka,
+Kahaan meree manjila tujhe kaise paaoon, bhaavon kee kaliyaan..
+Yahee aasa jinavara sharana paaoon teree,
+Mita jaaya meree ye bhava bhava kee pheree,
+Sharana do tumhen naatha sheesha navaaoon, bhaavon kee kaliyaan...`,
+    },
+  },
+  {
+    id: "chhota-sa-mandir-banayenge",
+    type: "bhajan",
+    title: {
+      gu: "છોટા સા મંદિર બનાયેંગે",
+      hi: "छोटा सा मंदिर बनायेंगे",
+      sa: "",
+      en: "Chhotaa Saa Mandira Banaayenge",
+    },
+    text: {
+      gu: `છોટા સા મંદિર બનાયેંગે
+છોટા સા મંદિર બનાયેંગે, વીર ગુણ આયેંગે।
+વીર ગુણ ગાયેંગે, મહાવીર ગુણ ગાયેંગેં॥
+કંધોં પે લેકે ચાંદી કી પાલકી, પ્રભુ જી કા વિહાર કરાયેંગેં ॥
+હાથોં મેં લેકર સોને કે કલશા, પ્રભુજી કા ન્હવન કરાયેંગે ॥
+હાથોં મેં લેકર દ્રવ્ય કી થાલી, પૂજન વિધાન રચાયેંગે ॥
+હાથોં મેં લેકર તાલ-મજીરા, પ્રભુજી કી ભક્તિ રચાયેંગે ॥
+હાથોં મેં લેકર શ્રી જિનવાણી, પઢેંગેં ઔર સબકો પઢાયેંગે ॥
+શ્રદ્ધા મેં લેકર વસ્તુસ્વરૂપ, આતમ કા અનુભવ કરાયેંગે ॥
+ચારિત્ર મેં લેકર શુદ્ધોપયોગ, મુક્તિપુરી કો જાયેંગેં ॥`,
+      hi: `छोटा सा मंदिर बनायेंगे
+छोटा सा मंदिर बनायेंगे, वीर गुण आयेंगे।
+वीर गुण गायेंगे, महावीर गुण गायेंगें॥
+कंधों पे लेके चांदी की पालकी, प्रभु जी का विहार करायेंगें ॥
+हाथों में लेकर सोने के कलशा, प्रभुजी का न्हवन करायेंगे ॥
+हाथों में लेकर द्रव्य की थाली, पूजन विधान रचायेंगे ॥
+हाथों में लेकर ताल-मजीरा, प्रभुजी की भक्ति रचायेंगे ॥
+हाथों में लेकर श्री जिनवाणी, पढेंगें और सबको पढायेंगे ॥
+श्रद्धा में लेकर वस्तुस्वरूप, आतम का अनुभव करायेंगे ॥
+चारित्र में लेकर शुद्धोपयोग, मुक्तिपुरी को जायेंगें ॥`,
+      sa: "",
+      en: `Chhotaa saa mandira banaayenge
+Chhotaa saa mandira banaayenge, veera guna aayenge |
+Veera guna gaayenge, mahaaveera guna gaayengen | |
+Kandhon pe leke chaandee kee paalakee, prabhu jee kaa vihaara karaayengen | |
+Haathon men lekara sone ke kalashaa, prabhujee kaa nhavana karaayenge | |
+Haathon men lekara dravya kee thaalee, poojana vidhaana rachaayenge | |
+Haathon men lekara taala-majeeraa, prabhujee kee bhakti rachaayenge | |
+Haathon men lekara shree jinavaanee, padhengen aura sabako padhaayenge | |
+Shraddhaa men lekara vastusvaroopa, aatama kaa anubhava karaayenge | |
+Chaaritra men lekara shuddhopayoga, muktipuree ko jaayengen | |`,
+    },
+  },
+  {
+    id: "sahaj-swabhavi-gyata-drishta",
+    type: "bhajan",
+    title: {
+      gu: "સહજ સ્વભાવી જ્ઞાતા દૃષ્ટા",
+      hi: "सहज स्वभावी ज्ञाता दृष्टा",
+      sa: "",
+      en: "Sahaja Svabhaavee Gyaataa Drishtaa",
+    },
+    text: {
+      gu: `મૈં હૂઁ આતમરામ, મૈં હૂઁ આતમરામ,
+સહજ સ્વભાવી જ્ઞાતા દૃષ્ટા ચેતન મેરા નામ ॥ટેર॥
+કુમતિ કુટિલ ને અબ તક મુઝકો નિજ ફંદે મેં ડાલા
+મોહરાજ ને દિવ્ય જ્ઞાન પર, ડાલા પરદા કાલા
+ડુલા કુગતિ અવિરામ, ખોયા કાલ તમામ ॥ સહજ.. ।૧।
+જિન દર્શન સે બોધ હુઆ હૈ મુઝકો મેરા આજ
+પર દ્રવ્યોં સે પ્રીતિ બઢા નિજ, કૈસે કરૂઁ અકાજ
+દૂર હટો જગ કામ, રાગાદિક પરિણામ ॥ સહજ.. ।૨।
+આઓ અંતર જ્ઞાન સિતારો, આતમ બલ પ્રગટા દો
+પંચમ ગતિ \`\`સૌભાગ્ય'' મિલે પ્રિય આવાગમન છુડાદો
+પાઊઁ સુખ લલામ, શિવસ્વરૂપ શિવધામ ॥ સહજ.. ।૩।`,
+      hi: `मैं हूँ आतमराम, मैं हूँ आतमराम,
+सहज स्वभावी ज्ञाता दृष्टा चेतन मेरा नाम ॥टेर॥
+कुमति कुटिल ने अब तक मुझको निज फंदे में डाला
+मोहराज ने दिव्य ज्ञान पर, डाला परदा काला
+डुला कुगति अविराम, खोया काल तमाम ॥ सहज.. ।१।
+जिन दर्शन से बोध हुआ है मुझको मेरा आज
+पर द्रव्यों से प्रीति बढ़ा निज, कैसे करूँ अकाज
+दूर हटो जग काम, रागादिक परिणाम ॥ सहज.. ।२।
+आओ अंतर ज्ञान सितारो, आतम बल प्रगटा दो
+पंचम गति \`\`सौभाग्य'' मिले प्रिय आवागमन छुड़ादो
+पाऊँ सुख ललाम, शिवस्वरूप शिवधाम ॥ सहज.. ।३।`,
+      sa: "",
+      en: `Main hoon aatamaraama, main hoon aatamaraama,
+Sahaja svabhaavee gyaataa drishtaa chetana meraa naama | | tera | |
+Kumati kutila ne aba taka mujhako nija phande men daalaa
+Moharaaja ne divya gyaana para, daalaa paradaa kaalaa
+Dulaa kugati aviraama, khoyaa kaala tamaama | | sahaja.. | 1 |
+Jina darshana se bodha huaa hai mujhako meraa aaja
+Para dravyon se preeti badhaa nija, kaise karoon akaaja
+Doora hato jaga kaama, raagaadika parinaama | | sahaja.. | 2 |
+Aao antara gyaana sitaaro, aatama bala pragataa do
+Panchama gati \`\`saubhaagya'' mile priya aavaagamana chhudaado
+Paaoon sukha lalaama, shivasvaroopa shivadhaama | | sahaja.. | 3 |`,
+    },
+  },
+  {
+    id: "mann-mahal-me-do-do-bhaaw-jage",
+    type: "bhajan",
+    title: {
+      gu: "મન મહલ મેં દો દો ભાવ જગે",
+      hi: "मन महल में दो दो भाव जगे",
+      sa: "",
+      en: "Mana Mahala Men Do Do Bhaava Jage",
+    },
+    text: {
+      gu: `મન મહલ મેં દો દો ભાવ જગે,ઇક સ્વભાવ હૈ, ઇક વિભાવ હૈ
+અપને-અપને અધિકાર મિલે,ઇક સ્વભાવ હૈ,ઇક વિભાવ હૈ ॥
+બહિરંગ કે ભાવ તો પર કે હૈં, અંતર કે સ્વભાવ સો અપને હૈં
+યહી ભેદ સમઝલે પહલે જરા, તૂ કૌન હૈ તેરા કૌન યહાઁ
+તૂ કૌન હૈ તેરા કૌન યહાઁ ।૧।
+તન તેલ ફુલેલ ઇતર ભી મલે, નિત નવલા ભૂષણ અંગ સજે
+રસ ભેદ વિજ્ઞાન ન કંઠ ધરા નહીં સમ્યક્શ્રદ્ધા સાજ સજે
+નહીં સમ્યક્ શ્રદ્ધા સાજ સજે ।૨।
+મિથ્યાત્વ તિમિર કે હરને કો, અક્ષય આતમ આલોક જગા
+હે વીતરાગ સર્વજ્ઞ પ્રભો, તબ દર્શન મન \`સૌભાગ્ય' પગા
+તબ દર્શન મન \`સૌભાગ્ય' પગા ।૩।`,
+      hi: `मन महल में दो दो भाव जगे,इक स्वभाव है, इक विभाव है
+अपने-अपने अधिकार मिले,इक स्वभाव है,इक विभाव है ॥
+बहिरंग के भाव तो पर के हैं, अंतर के स्वभाव सो अपने हैं
+यही भेद समझले पहले जरा, तू कौन है तेरा कौन यहाँ
+तू कौन है तेरा कौन यहाँ ।१।
+तन तेल फुलेल इतर भी मले, नित नवला भूषण अंग सजे
+रस भेद विज्ञान न कंठ धरा नहीं सम्यक्श्रद्धा साज सजे
+नहीं सम्यक् श्रद्धा साज सजे ।२।
+मिथ्यात्व तिमिर के हरने को, अक्षय आतम आलोक जगा
+हे वीतराग सर्वज्ञ प्रभो, तब दर्शन मन \`सौभाग्य' पगा
+तब दर्शन मन \`सौभाग्य' पगा ।३।`,
+      sa: "",
+      en: `Mana mahala men do do bhaava jage,ika svabhaava hai, ika vibhaava hai
+Apane-apane adhikaara mile,ika svabhaava hai,ika vibhaava hai | |
+Bahiranga ke bhaava to para ke hain, antara ke svabhaava so apane hain
+Yahee bheda samajhale pahale jaraa, too kauna hai teraa kauna yahaan
+Too kauna hai teraa kauna yahaan | 1 |
+Tana tela phulela itara bhee male, nita navalaa bhooshana anga saje
+Rasa bheda vigyaana na kantha dharaa naheen samyakshraddhaa saaja saje
+Naheen samyak shraddhaa saaja saje | 2 |
+Mithyaatva timira ke harane ko, akshaya aatama aaloka jagaa
+He veetaraaga sarvagya prabho, taba darshana mana \`saubhaagya' pagaa
+Taba darshana mana \`saubhaagya' pagaa | 3 |`,
+    },
+  },
+  {
+    id: "hai-prabho-charno-mein-tere",
+    type: "bhajan",
+    title: {
+      gu: "હે પ્રભો ચરણોં મેં તેરે",
+      hi: "हे प्रभो चरणों में तेरे",
+      sa: "",
+      en: "He Prabho Charanon Men Tere",
+    },
+    text: {
+      gu: `હે પ્રભો ચરણોં મેં તેરે
+હે પ્રભો ચરણોં મેં તેરે આ ગયે;
+ભાવના અપની કા ફલ હમ પા ગયે ॥
+વીતરાગી હો તુમ્હીં સર્વજ્ઞ હો,
+સપ્ત તત્વોં કે તુમ્હીં મર્મજ્ઞ હો,
+મુક્તિ કા મારગ તુમ્હીં સે પા ગયે, ભાવના... ।૧।
+વિશ્વ સારા હૈ ઝલકતા જ્ઞાન મેં,
+કિંતુ પ્રભુવર લીન હૈં નિજ ધ્યાન મેં,
+ધ્યાન મેં નિજ જ્ઞાન કો હમ પા ગયે, ભાવના... ।૨।
+તુમને બતાયા જગત કે સબ આત્મા,
+દ્રવ્ય દૃષ્ટિ સે સદા પરમાત્મા,
+આજ નિજ પરમાત્મા પદ પા ગયે, ભાવના... ।૩।`,
+      hi: `हे प्रभो चरणों में तेरे
+हे प्रभो चरणों में तेरे आ गये;
+भावना अपनी का फ़ल हम पा गये ॥
+वीतरागी हो तुम्हीं सर्वज्ञ हो,
+सप्त तत्वों के तुम्हीं मर्मज्ञ हो,
+मुक्ति का मारग तुम्हीं से पा गये, भावना... ।१।
+विश्व सारा है झलकता ज्ञान में,
+किंतु प्रभुवर लीन हैं निज ध्यान में,
+ध्यान में निज ज्ञान को हम पा गये, भावना... ।२।
+तुमने बताया जगत के सब आत्मा,
+द्रव्य दृष्टि से सदा परमात्मा,
+आज निज परमात्मा पद पा गये, भावना... ।३।`,
+      sa: "",
+      en: `He prabho charanon men tere
+He prabho charanon men tere aa gaye;
+Bhaavanaa apanee kaa phala hama paa gaye | |
+Veetaraagee ho tumheen sarvagya ho,
+Sapta tatvon ke tumheen marmagya ho,
+Mukti kaa maaraga tumheen se paa gaye, bhaavanaa... | 1 |
+Vishva saaraa hai jhalakataa gyaana men,
+Kintu prabhuvara leena hain nija dhyaana men,
+Dhyaana men nija gyaana ko hama paa gaye, bhaavanaa... | 2 |
+Tumane bataayaa jagata ke saba aatmaa,
+Dravya drishti se sadaa paramaatmaa,
+Aaja nija paramaatmaa pada paa gaye, bhaavanaa... | 3 |`,
+    },
+  },
+  {
+    id: "jara-chet-o-manav-karni-se",
+    type: "bhajan",
+    title: {
+      gu: "જરા ચેત ઓ માનવ કરની સે",
+      hi: "जरा चेत ओ मानव करनी से",
+      sa: "",
+      en: "Jaraa Cheta o Maanava Karanee se",
+    },
+    text: {
+      gu: `કાહે પાપ કરે કાહે છલ, જરા ચેત ઓ માનવ કરની સે....
+તેરી આયુ ઘટે પલ પલ ॥ટેક॥
+તેરા તુઝકો ન બોધ વિચાર હૈ, માનમાયા કા છાયા અપાર હૈ,
+કૈસે ભોંદૂ બના હૈ સંભલ, જરા ચેત ઓ... ॥
+તેરા જ્ઞાતા વ દૃષ્ટા સ્વભાવ હૈ, કાહે જડ સે યૂં ઇતના લગાવ હૈ,
+દુનિયાં ઠગની પે અબ ના મચલ, જરા ચેત ઓ... ॥
+શુદ્ધ ચિદ્રૂપ ચેતન સ્વરૂપ તૂ,મોક્ષલક્ષ્મી કા \`સૌભાગ્ય' ભૂપ તૂં,
+બન સકતા હૈ યહ બલ પ્રબલ, જરા ચેત ઓ... ॥`,
+      hi: `काहे पाप करे काहे छल, जरा चेत ओ मानव करनी से....
+तेरी आयु घटे पल पल ॥टेक॥
+तेरा तुझको न बोध विचार है, मानमाया का छाया अपार है,
+कैसे भोंदू बना है संभल, जरा चेत ओ... ॥
+तेरा ज्ञाता व दृष्टा स्वभाव है, काहे जड़ से यूं इतना लगाव है,
+दुनियां ठगनी पे अब ना मचल, जरा चेत ओ... ॥
+शुद्ध चिद्रूप चेतन स्वरूप तू,मोक्षलक्ष्मी का \`सौभाग्य' भूप तूं,
+बन सकता है यह बल प्रबल, जरा चेत ओ... ॥`,
+      sa: "",
+      en: `Kaahe paapa kare kaahe chhala, jaraa cheta o maanava karanee se....
+Teree aayu ghate pala pala | | teka | |
+Teraa tujhako na bodha vichaara hai, maanamaayaa kaa chhaayaa apaara hai,
+Kaise bhondoo banaa hai sanbhala, jaraa cheta o... | |
+Teraa gyaataa va drishtaa svabhaava hai, kaahe jada se yoon itanaa lagaava hai,
+Duniyaan thaganee pe aba naa machala, jaraa cheta o... | |
+Shuddha chidroopa chetana svaroopa too,mokshalakshmee kaa \`saubhaagya' bhoopa toon,
+Bana sakataa hai yaha bala prabala, jaraa cheta o... | |`,
+    },
+  },
+  {
+    id: "jayvanto-jinbimb-jagat-main",
+    type: "bhajan",
+    title: {
+      gu: "જયવન્તો જિનબિમ્બ જગત મેં",
+      hi: "जयवन्तो जिनबिम्ब जगत में",
+      sa: "",
+      en: "Jayavanto Jinabimba Jagata Men",
+    },
+    text: {
+      gu: `જયવન્તો જિનબિમ્બ જગત મેં
+જયવન્તો જિનબિમ્બ જગત મેં, જિન દેખત નિજ પાયા હૈ ॥
+વીતરાગતા લખિ પ્રભુજી કી, વિષય દાહ વિનશાયા હૈ ।
+પ્રગટ ભયો સંતોષ મહાગુણ, મન થિરતા મેં આયા હૈ ॥
+અતિશય જ્ઞાન ષરાસન પૈ ધરિ, શુક્લ ધ્યાન શરવાયા હૈ ।
+હાનિ મોહ અરિ ચંડ ચૌકડી, જ્ઞાનાદિક ઉપજાયા હૈ ॥
+વસુવિધિ અરિ હર કર શિવથાનક, થિરસ્વરૂપ ઠહરાયા હૈ ।
+સો સ્વરૂપ રુચિ સ્વયંસિદ્ધ પ્રભુ, જ્ઞાનરૂપ મનભાયા હૈ ॥
+યદ્યપિ અચિત તદપિ ચેતન કો, ચિતસ્વરૂપ દિખલાયા હૈ ।
+કૃત્ય કૃત્ય જિનેશ્વર પ્રતિમા, પૂજનીય ગુરુ ગાયા હૈ ॥`,
+      hi: `जयवन्तो जिनबिम्ब जगत में
+जयवन्तो जिनबिम्ब जगत में, जिन देखत निज पाया है ॥
+वीतरागता लखि प्रभुजी की, विषय दाह विनशाया है ।
+प्रगट भयो संतोष महागुण, मन थिरता में आया है ॥
+अतिशय ज्ञान षरासन पै धरि, शुक्ल ध्यान शरवाया है ।
+हानि मोह अरि चंड चौकडी, ज्ञानादिक उपजाया है ॥
+वसुविधि अरि हर कर शिवथानक, थिरस्वरूप ठहराया है ।
+सो स्वरूप रुचि स्वयंसिद्ध प्रभु, ज्ञानरूप मनभाया है ॥
+यद्यपि अचित तदपि चेतन को, चितस्वरूप दिखलाया है ।
+कृत्य कृत्य जिनेश्वर प्रतिमा, पूजनीय गुरु गाया है ॥`,
+      sa: "",
+      en: `Jayavanto jinabimba jagata men
+Jayavanto jinabimba jagata men, jina dekhata nija paayaa hai | |
+Veetaraagataa lakhi prabhujee kee, vishaya daaha vinashaayaa hai |
+Pragata bhayo santosha mahaaguna, mana thirataa men aayaa hai | |
+Atishaya gyaana sharaasana pai dhari, shukla dhyaana sharavaayaa hai |
+Haani moha ari chanda chaukadee, gyaanaadika upajaayaa hai | |
+Vasuvidhi ari hara kara shivathaanaka, thirasvaroopa thaharaayaa hai |
+So svaroopa ruchi svayansiddha prabhu, gyaanaroopa manabhaayaa hai | |
+Yadyapi achita tadapi chetana ko, chitasvaroopa dikhalaayaa hai |
+Kritya kritya jineshvara pratimaa, poojaneeya guru gaayaa hai | |`,
+    },
+  },
+  {
+    id: "main-mahapunya-uday-se-jindharm-paa-gaya",
+    type: "bhajan",
+    title: {
+      gu: "મૈં મહાપુણ્ય ઉદય સે જિનધર્મ પા ગયા",
+      hi: "मैं महापुण्य उदय से जिनधर्म पा गया",
+      sa: "",
+      en: "Main Mahaapunya Udaya se Jinadharma Paa Gayaa",
+    },
+    text: {
+      gu: `મૈં મહાપુણ્ય ઉદય સે જિનધર્મ પા ગયા ॥
+ચાર ઘાતિ કર્મ નાશે ઐસા અરહંત હૈ,
+અનંત ચતુષ્ટય ધારી શ્રી ભગવંત હૈ,
+મૈં અરહંત દેવ કી શરણ આ ગયા ॥
+અષ્ટ કર્મ નાશ કિયે ઐસે સિદ્ધ દેવ હૈં,
+અષ્ટ ગુણ પ્રગટ જિનકે હુએ સ્વયમેવ હૈં,
+મૈં ઐસે સિદ્ધ દેવ કી શરણ આ ગયા ॥
+વસ્તુ કા સ્વરૂપ બતાવે વીતરાગ વાણી હૈ,
+તીન લોક કે જીવ હેતુ મહાકલ્યાણી હૈ,
+મૈં જિનવાણી માઁ કી શરણ મેં આ ગયા ॥
+પરિગ્રહ રહિત દિગમ્બર મુનિરાજ હૈં,
+જ્ઞાન ધ્યાન સિવા નહીં દૂજા કોઈ કાજ હૈ,
+મૈં શ્રી મુનિરાજ કી શરણ પા ગયા ॥`,
+      hi: `मैं महापुण्य उदय से जिनधर्म पा गया ॥
+चार घाति कर्म नाशे ऐसा अरहंत है,
+अनंत चतुष्टय धारी श्री भगवंत है,
+मैं अरहंत देव की शरण आ गया ॥
+अष्ट कर्म नाश किये ऐसे सिद्ध देव हैं,
+अष्ट गुण प्रगट जिनके हुए स्वयमेव हैं,
+मैं ऐसे सिद्ध देव की शरण आ गया ॥
+वस्तु का स्वरूप बतावे वीतराग वाणी है,
+तीन लोक के जीव हेतु महाकल्याणी है,
+मैं जिनवाणी माँ की शरण में आ गया ॥
+परिग्रह रहित दिगम्बर मुनिराज हैं,
+ज्ञान ध्यान सिवा नहीं दूजा कोई काज है,
+मैं श्री मुनिराज की शरण पा गया ॥`,
+      sa: "",
+      en: `Main mahaapunya udaya se jinadharma paa gayaa | |
+Chaara ghaati karma naashe aisaa arahanta hai,
+Ananta chatushtaya dhaaree shree bhagavanta hai,
+Main arahanta deva kee sharana aa gayaa | |
+Ashta karma naasha kiye aise siddha deva hain,
+Ashta guna pragata jinake hue svayameva hain,
+Main aise siddha deva kee sharana aa gayaa | |
+Vastu kaa svaroopa bataave veetaraaga vaanee hai,
+Teena loka ke jeeva hetu mahaakalyaanee hai,
+Main jinavaanee maan kee sharana men aa gayaa | |
+Parigraha rahita digambara muniraaja hain,
+Gyaana dhyaana sivaa naheen doojaa koee kaaja hai,
+Main shree muniraaja kee sharana paa gayaa | |`,
+    },
+  },
+  {
+    id: "dhani-muni-nij-aatmhit-kina",
+    type: "bhajan",
+    title: {
+      gu: "ધનિ મુનિ નિજ આતમહિત કીના",
+      hi: "धनि मुनि निज आतमहित कीना",
+      sa: "",
+      en: "Dhani Muni Nija Aatamahita Keenaa",
+    },
+    text: {
+      gu: `ધનિ મુનિ નિજ આતમહિત કીના
+ભવ પ્રસાર તપ અશુચિ વિષય વિષ, જાન મહાવ્રત લીના ॥
+એકવિહારી પરિગ્રહ છારી, પરીસહ સહત અરીના
+પૂરવ તન તપસાધન માન ન, લાજ ગની પરવીના ।૧।
+શૂન્ય સદન ગિર ગહન ગુફામેં, પદમાસન આસીના
+પરભાવનતૈં ભિન્ન આપપદ, ધ્યાવત મોહવિહીના ।૨।
+સ્વપરભેદ જિનકી બુધિ નિજમેં, પાગી વાહિ લગીના
+\`દૌલ' તાસ પદ વારિજ રજસે,કિસ અઘ કરે ન છીના ।૩।`,
+      hi: `धनि मुनि निज आतमहित कीना
+भव प्रसार तप अशुचि विषय विष, जान महाव्रत लीना ॥
+एकविहारी परिग्रह छारी, परीसह सहत अरीना
+पूरव तन तपसाधन मान न, लाज गनी परवीना ।१।
+शून्य सदन गिर गहन गुफामें, पदमासन आसीना
+परभावनतैं भिन्न आपपद, ध्यावत मोहविहीना ।२।
+स्वपरभेद जिनकी बुधि निजमें, पागी वाहि लगीना
+\`दौल' तास पद वारिज रजसे,किस अघ करे न छीना ।३।`,
+      sa: "",
+      en: `Dhani muni nija aatamahita keenaa
+Bhava prasaara tapa ashuchi vishaya visha, jaana mahaavrata leenaa | |
+Ekavihaaree parigraha chhaaree, pareesaha sahata areenaa
+Poorava tana tapasaadhana maana na, laaja ganee paraveenaa | 1 |
+Shoonya sadana gira gahana guphaamen, padamaasana aaseenaa
+Parabhaavanatain bhinna aapapada, dhyaavata mohaviheenaa | 2 |
+Svaparabheda jinakee budhi nijamen, paagee vaahi lageenaa
+\`daula' taasa pada vaarija rajase,kisa agha kare na chheenaa | 3 |`,
+    },
+  },
+  {
+    id: "nahi-tum-bin-koun-hamara",
+    type: "bhajan",
+    title: {
+      gu: "નહીં તુમ બિન કૌન હમારા",
+      hi: "नहीं तुम बिन कौन हमारा",
+      sa: "",
+      en: "Naheen Tuma Bina Kauna Hamaaraa",
+    },
+    text: {
+      gu: `પરમ દિગમ્બર યતી, મહાગુણ વ્રતી, કરો નિસ્તારા
+નહીં તુમ બિન કૌન હમારા ॥ટેક॥
+તુમ બીસ આઠ ગુણધારી હો, જગ જીવમાત્ર હિતકારી હો
+બાઈસ પરીષહ જીત ધરમ રખવારા ।૧। નહીં તુમ.
+તુમ આતમધ્યાની જ્ઞાની હો, શુચિ સ્વપર ભેદ વિજ્ઞાની હો
+હૈ રત્નત્રય ગુણમંડિત હૃદય તુમ્હારા ।૨। નહીં તુમ.
+તુમ ક્ષમાશીલ સમતા સાગર, હો વિશ્વ પૂજ્ય વર રત્નાકર
+હૈ હિતમિત સત ઉપદેશ તુમ્હારા પ્યારા ।૩। નહીં તુમ.
+તુમ પ્રેમમૂર્તિ હો સમદર્શી, હો ભવ્ય જીવ મન આકર્ષી
+હૈ નિર્વિકાર નિર્દોષ સ્વરૂપ તુમ્હારા ।૪। નહીં તુમ.
+હૈ યહી અવસ્થા એક સાર, જો પહુઁચાતી હૈ મોક્ષ દ્વાર
+\`સૌભાગ્ય' આપસા બાના હોય હમારા ।૫। નહીં તુમ`,
+      hi: `परम दिगम्बर यती, महागुण व्रती, करो निस्तारा
+नहीं तुम बिन कौन हमारा ॥टेक॥
+तुम बीस आठ गुणधारी हो, जग जीवमात्र हितकारी हो
+बाईस परीषह जीत धरम रखवारा ।१। नहीं तुम.
+तुम आतमध्यानी ज्ञानी हो, शुचि स्वपर भेद विज्ञानी हो
+है रत्नत्रय गुणमंडित हृदय तुम्हारा ।२। नहीं तुम.
+तुम क्षमाशील समता सागर, हो विश्व पूज्य वर रत्नाकर
+है हितमित सत उपदेश तुम्हारा प्यारा ।३। नहीं तुम.
+तुम प्रेममूर्ति हो समदर्शी, हो भव्य जीव मन आकर्षी
+है निर्विकार निर्दोष स्वरूप तुम्हारा ।४। नहीं तुम.
+है यही अवस्था एक सार, जो पहुँचाती है मोक्ष द्वार
+\`सौभाग्य' आपसा बाना होय हमारा ।५। नहीं तुम`,
+      sa: "",
+      en: `Parama digambara yatee, mahaaguna vratee, karo nistaaraa
+Naheen tuma bina kauna hamaaraa | | teka | |
+Tuma beesa aatha gunadhaaree ho, jaga jeevamaatra hitakaaree ho
+Baaeesa pareeshaha jeeta dharama rakhavaaraa | 1 | naheen tuma.
+Tuma aatamadhyaanee gyaanee ho, shuchi svapara bheda vigyaanee ho
+Hai ratnatraya gunamandita hridaya tumhaaraa | 2 | naheen tuma.
+Tuma kshamaasheela samataa saagara, ho vishva poojya vara ratnaakara
+Hai hitamita sata upadesha tumhaaraa pyaaraa | 3 | naheen tuma.
+Tuma premamoorti ho samadarshee, ho bhavya jeeva mana aakarshee
+Hai nirvikaara nirdosha svaroopa tumhaaraa | 4 | naheen tuma.
+Hai yahee avasthaa eka saara, jo pahunchaatee hai moksha dvaara
+\`saubhaagya' aapasaa baanaa hoya hamaaraa | 5 | naheen tuma`,
+    },
+  },
+  {
+    id: "sab-jain-dharm-ki-jay-bolo",
+    type: "bhajan",
+    title: {
+      gu: "સબ જૈન ધર્મ કી જય બોલો",
+      hi: "सब जैन धर्म की जय बोलो",
+      sa: "",
+      en: "Saba Jaina Dharma Kee Jaya Bolo",
+    },
+    text: {
+      gu: `સબ જૈન ધર્મ કી જય બોલો, હમ ગીત ઉસી કે ગાતે હૈં,
+જો વિશ્વશાંતિ કા પ્રેરક હૈ, હમ ઉસકી બાત સુનાતે હૈં ॥
+યહ સત્ય અહિંસા બ્રહ્મચર્ય કા, પાઠ હમેં સિખલાતા હૈ,
+અજ્ઞેય પરિગ્રહ ત્યાગ હમેં, માનવ બનના સિખલાતા હૈ,
+યે પંચ મહાવ્રત સાર જગત-૨,
+યે શાસ્ત્ર-યે શાસ્ત્ર સભી બતલાતે હૈં ॥ જો વિશ્વશાંતિ....॥
+સચ્ચી રાહ બતાને કો ચૌબીસ હુયે અવતાર યહાઁ,
+સબને ઇસકી મહિમા ગાયી, ઔર પાર હુયે સંસાર યહાઁ,
+સિદ્ધાંત અમર સુખદાઈ હૈ-૨,
+જો ધ્યાન-જો ધ્યાન ધરે તિર જાતે હૈં ॥ જો વિશ્વશાંતિ....॥
+હૈ જૈન ધર્મ વટ વૃક્ષ બડા, જિસકી છાયા અતિ શીતલ હૈ,
+જિન વર્ધમાન ઔર સાધૂ કો પા,ધન્ય હુઆ અવનીતલ હૈ,
+રખને કો જીવિત માનવતા-૨
+હમ જૈન- હમ જૈન ધ્વજા ફહરાતે હૈં ॥ જો વિશ્વશાંતિ....॥`,
+      hi: `सब जैन धर्म की जय बोलो, हम गीत उसी के गाते हैं,
+जो विश्वशांति का प्रेरक है, हम उसकी बात सुनाते हैं ॥
+यह सत्य अहिंसा ब्रह्मचर्य का, पाठ हमें सिखलाता है,
+अज्ञेय परिग्रह त्याग हमें, मानव बनना सिखलाता है,
+ये पंच महाव्रत सार जगत-२,
+ये शास्त्र-ये शास्त्र सभी बतलाते हैं ॥ जो विश्वशांति....॥
+सच्ची राह बताने को चौबीस हुये अवतार यहाँ,
+सबने इसकी महिमा गायी, और पार हुये संसार यहाँ,
+सिद्धांत अमर सुखदाई है-२,
+जो ध्यान-जो ध्यान धरे तिर जाते हैं ॥ जो विश्वशांति....॥
+है जैन धर्म वट वृक्ष बडा, जिसकी छाया अति शीतल है,
+जिन वर्धमान और साधू को पा,धन्य हुआ अवनीतल है,
+रखने को जीवित मानवता-२
+हम जैन- हम जैन ध्वजा फ़हराते हैं ॥ जो विश्वशांति....॥`,
+      sa: "",
+      en: `Saba jaina dharma kee jaya bolo, hama geeta usee ke gaate hain,
+Jo vishvashaanti kaa preraka hai, hama usakee baata sunaate hain | |
+Yaha satya ahinsaa brahmacharya kaa, paatha hamen sikhalaataa hai,
+Agyeya parigraha tyaaga hamen, maanava bananaa sikhalaataa hai,
+Ye pancha mahaavrata saara jagata-2,
+Ye shaastra-ye shaastra sabhee batalaate hain | | jo vishvashaanti.... | |
+Sachchee raaha bataane ko chaubeesa huye avataara yahaan,
+Sabane isakee mahimaa gaayee, aura paara huye sansaara yahaan,
+Siddhaanta amara sukhadaaee hai-2,
+Jo dhyaana-jo dhyaana dhare tira jaate hain | | jo vishvashaanti.... | |
+Hai jaina dharma vata vriksha badaa, jisakee chhaayaa ati sheetala hai,
+Jina vardhamaana aura saadhoo ko paa,dhanya huaa avaneetala hai,
+Rakhane ko jeevita maanavataa-2
+Hama jaina- hama jaina dhvajaa phaharaate hain | | jo vishvashaanti.... | |`,
+    },
+  },
+  {
+    id: "aise-sadhu-suguru-kab-mili-hai",
+    type: "bhajan",
+    title: {
+      gu: "ઐસે સાધુ સુગુરુ કબ મિલિ હૈં",
+      hi: "ऐसे साधु सुगुरु कब मिलि हैं",
+      sa: "",
+      en: "Aise Saadhu Suguru Kaba Mili Hain",
+    },
+    text: {
+      gu: `ઐસે સાધુ સુગુરુ કબ મિલિ હૈં ॥ટેક॥
+આપ તરૈં અરુ પર કો તારૈં, નિષ્પૃહી નિર્મલ હૈં ।૧।
+તિલ તુષ માત્ર સંગ નહિં જિનકે, જ્ઞાન-ધ્યાન ગુણ બલ હૈં ।૨।
+શાંત દિગમ્બર મુદ્રા જિનકી, મન્દર તુલ્ય અચલ હૈં ।૩।
+\`ભાગચન્દ' તિનકો નિત ચાહેં, જ્યોં કમલનિ કો અલિ હૈં ।૪।`,
+      hi: `ऐसे साधु सुगुरु कब मिलि हैं ॥टेक॥
+आप तरैं अरु पर को तारैं, निष्पृही निर्मल हैं ।१।
+तिल तुष मात्र संग नहिं जिनके, ज्ञान-ध्यान गुण बल हैं ।२।
+शांत दिगम्बर मुद्रा जिनकी, मन्दर तुल्य अचल हैं ।३।
+\`भागचन्द' तिनको नित चाहें, ज्यों कमलनि को अलि हैं ।४।`,
+      sa: "",
+      en: `Aise saadhu suguru kaba mili hain | | teka | |
+Aapa tarain aru para ko taarain, nishprihee nirmala hain | 1 |
+Tila tusha maatra sanga nahin jinake, gyaana-dhyaana guna bala hain | 2 |
+Shaanta digambara mudraa jinakee, mandara tulya achala hain | 3 |
+\`bhaagachanda' tinako nita chaahen, jyon kamalani ko ali hain | 4 |`,
+    },
+  },
+  {
+    id: "jap-jap-re-navkaar-mantra-too",
+    type: "bhajan",
+    title: {
+      gu: "જપ જપ રે નવકાર મંત્ર તૂ",
+      hi: "जप जप रे नवकार मंत्र तू",
+      sa: "",
+      en: "Japa Japa re Navakaara Mantra Too",
+    },
+    text: {
+      gu: `જપ જપ રે નવકાર મંત્ર તૂ , ઇસ ભવ પર ભવ સુખ પાસી,
+ઇસ ભવ પર ભવ સુખ પાસી ॥
+અરિહંત સિદ્ધ આચાર્ય સુમરલે, ઉપાધ્યાય સાધુ ચિત ધર લે,
+જન્મ મરણ થારો મિટ જાસી,
+જન્મ મરણ થારો મિટ જાસી ॥ જપ જપ રે...॥
+સીતા સતી ને ઇસકો ધ્યાયા, અગ્નિ કા થા નીર બનાયા ,
+ધન્ય ધન્ય કહે જગવાસી ,
+ધન્ય ધન્ય કહે જગવાસી ॥ જપ જપ રે...॥
+સેઠ પુત્ર કા જહર હટા થા, શ્રીપાલ કા કુષ્ઠ મિટા થા ,
+ટલી સુદર્શન કી ફાંસી ,
+ટલી સુદર્શન કી ફાંસી॥ જપ જપ રે...॥
+મહિમા ઇસકી કહી ના જાય, પંકજ જો નર ઇસકો ધ્યાયે ,
+વો ભવસાગર તિર જાસી ,
+વો ભવસાગર તિર જાસી ॥ જપ જપ રે...॥`,
+      hi: `जप जप रे नवकार मंत्र तू , इस भव पर भव सुख पासी,
+इस भव पर भव सुख पासी ॥
+अरिहंत सिद्ध आचार्य सुमरले, उपाध्याय साधु चित धर ले,
+जन्म मरण थारो मिट जासी,
+जन्म मरण थारो मिट जासी ॥ जप जप रे...॥
+सीता सती ने इसको ध्याया, अग्नि का था नीर बनाया ,
+धन्य धन्य कहे जगवासी ,
+धन्य धन्य कहे जगवासी ॥ जप जप रे...॥
+सेठ पुत्र का जहर हटा था, श्रीपाल का कुष्ठ मिटा था ,
+टली सुदर्शन की फ़ांसी ,
+टली सुदर्शन की फ़ांसी॥ जप जप रे...॥
+महिमा इसकी कही ना जाय, पंकज जो नर इसको ध्याये ,
+वो भवसागर तिर जासी ,
+वो भवसागर तिर जासी ॥ जप जप रे...॥`,
+      sa: "",
+      en: `Japa japa re navakaara mantra too , isa bhava para bhava sukha paasee,
+Isa bhava para bhava sukha paasee | |
+Arihanta siddha aachaarya sumarale, upaadhyaaya saadhu chita dhara le,
+Janma marana thaaro mita jaasee,
+Janma marana thaaro mita jaasee | | japa japa re... | |
+Seetaa satee ne isako dhyaayaa, agni kaa thaa neera banaayaa ,
+Dhanya dhanya kahe jagavaasee ,
+Dhanya dhanya kahe jagavaasee | | japa japa re... | |
+Setha putra kaa jahara hataa thaa, shreepaala kaa kushtha mitaa thaa ,
+Talee sudarshana kee phaansee ,
+Talee sudarshana kee phaansee | | japa japa re... | |
+Mahimaa isakee kahee naa jaaya, pankaja jo nara isako dhyaaye ,
+Vo bhavasaagara tira jaasee ,
+Vo bhavasaagara tira jaasee | | japa japa re... | |`,
+    },
+  },
+  {
+    id: "param-guru-barsat-gyan-jhari",
+    type: "bhajan",
+    title: {
+      gu: "પરમ ગુરુ બરસત જ્ઞાન ઝરી",
+      hi: "परम गुरु बरसत ज्ञान झरी",
+      sa: "",
+      en: "Parama Guru Barasata Gyaana Jharee",
+    },
+    text: {
+      gu: `પરમ ગુરુ બરસત જ્ઞાન ઝરી
+હરષિ-હરષિ બહુ ગરજિ-ગરજિ કે મિથ્યા તપન હરી ।૧।
+સરધા ભૂમિ સુહાવનિ લાગી સંશય બેલ હરી
+ભવિજન મન સરવર ભરિ ઉમડે સમુઝિ પવન સિયરી ।૨।
+સ્યાદ્વાદ નય બિજલી ચમકે પરમત શિખર પરી
+ચાતક મોર સાધુ શ્રાવક કે હૃદય સુ ભક્તિ ભરી ।૩।
+જપ તપ પરમાનન્દ બઢ્યો હૈ, સુખમય નીંવ ધરી
+\`દ્યાનત' પાવન પાવસ આયો, થિરતા શુદ્ધ કરી ।૪।`,
+      hi: `परम गुरु बरसत ज्ञान झरी
+हरषि-हरषि बहु गरजि-गरजि के मिथ्या तपन हरी ।१।
+सरधा भूमि सुहावनि लागी संशय बेल हरी
+भविजन मन सरवर भरि उमड़े समुझि पवन सियरी ।२।
+स्याद्वाद नय बिजली चमके परमत शिखर परी
+चातक मोर साधु श्रावक के हृदय सु भक्ति भरी ।३।
+जप तप परमानन्द बढ्यो है, सुखमय नींव धरी
+\`द्यानत' पावन पावस आयो, थिरता शुद्ध करी ।४।`,
+      sa: "",
+      en: `Parama guru barasata gyaana jharee
+Harashi-harashi bahu garaji-garaji ke mithyaa tapana haree | 1 |
+Saradhaa bhoomi suhaavani laagee sanshaya bela haree
+Bhavijana mana saravara bhari umade samujhi pavana siyaree | 2 |
+Syaadvaada naya bijalee chamake paramata shikhara paree
+Chaataka mora saadhu shraavaka ke hridaya su bhakti bharee | 3 |
+Japa tapa paramaananda badhyo hai, sukhamaya neenva dharee
+\`dyaanata' paavana paavasa aayo, thirataa shuddha karee | 4 |`,
+    },
+  },
+  {
+    id: "aacharya-ji-se-ye-poochhe-jag-sara",
+    type: "bhajan",
+    title: {
+      gu: "આચાર્ય જી સે યે પૂછે જગ સારા",
+      hi: "आचार्य जी से ये पूछे जग सारा",
+      sa: "",
+      en: "Aachaarya Jee se Ye Poochhe Jaga Saaraa",
+    },
+    text: {
+      gu: `આચાર્ય જી સે યે પૂછે જગ સારા ,
+ણમોકાર નામ કા યે કૌન મંત્ર પ્યારા ॥
+બોલે મુસ્કાતે મુનિવર સુનો ભાઈ સારે...૨
+અનંતાનંત હૈં યે પંચરંગ પ્યારે,
+પૈંતિસ અક્ષર સે શોભિત, ઓ...
+મંત્ર હૈ નિરાલા, ઇસીલિયે પ્યારા ॥ આચાર્ય જી સે ॥
+મહામંત્ર કહતી ઇસકો હૈ સારી જનતા...૨
+પાર લગાતા ઉસકો જો ઇસે જપતા,
+મંત્ર હૈ યે ઐસા જિસને, ઓ...
+લાખોં કો તારા, ઇસીલિયે પ્યારા ॥ આચાર્ય જી સે ॥
+પંચ પરમેષ્ઠી કે ગુણોં કો પ્રચારતા...૨
+ધર્મ વિશેષ કો યે નહીં હૈ દુલારતા,
+યે મહામંત્ર હૈ, ઓ...
+તારણ હારા, ઇસીલિયે પ્યારા ॥ આચાર્ય જી સે ॥
+મનોરમા સતી કા શીલ થા બચાયા...૨
+મહામંત્ર કા યે વર્ણન ગ્રંથોં ને ગાયા ,
+ઐસે મહામંત્ર કો, ઓ...
+વન્દન હમારા, ઇસીલિયે પ્યારા ॥ આચાર્ય જી સે ॥`,
+      hi: `आचार्य जी से ये पूछे जग सारा ,
+णमोकार नाम का ये कौन मंत्र प्यारा ॥
+बोले मुस्काते मुनिवर सुनो भाई सारे...२
+अनंतानंत हैं ये पंचरंग प्यारे,
+पैंतिस अक्षर से शोभित, ओ...
+मंत्र है निराला, इसीलिये प्यारा ॥ आचार्य जी से ॥
+महामंत्र कहती इसको है सारी जनता...२
+पार लगाता उसको जो इसे जपता,
+मंत्र है ये ऐसा जिसने, ओ...
+लाखों को तारा, इसीलिये प्यारा ॥ आचार्य जी से ॥
+पंच परमेष्ठी के गुणों को प्रचारता...२
+धर्म विशेष को ये नहीं है दुलारता,
+ये महामंत्र है, ओ...
+तारण हारा, इसीलिये प्यारा ॥ आचार्य जी से ॥
+मनोरमा सती का शील था बचाया...२
+महामंत्र का ये वर्णन ग्रंथों ने गाया ,
+ऐसे महामंत्र को, ओ...
+वन्दन हमारा, इसीलिये प्यारा ॥ आचार्य जी से ॥`,
+      sa: "",
+      en: `Aachaarya jee se ye poochhe jaga saaraa ,
+Namokaara naama kaa ye kauna mantra pyaaraa | |
+Bole muskaate munivara suno bhaaee saare...2
+Anantaananta hain ye pancharanga pyaare,
+Paintisa akshara se shobhita, o...
+Mantra hai niraalaa, iseeliye pyaaraa | | aachaarya jee se | |
+Mahaamantra kahatee isako hai saaree janataa...2
+Paara lagaataa usako jo ise japataa,
+Mantra hai ye aisaa jisane, o...
+Laakhon ko taaraa, iseeliye pyaaraa | | aachaarya jee se | |
+Pancha parameshthee ke gunon ko prachaarataa...2
+Dharma vishesha ko ye naheen hai dulaarataa,
+Ye mahaamantra hai, o...
+Taarana haaraa, iseeliye pyaaraa | | aachaarya jee se | |
+Manoramaa satee kaa sheela thaa bachaayaa...2
+Mahaamantra kaa ye varnana granthon ne gaayaa ,
+Aise mahaamantra ko, o...
+Vandana hamaaraa, iseeliye pyaaraa | | aachaarya jee se | |`,
+    },
+  },
+  {
+    id: "ve-munivar-kab-mili-hai-upgari",
+    type: "bhajan",
+    title: {
+      gu: "વે મુનિવર કબ મિલી હૈં ઉપગારી",
+      hi: "वे मुनिवर कब मिली हैं उपगारी",
+      sa: "",
+      en: "Ve Munivara Kaba Milee Hain Upagaaree",
+    },
+    text: {
+      gu: `વે મુનિવર કબ મિલી હૈં ઉપગારી ।
+સાધુ દિગમ્બર, નગ્ન નિરમ્બર, સંવર ભૂષણ ધારી ॥ટેક॥
+કંચન-કાઁચ બરાબર જિનકે, જ્યોં રિપુ ત્યોં હિતકારી
+મહલ મસાન,મરણ અરુ જીવન,સમ ગરિમા અરુ ગારી ।૧।
+સમ્યગ્જ્ઞાન પ્રધાન પવન બલ, તપ પાવક પરજારી
+શોધત જીવ સુવર્ણ સદા જે, કાય-કારિમા ટારી ।૨।
+જોરિ યુગલ કર \`ભૂધર' વિનવે, તિન પદ ઢોક હમારી
+ભાગ ઉદય દર્શન જબ પાઊઁ, તા દિન કી બલિહારી ।૩।`,
+      hi: `वे मुनिवर कब मिली हैं उपगारी ।
+साधु दिगम्बर, नग्न निरम्बर, संवर भूषण धारी ॥टेक॥
+कंचन-काँच बराबर जिनके, ज्यों रिपु त्यों हितकारी
+महल मसान,मरण अरु जीवन,सम गरिमा अरु गारी ।१।
+सम्यग्ज्ञान प्रधान पवन बल, तप पावक परजारी
+शोधत जीव सुवर्ण सदा जे, काय-कारिमा टारी ।२।
+जोरि युगल कर \`भूधर' विनवे, तिन पद ढोक हमारी
+भाग उदय दर्शन जब पाऊँ, ता दिन की बलिहारी ।३।`,
+      sa: "",
+      en: `Ve munivara kaba milee hain upagaaree |
+Saadhu digambara, nagna nirambara, sanvara bhooshana dhaaree | | teka | |
+Kanchana-kaancha baraabara jinake, jyon ripu tyon hitakaaree
+Mahala masaana,marana aru jeevana,sama garimaa aru gaaree | 1 |
+Samyaggyaana pradhaana pavana bala, tapa paavaka parajaaree
+Shodhata jeeva suvarna sadaa je, kaaya-kaarimaa taaree | 2 |
+Jori yugala kara \`bhoodhara' vinave, tina pada dhoka hamaaree
+Bhaaga udaya darshana jaba paaoon, taa dina kee balihaaree | 3 |`,
+    },
+  },
+  {
+    id: "mantra-navkaar-hridya",
+    type: "bhajan",
+    title: {
+      gu: "મંત્ર નવકારા હૃદય મેં ધર લિયા",
+      hi: "मंत्र नवकारा हृदय में धर लिया",
+      sa: "",
+      en: "Mantra Navakaaraa Hridaya Men Dhara Liyaa",
+    },
+    text: {
+      gu: `મંત્ર નવકારા હૃદય મેં ધર લિયા ,
+ઉસને જીતે કર્મ શિવ કો વર લિયા ॥
+મંત્ર મે અરિહન્ત સિદ્ધોં કો નમન ,
+ઉસને આતમ સિદ્ધ અપના કર લિયા ॥ ઉસને જીતે ..॥
+ભાવ સે આચાર્ય કો વંદન કિયા ,
+જ્ઞાન મોતી સે યે દામન ભર લિયા ॥ ઉસને જીતે ..॥
+ભક્તિ સે ઉવજ્ઝાય કો કીના નમન,
+ઉસને જડતા કા અંધેરા હર લિયા ॥ ઉસને જીતે ..॥
+સર્વ સાધુ તારને કો નાવ હૈ,
+જો ચઢા ઇસ નાવ પે ભવ તર લિયા ॥ ઉસને જીતે ..॥
+મંત્ર તીનો લોક મેં ઐસા નહીં ,
+જિન જપા જીવન સફલ પ્રભુ કર લિયા ॥ઉસને જીતે..॥`,
+      hi: `मंत्र नवकारा हृदय में धर लिया ,
+उसने जीते कर्म शिव को वर लिया ॥
+मंत्र मे अरिहन्त सिद्धों को नमन ,
+उसने आतम सिद्ध अपना कर लिया ॥ उसने जीते ..॥
+भाव से आचार्य को वंदन किया ,
+ज्ञान मोती से ये दामन भर लिया ॥ उसने जीते ..॥
+भक्ति से उवज्झाय को कीना नमन,
+उसने जडता का अंधेरा हर लिया ॥ उसने जीते ..॥
+सर्व साधु तारने को नाव है,
+जो चढा इस नाव पे भव तर लिया ॥ उसने जीते ..॥
+मंत्र तीनो लोक में ऐसा नहीं ,
+जिन जपा जीवन सफ़ल प्रभु कर लिया ॥उसने जीते..॥`,
+      sa: "",
+      en: `Mantra navakaaraa hridaya men dhara liyaa ,
+Usane jeete karma shiva ko vara liyaa | |
+Mantra me arihanta siddhon ko namana ,
+Usane aatama siddha apanaa kara liyaa | | usane jeete .. | |
+Bhaava se aachaarya ko vandana kiyaa ,
+Gyaana motee se ye daamana bhara liyaa | | usane jeete .. | |
+Bhakti se uvajjhaaya ko keenaa namana,
+Usane jadataa kaa andheraa hara liyaa | | usane jeete .. | |
+Sarva saadhu taarane ko naava hai,
+Jo chadhaa isa naava pe bhava tara liyaa | | usane jeete .. | |
+Mantra teeno loka men aisaa naheen ,
+Jina japaa jeevana saphala prabhu kara liyaa | | usane jeete.. | |`,
+    },
+  },
+  {
+    id: "param-digambar-munivar-dekhe",
+    type: "bhajan",
+    title: {
+      gu: "પરમ દિગમ્બર મુનિવર દેખે",
+      hi: "परम दिगम्बर मुनिवर देखे",
+      sa: "",
+      en: "Parama Digambara Munivara Dekhe",
+    },
+    text: {
+      gu: `પરમ દિગમ્બર મુનિવર દેખે, હૃદય હર્ષિત હોતા હૈ,
+આનન્દ ઉલસિત હોતા હૈ, હો-હો સમ્યગ્દર્શન હોતા હૈ ।૦।
+વાસ જિનકા વન-ઉપવન મેં, ગિરિ-શિખર કે નદી તટે,
+વાસ જિનકા ચિત્ત ગુફા મેં, આતમ આનન્દ મેં રમે ।૧।
+કંચન-કામિની કે ત્યાગી, મહા તપસ્વી જ્ઞાની-ધ્યાની,
+કાયા કી મમતા કે ત્યાગી, તીન રતન ગુણ ભણ્ડારી ।૨।
+પરમ પાવન મુનિવરોં કે, પાવન ચરણોં મેં નમૂઁ,
+શાન્ત-મૂર્તિ સૌમ્ય-મુદ્રા, આતમ આનન્દ મેં રમૂઁ ।૩।
+ચાહ નહીં હૈ રાજ્ય કી, ચાહ નહીં હૈ રમણી કી,
+ચાહ હૃદય મેં એક યહી હૈ, શિવ-રમણી કો વરને કી ।૪।
+ભેદ-જ્ઞાન કી જ્યોતિ જલાકર, શુદ્ધાતમ મેં રમતે હૈં,
+ક્ષણ-ક્ષણ મેં અન્તર્મુખ હો, સિદ્ધોં સે બાતેં કરતે હૈં ।૫।`,
+      hi: `परम दिगम्बर मुनिवर देखे, हृदय हर्षित होता है,
+आनन्द उलसित होता है, हो-हो सम्यग्दर्शन होता है ।०।
+वास जिनका वन-उपवन में, गिरि-शिखर के नदी तटे,
+वास जिनका चित्त गुफा में, आतम आनन्द में रमे ।१।
+कंचन-कामिनी के त्यागी, महा तपस्वी ज्ञानी-ध्यानी,
+काया की ममता के त्यागी, तीन रतन गुण भण्डारी ।२।
+परम पावन मुनिवरों के, पावन चरणों में नमूँ,
+शान्त-मूर्ति सौम्य-मुद्रा, आतम आनन्द में रमूँ ।३।
+चाह नहीं है राज्य की, चाह नहीं है रमणी की,
+चाह हृदय में एक यही है, शिव-रमणी को वरने की ।४।
+भेद-ज्ञान की ज्योति जलाकर, शुद्धातम में रमते हैं,
+क्षण-क्षण में अन्तर्मुख हो, सिद्धों से बातें करते हैं ।५।`,
+      sa: "",
+      en: `Parama digambara munivara dekhe, hridaya harshita hotaa hai,
+Aananda ulasita hotaa hai, ho-ho samyagdarshana hotaa hai | 0 |
+Vaasa jinakaa vana-upavana men, giri-shikhara ke nadee tate,
+Vaasa jinakaa chitta guphaa men, aatama aananda men rame | 1 |
+Kanchana-kaaminee ke tyaagee, mahaa tapasvee gyaanee-dhyaanee,
+Kaayaa kee mamataa ke tyaagee, teena ratana guna bhandaaree | 2 |
+Parama paavana munivaron ke, paavana charanon men namoon,
+Shaanta-moorti saumya-mudraa, aatama aananda men ramoon | 3 |
+Chaaha naheen hai raajya kee, chaaha naheen hai ramanee kee,
+Chaaha hridaya men eka yahee hai, shiva-ramanee ko varane kee | 4 |
+Bheda-gyaana kee jyoti jalaakara, shuddhaatama men ramate hain,
+Kshana-kshana men antarmukha ho, siddhon se baaten karate hain | 5 |`,
+    },
+  },
+  {
+    id: "vah-ghadi-kab-aayegi",
+    type: "bhajan",
+    title: {
+      gu: "વહ ઘડી કબ આયેગી",
+      hi: "वह घड़ी कब आयेगी",
+      sa: "",
+      en: "Vaha Ghadee Kaba Aayegee",
+    },
+    text: {
+      gu: `સંત સાધુ બન કે વિચરૂઁ, વહ ઘડી કબ આયેગી ।
+ચલ પડૂઁ મૈં મોક્ષ પથ મેં, વહ ઘડી કબ આયેગી ।।ટેક ।।
+હાથ મેં પીછી કમણ્ડલુ, ધ્યાન આતમ રામ કા ।
+છોડકર ઘરબાર દીક્ષા કી ઘડી કબ આયેગી ।૧।
+આયેગા વૈરાગ્ય મુઝકો, ઇસ દુ:ખી સંસાર સે ।
+ત્યાગ દૂઁગા મોહ મમતા, વહ ઘડી કબ આયેગી ।૨।
+પાઁચ સમિતિ તીન ગુપ્તિ, બાઈસ પરિષહ ભી સહૂઁ ।
+ભાવના બારહ જુ ભાઊઁ, વહ ઘડી કબ આયેગી ।૩।
+બાહ્ય ઉપાધિ ત્યાગ કર, નિજ તત્ત્વ કા ચિંતન કરૂઁ ।
+નિર્વિકલ્પ હોવે સમાધિ, વહ ઘડી કબ આયેગી ।૪।
+ભવ-ભ્રમણ કા નાશ હોવે, ઇસ દુ:ખી સંસાર સે ।
+વિચરૂઁ મૈં નિજ આતમા મેં, વહ ઘડી કબ આયેગી ।૫।`,
+      hi: `संत साधु बन के विचरूँ, वह घड़ी कब आयेगी ।
+चल पडूँ मैं मोक्ष पथ में, वह घड़ी कब आयेगी ।।टेक ।।
+हाथ में पीछी कमण्डलु, ध्यान आतम राम का ।
+छोड़कर घरबार दीक्षा की घड़ी कब आयेगी ।१।
+आयेगा वैराग्य मुझको, इस दु:खी संसार से ।
+त्याग दूँगा मोह ममता, वह घड़ी कब आयेगी ।२।
+पाँच समिति तीन गुप्ति, बाईस परिषह भी सहूँ ।
+भावना बारह जु भाऊँ, वह घड़ी कब आयेगी ।३।
+बाह्य उपाधि त्याग कर, निज तत्त्व का चिंतन करूँ ।
+निर्विकल्प होवे समाधि, वह घड़ी कब आयेगी ।४।
+भव-भ्रमण का नाश होवे, इस दु:खी संसार से ।
+विचरूँ मैं निज आतमा में, वह घड़ी कब आयेगी ।५।`,
+      sa: "",
+      en: `Santa saadhu bana ke vicharoon, vaha ghadee kaba aayegee |
+Chala padoon main moksha patha men, vaha ghadee kaba aayegee | | teka | |
+Haatha men peechhee kamandalu, dhyaana aatama raama kaa |
+Chhodakara gharabaara deekshaa kee ghadee kaba aayegee | 1 |
+Aayegaa vairaagya mujhako, isa du:khee sansaara se |
+Tyaaga doongaa moha mamataa, vaha ghadee kaba aayegee | 2 |
+Paancha samiti teena gupti, baaeesa parishaha bhee sahoon |
+Bhaavanaa baaraha ju bhaaoon, vaha ghadee kaba aayegee | 3 |
+Baahya upaadhi tyaaga kara, nija tattva kaa chintana karoon |
+Nirvikalpa hove samaadhi, vaha ghadee kaba aayegee | 4 |
+Bhava-bhramana kaa naasha hove, isa du:khee sansaara se |
+Vicharoon main nija aatamaa men, vaha ghadee kaba aayegee | 5 |`,
+    },
+  },
+  {
+    id: "mantra-navkaar-hame-praanon-se-pyara",
+    type: "bhajan",
+    title: {
+      gu: "મંત્ર નવકાર હમેં પ્રાણોં સે પ્યારા",
+      hi: "मंत्र नवकार हमें प्राणों से प्यारा",
+      sa: "",
+      en: "Mantra Navakaara Hamen Praanon se Pyaaraa",
+    },
+    text: {
+      gu: `મંત્ર નવકાર હમેં પ્રાણોં સે પ્યારા,
+યે હૈ વો જહાજ જિસને લાખોં કો તારા
+અરિહંતોં કો નમન હમારે, અશુભ કર્મ અરિ હનન કરે।
+સિદ્ધોં કે સુમિરન સે આત્મા, સિદ્ધ ક્ષેત્ર કો ગમન કરે।
+ભવ ભવ મેં નહીં જન્મેં દુબારા ॥ મંત્ર નવકાર...।૧।
+આચાર્યોં કે આચારોં સે, નિર્મલ નિજ આચાર કરેં।
+ઉપાધ્યાય કા ધ્યાન ધરેં હમ, સંવર કા સત્કાર કરેં।
+સર્વ સાધુ કો નમન હમારા ॥ મંત્ર નવકાર...।૨।
+ઇસી મંત્ર સે નાગ નાગિની, પદ્માવતી ધરણેન્દ્ર હુએ।
+સેઠ સુદર્શન કો સૂલી સે, મુક્તિ મિલિ રાજેન્દ્ર હુએ।
+અંજન ચોર કા કષ્ટ નિવારા ॥ મંત્ર નવકાર...।૩।
+સોતે ઉઠતે ચલતે ફિરતે, ઇસી મંત્ર કા જાપ કરો।
+આપ કમાયે પાપ તો ઉનકા, ક્ષય ભી અપને આપ કરો।
+ઇસ મહામંત્ર કા લે લો સહારા ॥ મંત્ર નવકાર...।૪।`,
+      hi: `मंत्र नवकार हमें प्राणों से प्यारा,
+ये है वो जहाज जिसने लाखों को तारा
+अरिहंतों को नमन हमारे, अशुभ कर्म अरि हनन करे।
+सिद्धों के सुमिरन से आत्मा, सिद्ध क्षेत्र को गमन करे।
+भव भव में नहीं जन्में दुबारा ॥ मंत्र नवकार...।१।
+आचार्यों के आचारों से, निर्मल निज आचार करें।
+उपाध्याय का ध्यान धरें हम, संवर का सत्कार करें।
+सर्व साधु को नमन हमारा ॥ मंत्र नवकार...।२।
+इसी मंत्र से नाग नागिनी, पद्मावती धरणेन्द्र हुए।
+सेठ सुदर्शन को सूली से, मुक्ति मिलि राजेन्द्र हुए।
+अंजन चोर का कष्ट निवारा ॥ मंत्र नवकार...।३।
+सोते उठते चलते फ़िरते, इसी मंत्र का जाप करो।
+आप कमाये पाप तो उनका, क्षय भी अपने आप करो।
+इस महामंत्र का ले लो सहारा ॥ मंत्र नवकार...।४।`,
+      sa: "",
+      en: `Mantra navakaara hamen praanon se pyaaraa,
+Ye hai vo jahaaja jisane laakhon ko taaraa
+Arihanton ko namana hamaare, ashubha karma ari hanana kare |
+Siddhon ke sumirana se aatmaa, siddha kshetra ko gamana kare |
+Bhava bhava men naheen janmen dubaaraa | | mantra navakaara... | 1 |
+Aachaaryon ke aachaaron se, nirmala nija aachaara karen |
+Upaadhyaaya kaa dhyaana dharen hama, sanvara kaa satkaara karen |
+Sarva saadhu ko namana hamaaraa | | mantra navakaara... | 2 |
+Isee mantra se naaga naaginee, padmaavatee dharanendra hue |
+Setha sudarshana ko soolee se, mukti mili raajendra hue |
+Anjana chora kaa kashta nivaaraa | | mantra navakaara... | 3 |
+Sote uthate chalate phirate, isee mantra kaa jaapa karo |
+Aapa kamaaye paapa to unakaa, kshaya bhee apane aapa karo |
+Isa mahaamantra kaa le lo sahaaraa | | mantra navakaara... | 4 |`,
+    },
+  },
+  {
+    id: "tumne-chhord-diya-sansar",
+    type: "bhajan",
+    title: {
+      gu: "તુમને છોડ દિયા સંસાર",
+      hi: "तुमने छोड़ दिया संसार",
+      sa: "",
+      en: "Tumane Chhoda Diyaa Sansaara",
+    },
+    text: {
+      gu: `ધન્ય મુનીશ્વર આતમ હિત મેં છોડ દિયા પરિવાર
+કિ તુમને છોડ દિયા પરિવાર
+ધન છોડા વૈભવ સબ છોડા, સમઝા જગત અસાર
+કિ તુમને છોડ દિયા સંસાર ॥ટેક॥
+કાયા કી મમતા કો ટારી, કરતે સહન પરીષહ ભારી
+પંચ મહાવ્રત કે હો ધારી, તીન રતન કે હો ભંડારી
+આત્મ સ્વરૂપ મેં ઝુલતે, કરતે નિજ આતમ-ઉદ્ધાર, કિ તુમને..
+રાગ-દ્વેષ સબ તુમને ત્યાગે, વૈર-વિરોધ હૃદય સે ભાગે
+પરમાતમ કે હો અનુરાગે, વૈરી કર્મ પલાયન ભાગે
+સત્ સન્દેશ સુના ભવિજન કો, કરતે બેડા પાર, કિ તુમને..
+હોય દિગમ્બર વન મેં વિચરતે, નિશ્ચલ હોય ધ્યાન જબ કરતે
+નિજપદ કે આનંદ મેં ઝુલતે,ઉપશમ રસ કી ધાર બરસતે
+મુદ્રા સૌમ્ય નિરખ કર, મસ્તક નમતા બારમ્બાર, કિ તુમને..`,
+      hi: `धन्य मुनीश्वर आतम हित में छोड़ दिया परिवार
+कि तुमने छोड़ दिया परिवार
+धन छोड़ा वैभव सब छोड़ा, समझा जगत असार
+कि तुमने छोड़ दिया संसार ॥टेक॥
+काया की ममता को टारी, करते सहन परीषह भारी
+पंच महाव्रत के हो धारी, तीन रतन के हो भंडारी
+आत्म स्वरूप में झुलते, करते निज आतम-उद्धार, कि तुमने..
+राग-द्वेष सब तुमने त्यागे, वैर-विरोध हृदय से भागे
+परमातम के हो अनुरागे, वैरी कर्म पलायन भागे
+सत् सन्देश सुना भविजन को, करते बेड़ा पार, कि तुमने..
+होय दिगम्बर वन में विचरते, निश्चल होय ध्यान जब करते
+निजपद के आनंद में झुलते,उपशम रस की धार बरसते
+मुद्रा सौम्य निरख कर, मस्तक नमता बारम्बार, कि तुमने..`,
+      sa: "",
+      en: `Dhanya muneeshvara aatama hita men chhoda diyaa parivaara
+Ki tumane chhoda diyaa parivaara
+Dhana chhodaa vaibhava saba chhodaa, samajhaa jagata asaara
+Ki tumane chhoda diyaa sansaara | | teka | |
+Kaayaa kee mamataa ko taaree, karate sahana pareeshaha bhaaree
+Pancha mahaavrata ke ho dhaaree, teena ratana ke ho bhandaaree
+Aatma svaroopa men jhulate, karate nija aatama-uddhaara, ki tumane..
+Raaga-dvesha saba tumane tyaage, vaira-virodha hridaya se bhaage
+Paramaatama ke ho anuraage, vairee karma palaayana bhaage
+Sat sandesha sunaa bhavijana ko, karate bedaa paara, ki tumane..
+Hoya digambara vana men vicharate, nishchala hoya dhyaana jaba karate
+Nijapada ke aananda men jhulate,upashama rasa kee dhaara barasate
+Mudraa saumya nirakha kara, mastaka namataa baarambaara, ki tumane..`,
+    },
+  },
+  {
+    id: "bane-jeewan-ka-mera-aadhaar-re",
+    type: "bhajan",
+    title: {
+      gu: "બને જીવન કા મેરા આધાર રે",
+      hi: "बने जीवन का मेरा आधार रे",
+      sa: "",
+      en: "Bane Jeevana Kaa Meraa Aadhaara re",
+    },
+    text: {
+      gu: `બને જીવન કા મેરા આધાર રે,
+ણમોકાર ણમોકાર ણમોકાર રે॥
+પહલી શરણ અરિહંતોં કી જાના,
+હો જાઓગે ભવ સે પાર રે ॥૧॥ ણમોકાર...
+દૂજી શરણ શ્રી સિદ્ધોં કી જાના,
+મુક્તિ કા અંતિમ દ્વાર રે ॥૨॥ ણમોકાર...
+તીજી શરણ આચાર્યો કી જાના,
+કરતે હૈં સબકા ઉદ્ધાર રે ॥૩॥ ણમોકાર...
+ચૌથી શરણ ઉપાધ્યાયોં કી જાના,
+દેતે જિનવાણી કા જ્ઞાન રે ॥૪॥ ણમોકાર...
+પાંચવી શરણ સર્વ સાધુ કી જાના,
+જિન પથ પે ચલતે વો શાન સે ॥૫॥ ણમોકાર...`,
+      hi: `बने जीवन का मेरा आधार रे,
+णमोकार णमोकार णमोकार रे॥
+पहली शरण अरिहंतों की जाना,
+हो जाओगे भव से पार रे ॥१॥ णमोकार...
+दूजी शरण श्री सिद्धों की जाना,
+मुक्ति का अंतिम द्वार रे ॥२॥ णमोकार...
+तीजी शरण आचार्यो की जाना,
+करते हैं सबका उद्धार रे ॥३॥ णमोकार...
+चौथी शरण उपाध्यायों की जाना,
+देते जिनवाणी का ज्ञान रे ॥४॥ णमोकार...
+पांचवी शरण सर्व साधु की जाना,
+जिन पथ पे चलते वो शान से ॥५॥ णमोकार...`,
+      sa: "",
+      en: `Bane jeevana kaa meraa aadhaara re,
+Namokaara namokaara namokaara re | |
+Pahalee sharana arihanton kee jaanaa,
+Ho jaaoge bhava se paara re | | 1 | | namokaara...
+Doojee sharana shree siddhon kee jaanaa,
+Mukti kaa antima dvaara re | | 2 | | namokaara...
+Teejee sharana aachaaryo kee jaanaa,
+Karate hain sabakaa uddhaara re | | 3 | | namokaara...
+Chauthee sharana upaadhyaayon kee jaanaa,
+Dete jinavaanee kaa gyaana re | | 4 | | namokaara...
+Paanchavee sharana sarva saadhu kee jaanaa,
+Jina patha pe chalate vo shaana se | | 5 | | namokaara...`,
+    },
+  },
+  {
+    id: "sab-mil-darshan-kar-lo",
+    type: "bhajan",
+    title: {
+      gu: "સબ મિલ દર્શન કર લો",
+      hi: "सब मिल दर्शन कर लो",
+      sa: "",
+      en: "Saba Mila Darshana Kara Lo",
+    },
+    text: {
+      gu: `મ્હારા પરમ દિગમ્બર મુનિવર આયા, સબ મિલ દર્શન કર લો,
+હાઁ, સબ મિલ દર્શન કર લો
+બાર-બાર આના મુશ્કિલ હૈ, ભાવ ભક્તિ ઉર ભર લો
+હાઁ, ભાવ ભક્તિ ઉર ભર લો ॥ટેક॥
+હાથ કમંડલુ કાઠ કો, પીછી પંખ મયૂર
+વિષય-વાસ આરમ્ભ સબ, પરિગ્રહ સે હૈં દૂર
+શ્રી વીતરાગ-વિજ્ઞાની કા કોઈ, જ્ઞાન હિયા વિચ ધર લો, હાઁ।૧।
+એક બાર કર પાત્ર મેં, અન્તરાય અઘ ટાલ
+અલ્પ-અશન લેં હો ખડે, નીરસ-સરસ સમ્હાલ
+ઐસે મુનિ મહાવ્રત ધારી, તિનકે ચરણ પકડ લો, હાઁ ।૨।
+ચાર ગતિ દુ:ખ સે ટરી, આત્મસ્વરૂપ કો ધ્યાય
+પુણ્ય-પાપ સે દૂર હો, જ્ઞાન ગુફા મેં આય
+સૌભાગ્ય તરણ તારણ મુનિવર કે, તારણ ચરણ પકડ લો,હાઁ॥`,
+      hi: `म्हारा परम दिगम्बर मुनिवर आया, सब मिल दर्शन कर लो,
+हाँ, सब मिल दर्शन कर लो
+बार-बार आना मुश्किल है, भाव भक्ति उर भर लो
+हाँ, भाव भक्ति उर भर लो ॥टेक॥
+हाथ कमंडलु काठ को, पीछी पंख मयूर
+विषय-वास आरम्भ सब, परिग्रह से हैं दूर
+श्री वीतराग-विज्ञानी का कोई, ज्ञान हिया विच धर लो, हाँ।१।
+एक बार कर पात्र में, अन्तराय अघ टाल
+अल्प-अशन लें हो खड़े, नीरस-सरस सम्हाल
+ऐसे मुनि महाव्रत धारी, तिनके चरण पकड़ लो, हाँ ।२।
+चार गति दु:ख से टरी, आत्मस्वरूप को ध्याय
+पुण्य-पाप से दूर हो, ज्ञान गुफा में आय
+सौभाग्य तरण तारण मुनिवर के, तारण चरण पकड़ लो,हाँ॥`,
+      sa: "",
+      en: `Mhaaraa parama digambara munivara aayaa, saba mila darshana kara lo,
+Haan, saba mila darshana kara lo
+Baara-baara aanaa mushkila hai, bhaava bhakti ura bhara lo
+Haan, bhaava bhakti ura bhara lo | | teka | |
+Haatha kamandalu kaatha ko, peechhee pankha mayoora
+Vishaya-vaasa aarambha saba, parigraha se hain doora
+Shree veetaraaga-vigyaanee kaa koee, gyaana hiyaa vicha dhara lo, haan | 1 |
+Eka baara kara paatra men, antaraaya agha taala
+Alpa-ashana len ho khade, neerasa-sarasa samhaala
+Aise muni mahaavrata dhaaree, tinake charana pakada lo, haan | 2 |
+Chaara gati du:kha se taree, aatmasvaroopa ko dhyaaya
+Punya-paapa se doora ho, gyaana guphaa men aaya
+Saubhaagya tarana taarana munivara ke, taarana charana pakada lo,haan | |`,
+    },
+  },
+  {
+    id: "mantra-japo-navkaar-manuwa",
+    type: "bhajan",
+    title: {
+      gu: "મંત્ર જપો નવકાર મનુવા",
+      hi: "मंत्र जपो नवकार मनुवा",
+      sa: "",
+      en: "Mantra Japo Navakaara Manuvaa",
+    },
+    text: {
+      gu: `મંત્ર જપો નવકાર મનુવા, મંત્ર જપો નવકાર,
+પંચપ્રભુ કો વંદન કર લો, પરમેષ્ઠી સુખકાર ॥
+અરહંતોં કા દર્શન કરલો, શુદ્ધાતમ કા પરિચય કર લો,
+શિવસુખ સાધનહાર, મનુવા, મંત્ર જપો નવકાર ॥
+સબ સિદ્ધોં કા ધ્યાન લગાલો, સિદ્ધસમાન હી નિજ કો ધ્યાલો,
+મંગલમય સુખકાર મનુવા, મંત્ર જપો નવકાર ॥
+આચાર્યોં કો શીશ નવાઓ, નિર્ગ્રંથોં કા પથ અપનાઓ,
+મુક્તિ માર્ગ આરાધ મનુવા, મંત્ર જપો નવકાર ॥
+ઉપાધ્યાય સે શિક્ષા લેકર, દ્વાદશાંગ કો શીશ નવાકર,
+જિનવાણી ઉર ધાર મનુવા, મંત્ર જપો નવકાર ॥
+સર્વ સાધુ કો વંદન કર લો, રત્નત્રય આરાધન કર લો,
+જન્મ મરણ ક્ષયકાર મનુવા, મંત્ર જપો નવકાર ॥`,
+      hi: `मंत्र जपो नवकार मनुवा, मंत्र जपो नवकार,
+पंचप्रभु को वंदन कर लो, परमेष्ठी सुखकार ॥
+अरहंतों का दर्शन करलो, शुद्धातम का परिचय कर लो,
+शिवसुख साधनहार, मनुवा, मंत्र जपो नवकार ॥
+सब सिद्धों का ध्यान लगालो, सिद्धसमान ही निज को ध्यालो,
+मंगलमय सुखकार मनुवा, मंत्र जपो नवकार ॥
+आचार्यों को शीश नवाओ, निर्ग्रंथों का पथ अपनाओ,
+मुक्ति मार्ग आराध मनुवा, मंत्र जपो नवकार ॥
+उपाध्याय से शिक्षा लेकर, द्वादशांग को शीश नवाकर,
+जिनवाणी उर धार मनुवा, मंत्र जपो नवकार ॥
+सर्व साधु को वंदन कर लो, रत्नत्रय आराधन कर लो,
+जन्म मरण क्षयकार मनुवा, मंत्र जपो नवकार ॥`,
+      sa: "",
+      en: `Mantra japo navakaara manuvaa, mantra japo navakaara,
+Panchaprabhu ko vandana kara lo, parameshthee sukhakaara | |
+Arahanton kaa darshana karalo, shuddhaatama kaa parichaya kara lo,
+Shivasukha saadhanahaara, manuvaa, mantra japo navakaara | |
+Saba siddhon kaa dhyaana lagaalo, siddhasamaana hee nija ko dhyaalo,
+Mangalamaya sukhakaara manuvaa, mantra japo navakaara | |
+Aachaaryon ko sheesha navaao, nirgranthon kaa patha apanaao,
+Mukti maarga aaraadha manuvaa, mantra japo navakaara | |
+Upaadhyaaya se shikshaa lekara, dvaadashaanga ko sheesha navaakara,
+Jinavaanee ura dhaara manuvaa, mantra japo navakaara | |
+Sarva saadhu ko vandana kara lo, ratnatraya aaraadhana kara lo,
+Janma marana kshayakaara manuvaa, mantra japo navakaara | |`,
+    },
+  },
+  {
+    id: "nit-utt-dhyaoon",
+    type: "bhajan",
+    title: {
+      gu: "નિત ઉઠ ધ્યાઊઁ",
+      hi: "नित उठ ध्याऊँ",
+      sa: "",
+      en: "Nita Utha Dhyaaoon",
+    },
+    text: {
+      gu: `નિત ઉઠ ધ્યાઊઁ, ગુણ ગાઊઁ, પરમ દિગમ્બર સાધુ
+મહાવ્રતધારી ધારી...ધારી મહાવ્રત ધારી ॥ટેક॥
+રાગ-દ્વેષ નહિં લેશ જિન્હોં કે મન મેં હૈ..તન મેં હૈ
+કનક-કામિની મોહ-કામ નહિં તન મેં હૈ...મન મેં હૈ
+પરિગ્રહ રહિત નિરારમ્ભી, જ્ઞાની વા ધ્યાની તપસી
+નમો હિતકારી...કારી, નમો હિતકારી ।૧।
+શીતકાલ સરિતા કે તટ પર, જો રહતે..જો રહતે
+ગ્રીષ્મ ઋતુ ગિરિરાજ શિખર ચઢ, અઘ દહતે..અઘ દહતે
+તરુ-તલ રહકર વર્ષા મેં, વિચલિત ન હોતે લખ ભય
+વન અઁધિયારી...ભારી, વન અઁધિયારી ।૨।
+કંચન-કાઁચ મસાન-મહલ-સમ, જિનકે હૈં...જિનકે હૈં
+અરિ અપમાન માન મિત્ર-સમ, જિનકે હૈં..જિનકે હૈં
+સમદર્શી સમતા ધારી, નગ્ન દિગમ્બર મુનિવર
+ભવ જલ તારી...તારી, ભવ જલ તારી ।૩।
+ઐસે પરમ તપોનિધિ જહાઁ-જહાઁ, જાતે હૈં...જાતે હૈં
+પરમ શાંતિ સુખ લાભ જીવ સબ, પાતે હૈં...પાતે હૈં
+ભવ-ભવ મેં સૌભાગ્ય મિલે, ગુરુપદ પૂજૂઁ ધ્યાઊઁ
+વરૂઁ શિવનારી... નારી, વરૂઁ શિવનારી ।૪।`,
+      hi: `नित उठ ध्याऊँ, गुण गाऊँ, परम दिगम्बर साधु
+महाव्रतधारी धारी...धारी महाव्रत धारी ॥टेक॥
+राग-द्वेष नहिं लेश जिन्हों के मन में है..तन में है
+कनक-कामिनी मोह-काम नहिं तन में है...मन में है
+परिग्रह रहित निरारम्भी, ज्ञानी वा ध्यानी तपसी
+नमो हितकारी...कारी, नमो हितकारी ।१।
+शीतकाल सरिता के तट पर, जो रहते..जो रहते
+ग्रीष्म ऋतु गिरिराज शिखर चढ़, अघ दहते..अघ दहते
+तरु-तल रहकर वर्षा में, विचलित न होते लख भय
+वन अँधियारी...भारी, वन अँधियारी ।२।
+कंचन-काँच मसान-महल-सम, जिनके हैं...जिनके हैं
+अरि अपमान मान मित्र-सम, जिनके हैं..जिनके हैं
+समदर्शी समता धारी, नग्न दिगम्बर मुनिवर
+भव जल तारी...तारी, भव जल तारी ।३।
+ऐसे परम तपोनिधि जहाँ-जहाँ, जाते हैं...जाते हैं
+परम शांति सुख लाभ जीव सब, पाते हैं...पाते हैं
+भव-भव में सौभाग्य मिले, गुरुपद पूजूँ ध्याऊँ
+वरूँ शिवनारी... नारी, वरूँ शिवनारी ।४।`,
+      sa: "",
+      en: `Nita utha dhyaaoon, guna gaaoon, parama digambara saadhu
+Mahaavratadhaaree dhaaree...dhaaree mahaavrata dhaaree | | teka | |
+Raaga-dvesha nahin lesha jinhon ke mana men hai..tana men hai
+Kanaka-kaaminee moha-kaama nahin tana men hai...mana men hai
+Parigraha rahita niraarambhee, gyaanee vaa dhyaanee tapasee
+Namo hitakaaree...kaaree, namo hitakaaree | 1 |
+Sheetakaala saritaa ke tata para, jo rahate..jo rahate
+Greeshma ritu giriraaja shikhara chadha, agha dahate..agha dahate
+Taru-tala rahakara varshaa men, vichalita na hote lakha bhaya
+Vana andhiyaaree...bhaaree, vana andhiyaaree | 2 |
+Kanchana-kaancha masaana-mahala-sama, jinake hain...jinake hain
+Ari apamaana maana mitra-sama, jinake hain..jinake hain
+Samadarshee samataa dhaaree, nagna digambara munivara
+Bhava jala taaree...taaree, bhava jala taaree | 3 |
+Aise parama taponidhi jahaan-jahaan, jaate hain...jaate hain
+Parama shaanti sukha laabha jeeva saba, paate hain...paate hain
+Bhava-bhava men saubhaagya mile, gurupada poojoon dhyaaoon
+Varoon shivanaaree... naaree, varoon shivanaaree | 4 |`,
+    },
+  },
+  {
+    id: "hum-saadar-sheesh-jhukate-hai",
+    type: "bhajan",
+    title: {
+      gu: "હમ સાદર શીશ ઝુકાતે હૈં",
+      hi: "हम सादर शीश झुकाते हैं",
+      sa: "",
+      en: "Hama Saadara Sheesha Jhukaate Hain",
+    },
+    text: {
+      gu: `જો મંગલ ચાર જગત મેં હૈં, હમ ગીત ઉન્હીં કે ગાતે હૈં,
+મંગલમય શ્રી જિન ચરણોં મેં, હમ સાદર શીશ ઝુકાતે હૈં ॥
+જહાં રાગ દ્વેષ કી ગંધ નહીં, બસ અપને સે હી નાતા હૈ,
+જહાં દર્શન જ્ઞાન અનંતવીર્ય-સુખ કા સાગર લહરાતા હૈ,
+જો દોષ અઠારહ રહિત હુઐ, હમ મસ્તક ઉન્હેં નવાતે હૈં,
+મંગલમય શ્રી જિન ચરણોં મેં, હમ સાદર શીશ ઝુકાતે હૈં ॥
+જો દ્રવ્ય-ભાવ-નોકર્મ રહિત, નિત સિદ્ધાલય કે વાસી હૈં,
+આતમ કો પ્રતિબિમ્બિત કરતે,જો અજર અમર અવિનાશી હૈં,
+જો હમ સબકે આદર્શ સદા, હમ ઉનકો હી નિત ધ્યાતે હૈં,
+મંગલમય શ્રી જિન ચરણોં મેં, હમ સાદર શીશ ઝુકાતે હૈં ॥
+જો પરમ દિગંબર વન વાસી ગુરુ રત્નત્રય કે ધારી હૈં,
+આરંભ પરિગ્રહ કે ત્યાગી, જો નિજ ચૈતન્ય વિહારી હૈં,
+ચલતે-ફિરતે સિદ્ધોં સે ગુરુ-ચરણોં મેં શીશ ઝુકાતે હૈં,
+મંગલમય શ્રી જિન ચરણોં મેં, હમ સાદર શીશ ઝુકાતે હૈં ॥
+પ્રાણોં સે પ્યારા ધર્મ હમેં, કેવલી ભગવાન કા કહા હુઆ,
+ચૈતન્યરાજ કી મહિમામય, યહ વીતરાગ રસ ભરા હુઆ,
+ઇસકો ધારણ કરને વાલે ભવ-સાગર સે તિર જાતે હૈં,
+મંગલમય શ્રી જિન ચરણોં મેં, હમ સાદર શીશ ઝુકાતે હૈં ॥`,
+      hi: `जो मंगल चार जगत में हैं, हम गीत उन्हीं के गाते हैं,
+मंगलमय श्री जिन चरणों में, हम सादर शीश झुकाते हैं ॥
+जहां राग द्वेष की गंध नहीं, बस अपने से ही नाता है,
+जहां दर्शन ज्ञान अनंतवीर्य-सुख का सागर लहराता है,
+जो दोष अठारह रहित हुऐ, हम मस्तक उन्हें नवाते हैं,
+मंगलमय श्री जिन चरणों में, हम सादर शीश झुकाते हैं ॥
+जो द्रव्य-भाव-नोकर्म रहित, नित सिद्धालय के वासी हैं,
+आतम को प्रतिबिम्बित करते,जो अजर अमर अविनाशी हैं,
+जो हम सबके आदर्श सदा, हम उनको ही नित ध्याते हैं,
+मंगलमय श्री जिन चरणों में, हम सादर शीश झुकाते हैं ॥
+जो परम दिगंबर वन वासी गुरु रत्नत्रय के धारी हैं,
+आरंभ परिग्रह के त्यागी, जो निज चैतन्य विहारी हैं,
+चलते-फ़िरते सिद्धों से गुरु-चरणों में शीश झुकाते हैं,
+मंगलमय श्री जिन चरणों में, हम सादर शीश झुकाते हैं ॥
+प्राणों से प्यारा धर्म हमें, केवली भगवान का कहा हुआ,
+चैतन्यराज की महिमामय, यह वीतराग रस भरा हुआ,
+इसको धारण करने वाले भव-सागर से तिर जाते हैं,
+मंगलमय श्री जिन चरणों में, हम सादर शीश झुकाते हैं ॥`,
+      sa: "",
+      en: `Jo mangala chaara jagata men hain, hama geeta unheen ke gaate hain,
+Mangalamaya shree jina charanon men, hama saadara sheesha jhukaate hain | |
+Jahaan raaga dvesha kee gandha naheen, basa apane se hee naataa hai,
+Jahaan darshana gyaana anantaveerya-sukha kaa saagara laharaataa hai,
+Jo dosha athaaraha rahita huai, hama mastaka unhen navaate hain,
+Mangalamaya shree jina charanon men, hama saadara sheesha jhukaate hain | |
+Jo dravya-bhaava-nokarma rahita, nita siddhaalaya ke vaasee hain,
+Aatama ko pratibimbita karate,jo ajara amara avinaashee hain,
+Jo hama sabake aadarsha sadaa, hama unako hee nita dhyaate hain,
+Mangalamaya shree jina charanon men, hama saadara sheesha jhukaate hain | |
+Jo parama diganbara vana vaasee guru ratnatraya ke dhaaree hain,
+Aaranbha parigraha ke tyaagee, jo nija chaitanya vihaaree hain,
+Chalate-phirate siddhon se guru-charanon men sheesha jhukaate hain,
+Mangalamaya shree jina charanon men, hama saadara sheesha jhukaate hain | |
+Praanon se pyaaraa dharma hamen, kevalee bhagavaana kaa kahaa huaa,
+Chaitanyaraaja kee mahimaamaya, yaha veetaraaga rasa bharaa huaa,
+Isako dhaarana karane vaale bhava-saagara se tira jaate hain,
+Mangalamaya shree jina charanon men, hama saadara sheesha jhukaate hain | |`,
+    },
+  },
+  {
+    id: "ho-vandan-unko-mera",
+    type: "bhajan",
+    title: {
+      gu: "હો વન્દન ઉનકો મેરા",
+      hi: "हो वन्दन उनको मेरा",
+      sa: "",
+      en: "Ho Vandana Unako Meraa",
+    },
+    text: {
+      gu: `હૈ પરમ-દિગમ્બર મુદ્રા જિનકી, વન-વન કરેં બસેરા
+મૈં ઉન ચરણોં કા ચેરા, હો વન્દન ઉનકો મેરા
+શાશ્વત સુખમય ચૈતન્ય-સદન મેં, રહતા જિનકા ડેરા
+મૈં ઉન ચરણોં કા ચેરા, હો વન્દન ઉનકો મેરા ॥ટેક
+જહઁ ક્ષમા માર્દવ આર્જવ સત્, શુચિતા કી સૌરભ મહકે
+સંયમ,તપ, ત્યાગ,અકિંચન સ્વર, પરિણતિ મેં પ્રતિપલ ચહકે
+હૈ બ્રહ્મચર્ય કી ગરિમા સે, આરાધ્ય બને જો મેરા ।૧।
+અન્તર-બાહર દ્વાદશ તપ સે, જો કર્મ-કાલિમા દહતે
+ઉપસર્ગ પરીષહ-કૃત બાધા, જો સામ્ય-ભાવ સે સહતે
+જો શુદ્ધ-અતીન્દ્રિય આનન્દ-રસ કા, લેતે સ્વાદ ઘનેરા ।૨।
+જો દર્શન જ્ઞાન ચરિત્ર વીર્ય તપ, આચારોં કે ધારી
+જો મન-વચ-તનકા આલમ્બન તજ, નિજ ચૈતન્ય વિહારી
+શાશ્વત સુખદર્શન-જ્ઞાન-ચરિત મેં, કરતે સદા બસેરા ।૩।
+નિત સમતા સ્તુતિ વન્દન અરુ, સ્વાધ્યાય સદા જો કરતે
+પ્રતિક્રમણ ઔર પ્રતિ-આખ્યાન કર, સબ પાપોં કો હરતે
+ચૈતન્યરાજ કી અનુપમ નિધિયાઁ, જિસમેં કરેં બસેરા ।૪।`,
+      hi: `है परम-दिगम्बर मुद्रा जिनकी, वन-वन करें बसेरा
+मैं उन चरणों का चेरा, हो वन्दन उनको मेरा
+शाश्वत सुखमय चैतन्य-सदन में, रहता जिनका डेरा
+मैं उन चरणों का चेरा, हो वन्दन उनको मेरा ॥टेक
+जहँ क्षमा मार्दव आर्जव सत्, शुचिता की सौरभ महके
+संयम,तप, त्याग,अकिंचन स्वर, परिणति में प्रतिपल चहके
+है ब्रह्मचर्य की गरिमा से, आराध्य बने जो मेरा ।१।
+अन्तर-बाहर द्वादश तप से, जो कर्म-कालिमा दहते
+उपसर्ग परीषह-कृत बाधा, जो साम्य-भाव से सहते
+जो शुद्ध-अतीन्द्रिय आनन्द-रस का, लेते स्वाद घनेरा ।२।
+जो दर्शन ज्ञान चरित्र वीर्य तप, आचारों के धारी
+जो मन-वच-तनका आलम्बन तज, निज चैतन्य विहारी
+शाश्वत सुखदर्शन-ज्ञान-चरित में, करते सदा बसेरा ।३।
+नित समता स्तुति वन्दन अरु, स्वाध्याय सदा जो करते
+प्रतिक्रमण और प्रति-आख्यान कर, सब पापों को हरते
+चैतन्यराज की अनुपम निधियाँ, जिसमें करें बसेरा ।४।`,
+      sa: "",
+      en: `Hai parama-digambara mudraa jinakee, vana-vana karen baseraa
+Main una charanon kaa cheraa, ho vandana unako meraa
+Shaashvata sukhamaya chaitanya-sadana men, rahataa jinakaa deraa
+Main una charanon kaa cheraa, ho vandana unako meraa | | teka
+Jahan kshamaa maardava aarjava sat, shuchitaa kee saurabha mahake
+Sanyama,tapa, tyaaga,akinchana svara, parinati men pratipala chahake
+Hai brahmacharya kee garimaa se, aaraadhya bane jo meraa | 1 |
+Antara-baahara dvaadasha tapa se, jo karma-kaalimaa dahate
+Upasarga pareeshaha-krita baadhaa, jo saamya-bhaava se sahate
+Jo shuddha-ateendriya aananda-rasa kaa, lete svaada ghaneraa | 2 |
+Jo darshana gyaana charitra veerya tapa, aachaaron ke dhaaree
+Jo mana-vacha-tanakaa aalambana taja, nija chaitanya vihaaree
+Shaashvata sukhadarshana-gyaana-charita men, karate sadaa baseraa | 3 |
+Nita samataa stuti vandana aru, svaadhyaaya sadaa jo karate
+Pratikramana aura prati-aakhyaana kara, saba paapon ko harate
+Chaitanyaraaja kee anupama nidhiyaan, jisamen karen baseraa | 4 |`,
+    },
+  },
+  {
+    id: "holi-khele-muniraj-shikhar-van-main",
+    type: "bhajan",
+    title: {
+      gu: "હોલી ખેલેં મુનિરાજ શિખર વન મેં",
+      hi: "होली खेलें मुनिराज शिखर वन में",
+      sa: "",
+      en: "Holee Khelen Muniraaja Shikhara Vana Men",
+    },
+    text: {
+      gu: `હોલી ખેલેં મુનિરાજ શિખર વન મેં,રે અકેલે વન મેં,મધુવન મેં
+મધુવન મેં આજ મચી રે હોલી, મધુવન મેં ॥ટેક॥
+ચૈતન્ય-ગુફા મેં મુનિવર બસતે, અનન્ત ગુણોં મેં કેલી કરતે
+એક હી ધ્યાન રમાયો વન મેં, મધુવન મેં ॥ હોલી. ।૧।
+ધ્રુવધામ ધ્યેય કી ધૂની લગાઈ,ધ્યાનકી ધધકતી અગ્નિજલાઈ
+વિભાવ કા ઈંધન જલાયેં વન મેં, મધુવન મેં ॥ હોલી.।૨।
+અક્ષય ઘટ ભરપૂર હમારા, અન્દર બહતી અમૃત ધારા
+પતલી ધાર ન ભાઈ મન મેં, મધુવન મેં ॥ હોલી. ।૩।
+હમેં તો પૂર્ણ દશા હી ચહિયે, સાદિ-અનંત કા આનંદ લહિયે
+નિર્મલ ભાવના ભાઈ વન મેં, મધુવન મેં ॥ હોલી. ।૪।
+પિતા ઝલક જ્યોં પુત્ર મેં દિખતી,
+જિનેન્દ્ર ઝલક મુનિરાજ ચમકતી
+શ્રેણી માઁડી પલક છિન મેં, મધુવન મેં ॥ હોલી. ।૫।
+નેમિનાથ ગિરનાર પે દેખો, શત્રુંજય પર પાણ્ડવ દેખો
+કેવલજ્ઞાન લિયો હૈ છિન મેં, મધુવન મેં ॥ હોલી. ।૬।
+બાર-બાર વન્દન હમ કરતે, શીશ ચરણ મેં ઉનકે ધરતે
+ભવ સે પાર લગાયે વન મેં, મધુવન મેં ॥ હોલી. ।૭।`,
+      hi: `होली खेलें मुनिराज शिखर वन में,रे अकेले वन में,मधुवन में
+मधुवन में आज मची रे होली, मधुवन में ॥टेक॥
+चैतन्य-गुफा में मुनिवर बसते, अनन्त गुणों में केली करते
+एक ही ध्यान रमायो वन में, मधुवन में ॥ होली. ।१।
+ध्रुवधाम ध्येय की धूनी लगाई,ध्यानकी धधकती अग्निजलाई
+विभाव का ईंधन जलायें वन में, मधुवन में ॥ होली.।२।
+अक्षय घट भरपूर हमारा, अन्दर बहती अमृत धारा
+पतली धार न भाई मन में, मधुवन में ॥ होली. ।३।
+हमें तो पूर्ण दशा ही चहिये, सादि-अनंत का आनंद लहिये
+निर्मल भावना भाई वन में, मधुवन में ॥ होली. ।४।
+पिता झलक ज्यों पुत्र में दिखती,
+जिनेन्द्र झलक मुनिराज चमकती
+श्रेणी माँडी पलक छिन में, मधुवन में ॥ होली. ।५।
+नेमिनाथ गिरनार पे देखो, शत्रुंजय पर पाण्डव देखो
+केवलज्ञान लियो है छिन में, मधुवन में ॥ होली. ।६।
+बार-बार वन्दन हम करते, शीश चरण में उनके धरते
+भव से पार लगाये वन में, मधुवन में ॥ होली. ।७।`,
+      sa: "",
+      en: `Holee khelen muniraaja shikhara vana men,re akele vana men,madhuvana men
+Madhuvana men aaja machee re holee, madhuvana men | | teka | |
+Chaitanya-guphaa men munivara basate, ananta gunon men kelee karate
+Eka hee dhyaana ramaayo vana men, madhuvana men | | holee. | 1 |
+Dhruvadhaama dhyeya kee dhoonee lagaaee,dhyaanakee dhadhakatee agnijalaaee
+Vibhaava kaa eendhana jalaayen vana men, madhuvana men | | holee. | 2 |
+Akshaya ghata bharapoora hamaaraa, andara bahatee amrita dhaaraa
+Patalee dhaara na bhaaee mana men, madhuvana men | | holee. | 3 |
+Hamen to poorna dashaa hee chahiye, saadi-ananta kaa aananda lahiye
+Nirmala bhaavanaa bhaaee vana men, madhuvana men | | holee. | 4 |
+Pitaa jhalaka jyon putra men dikhatee,
+Jinendra jhalaka muniraaja chamakatee
+Shrenee maandee palaka chhina men, madhuvana men | | holee. | 5 |
+Neminaatha giranaara pe dekho, shatrunjaya para paandava dekho
+Kevalagyaana liyo hai chhina men, madhuvana men | | holee. | 6 |
+Baara-baara vandana hama karate, sheesha charana men unake dharate
+Bhava se paara lagaaye vana men, madhuvana men | | holee. | 7 |`,
+    },
+  },
+  {
+    id: "aisa-yogi-kyon-n-abhaypad-pave",
+    type: "bhajan",
+    title: {
+      gu: "ઐસા યોગી ક્યોં ન અભયપદ પાવૈ",
+      hi: "ऐसा योगी क्यों न अभयपद पावै",
+      sa: "",
+      en: "Aisaa Yogee Kyon na Abhayapada Paavai",
+    },
+    text: {
+      gu: `ઐસા યોગી ક્યોં ન અભયપદ પાવૈ, સો ફેર ન ભવમેં આવૈ ॥
+સંશય વિભ્રમ મોહ-વિવર્જિત, સ્વપર સ્વરૂપ લખાવૈ
+લખ પરમાતમ ચેતનકો પુનિ, કર્મકલંક મિટાવૈ ।૧।
+ભવતનભોગવિરક્ત હોય તન, નગ્ન સુભેષ બનાવૈ
+મોહવિકાર નિવાર નિજાતમ-અનુભવ મેં ચિત લાવૈ ।૨।
+ત્રસ-થાવર-વધ ત્યાગ સદા, પરમાદ દશા છિટકાવૈ
+રાગાદિકવશ ઝૂઠ ન ભાખૈ, તૃણહુ ન અદત ગહાવૈ ।૩।
+બાહિર નારિ ત્યાગિ અંતર, ચિદ્બ્રહ્મ સુલીન રહાવૈ
+પરમાકિંચન ધર્મસાર સો, દ્વિવિધ પ્રસંગ બહાવૈ ।૪।
+પંચ સમિતિ ત્રય ગુપ્તિ પાલ, વ્યવહાર-ચરનમગ ધાવૈ
+નિશ્ચય સકલ કષાય રહિત હ્વૈ, શુદ્ધાતમ થિર થાવૈ ।૫।
+કુંકુમ પંક દાસ રિપુ તૃણ મણિ, વ્યાલ માલ સમ ભાવૈ
+આરત રૌદ્ર કુધ્યાન વિડારે, ધર્મશુકલકો ધ્યાવૈ ।૬।
+જાકે સુખસમાજ કી મહિમા, કહત ઇન્દ્ર અકુલાવૈ
+\`દૌલ' તાસપદ હોય દાસ સો, અવિચલઋદ્ધિ લહાવૈ ।૭।`,
+      hi: `ऐसा योगी क्यों न अभयपद पावै, सो फेर न भवमें आवै ॥
+संशय विभ्रम मोह-विवर्जित, स्वपर स्वरूप लखावै
+लख परमातम चेतनको पुनि, कर्मकलंक मिटावै ।१।
+भवतनभोगविरक्त होय तन, नग्न सुभेष बनावै
+मोहविकार निवार निजातम-अनुभव में चित लावै ।२।
+त्रस-थावर-वध त्याग सदा, परमाद दशा छिटकावै
+रागादिकवश झूठ न भाखै, तृणहु न अदत गहावै ।३।
+बाहिर नारि त्यागि अंतर, चिद्ब्रह्म सुलीन रहावै
+परमाकिंचन धर्मसार सो, द्विविध प्रसंग बहावै ।४।
+पंच समिति त्रय गुप्ति पाल, व्यवहार-चरनमग धावै
+निश्चय सकल कषाय रहित ह्वै, शुद्धातम थिर थावै ।५।
+कुंकुम पंक दास रिपु तृण मणि, व्याल माल सम भावै
+आरत रौद्र कुध्यान विडारे, धर्मशुकलको ध्यावै ।६।
+जाके सुखसमाज की महिमा, कहत इन्द्र अकुलावै
+\`दौल' तासपद होय दास सो, अविचलऋद्धि लहावै ।७।`,
+      sa: "",
+      en: `Aisaa yogee kyon na abhayapada paavai, so phera na bhavamen aavai | |
+Sanshaya vibhrama moha-vivarjita, svapara svaroopa lakhaavai
+Lakha paramaatama chetanako puni, karmakalanka mitaavai | 1 |
+Bhavatanabhogavirakta hoya tana, nagna subhesha banaavai
+Mohavikaara nivaara nijaatama-anubhava men chita laavai | 2 |
+Trasa-thaavara-vadha tyaaga sadaa, paramaada dashaa chhitakaavai
+Raagaadikavasha jhootha na bhaakhai, trinahu na adata gahaavai | 3 |
+Baahira naari tyaagi antara, chidbrahma suleena rahaavai
+Paramaakinchana dharmasaara so, dvividha prasanga bahaavai | 4 |
+Pancha samiti traya gupti paala, vyavahaara-charanamaga dhaavai
+Nishchaya sakala kashaaya rahita hvai, shuddhaatama thira thaavai | 5 |
+Kunkuma panka daasa ripu trina mani, vyaala maala sama bhaavai
+Aarata raudra kudhyaana vidaare, dharmashukalako dhyaavai | 6 |
+Jaake sukhasamaaja kee mahimaa, kahata indra akulaavai
+\`daula' taasapada hoya daasa so, avichalariddhi lahaavai | 7 |`,
+    },
+  },
+  {
+    id: "jay-jay-jay-jay-kaar-parmeshthi",
+    type: "bhajan",
+    title: {
+      gu: "જય જય જય જય કાર પરમેષ્ઠી",
+      hi: "जय जय जय जय कार परमेष्ठी",
+      sa: "",
+      en: "Jaya Jaya Jaya Jaya Kaara Parameshthee",
+    },
+    text: {
+      gu: `જય જય જય જય કાર પરમેષ્ઠી, જય જય જય જય કાર
+જય જય ભવિજન બોધ વિધાતા,જય જય આતમ શુદ્ધ વિધાતા
+જય ભવ ભંજન હાર પરમેષ્ઠી...જય જય જય જય કાર
+જય સબ સંકટ ચૂરણ કર્તા, જય સબ આશા પૂરણ કર્તા
+જય જગ મંગલકાર પરમેષ્ઠી...જય જય જય જય કાર
+તેરા જાપ જિન્હોને કીના, પરમાનન્દ ઉન્હોને લીના
+કર ગયે ખેવા પાર પરમેષ્ઠી...જય જય જય જય કાર
+લીના શરણા સેઠ સુદર્શન, સૂલી સે બન ગયા સિંહાસન
+જય જય કરેં નર નાર પરમેષ્ઠી...જય જય જય જય કાર
+દ્રૌપદી ચીર સભા મેં હરણા, તબ તેરા હી લીના શરણા
+બઢ ગયા ચિર અપાર પરમેષ્ઠી...જય જય જય જય કાર
+સોમા ને તુમ સુમરન કીના, સર્પ ફૂલ માલા કર દીના
+વર્તે મંગલાચાર પરમેષ્ઠી...જય જય જય જય કાર
+અમર શરણ મેં સમ્પ્રતિ આયા, કર્મો કે દુખ સે ઘબરાયા
+શીઘ્ર કરો ઉદ્ધાર પરમેષ્ઠી...જય જય જય જય કાર`,
+      hi: `जय जय जय जय कार परमेष्ठी, जय जय जय जय कार
+जय जय भविजन बोध विधाता,जय जय आतम शुद्ध विधाता
+जय भव भंजन हार परमेष्ठी...जय जय जय जय कार
+जय सब संकट चूरण कर्ता, जय सब आशा पूरण कर्ता
+जय जग मंगलकार परमेष्ठी...जय जय जय जय कार
+तेरा जाप जिन्होने कीना, परमानन्द उन्होने लीना
+कर गये खेवा पार परमेष्ठी...जय जय जय जय कार
+लीना शरणा सेठ सुदर्शन, सूली से बन गया सिंहासन
+जय जय करें नर नार परमेष्ठी...जय जय जय जय कार
+द्रौपदी चीर सभा में हरणा, तब तेरा ही लीना शरणा
+बढ गया चिर अपार परमेष्ठी...जय जय जय जय कार
+सोमा ने तुम सुमरन कीना, सर्प फ़ूल माला कर दीना
+वर्ते मंगलाचार परमेष्ठी...जय जय जय जय कार
+अमर शरण में सम्प्रति आया, कर्मो के दुख से घबराया
+शीघ्र करो उद्धार परमेष्ठी...जय जय जय जय कार`,
+      sa: "",
+      en: `Jaya jaya jaya jaya kaara parameshthee, jaya jaya jaya jaya kaara
+Jaya jaya bhavijana bodha vidhaataa,jaya jaya aatama shuddha vidhaataa
+Jaya bhava bhanjana haara parameshthee...jaya jaya jaya jaya kaara
+Jaya saba sankata choorana kartaa, jaya saba aashaa poorana kartaa
+Jaya jaga mangalakaara parameshthee...jaya jaya jaya jaya kaara
+Teraa jaapa jinhone keenaa, paramaananda unhone leenaa
+Kara gaye khevaa paara parameshthee...jaya jaya jaya jaya kaara
+Leenaa sharanaa setha sudarshana, soolee se bana gayaa sinhaasana
+Jaya jaya karen nara naara parameshthee...jaya jaya jaya jaya kaara
+Draupadee cheera sabhaa men haranaa, taba teraa hee leenaa sharanaa
+Badha gayaa chira apaara parameshthee...jaya jaya jaya jaya kaara
+Somaa ne tuma sumarana keenaa, sarpa phoola maalaa kara deenaa
+Varte mangalaachaara parameshthee...jaya jaya jaya jaya kaara
+Amara sharana men samprati aayaa, karmo ke dukha se ghabaraayaa
+Sheeghra karo uddhaara parameshthee...jaya jaya jaya jaya kaara`,
+    },
+  },
+  {
+    id: "shri-muni-rajat-samta-sang",
+    type: "bhajan",
+    title: {
+      gu: "શ્રી મુનિ રાજત સમતા સંગ",
+      hi: "श्री मुनि राजत समता संग",
+      sa: "",
+      en: "Shree Muni Raajata Samataa Sanga",
+    },
+    text: {
+      gu: `શ્રી મુનિ રાજત સમતા સંગ, કાયોત્સર્ગ સમાહિત અંગ ॥ટેક॥
+કરતૈં નહિં કછુ કારજ તાતૈં, આલમ્બિત ભુજ કીન અભંગ
+ગમન કાજ કછુહૈ નહિં તાતૈં,ગતિ તજિ છાકે નિજરસરંગ ॥
+લોચન તૈં લખિવો કછુ નાહીં, તાતૈં નાશાદૃગ અચલંગ
+સુનિયે જોગ રહ્યો કછુ નાહીં, તાતૈં પ્રાપ્ત ઇકન્ત-સુચંગ ॥
+તહ મધ્યાહ્ન માહિં નિજ ઊપર, આયો ઉગ્ર પ્રતાપ પતંગ
+કૈધૌં જ્ઞાનપવન બલ પ્રજ્વલિત,ધ્યાનાનલસૌં ઉછલિફુલિંગ ॥
+ચિત્ત નિરાકુલ અતુલ ઉઠત જહઁ, પરમાનન્દ પિયૂષ તરંગ
+\` ભાગચન્દ' ઐસે શ્રી ગુરુ-પદ, વંદત મિલત સ્વપદ ઉત્તંગ ॥`,
+      hi: `श्री मुनि राजत समता संग, कायोत्सर्ग समाहित अंग ॥टेक॥
+करतैं नहिं कछु कारज तातैं, आलम्बित भुज कीन अभंग
+गमन काज कछुहै नहिं तातैं,गति तजि छाके निजरसरंग ॥
+लोचन तैं लखिवो कछु नाहीं, तातैं नाशादृग अचलंग
+सुनिये जोग रह्यो कछु नाहीं, तातैं प्राप्त इकन्त-सुचंग ॥
+तह मध्याह्न माहिं निज ऊपर, आयो उग्र प्रताप पतंग
+कैधौं ज्ञानपवन बल प्रज्वलित,ध्यानानलसौं उछलिफुलिंग ॥
+चित्त निराकुल अतुल उठत जहँ, परमानन्द पियूष तरंग
+\` भागचन्द' ऐसे श्री गुरु-पद, वंदत मिलत स्वपद उत्तंग ॥`,
+      sa: "",
+      en: `Shree muni raajata samataa sanga, kaayotsarga samaahita anga | | teka | |
+Karatain nahin kachhu kaaraja taatain, aalambita bhuja keena abhanga
+Gamana kaaja kachhuhai nahin taatain,gati taji chhaake nijarasaranga | |
+Lochana tain lakhivo kachhu naaheen, taatain naashaadriga achalanga
+Suniye joga rahyo kachhu naaheen, taatain praapta ikanta-suchanga | |
+Taha madhyaahna maahin nija oopara, aayo ugra prataapa patanga
+Kaidhaun gyaanapavana bala prajvalita,dhyaanaanalasaun uchhaliphulinga | |
+Chitta niraakula atula uthata jahan, paramaananda piyoosha taranga
+\` bhaagachanda' aise shree guru-pada, vandata milata svapada uttanga | |`,
+    },
+  },
+  {
+    id: "nigrantho-ka-marg",
+    type: "bhajan",
+    title: {
+      gu: "નિર્ગ્રંથોં કા માર્ગ",
+      hi: "निर्ग्रंथों का मार्ग",
+      sa: "",
+      en: "Nirgranthon Kaa Maarga",
+    },
+    text: {
+      gu: `નિર્ગ્રંથોં કા માર્ગ...
+નિર્ગ્રંથોં કા માર્ગ હમકો પ્રાણોં સે ભી પ્યારા હૈ...
+દિગમ્બર વેશ ન્યારા હૈ... નિર્ગ્રંથોં કા માર્ગ....॥
+શુદ્ધાત્મા મેં હી, જબ લીન હોને કો,કિસી કા મન મચલતા હૈ
+તીન કષાયોં કા,તબ રાગ પરિણતિ સે,સહજ હી ટલતા હૈ
+વસ્ત્ર કા ધાગા
+વસ્ત્ર કા ધાગા નહીં ફિર ઉસને તન પર ધારા હૈ
+દિગમ્બર વેશ ન્યારા હૈ... નિર્ગ્રંથોં કા માર્ગ... ।૧।
+પંચ ઇંદ્રિય કા, નિસ્તાર નહીં જિસમેં, વહ દેહ હી પરિગ્રહ હૈ
+તનમેં નહીં તન્મય,હૈ દૃષ્ટિમેં ચિન્મય, શુદ્ધાત્મા હી ગૃહ હૈ
+પર્યાયોં સે પાર
+પર્યાયોં સે પાર ત્રિકાલી ધ્રુવ કા સદા સહારા હૈ
+દિગમ્બર વેશ ન્યારા હૈ... નિર્ગ્રંથોં કા માર્ગ.... ।૨।
+મૂલગુણ પાલન, જિનકા સહજ જીવન, નિરન્તર સ્વ-સંવેદન
+એક ધ્રુવ સામાન્ય મેં હી સદા રમતે, રત્નત્રય આભૂષણ
+નિર્વિકલ્પ અનુભવ .
+નિર્વિકલ્પ અનુભવ સે હી જિનને નિજ કો શ્રંગારા હૈ
+દિગમ્બર વેશ ન્યારા હૈ... નિર્ગ્રંથોં કા માર્ગ.... ।૩।
+આનંદ કે ઝરને, ઝરતે પ્રદેશોં સે, ધ્યાન જબ ધરતે હૈં,
+મોહ રિપુ ક્ષણ મેં,તબ ભસ્મ હોજાતા, શ્રેણી જબ ચઢતે હૈં,
+અંતર્મુહૂર્ત મે....
+અંતર્મુહૂર્ત મેં હી જિનને અનન્ત ચતુષ્ટય ધારા હૈ,
+દિગમ્બર વેશ ન્યારા હૈ... નિર્ગ્રંથોં કા માર્ગ.... ।૪।`,
+      hi: `निर्ग्रंथों का मार्ग...
+निर्ग्रंथों का मार्ग हमको प्राणों से भी प्यारा है...
+दिगम्बर वेश न्यारा है... निर्ग्रंथों का मार्ग....॥
+शुद्धात्मा में ही, जब लीन होने को,किसी का मन मचलता है
+तीन कषायों का,तब राग परिणति से,सहज ही टलता है
+वस्त्र का धागा
+वस्त्र का धागा नहीं फ़िर उसने तन पर धारा है
+दिगम्बर वेश न्यारा है... निर्ग्रंथों का मार्ग... ।१।
+पंच इंद्रिय का, निस्तार नहीं जिसमें, वह देह ही परिग्रह है
+तनमें नहीं तन्मय,है दृष्टिमें चिन्मय, शुद्धात्मा ही गृह है
+पर्यायों से पार
+पर्यायों से पार त्रिकाली ध्रुव का सदा सहारा है
+दिगम्बर वेश न्यारा है... निर्ग्रंथों का मार्ग.... ।२।
+मूलगुण पालन, जिनका सहज जीवन, निरन्तर स्व-संवेदन
+एक ध्रुव सामान्य में ही सदा रमते, रत्नत्रय आभूषण
+निर्विकल्प अनुभव .
+निर्विकल्प अनुभव से ही जिनने निज को श्रंगारा है
+दिगम्बर वेश न्यारा है... निर्ग्रंथों का मार्ग.... ।३।
+आनंद के झरने, झरते प्रदेशों से, ध्यान जब धरते हैं,
+मोह रिपु क्षण में,तब भस्म होजाता, श्रेणी जब चढते हैं,
+अंतर्मुहूर्त मे....
+अंतर्मुहूर्त में ही जिनने अनन्त चतुष्टय धारा है,
+दिगम्बर वेश न्यारा है... निर्ग्रंथों का मार्ग.... ।४।`,
+      sa: "",
+      en: `Nirgranthon kaa maarga...
+Nirgranthon kaa maarga hamako praanon se bhee pyaaraa hai...
+Digambara vesha nyaaraa hai... nirgranthon kaa maarga.... | |
+Shuddhaatmaa men hee, jaba leena hone ko,kisee kaa mana machalataa hai
+Teena kashaayon kaa,taba raaga parinati se,sahaja hee talataa hai
+Vastra kaa dhaagaa
+Vastra kaa dhaagaa naheen phira usane tana para dhaaraa hai
+Digambara vesha nyaaraa hai... nirgranthon kaa maarga... | 1 |
+Pancha indriya kaa, nistaara naheen jisamen, vaha deha hee parigraha hai
+Tanamen naheen tanmaya,hai drishtimen chinmaya, shuddhaatmaa hee griha hai
+Paryaayon se paara
+Paryaayon se paara trikaalee dhruva kaa sadaa sahaaraa hai
+Digambara vesha nyaaraa hai... nirgranthon kaa maarga.... | 2 |
+Moolaguna paalana, jinakaa sahaja jeevana, nirantara sva-sanvedana
+Eka dhruva saamaanya men hee sadaa ramate, ratnatraya aabhooshana
+Nirvikalpa anubhava .
+Nirvikalpa anubhava se hee jinane nija ko shrangaaraa hai
+Digambara vesha nyaaraa hai... nirgranthon kaa maarga.... | 3 |
+Aananda ke jharane, jharate pradeshon se, dhyaana jaba dharate hain,
+Moha ripu kshana men,taba bhasma hojaataa, shrenee jaba chadhate hain,
+Antarmuhoorta me....
+Antarmuhoorta men hee jinane ananta chatushtaya dhaaraa hai,
+Digambara vesha nyaaraa hai... nirgranthon kaa maarga.... | 4 |`,
+    },
+  },
+  {
+    id: "karna-mann-dhyaan-mahamantra-namokaar",
+    type: "bhajan",
+    title: {
+      gu: "કરના મન ધ્યાન મહામંત્ર ણમોકાર",
+      hi: "करना मन ध्यान महामंत्र णमोकार",
+      sa: "",
+      en: "Karanaa Mana Dhyaana Mahaamantra Namokaara",
+    },
+    text: {
+      gu: `કરના મન ધ્યાન મહામંત્ર ણમોકાર॥
+પહલી બાર બોલે મન ’ણમો અરિહંતાણં‌’
+હોંગે પાપ કે નાશ મહામંત્ર ણમોકાર ॥
+દૂજી બાર બોલે મન ’ણમો સિદ્ધાણં’
+હોગા જ્ઞાન પ્રકાશ મહામંત્ર ણમોકાર ॥
+તીજી બાર બોલે મન ’ણમો આયરિયાણં‌’
+હોવે જ્ઞાન ધ્યાન મહામંત્ર ણમોકાર ॥
+ચૌથી બાર બોલે મન ’ણમો ઉવજ્ઝાયાણં’
+હોવે આતમ જ્ઞાન મહામંત્ર ણમોકાર ॥
+પાંચવી બાર બોલે મન ’ણમો લોએ સવ્વસાહૂણં’
+હોંગે ભવ સે પાર મહામંત્ર ણમોકાર ॥`,
+      hi: `करना मन ध्यान महामंत्र णमोकार॥
+पहली बार बोले मन ’णमो अरिहंताणं‌’
+होंगे पाप के नाश महामंत्र णमोकार ॥
+दूजी बार बोले मन ’णमो सिद्धाणं’
+होगा ज्ञान प्रकाश महामंत्र णमोकार ॥
+तीजी बार बोले मन ’णमो आयरियाणं‌’
+होवे ज्ञान ध्यान महामंत्र णमोकार ॥
+चौथी बार बोले मन ’णमो उवज्झायाणं’
+होवे आतम ज्ञान महामंत्र णमोकार ॥
+पांचवी बार बोले मन ’णमो लोए सव्वसाहूणं’
+होंगे भव से पार महामंत्र णमोकार ॥`,
+      sa: "",
+      en: `Karanaa mana dhyaana mahaamantra namokaara | |
+Pahalee baara bole mana ’namo arihantaanan‌’
+Honge paapa ke naasha mahaamantra namokaara | |
+Doojee baara bole mana ’namo siddhaanan’
+Hogaa gyaana prakaasha mahaamantra namokaara | |
+Teejee baara bole mana ’namo aayariyaanan‌’
+Hove gyaana dhyaana mahaamantra namokaara | |
+Chauthee baara bole mana ’namo uvajjhaayaanan’
+Hove aatama gyaana mahaamantra namokaara | |
+Paanchavee baara bole mana ’namo loe savvasaahoonan’
+Honge bhava se paara mahaamantra namokaara | |`,
+    },
+  },
+  {
+    id: "muni-magan-nagan-vanvasi-re",
+    type: "bhajan",
+    title: {
+      gu: "મુનિ મગન નગન વનવાસી રે",
+      hi: "मुनि मगन नगन वनवासी रे",
+      sa: "",
+      en: "Muni Magana Nagana Vanavaasee re",
+    },
+    text: {
+      gu: `શુદ્ધાતમ તત્વ વિલાસી રે, મુનિ મગન નગન વનવાસી રે,
+ક્ષણ ક્ષણ મેં અંતર્મુખ હોતે,નિત સહજ પ્રત્યાશી રે, મુનિ...॥
+શાંત દિગમ્બર મુદ્રા જિનકી, મંદર અચલ પ્રવાસી રે, મુનિ...॥
+જ્યોં નિઃસંગ વાયુ સમ નિર્મલ, ત્યોં નિર્લેપ અકાસી રે, મુનિ.॥
+વિનય શુભોપયોગ કી પરિણતિ, દત્તા સહજ વિનાશી રે, મુનિ.॥`,
+      hi: `शुद्धातम तत्व विलासी रे, मुनि मगन नगन वनवासी रे,
+क्षण क्षण में अंतर्मुख होते,नित सहज प्रत्याशी रे, मुनि...॥
+शांत दिगम्बर मुद्रा जिनकी, मंदर अचल प्रवासी रे, मुनि...॥
+ज्यों निःसंग वायु सम निर्मल, त्यों निर्लेप अकासी रे, मुनि.॥
+विनय शुभोपयोग की परिणति, दत्ता सहज विनाशी रे, मुनि.॥`,
+      sa: "",
+      en: `Shuddhaatama tatva vilaasee re, muni magana nagana vanavaasee re,
+Kshana kshana men antarmukha hote,nita sahaja pratyaashee re, muni... | |
+Shaanta digambara mudraa jinakee, mandara achala pravaasee re, muni... | |
+Jyon nihsanga vaayu sama nirmala, tyon nirlepa akaasee re, muni. | |
+Vinaya shubhopayoga kee parinati, dattaa sahaja vinaashee re, muni. | |`,
+    },
+  },
+  {
+    id: "jeevraaj-ud-ke-jao-sammedshikhar-me",
+    type: "bhajan",
+    title: {
+      gu: "જીવરાજ ઉડ કે જાઓ સમ્મેદશિખર મેં",
+      hi: "जीवराज उड के जाओ सम्मेदशिखर में",
+      sa: "",
+      en: "Jeevaraaja Uda ke Jaao Sammedashikhara Men",
+    },
+    text: {
+      gu: `જીયરા...જીયરા...જીયરા
+જીવરાજ ઉડ કે જાઓ સમ્મેદશિખર મેં
+ભાવ સહિત વન્દન કરો, પાર્શ્વ ચરણ મેં ॥જીવરાજ...॥
+આજ સિદ્ધોં સે અપની બાત હોકે રહેગી,
+શુદ્ધ આતમ સે મુલાકાત હોકે રહેગી,
+રંગરહિત રાગરહિત ભેદરહિ્ત જો,
+મોહરહિત લોભરહિત શુદ્ધ બુદ્ધ જો ॥જીવરાજ...॥
+ધ્રુવ અનુપમ અચલ ગતિ જિનને પાઈ હૈ,
+સારી ઉપમાયેં જિનસે આજ શરમાઈ હૈ,
+અનંતજ્ઞાન અનંતસુખ અનંતવીર્ય મય,
+અનંતસૂક્ષ્મ નામરહિત અવ્યાબાધી હૈ ॥જીવરાજ...॥
+અહો શાશ્વત યે સિદ્ધધામ તીર્થરાજ હૈ,
+યહાં આકર પ્રસન્ન ચૈતન્યરાજ હૈ,
+શુરુ કરેં આજ યહાં આત્મસાધના,
+ચતુર્ગતિ મેં હો કભી જન્મ મરણ ના ॥જીવરાજ...॥`,
+      hi: `जीयरा...जीयरा...जीयरा
+जीवराज उड के जाओ सम्मेदशिखर में
+भाव सहित वन्दन करो, पार्श्व चरण में ॥जीवराज...॥
+आज सिद्धों से अपनी बात होके रहेगी,
+शुद्ध आतम से मुलाकात होके रहेगी,
+रंगरहित रागरहित भेदरहि्त जो,
+मोहरहित लोभरहित शुद्ध बुद्ध जो ॥जीवराज...॥
+ध्रुव अनुपम अचल गति जिनने पाई है,
+सारी उपमायें जिनसे आज शरमाई है,
+अनंतज्ञान अनंतसुख अनंतवीर्य मय,
+अनंतसूक्ष्म नामरहित अव्याबाधी है ॥जीवराज...॥
+अहो शाश्वत ये सिद्धधाम तीर्थराज है,
+यहां आकर प्रसन्न चैतन्यराज है,
+शुरु करें आज यहां आत्मसाधना,
+चतुर्गति में हो कभी जन्म मरण ना ॥जीवराज...॥`,
+      sa: "",
+      en: `Jeeyaraa...jeeyaraa...jeeyaraa
+Jeevaraaja uda ke jaao sammedashikhara men
+Bhaava sahita vandana karo, paarshva charana men | | jeevaraaja... | |
+Aaja siddhon se apanee baata hoke rahegee,
+Shuddha aatama se mulaakaata hoke rahegee,
+Rangarahita raagarahita bhedarahita jo,
+Moharahita lobharahita shuddha buddha jo | | jeevaraaja... | |
+Dhruva anupama achala gati jinane paaee hai,
+Saaree upamaayen jinase aaja sharamaaee hai,
+Anantagyaana anantasukha anantaveerya maya,
+Anantasookshma naamarahita avyaabaadhee hai | | jeevaraaja... | |
+Aho shaashvata ye siddhadhaama teertharaaja hai,
+Yahaan aakara prasanna chaitanyaraaja hai,
+Shuru karen aaja yahaan aatmasaadhanaa,
+Chaturgati men ho kabhee janma marana naa | | jeevaraaja... | |`,
+    },
+  },
+  {
+    id: "shanti-sudha-barsa-gaye-guru-tohi-biriyan",
+    type: "bhajan",
+    title: {
+      gu: "શાન્તિ સુધા બરસા ગયે ગુરુ તોહિ બિરિયાં.",
+      hi: "शान्ति सुधा बरसा गये गुरु तोहि बिरियां.",
+      sa: "",
+      en: "Shaanti Sudhaa Barasaa Gaye Guru Tohi Biriyaan.",
+    },
+    text: {
+      gu: `શાન્તિ સુધા બરસા ગયે ગુરુ તોહિ બિરિયાં.
+તત્વજ્ઞાન સમઝા રહે ગુરુ તોહિ બિરિયાં,
+અનેકાંત ઔર સ્યાદ્વાદ પથ દરશાયા,
+સુનકર કે સારે જગ કા મન હરષાયા,
+ઇન પે નિછાવર હીરા મોતી ઔર મણિયાં,
+જ્ઞાન સુધા બરસા ગયે ગુરુ તોહિ બિરિયાં,
+તત્વજ્ઞાન સમઝા રહે ગુરુ તોહિ બિરિયાં ।૧।
+નિશ્ચય ઔર વ્યવહાર તુમ્હીં ને સમઝાયા,
+બડે બડે વિદ્વાનોં કે ભી મન ભાયા,
+સ્વાધ્યાય પ્રવચન ચિંતન ગુરુ કી કિરિયા,
+તત્વજ્ઞાન સમઝા રહે ગુરુ તોહિ બિરિયાં,
+શાન્તિ સુધા બરસા ગયે ગુરુ તોહિ બિરિયાં ।૨।
+સમયસાર કે ગણધર બનકર તુમ આયે,
+કર દિયે અંધેરે દૂર હૃદય મેં જો છાયે,
+મૈં પડૂં હજારોં બાર ગુરુ તોરી પૈયા,
+શાન્તિ સુધા બરસા ગયે ગુરુ તોહિ બિરિયાં.
+તત્વજ્ઞાન સમઝા રહે ગુરુ તોહિ બિરિયાં ।૩।`,
+      hi: `शान्ति सुधा बरसा गये गुरु तोहि बिरियां.
+तत्वज्ञान समझा रहे गुरु तोहि बिरियां,
+अनेकांत और स्याद्वाद पथ दरशाया,
+सुनकर के सारे जग का मन हरषाया,
+इन पे निछावर हीरा मोती और मणियां,
+ज्ञान सुधा बरसा गये गुरु तोहि बिरियां,
+तत्वज्ञान समझा रहे गुरु तोहि बिरियां ।१।
+निश्चय और व्यवहार तुम्हीं ने समझाया,
+बडे बडे विद्वानों के भी मन भाया,
+स्वाध्याय प्रवचन चिंतन गुरु की किरिया,
+तत्वज्ञान समझा रहे गुरु तोहि बिरियां,
+शान्ति सुधा बरसा गये गुरु तोहि बिरियां ।२।
+समयसार के गणधर बनकर तुम आये,
+कर दिये अंधेरे दूर हृदय में जो छाये,
+मैं पडूं हजारों बार गुरु तोरी पैया,
+शान्ति सुधा बरसा गये गुरु तोहि बिरियां.
+तत्वज्ञान समझा रहे गुरु तोहि बिरियां ।३।`,
+      sa: "",
+      en: `Shaanti sudhaa barasaa gaye guru tohi biriyaan.
+Tatvagyaana samajhaa rahe guru tohi biriyaan,
+Anekaanta aura syaadvaada patha darashaayaa,
+Sunakara ke saare jaga kaa mana harashaayaa,
+Ina pe nichhaavara heeraa motee aura maniyaan,
+Gyaana sudhaa barasaa gaye guru tohi biriyaan,
+Tatvagyaana samajhaa rahe guru tohi biriyaan | 1 |
+Nishchaya aura vyavahaara tumheen ne samajhaayaa,
+Bade bade vidvaanon ke bhee mana bhaayaa,
+Svaadhyaaya pravachana chintana guru kee kiriyaa,
+Tatvagyaana samajhaa rahe guru tohi biriyaan,
+Shaanti sudhaa barasaa gaye guru tohi biriyaan | 2 |
+Samayasaara ke ganadhara banakara tuma aaye,
+Kara diye andhere doora hridaya men jo chhaaye,
+Main padoon hajaaron baara guru toree paiyaa,
+Shaanti sudhaa barasaa gaye guru tohi biriyaan.
+Tatvagyaana samajhaa rahe guru tohi biriyaan | 3 |`,
+    },
+  },
+  {
+    id: "is-teerath-ki-mahima-mahaan-hai",
+    type: "bhajan",
+    title: {
+      gu: "ઇસ તીર્થ કી મહિમા મહાન હૈં",
+      hi: "इस तीर्थ की महिमा महान हैं",
+      sa: "",
+      en: "Isa Teertha Kee Mahimaa Mahaana Hain",
+    },
+    text: {
+      gu: `ચલો સબ મિલ સિધગિરી ચલિએ,જહાઁ આદિનાથ ભગવાન હૈં ।
+તિર જાયેગી વહાઁ તેરી આત્મા,
+ઇસ તીર્થ કી મહિમા મહાન હૈં ॥
+લાખોં નર નારી યહાઁ પર દર્શન કરને આતે હૈં,
+શુધ મન સે દર્શન જો કરતે,પાપ કર્મ કટ જાતે હૈં,
+કરતા પ્રાણી ક્યોં અભિમાન હૈં,
+દો દિન કા યહાઁ તૂ મેહમાન હૈ.. તિર ...
+ઇસ ગિરી પર ધ્યાન લગાકર સાધૂ અનંતા સિધ ગએ,
+નંદન દશરથ શ્રી રામ ઔર પાંડવ પાઁચોં મોક્ષ ગએ,
+ચાહતા જીવન કા અગર કલ્યાણ હૈ,
+વીતરાગ પ્રભુ કા કર ધ્યાન રે.. તિર ....
+ધર્મ કિએ બિન મોક્ષ જો ચાહો ઐસા કભી નહીં હો સકતા,
+વ્રત તપ સંયમ પ્રભુ ભજન સે,ભવ સાગર સે તિર સકતા,
+કહતા સુભાગ રસ્તા આસાન હૈ,
+વિષયન મેં ફંસા ક્યોં નાદાન હૈ.. તિર....`,
+      hi: `चलो सब मिल सिधगिरी चलिए,जहाँ आदिनाथ भगवान हैं ।
+तिर जायेगी वहाँ तेरी आत्मा,
+इस तीर्थ की महिमा महान हैं ॥
+लाखों नर नारी यहाँ पर दर्शन करने आते हैं,
+शुध मन से दर्शन जो करते,पाप कर्म कट जाते हैं,
+करता प्राणी क्यों अभिमान हैं,
+दो दिन का यहाँ तू मेहमान है.. तिर ...
+इस गिरी पर ध्यान लगाकर साधू अनंता सिध गए,
+नंदन दशरथ श्री राम और पांडव पाँचों मोक्ष गए,
+चाहता जीवन का अगर कल्याण है,
+वीतराग प्रभु का कर ध्यान रे.. तिर ....
+धर्म किए बिन मोक्ष जो चाहो ऐसा कभी नहीं हो सकता,
+व्रत तप संयम प्रभु भजन से,भव सागर से तिर सकता,
+कहता सुभाग रस्ता आसान है,
+विषयन में फंसा क्यों नादान है.. तिर....`,
+      sa: "",
+      en: `Chalo saba mila sidhagiree chalie,jahaan aadinaatha bhagavaana hain |
+Tira jaayegee vahaan teree aatmaa,
+Isa teertha kee mahimaa mahaana hain | |
+Laakhon nara naaree yahaan para darshana karane aate hain,
+Shudha mana se darshana jo karate,paapa karma kata jaate hain,
+Karataa praanee kyon abhimaana hain,
+Do dina kaa yahaan too mehamaana hai.. tira ...
+Isa giree para dhyaana lagaakara saadhoo anantaa sidha gae,
+Nandana dasharatha shree raama aura paandava paanchon moksha gae,
+Chaahataa jeevana kaa agara kalyaana hai,
+Veetaraaga prabhu kaa kara dhyaana re.. tira ....
+Dharma kie bina moksha jo chaaho aisaa kabhee naheen ho sakataa,
+Vrata tapa sanyama prabhu bhajana se,bhava saagara se tira sakataa,
+Kahataa subhaaga rastaa aasaana hai,
+Vishayana men phansaa kyon naadaana hai.. tira....`,
+    },
+  },
+  {
+    id: "munivar-aaj-meri-kutiya-main-aaye-hai",
+    type: "bhajan",
+    title: {
+      gu: "મુનિવર આજ મેરી કુટિયા મેં આયે હૈં",
+      hi: "मुनिवर आज मेरी कुटिया में आये हैं",
+      sa: "",
+      en: "Munivara Aaja Meree Kutiyaa Men Aaye Hain",
+    },
+    text: {
+      gu: `મુનિવર આજ મેરી કુટિયા મેં આયે હૈં,
+ચલતે ફિરતે.... ચલતે ફિરતે સિદ્ધ પ્રભુ આયે હૈં॥
+હાથ કમંડલ બગલમેં પીછી હૈ,મુનિવર પે સારી દુનિયા રીઝી હૈ,
+નગન દિગમ્બર... નગન દિગમ્બર મુનિવર આયે હૈં ।૧।
+અત્ર અત્ર તિષ્ઠો હે મુનિવર ! ભૂમિ શુદ્ધિ હમને કરાઈ હૈ,
+આહાર કરાકે... આહાર કરાકે નર નારી હર્ષાયે હૈં ।૨।
+પ્રાસુક જલ સે ચરણ પખારે હૈં, ગંધોદક પા ભાગ્ય સંવારે હૈં,
+શુદ્ધ ભોજન કે... શુદ્ધ ભોજન કે ગ્રાસ બનાયે હૈં ।૩।
+નગન દિગમ્બર મુદ્રા ધારી હૈં, વીતરાગી મુદ્રા અતિ પ્યારી હૈ,
+ધન્ય હુએ યે... ધન્ય હુએ યે નયન હમારે હૈં ।૪।
+નગન દિગમ્બર સાધુ બડે પ્યારે હૈં,જૈન ધરમ કે યે હી સહારેહૈં,
+જ્ઞાન કે સાગર... જ્ઞાન કે સાગર જ્ઞાન બરસાયે હૈં ।૫।`,
+      hi: `मुनिवर आज मेरी कुटिया में आये हैं,
+चलते फ़िरते.... चलते फ़िरते सिद्ध प्रभु आये हैं॥
+हाथ कमंडल बगलमें पीछी है,मुनिवर पे सारी दुनिया रीझी है,
+नगन दिगम्बर... नगन दिगम्बर मुनिवर आये हैं ।१।
+अत्र अत्र तिष्ठो हे मुनिवर ! भूमि शुद्धि हमने कराई है,
+आहार कराके... आहार कराके नर नारी हर्षाये हैं ।२।
+प्रासुक जल से चरण पखारे हैं, गंधोदक पा भाग्य संवारे हैं,
+शुद्ध भोजन के... शुद्ध भोजन के ग्रास बनाये हैं ।३।
+नगन दिगम्बर मुद्रा धारी हैं, वीतरागी मुद्रा अति प्यारी है,
+धन्य हुए ये... धन्य हुए ये नयन हमारे हैं ।४।
+नगन दिगम्बर साधु बडे प्यारे हैं,जैन धरम के ये ही सहारेहैं,
+ज्ञान के सागर... ज्ञान के सागर ज्ञान बरसाये हैं ।५।`,
+      sa: "",
+      en: `Munivara aaja meree kutiyaa men aaye hain,
+Chalate phirate.... chalate phirate siddha prabhu aaye hain | |
+Haatha kamandala bagalamen peechhee hai,munivara pe saaree duniyaa reejhee hai,
+Nagana digambara... nagana digambara munivara aaye hain | 1 |
+Atra atra tishtho he munivara ! bhoomi shuddhi hamane karaaee hai,
+Aahaara karaake... aahaara karaake nara naaree harshaaye hain | 2 |
+Praasuka jala se charana pakhaare hain, gandhodaka paa bhaagya sanvaare hain,
+Shuddha bhojana ke... shuddha bhojana ke graasa banaaye hain | 3 |
+Nagana digambara mudraa dhaaree hain, veetaraagee mudraa ati pyaaree hai,
+Dhanya hue ye... dhanya hue ye nayana hamaare hain | 4 |
+Nagana digambara saadhu bade pyaare hain,jaina dharama ke ye hee sahaarehain,
+Gyaana ke saagara... gyaana ke saagara gyaana barasaaye hain | 5 |`,
+    },
+  },
+  {
+    id: "doli-rakhdo-kahaaron",
+    type: "bhajan",
+    title: {
+      gu: "ડોલી રખદો કહારોં",
+      hi: "डोली रखदो कहारों",
+      sa: "",
+      en: "Dolee Rakhado Kahaaron",
+    },
+    text: {
+      gu: `સમ્મેદ શિખર પર મૈં જાઊંગા ડોલી રખદો કહારોં ।
+મૈં ટોંકોં કી વંદન કો જાઊંગા ડોલી રખદો કહારોં ॥
+પરસ પ્રભુ કા જો દર્શન પાઊઁ,
+મૈં ભી તો પત્થર સે સોના હો જાઊં,
+અપને પારસ કો મૈં રિઝાઊંગા, ડોલી....
+ચૌબીસ જિનરાજ બૈઠે જહાઁ પે,
+ઐસા સુહાના હૈં મન્દિર વહાઁ પે,
+બૈઠ મન્દિર મૈં ભજન સુનાઊંગા, ડોલી ...
+અન્દર કે ભાવોં કા અર્ઘ બનાઊં,
+પૂજા કી થાલી ચરણોં મે લાઊઁ,
+જા કે અષ્ટ દ્રવ્ય કો ચઢાઊંગા, ડોલી...
+ઐસા લલિત કૂટ હ્રદય વિહંગમ,
+લલિત કલાઓં કા કૈસા યે સંગમ,
+ઐસી સુંદર છવિ મન મૈં લાવૂઁગા, ડોલી..`,
+      hi: `सम्मेद शिखर पर मैं जाऊंगा डोली रखदो कहारों ।
+मैं टोंकों की वंदन को जाऊंगा डोली रखदो कहारों ॥
+परस प्रभु का जो दर्शन पाऊँ,
+मैं भी तो पत्थर से सोना हो जाऊं,
+अपने पारस को मैं रिझाऊंगा, डोली....
+चौबीस जिनराज बैठे जहाँ पे,
+ऐसा सुहाना हैं मन्दिर वहाँ पे,
+बैठ मन्दिर मैं भजन सुनाऊंगा, डोली ...
+अन्दर के भावों का अर्घ बनाऊं,
+पूजा की थाली चरणों मे लाऊँ,
+जा के अष्ट द्रव्य को चढाऊंगा, डोली...
+ऐसा ललित कूट ह्रदय विहंगम,
+ललित कलाओं का कैसा ये संगम,
+ऐसी सुंदर छवि मन मैं लावूँगा, डोली..`,
+      sa: "",
+      en: `Sammeda shikhara para main jaaoongaa dolee rakhado kahaaron |
+Main tonkon kee vandana ko jaaoongaa dolee rakhado kahaaron | |
+Parasa prabhu kaa jo darshana paaoon,
+Main bhee to patthara se sonaa ho jaaoon,
+Apane paarasa ko main rijhaaoongaa, dolee....
+Chaubeesa jinaraaja baithe jahaan pe,
+Aisaa suhaanaa hain mandira vahaan pe,
+Baitha mandira main bhajana sunaaoongaa, dolee ...
+Andara ke bhaavon kaa argha banaaoon,
+Poojaa kee thaalee charanon me laaoon,
+Jaa ke ashta dravya ko chadhaaoongaa, dolee...
+Aisaa lalita koota hradaya vihangama,
+Lalita kalaaon kaa kaisaa ye sangama,
+Aisee sundara chhavi mana main laavoongaa, dolee..`,
+    },
+  },
+  {
+    id: "guru-ratntrya-ke-dhari",
+    type: "bhajan",
+    title: {
+      gu: "ગુરુ રત્નત્રય કે ધારી",
+      hi: "गुरु रत्नत्रय के धारी",
+      sa: "",
+      en: "Guru Ratnatraya ke Dhaaree",
+    },
+    text: {
+      gu: `ગુરુ રત્નત્રય કે ધારી, નિજ આતમ મેં વિહારી,
+વે કુન્દકુન્દ અવિકારી, હૈં નિશ્‍ચય શિવમગચારી।
+ગુરુવર કો હમારા વંદન હૈ, ચરણોં મેં અર્ચન હૈ॥
+કાયા કી મમતા કો ટારે, સહતે પરિષહ ભારી,
+પંચ મહાવ્રત કે હોં ધારી, તીન રતન ભંડારી।
+આતમ નિધિ અવિકારી, સંવર ભૂષણ કે ધારી,
+વે કુન્દકુન્દ શિવચારી, હૈ નિર્મલ સુક્ખકારી ॥ ગુરુવર..॥
+તુમ ભેદજ્ઞાન કી જ્યોતિ જલાકર, શુદ્ધાતમ મેં રમતે,
+ક્ષણ ક્ષણ મેં અંતર્મુખ હોકર, સિદ્ધોં સે બાતેં કરતે।
+તેરે પાવન ચરણોં મેં મસ્તક ઝુકા હમ દેંગેં,
+તેરી મહિમા નિત ગાકર, નિજ કી મહિમા પાવેંગેં ॥ગુરુવર
+સમ્યકદર્શન જ્ઞાન ચરણ તુમ, આચારોં કે ધારી,
+મન વચ તન કા તજ આલમ્બન, નિજ ચૈતન્ય વિહારી।
+ગુરુ જબ હમ તુઝકો ધ્યાયેં, તેરી શરણા કો પાયેં,
+તેરા નામ જપેગા જોનિત,મનવાંછિત ફલ પાજાયેં ॥ગુરુવર`,
+      hi: `गुरु रत्नत्रय के धारी, निज आतम में विहारी,
+वे कुन्दकुन्द अविकारी, हैं निश्‍चय शिवमगचारी।
+गुरुवर को हमारा वंदन है, चरणों में अर्चन है॥
+काया की ममता को टारे, सहते परिषह भारी,
+पंच महाव्रत के हों धारी, तीन रतन भंडारी।
+आतम निधि अविकारी, संवर भूषण के धारी,
+वे कुन्दकुन्द शिवचारी, है निर्मल सुक्खकारी ॥ गुरुवर..॥
+तुम भेदज्ञान की ज्योति जलाकर, शुद्धातम में रमते,
+क्षण क्षण में अंतर्मुख होकर, सिद्धों से बातें करते।
+तेरे पावन चरणों में मस्तक झुका हम देंगें,
+तेरी महिमा नित गाकर, निज की महिमा पावेंगें ॥गुरुवर
+सम्यकदर्शन ज्ञान चरण तुम, आचारों के धारी,
+मन वच तन का तज आलम्बन, निज चैतन्य विहारी।
+गुरु जब हम तुझको ध्यायें, तेरी शरणा को पायें,
+तेरा नाम जपेगा जोनित,मनवांछित फ़ल पाजायें ॥गुरुवर`,
+      sa: "",
+      en: `Guru ratnatraya ke dhaaree, nija aatama men vihaaree,
+Ve kundakunda avikaaree, hain nish‍chaya shivamagachaaree |
+Guruvara ko hamaaraa vandana hai, charanon men archana hai | |
+Kaayaa kee mamataa ko taare, sahate parishaha bhaaree,
+Pancha mahaavrata ke hon dhaaree, teena ratana bhandaaree |
+Aatama nidhi avikaaree, sanvara bhooshana ke dhaaree,
+Ve kundakunda shivachaaree, hai nirmala sukkhakaaree | | guruvara.. | |
+Tuma bhedagyaana kee jyoti jalaakara, shuddhaatama men ramate,
+Kshana kshana men antarmukha hokara, siddhon se baaten karate |
+Tere paavana charanon men mastaka jhukaa hama dengen,
+Teree mahimaa nita gaakara, nija kee mahimaa paavengen | | guruvara
+Samyakadarshana gyaana charana tuma, aachaaron ke dhaaree,
+Mana vacha tana kaa taja aalambana, nija chaitanya vihaaree |
+Guru jaba hama tujhako dhyaayen, teree sharanaa ko paayen,
+Teraa naama japegaa jonita,manavaanchhita phala paajaayen | | guruvara`,
+    },
+  },
+  {
+    id: "ye-mahamahotsav-panch-kalyanak",
+    type: "bhajan",
+    title: {
+      gu: "યે મહામહોત્સવ પંચ કલ્યાણક આયા મંગલકારી",
+      hi: "ये महामहोत्सव पंच कल्याणक आया मंगलकारी",
+      sa: "",
+      en: "Ye Mahaamahotsava Pancha Kalyaanaka Aayaa Mangalakaaree",
+    },
+    text: {
+      gu: `યે મહામહોત્સવ પંચ કલ્યાણક આયા મંગલકારી...
+યે મહામહોત્સવ...
+જબ કાલલબ્ધિવશ કોઈ જીવ નિજ દર્શન શુદ્ધિ રચાતે હૈં
+ઉસકે સંગ મેં શુભ ભાવોં કી ધારા ઉત્કૃષ્ટ બહાતે હૈં
+ઉન ભાવોં કે દ્વારા તીર્થંકર કર્મ પ્રકૃતિ રજ આતે હૈં
+ઉનકે પકને પર ભવ્ય જીવ વે તીર્થંકર બન જાતે હૈં ।૧।
+ઇસ ભૂતલ પર પંદ્રહ મહીને ધનરાજ રતન બરસાતે હૈં
+સુરપતિ કી આજ્ઞા સે નગરી દુલ્હન કી તરહ સજાતે હૈં
+ખુશિયાં છાઈં હૈં દશ દિશ મેં યૂં લગે કહીં શહનાઈ બજે
+હર આતમ મેં પરમાતમ કી ભક્તિકે સ્વર હૈં આજ સજે ।૨।
+માતા ને અજબ નિરાલે અદ્‍ભુત દેખે હૈં સોલહ સપને
+યહ સુના તભી રોમાંચ હુઆ તીર્થંકર હોંગે સુત અપને
+અવતાર હુઆ તીર્થંકર કા ક્યા મુક્તિ ગર્ભ મેં આઈ હૈ
+ક્ષય હોગા ભ્રમણ ચતુર્ગતિ કા મંગલ સંદેશા લાઈ હૈ ।૩।
+જબ જન્મ હુઆ તીર્થંકર કા સુરપતિ ઐરાવત લાતે હૈં
+દર્શન સે તૃપ્ત નહીં હોતે તબ નેત્ર હજાર બનાતે હૈં
+જા પાંડુશિલા ક્ષીરોદધિ જલ સે બાલક કો નહલાતે હૈં
+સુત માતા-પિતા કો સાંપ ઇંદ્ર, તબ તાંડવનૃત્ય રચાતે હૈં ।૪।
+વૈરાગ્ય સમય જબ આતા હૈ પ્રભુ બારહ ભાવના ભાતે હૈં
+તબ બ્રહ્મલોક સે લૌકાંતિક આ ધન્ય ધન્ય યશ ગાતે હૈં
+વિષયોં કા રસ ફીકા પડતા, ચેતનરસ મેં લલચાતે હૈં
+તબ ભેષ દિગંબર ધાર પ્રભુ સંયમ મેં ચિત્ત લગાતે હૈં ।૫।
+નવધા ભક્તિ સે પડગાહેં, હે મુનિવર યહાં પધારો તુમ
+હે ગુરુવર અત્ર અત્ર તિષ્ઠો, નિર્દોષ અશન કર ધારો તુમ
+હે મન-વચ-તન આહાર શુદ્ધ અતિ ભાવ વિશુદ્ધ હમારે હૈં
+જન્માંતર કા યહ પુણ્ય ફલા, શ્રી મુનિવર આજ પધારે હૈં ।૬।
+સબ દોષ ઔર અંતરાય રહિત, ગુરુવર ને જબ આહાર કિયા
+દેવોં ને પંચાશ્ચર્ય કિયે, મુનિવર કા જય-જયકાર કિયા
+હૈ ધન્ય ધન્ય શુભ ઘડી આજ, આંગન મેં સુરતરુ આયા હૈ
+અબ ચિદાનંદ રસપાન હેતુ, મુનિવર ને ચરણ બઢાયા હૈ ।૭।
+પ્રભુ લીન હુએ શુદ્ધાતમ મેં નિજ ધ્યાન અગ્નિ પ્રગટાતે હૈં
+ક્ષાયિક શ્રેણી આરૂઢ હુએ, તબ ઘાતિ ચતુષ્ક નશાતે હૈં
+પ્રગટાતે દર્શન-જ્ઞાન-વીર્ય, સુખ લોકાલોક લખાતે હૈં
+ૐકારમયી દિવ્ય ધ્વનિ સે પ્રભુ મુક્તિ માર્ગ બતલાતે હૈં ।૮।
+પ્રભુ તીજે શુક્લધ્યાન મેં ચઢ યોગોં પર રોક લગાતે હૈં
+ચૌથે પાયે મેં ચઢ પ્રભુવર ગુણસ્થાન ચૌદવાં પાતે હૈં
+અગલે હી ક્ષણ અશરીરી હોકર સિદ્ધાલય મેં ફિર જાતે હૈં
+થિર રહેં અનંતાનંત કાલ કૃત્કૃત્ય દશા પા જાતે હૈં ।૯।
+હૈ ધન્ય ધન્ય વે મહાન ગુરુ જિનવર મહિમા બતલાતે હૈં
+વે રંગ રાગ સે ભિન્ન ચિદાનંદ કા સંગીત સુનાતે હૈં
+હે ભવ્ય જીવ આઓ સબ જન, અબ મોહભાવ કા ત્યાગ કરો
+યહ પંચકલ્યાણક ઉત્સવ કર અબ આતમ કા કલ્યાણ કરો`,
+      hi: `ये महामहोत्सव पंच कल्याणक आया मंगलकारी...
+ये महामहोत्सव...
+जब काललब्धिवश कोई जीव निज दर्शन शुद्धि रचाते हैं
+उसके संग में शुभ भावों की धारा उत्कृष्ट बहाते हैं
+उन भावों के द्वारा तीर्थंकर कर्म प्रकृति रज आते हैं
+उनके पकने पर भव्य जीव वे तीर्थंकर बन जाते हैं ।१।
+इस भूतल पर पंद्रह महीने धनराज रतन बरसाते हैं
+सुरपति की आज्ञा से नगरी दुल्हन की तरह सजाते हैं
+खुशियां छाईं हैं दश दिश में यूं लगे कहीं शहनाई बजे
+हर आतम में परमातम की भक्तिके स्वर हैं आज सजे ।२।
+माता ने अजब निराले अद्‍भुत देखे हैं सोलह सपने
+यह सुना तभी रोमांच हुआ तीर्थंकर होंगे सुत अपने
+अवतार हुआ तीर्थंकर का क्या मुक्ति गर्भ में आई है
+क्षय होगा भ्रमण चतुर्गति का मंगल संदेशा लाई है ।३।
+जब जन्म हुआ तीर्थंकर का सुरपति ऐरावत लाते हैं
+दर्शन से तृप्त नहीं होते तब नेत्र हजार बनाते हैं
+जा पांडुशिला क्षीरोदधि जल से बालक को नहलाते हैं
+सुत माता-पिता को सांप इंद्र, तब तांडवनृत्य रचाते हैं ।४।
+वैराग्य समय जब आता है प्रभु बारह भावना भाते हैं
+तब ब्रह्मलोक से लौकांतिक आ धन्य धन्य यश गाते हैं
+विषयों का रस फ़ीका पडता, चेतनरस में ललचाते हैं
+तब भेष दिगंबर धार प्रभु संयम में चित्त लगाते हैं ।५।
+नवधा भक्ति से पडगाहें, हे मुनिवर यहां पधारो तुम
+हे गुरुवर अत्र अत्र तिष्ठो, निर्दोष अशन कर धारो तुम
+हे मन-वच-तन आहार शुद्ध अति भाव विशुद्ध हमारे हैं
+जन्मांतर का यह पुण्य फ़ला, श्री मुनिवर आज पधारे हैं ।६।
+सब दोष और अंतराय रहित, गुरुवर ने जब आहार किया
+देवों ने पंचाश्चर्य किये, मुनिवर का जय-जयकार किया
+है धन्य धन्य शुभ घडी आज, आंगन में सुरतरु आया है
+अब चिदानंद रसपान हेतु, मुनिवर ने चरण बढाया है ।७।
+प्रभु लीन हुए शुद्धातम में निज ध्यान अग्नि प्रगटाते हैं
+क्षायिक श्रेणी आरूढ हुए, तब घाति चतुष्क नशाते हैं
+प्रगटाते दर्शन-ज्ञान-वीर्य, सुख लोकालोक लखाते हैं
+ॐकारमयी दिव्य ध्वनि से प्रभु मुक्ति मार्ग बतलाते हैं ।८।
+प्रभु तीजे शुक्लध्यान में चढ योगों पर रोक लगाते हैं
+चौथे पाये में चढ प्रभुवर गुणस्थान चौदवां पाते हैं
+अगले ही क्षण अशरीरी होकर सिद्धालय में फ़िर जाते हैं
+थिर रहें अनंतानंत काल कृत्कृत्य दशा पा जाते हैं ।९।
+है धन्य धन्य वे महान गुरु जिनवर महिमा बतलाते हैं
+वे रंग राग से भिन्न चिदानंद का संगीत सुनाते हैं
+हे भव्य जीव आओ सब जन, अब मोहभाव का त्याग करो
+यह पंचकल्याणक उत्सव कर अब आतम का कल्याण करो`,
+      sa: "",
+      en: `Ye mahaamahotsava pancha kalyaanaka aayaa mangalakaaree...
+Ye mahaamahotsava...
+Jaba kaalalabdhivasha koee jeeva nija darshana shuddhi rachaate hain
+Usake sanga men shubha bhaavon kee dhaaraa utkrishta bahaate hain
+Una bhaavon ke dvaaraa teerthankara karma prakriti raja aate hain
+Unake pakane para bhavya jeeva ve teerthankara bana jaate hain | 1 |
+Isa bhootala para pandraha maheene dhanaraaja ratana barasaate hain
+Surapati kee aagyaa se nagaree dulhana kee taraha sajaate hain
+Khushiyaan chhaaeen hain dasha disha men yoon lage kaheen shahanaaee baje
+Hara aatama men paramaatama kee bhaktike svara hain aaja saje | 2 |
+Maataa ne ajaba niraale ad‍bhuta dekhe hain solaha sapane
+Yaha sunaa tabhee romaancha huaa teerthankara honge suta apane
+Avataara huaa teerthankara kaa kyaa mukti garbha men aaee hai
+Kshaya hogaa bhramana chaturgati kaa mangala sandeshaa laaee hai | 3 |
+Jaba janma huaa teerthankara kaa surapati airaavata laate hain
+Darshana se tripta naheen hote taba netra hajaara banaate hain
+Jaa paandushilaa ksheerodadhi jala se baalaka ko nahalaate hain
+Suta maataa-pitaa ko saanpa indra, taba taandavanritya rachaate hain | 4 |
+Vairaagya samaya jaba aataa hai prabhu baaraha bhaavanaa bhaate hain
+Taba brahmaloka se laukaantika aa dhanya dhanya yasha gaate hain
+Vishayon kaa rasa pheekaa padataa, chetanarasa men lalachaate hain
+Taba bhesha diganbara dhaara prabhu sanyama men chitta lagaate hain | 5 |
+Navadhaa bhakti se padagaahen, he munivara yahaan padhaaro tuma
+He guruvara atra atra tishtho, nirdosha ashana kara dhaaro tuma
+He mana-vacha-tana aahaara shuddha ati bhaava vishuddha hamaare hain
+Janmaantara kaa yaha punya phalaa, shree munivara aaja padhaare hain | 6 |
+Saba dosha aura antaraaya rahita, guruvara ne jaba aahaara kiyaa
+Devon ne panchaashcharya kiye, munivara kaa jaya-jayakaara kiyaa
+Hai dhanya dhanya shubha ghadee aaja, aangana men surataru aayaa hai
+Aba chidaananda rasapaana hetu, munivara ne charana badhaayaa hai | 7 |
+Prabhu leena hue shuddhaatama men nija dhyaana agni pragataate hain
+Kshaayika shrenee aaroodha hue, taba ghaati chatushka nashaate hain
+Pragataate darshana-gyaana-veerya, sukha lokaaloka lakhaate hain
+Omkaaramayee divya dhvani se prabhu mukti maarga batalaate hain | 8 |
+Prabhu teeje shukladhyaana men chadha yogon para roka lagaate hain
+Chauthe paaye men chadha prabhuvara gunasthaana chaudavaan paate hain
+Agale hee kshana ashareeree hokara siddhaalaya men phira jaate hain
+Thira rahen anantaananta kaala kritkritya dashaa paa jaate hain | 9 |
+Hai dhanya dhanya ve mahaana guru jinavara mahimaa batalaate hain
+Ve ranga raaga se bhinna chidaananda kaa sangeeta sunaate hain
+He bhavya jeeva aao saba jana, aba mohabhaava kaa tyaaga karo
+Yaha panchakalyaanaka utsava kara aba aatama kaa kalyaana karo`,
+    },
+  },
+  {
+    id: "sanvariya-parasnath-shikhar-par-bhala-virajya-ji",
+    type: "bhajan",
+    title: {
+      gu: "સાંવરિયા પારસનાથ શિખર પર ભલા વિરાજ્યા જી",
+      hi: "सांवरिया पारसनाथ शिखर पर भला विराज्या जी",
+      sa: "",
+      en: "Saanvariyaa Paarasanaatha Shikhara Para Bhalaa Viraajyaa Jee",
+    },
+    text: {
+      gu: `ઊંચે શિખરોં વાલા, સબસે નિરાલા
+સાંવરિયા પારસનાથ શિખર પર ભલા વિરાજ્યા જી ।
+ભલા વિરાજ્યા જી ઓ બાબા થે તો ભલા વિરાજ્યા જી ॥
+વૈભવ કાશી કા ઠુકરાયા,રાજ પાટ તોહે બાઁધ ના પાયા ।
+તૂ સમ્મેદ શિખર પે મુક્તિ પાને આયા -૨ ।
+વો પર્વત તેરે મન ભાયા જહાઁ ભીલોં કા વાસા જી ॥
+ટોંક ટોંક પર ધ્વજા વિરાજે,ઝાલર બાજે ઘંટા બાજે ।
+ચરણ કમલ જિનવર કે કૂટ-કૂટ પર સાજે ।
+દૂર-દૂર સે યાત્રી આએ આનંદ મંગલ ખાસા જી॥
+ઝર-ઝર બહતા શીતલ નાલા,શાંત કરે ભવ-ભવ કી જ્વાલા।
+ગીત નહી જગ મેં ઇતને જિનવર વાલા ।
+વંદન કરકે પૂરણ હોતી ભક્ત જનોં કી આસા જી॥
+હમકો અપની ભક્તિ કા વર દો,સમતાભાવ સે અન્તર ભર દો ।
+હે પારસમણિ ભગવન હમકો કંચન કર દો ।
+દો આશીષ મિટ જાએ હમારા જનમ મરણ કા રાસા જી॥`,
+      hi: `ऊंचे शिखरों वाला, सबसे निराला
+सांवरिया पारसनाथ शिखर पर भला विराज्या जी ।
+भला विराज्या जी ओ बाबा थे तो भला विराज्या जी ॥
+वैभव काशी का ठुकराया,राज पाट तोहे बाँध ना पाया ।
+तू सम्मेद शिखर पे मुक्ति पाने आया -२ ।
+वो पर्वत तेरे मन भाया जहाँ भीलों का वासा जी ॥
+टोंक टोंक पर ध्वजा विराजे,झालर बाजे घंटा बाजे ।
+चरण कमल जिनवर के कूट-कूट पर साजे ।
+दूर-दूर से यात्री आए आनंद मंगल खासा जी॥
+झर-झर बहता शीतल नाला,शांत करे भव-भव की ज्वाला।
+गीत नही जग में इतने जिनवर वाला ।
+वंदन करके पूरण होती भक्त जनों की आसा जी॥
+हमको अपनी भक्ति का वर दो,समताभाव से अन्तर भर दो ।
+हे पारसमणि भगवन हमको कंचन कर दो ।
+दो आशीष मिट जाए हमारा जनम मरण का रासा जी॥`,
+      sa: "",
+      en: `Oonche shikharon vaalaa, sabase niraalaa
+Saanvariyaa paarasanaatha shikhara para bhalaa viraajyaa jee |
+Bhalaa viraajyaa jee o baabaa the to bhalaa viraajyaa jee | |
+Vaibhava kaashee kaa thukaraayaa,raaja paata tohe baandha naa paayaa |
+Too sammeda shikhara pe mukti paane aayaa -2 |
+Vo parvata tere mana bhaayaa jahaan bheelon kaa vaasaa jee | |
+Tonka tonka para dhvajaa viraaje,jhaalara baaje ghantaa baaje |
+Charana kamala jinavara ke koota-koota para saaje |
+Doora-doora se yaatree aae aananda mangala khaasaa jee | |
+Jhara-jhara bahataa sheetala naalaa,shaanta kare bhava-bhava kee jvaalaa |
+Geeta nahee jaga men itane jinavara vaalaa |
+Vandana karake poorana hotee bhakta janon kee aasaa jee | |
+Hamako apanee bhakti kaa vara do,samataabhaava se antara bhara do |
+He paarasamani bhagavana hamako kanchana kara do |
+Do aasheesha mita jaae hamaaraa janama marana kaa raasaa jee | |`,
+    },
+  },
+  {
+    id: "panchkalyan-manao-mere-sathi",
+    type: "bhajan",
+    title: {
+      gu: "પંચકલ્યાણ મનાઓ મેરે સાથી",
+      hi: "पंचकल्याण मनाओ मेरे साथी",
+      sa: "",
+      en: "Panchakalyaana Manaao Mere Saathee",
+    },
+    text: {
+      gu: `પંચકલ્યાણ મનાઓ મેરે સાથી,
+જીવન સફલ બનાઓ મેરે સાથી,
+આઓ રે આઓ આઓ મેરે સાથી, પંચકલ્યાણ....
+સ્વર્ગપુરી સે પ્રભુજી પધારે, મતિ શ્રુત જ્ઞાન અવધિ કો ધારે,
+અંતિમ ગર્ભ હુઆ પ્રભુ જી કા, જન્મ મરણ કે કષ્ટ નિવારે,
+ગર્ભકલ્યાણ મનાઓ મેરે સાથી॥ પંચકલ્યાણ...
+પ્રથમ સ્વર્ગ સે ઇન્દ્ર પધારે, ઐરાવત હાથી લે આયે,
+પાંડુ શિલા પર ન્હવન રચાયા,સકલ પાપ મલ ક્ષયકર ડારે,
+જન્મકલ્યાણ કરાઓ મેરે સાથી॥ પંચકલ્યાણ...
+પ્રભુ ને આતમ ધ્યાન લગાયા, નિર્ગ્રંથોં કા પથ અપનાયા,
+નગ્ન દિગમ્બર દીક્ષા ધર કર, રાગ દ્વેષ કો દૂર ભગાયા,
+તપકલ્યાણ મનાઓ મેરે સાથી॥ પંચકલ્યાણ...
+શુક્લ ધ્યાન કી અગ્નિ જલાકર, ચાર ઘાતિયા કર્મ નશાયા,
+કેવલજ્ઞાન પ્રકટ કર પ્રભુ ને, જગ કો મુક્તિ માર્ગ બતાયા,
+જ્ઞાનકલ્યાણ મનાઓ મેરે સાથી॥ પંચકલ્યાણ...
+ચરમશરીર છોડકર પ્રભુજી, સિદ્ધ શિલા પર જાય વિરાજે,
+સાદિ અનંત કાલ તક શાશ્વત, સુખ નિજ પરિણતિ મેં પ્રગટાયે
+મોક્ષ કલ્યાણ મનાઓ મેરે સાથી॥ પંચકલ્યાણ...`,
+      hi: `पंचकल्याण मनाओ मेरे साथी,
+जीवन सफ़ल बनाओ मेरे साथी,
+आओ रे आओ आओ मेरे साथी, पंचकल्याण....
+स्वर्गपुरी से प्रभुजी पधारे, मति श्रुत ज्ञान अवधि को धारे,
+अंतिम गर्भ हुआ प्रभु जी का, जन्म मरण के कष्ट निवारे,
+गर्भकल्याण मनाओ मेरे साथी॥ पंचकल्याण...
+प्रथम स्वर्ग से इन्द्र पधारे, ऐरावत हाथी ले आये,
+पांडु शिला पर न्हवन रचाया,सकल पाप मल क्षयकर डारे,
+जन्मकल्याण कराओ मेरे साथी॥ पंचकल्याण...
+प्रभु ने आतम ध्यान लगाया, निर्ग्रंथों का पथ अपनाया,
+नग्न दिगम्बर दीक्षा धर कर, राग द्वेष को दूर भगाया,
+तपकल्याण मनाओ मेरे साथी॥ पंचकल्याण...
+शुक्ल ध्यान की अग्नि जलाकर, चार घातिया कर्म नशाया,
+केवलज्ञान प्रकट कर प्रभु ने, जग को मुक्ति मार्ग बताया,
+ज्ञानकल्याण मनाओ मेरे साथी॥ पंचकल्याण...
+चरमशरीर छोडकर प्रभुजी, सिद्ध शिला पर जाय विराजे,
+सादि अनंत काल तक शाश्वत, सुख निज परिणति में प्रगटाये
+मोक्ष कल्याण मनाओ मेरे साथी॥ पंचकल्याण...`,
+      sa: "",
+      en: `Panchakalyaana manaao mere saathee,
+Jeevana saphala banaao mere saathee,
+Aao re aao aao mere saathee, panchakalyaana....
+Svargapuree se prabhujee padhaare, mati shruta gyaana avadhi ko dhaare,
+Antima garbha huaa prabhu jee kaa, janma marana ke kashta nivaare,
+Garbhakalyaana manaao mere saathee | | panchakalyaana...
+Prathama svarga se indra padhaare, airaavata haathee le aaye,
+Paandu shilaa para nhavana rachaayaa,sakala paapa mala kshayakara daare,
+Janmakalyaana karaao mere saathee | | panchakalyaana...
+Prabhu ne aatama dhyaana lagaayaa, nirgranthon kaa patha apanaayaa,
+Nagna digambara deekshaa dhara kara, raaga dvesha ko doora bhagaayaa,
+Tapakalyaana manaao mere saathee | | panchakalyaana...
+Shukla dhyaana kee agni jalaakara, chaara ghaatiyaa karma nashaayaa,
+Kevalagyaana prakata kara prabhu ne, jaga ko mukti maarga bataayaa,
+Gyaanakalyaana manaao mere saathee | | panchakalyaana...
+Charamashareera chhodakara prabhujee, siddha shilaa para jaaya viraaje,
+Saadi ananta kaala taka shaashvata, sukha nija parinati men pragataaye
+Moksha kalyaana manaao mere saathee | | panchakalyaana...`,
+    },
+  },
+  {
+    id: "garbh-kalyanak-aa-gaya",
+    type: "bhajan",
+    title: {
+      gu: "ગર્ભ કલ્યાણક આ ગયા",
+      hi: "गर्भ कल्याणक आ गया",
+      sa: "",
+      en: "Garbha Kalyaanaka Aa Gayaa",
+    },
+    text: {
+      gu: `ગર્ભ કલ્યાણક આ ગયા,
+દેખો દેખો જી આનંદ છા ગયા॥
+સ્વર્ગપુરી સે દેવગતિ કો તજકર પ્રભુ ને નરગતિ પાઈ,
+ધન્ય ધન્ય હૈ ત્રિશલા માતા તીર્થંકર કી માઁ કહલાઈ,
+કુણ્ડલપુર મેં આનંદ છા ગયા ॥
+સોલહ સપને માઁ ને દેખે મન મેં અચરજ ભારી હૈ,
+સિદ્ધાર્થ નૃપ સે ફલ પૂછા ઉપજા આનંદ ભારી હૈ,
+તીન ભુવન કા નાથ આ ગયા ॥
+અંતિમ ગર્ભ હુઆ પ્રભુજી કા અબ દૂજી માતા નહીં હોગી,
+શુદ્ધાતમ કે અવલમ્બન સે આત્મસાધના પૂરી હોગી,
+જ્ઞાન સ્વભાવ હમેં ભા ગયા ॥`,
+      hi: `गर्भ कल्याणक आ गया,
+देखो देखो जी आनंद छा गया॥
+स्वर्गपुरी से देवगति को तजकर प्रभु ने नरगति पाई,
+धन्य धन्य है त्रिशला माता तीर्थंकर की माँ कहलाई,
+कुण्डलपुर में आनंद छा गया ॥
+सोलह सपने माँ ने देखे मन में अचरज भारी है,
+सिद्धार्थ नृप से फ़ल पूछा उपजा आनंद भारी है,
+तीन भुवन का नाथ आ गया ॥
+अंतिम गर्भ हुआ प्रभुजी का अब दूजी माता नहीं होगी,
+शुद्धातम के अवलम्बन से आत्मसाधना पूरी होगी,
+ज्ञान स्वभाव हमें भा गया ॥`,
+      sa: "",
+      en: `Garbha kalyaanaka aa gayaa,
+Dekho dekho jee aananda chhaa gayaa | |
+Svargapuree se devagati ko tajakara prabhu ne naragati paaee,
+Dhanya dhanya hai trishalaa maataa teerthankara kee maan kahalaaee,
+Kundalapura men aananda chhaa gayaa | |
+Solaha sapane maan ne dekhe mana men acharaja bhaaree hai,
+Siddhaartha nripa se phala poochhaa upajaa aananda bhaaree hai,
+Teena bhuvana kaa naatha aa gayaa | |
+Antima garbha huaa prabhujee kaa aba doojee maataa naheen hogee,
+Shuddhaatama ke avalambana se aatmasaadhanaa pooree hogee,
+Gyaana svabhaava hamen bhaa gayaa | |`,
+    },
+  },
+  {
+    id: "oonche-oonche-shikharon-wala-hai-re",
+    type: "bhajan",
+    title: {
+      gu: "ઊંચે ઊંચે શિખરોં વાલા હૈ રે",
+      hi: "ऊंचे ऊंचे शिखरों वाला है रे",
+      sa: "",
+      en: "Oonche Oonche Shikharon Vaalaa hai re",
+    },
+    text: {
+      gu: `ઊંચે ઊંચે શિખરોં વાલા હૈ રે, તીરથ હમારા,
+તીરથ હમારા હમેં લાગે હૈ પ્યારા।
+શ્રી જિનવર સે ભેંટ કરાવે, જગ કો મુક્તિ માર્ગ દિખાવે,
+મોહ કા નાશ કરાવે રે, યે તીરથ હમારા ॥
+શુદ્ધાતમ સે પ્રીતિ લગાવે, જડ ચેતન કો ભિન્ન બતાવે,
+ભેદ વિજ્ઞાન કરાવે રે, યહ તીરથ હમારા ॥
+ભાવ સહિત વંદે જો કોઈ, તાહિ નરક પશુગતિ નહિં હોઈ,
+ભેદ વિજ્ઞાન કરાવે રે, યે તીરથ હમારા ॥
+રંગ રાગ સે ભિન્ન બતાવે, શુદ્ધાતમ કા રૂપ બતાવે,
+મુક્તિ કા મારગ દિખાવે રે, યે તીરથ હમારા ॥
+ભાવ સહિત વંદે જો કોઈ, તાહિ નરક પશુ ગતિ ના હોઈ,
+ઉનકે લિયે ખુલ જાયે રે, સીધા સ્વર્ગ કા દ્વારા ॥
+જહાં તીર્થંકર ને વચન ઉચારે, કોટિ કોટિ મુનિ મોક્ષ પધારે,
+પૂજ્ય પરમ પદ પાયે રે, જન્મે ના દોબારા ॥
+હરે-હરે વૃક્ષોં કી ઝૂમે ડાલી, સમવસરણ કી રચના નિરાલી,
+પર્વતરાજ પે શીતલ જરના, બહતા સુપ્યારા ॥`,
+      hi: `ऊंचे ऊंचे शिखरों वाला है रे, तीरथ हमारा,
+तीरथ हमारा हमें लागे है प्यारा।
+श्री जिनवर से भेंट करावे, जग को मुक्ति मार्ग दिखावे,
+मोह का नाश करावे रे, ये तीरथ हमारा ॥
+शुद्धातम से प्रीति लगावे, जड चेतन को भिन्न बतावे,
+भेद विज्ञान करावे रे, यह तीरथ हमारा ॥
+भाव सहित वंदे जो कोई, ताहि नरक पशुगति नहिं होई,
+भेद विज्ञान करावे रे, ये तीरथ हमारा ॥
+रंग राग से भिन्न बतावे, शुद्धातम का रूप बतावे,
+मुक्ति का मारग दिखावे रे, ये तीरथ हमारा ॥
+भाव सहित वंदे जो कोई, ताहि नरक पशु गति ना होई,
+उनके लिये खुल जाये रे, सीधा स्वर्ग का द्वारा ॥
+जहां तीर्थंकर ने वचन उचारे, कोटि कोटि मुनि मोक्ष पधारे,
+पूज्य परम पद पाये रे, जन्मे ना दोबारा ॥
+हरे-हरे वृक्षों की झूमे डाली, समवसरण की रचना निराली,
+पर्वतराज पे शीतल जरना, बहता सुप्यारा ॥`,
+      sa: "",
+      en: `Oonche oonche shikharon vaalaa hai re, teeratha hamaaraa,
+Teeratha hamaaraa hamen laage hai pyaaraa |
+Shree jinavara se bhenta karaave, jaga ko mukti maarga dikhaave,
+Moha kaa naasha karaave re, ye teeratha hamaaraa | |
+Shuddhaatama se preeti lagaave, jada chetana ko bhinna bataave,
+Bheda vigyaana karaave re, yaha teeratha hamaaraa | |
+Bhaava sahita vande jo koee, taahi naraka pashugati nahin hoee,
+Bheda vigyaana karaave re, ye teeratha hamaaraa | |
+Ranga raaga se bhinna bataave, shuddhaatama kaa roopa bataave,
+Mukti kaa maaraga dikhaave re, ye teeratha hamaaraa | |
+Bhaava sahita vande jo koee, taahi naraka pashu gati naa hoee,
+Unake liye khula jaaye re, seedhaa svarga kaa dvaaraa | |
+Jahaan teerthankara ne vachana uchaare, koti koti muni moksha padhaare,
+Poojya parama pada paaye re, janme naa dobaaraa | |
+Hare-hare vrikshon kee jhoome daalee, samavasarana kee rachanaa niraalee,
+Parvataraaja pe sheetala jaranaa, bahataa supyaaraa | |`,
+    },
+  },
+  {
+    id: "liya-aaj-prabhu-ji-ne-janm-sakhi",
+    type: "bhajan",
+    title: {
+      gu: "લિયા આજ પ્રભુ જી ને જનમ સખી",
+      hi: "लिया आज प्रभु जी ने जनम सखी",
+      sa: "",
+      en: "Liyaa Aaja Prabhu Jee Ne Janama Sakhee",
+    },
+    text: {
+      gu: `લિયા આજ પ્રભુ જી ને જનમ સખી,
+ચલો અવધપુરી ગુણ ગાવન કોં ॥ લિયા..॥
+તુમ સુન રી સુહાગન ભાગ ભરી,
+ચલો મોતિયન ચૌક પુરાવન કોં ॥ લિયા..।૧।
+સુવરણ કલશ ધરોં શિર ઊપર,
+જલ લાવેં પ્રભુ ન્હવાવન કોં ॥ લિયા...।૨।
+ભર ભર થાલ દરબ કે લેકર ,
+ચાલો જી અર્ઘ ચઢાવન કોં ॥ લિયા...।૩।
+નયનાનંદ કહે સુનિ સજની,
+ફેર ન અવસર આવન કોં॥ લિયા....।૪।`,
+      hi: `लिया आज प्रभु जी ने जनम सखी,
+चलो अवधपुरी गुण गावन कों ॥ लिया..॥
+तुम सुन री सुहागन भाग भरी,
+चलो मोतियन चौक पुरावन कों ॥ लिया..।१।
+सुवरण कलश धरों शिर ऊपर,
+जल लावें प्रभु न्हवावन कों ॥ लिया...।२।
+भर भर थाल दरब के लेकर ,
+चालो जी अर्घ चढावन कों ॥ लिया...।३।
+नयनानंद कहे सुनि सजनी,
+फ़ेर न अवसर आवन कों॥ लिया....।४।`,
+      sa: "",
+      en: `Liyaa aaja prabhu jee ne janama sakhee,
+Chalo avadhapuree guna gaavana kon | | liyaa.. | |
+Tuma suna ree suhaagana bhaaga bharee,
+Chalo motiyana chauka puraavana kon | | liyaa.. | 1 |
+Suvarana kalasha dharon shira oopara,
+Jala laaven prabhu nhavaavana kon | | liyaa... | 2 |
+Bhara bhara thaala daraba ke lekara ,
+Chaalo jee argha chadhaavana kon | | liyaa... | 3 |
+Nayanaananda kahe suni sajanee,
+Phera na avasara aavana kon | | liyaa.... | 4 |`,
+    },
+  },
+  {
+    id: "gagan-mandal-me-ud-jaun",
+    type: "bhajan",
+    title: {
+      gu: "ગગન મંડલ મેં ઉડ જાઊં",
+      hi: "गगन मंडल में उड जाऊं",
+      sa: "",
+      en: "Gagana Mandala Men Uda Jaaoon",
+    },
+    text: {
+      gu: `ગગન મંડલ મેં ઉડ જાઊં,
+તીન લોક કે તીર્થ ક્ષેત્ર સબ વંદન કર આઊં ॥
+પ્રથમ શ્રી સમ્મેદશિખર પર્વત પર મૈં જાઊં,
+બીસ ટોંક પર બીસ જિનેશ્‍વર ચરણ પૂજ ધ્યાઊં ॥
+અજિત આદિ શ્રી પાર્શ્વનાથ પ્રભુ કી મહિમા ગાઊં,
+શાશ્‍વત તીર્થરાજ કે દર્શન કરકે હર્ષાઊં ॥
+ફિર મંદારગિરિ પાવાપુર વાસુપૂજ્ય ધ્યાઊં,
+હુએ પંચકલ્યાણક પ્રભુ કે પૂજન કર આઊં ॥
+ઊર્જયંત ગિરનાર શિખર પર્વત પર ફિર જાઊં,
+નેમિનાથ નિર્વાણ ક્ષેત્ર કો વંદૂં સુખ પાઊં ॥
+ફિર પાવાપુર મહાવીર નિર્વાણપુરી જાઊં,
+જલમંદિર મેં ચરણ પૂજકર નાચૂં હર્ષાઊં ॥
+ફિર કૈલાશ શિખર અષ્ટાપદ આદિનાથ ધ્યાઊં,
+ઋષભદેવ નિર્વાણ ધરા પર શુદ્ધ ભાવ લાઊં ॥
+પંચ મહાતીર્થોં કી યાત્રા કરકે હર્ષાઊં,
+સિદ્ધક્ષેત્ર અતિશય ક્ષેત્રોં પર ભી મૈં હો આઊં ॥
+તીન લોક કી તીર્થ વંદના કર નિજ ઘર આઊં,
+શુદ્ધાતમ સે કર પ્રતીતિ મૈં સમકિત ઉપજાઊં ॥
+ફિર રત્નત્રય ધારણ કરકે જિન મુનિ બન જાઊં,
+નિજ સ્વભાવ સાધન સે સ્વામી શિવપદ પ્રગટાઊં ॥`,
+      hi: `गगन मंडल में उड जाऊं,
+तीन लोक के तीर्थ क्षेत्र सब वंदन कर आऊं ॥
+प्रथम श्री सम्मेदशिखर पर्वत पर मैं जाऊं,
+बीस टोंक पर बीस जिनेश्‍वर चरण पूज ध्याऊं ॥
+अजित आदि श्री पार्श्वनाथ प्रभु की महिमा गाऊं,
+शाश्‍वत तीर्थराज के दर्शन करके हर्षाऊं ॥
+फ़िर मंदारगिरि पावापुर वासुपूज्य ध्याऊं,
+हुए पंचकल्याणक प्रभु के पूजन कर आऊं ॥
+ऊर्जयंत गिरनार शिखर पर्वत पर फ़िर जाऊं,
+नेमिनाथ निर्वाण क्षेत्र को वंदूं सुख पाऊं ॥
+फ़िर पावापुर महावीर निर्वाणपुरी जाऊं,
+जलमंदिर में चरण पूजकर नाचूं हर्षाऊं ॥
+फ़िर कैलाश शिखर अष्टापद आदिनाथ ध्याऊं,
+ऋषभदेव निर्वाण धरा पर शुद्ध भाव लाऊं ॥
+पंच महातीर्थों की यात्रा करके हर्षाऊं,
+सिद्धक्षेत्र अतिशय क्षेत्रों पर भी मैं हो आऊं ॥
+तीन लोक की तीर्थ वंदना कर निज घर आऊं,
+शुद्धातम से कर प्रतीति मैं समकित उपजाऊं ॥
+फ़िर रत्नत्रय धारण करके जिन मुनि बन जाऊं,
+निज स्वभाव साधन से स्वामी शिवपद प्रगटाऊं ॥`,
+      sa: "",
+      en: `Gagana mandala men uda jaaoon,
+Teena loka ke teertha kshetra saba vandana kara aaoon | |
+Prathama shree sammedashikhara parvata para main jaaoon,
+Beesa tonka para beesa jinesh‍vara charana pooja dhyaaoon | |
+Ajita aadi shree paarshvanaatha prabhu kee mahimaa gaaoon,
+Shaash‍vata teertharaaja ke darshana karake harshaaoon | |
+Phira mandaaragiri paavaapura vaasupoojya dhyaaoon,
+Hue panchakalyaanaka prabhu ke poojana kara aaoon | |
+Oorjayanta giranaara shikhara parvata para phira jaaoon,
+Neminaatha nirvaana kshetra ko vandoon sukha paaoon | |
+Phira paavaapura mahaaveera nirvaanapuree jaaoon,
+Jalamandira men charana poojakara naachoon harshaaoon | |
+Phira kailaasha shikhara ashtaapada aadinaatha dhyaaoon,
+Rishabhadeva nirvaana dharaa para shuddha bhaava laaoon | |
+Pancha mahaateerthon kee yaatraa karake harshaaoon,
+Siddhakshetra atishaya kshetron para bhee main ho aaoon | |
+Teena loka kee teertha vandanaa kara nija ghara aaoon,
+Shuddhaatama se kara prateeti main samakita upajaaoon | |
+Phira ratnatraya dhaarana karake jina muni bana jaaoon,
+Nija svabhaava saadhana se svaamee shivapada pragataaoon | |`,
+    },
+  },
+  {
+    id: "umariya-rah-gai-thodi",
+    type: "bhajan",
+    title: {
+      gu: "ઉમરિયા રહ ગઈ થોડી",
+      hi: "उमरिया रह गई थोडी",
+      sa: "",
+      en: "Umariyaa Raha Gaee Thodee",
+    },
+    text: {
+      gu: `રે મન ભજ લે પ્રભુ કા નામ ઉમરિયા રહ ગઈ થોડી,
+ઉમરિયા રહ ગઈ થોડી, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+કૈલાશગિરિ કો જાઇયો, ઔર આદિનાથ જી સે કહિયો।
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ પાવાપુરી કો જાઇયો, ઔર વર્દ્ધમાન જી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ ચમ્પાપુરી કો જાઇયો, ઔર વાસુપૂજ્ય જી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ હસ્તિનાપુર કો જાઇયો, ઔર શાંતિનાથ જી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ સમ્મેદશિખર જી કો જાઇયો,ઔર પાર્શ્વનાથજી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ તિજારાજી કો જાઇયો ઔર, ચન્દાપ્રભુજી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ પદમપુરાજી કો જાઇયો ઔર, પદ્‌મપ્રભુ જી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ ગોમ્મટેશ્‍વર જાઇયો ઔર, બાહુબલીજી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥
+તુમ મહાવીર જી કો જાઇયો ઔર, વીર પ્રભુજી સે કહિયો,
+હો બુલાલો અપને પાસ, ઉમરિયા રહ ગઈ થોડી ॥ રે મન...॥`,
+      hi: `रे मन भज ले प्रभु का नाम उमरिया रह गई थोडी,
+उमरिया रह गई थोडी, उमरिया रह गई थोडी ॥ रे मन...॥
+कैलाशगिरि को जाइयो, और आदिनाथ जी से कहियो।
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम पावापुरी को जाइयो, और वर्द्धमान जी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम चम्पापुरी को जाइयो, और वासुपूज्य जी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम हस्तिनापुर को जाइयो, और शांतिनाथ जी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम सम्मेदशिखर जी को जाइयो,और पार्श्वनाथजी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम तिजाराजी को जाइयो और, चन्दाप्रभुजी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम पदमपुराजी को जाइयो और, पद्‌मप्रभु जी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम गोम्मटेश्‍वर जाइयो और, बाहुबलीजी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥
+तुम महावीर जी को जाइयो और, वीर प्रभुजी से कहियो,
+हो बुलालो अपने पास, उमरिया रह गई थोडी ॥ रे मन...॥`,
+      sa: "",
+      en: `Re mana bhaja le prabhu kaa naama umariyaa raha gaee thodee,
+Umariyaa raha gaee thodee, umariyaa raha gaee thodee | | re mana... | |
+Kailaashagiri ko jaaiyo, aura aadinaatha jee se kahiyo |
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma paavaapuree ko jaaiyo, aura varddhamaana jee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma champaapuree ko jaaiyo, aura vaasupoojya jee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma hastinaapura ko jaaiyo, aura shaantinaatha jee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma sammedashikhara jee ko jaaiyo,aura paarshvanaathajee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma tijaaraajee ko jaaiyo aura, chandaaprabhujee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma padamapuraajee ko jaaiyo aura, pad‌maprabhu jee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma gommatesh‍vara jaaiyo aura, baahubaleejee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |
+Tuma mahaaveera jee ko jaaiyo aura, veera prabhujee se kahiyo,
+Ho bulaalo apane paasa, umariyaa raha gaee thodee | | re mana... | |`,
+    },
+  },
+  {
+    id: "liya-rishabh-dev-avtar",
+    type: "bhajan",
+    title: {
+      gu: "લિયા રિષભ દેવ અવતાર",
+      hi: "लिया रिषभ देव अवतार",
+      sa: "",
+      en: "Liyaa Rishabha Deva Avataara",
+    },
+    text: {
+      gu: `લિયા રિષભ દેવ અવતાર નિરત સુરપતિ ને કિયા આકે,
+નિરત કિયા આકે હર્ષા કે પ્રભૂજી કે નવ ભવ કૂં દરશાકે,
+સરર સરર કર સારંગી તંબૂરા બાજે પોરી પોરી મટકા કે, લિયા.
+પ્રથમ પ્રકાસી વાને ઇંદ્ર જાલ વિદ્યા ઐસી,
+આજલોં જગત મૈં સુની ના કહૂં દેખી ઐસી,
+આયો હૈ છ્બીલો છટકીલો હૈ મુકુટ બંધ,
+છ્મ્ભ દેસી કૂદો માનુ આ કૂદો પૂનમ કો ચાંદ,
+મન કો હરત ગત ભરત પ્રભૂ કો..પૂજૈ ધરની કો શિર નાકે ॥
+ભૂજોં પૈ ચઢાયે હૈં હજારોં દેવ દેવી તાને
+હાથોં કી હથેલી મેં જમાયે હૈં અખાડે તાનૈ
+તાધિન્ના તાધિન્ના તબલા કિટ કિટ ઉનકી પ્યારી લાગે
+ધુમ કિ્ટ ધુમ કિટ બાજા બાજે નાચત પ્રભૂજી કે આગે
+સૈના મૈ રિઝાવૈ તિરછી ઐડ લગાવે..ઉડ જાવે ભજન ગાકે ॥
+છિન મૈં જાબ દે વો તો નંદીશ્વર દ્વીપ જાય,
+પાંચો મેર વંદ આ મૃદંગ પૈ લગાવે થાપ,
+વંદે ઢાઈ દ્વીપ તેરા દ્વીપ કે શકલ ચૈત્ય,
+તીન લોક માંહિ બિમ્બ પૂજ આવે નિત્ય નિત્ય,
+આબૈ વો ઝપટ સમહી પૈ દોડા લેને દમ..મનમોહન મુસકા કે॥
+અમૃત કી લગી ઝડ બરષૈ રતન ધારા,
+સીરી સીરી ચાલે પોન બોલૈ દેવ જય જય કારા ,
+ભર ભર ઝોરી બર્ષાવૈ ફૂલ દે દે તાલ,
+મહકે સુગંધ ચહક મુચંગ ષટ્તાલ,
+જન્મે યે જિનેન્દ્ર યોં નાભિ કે આનંદ ભયો..
+ગયે ભક્તિ કો બતલાકે ॥લિયા॥`,
+      hi: `लिया रिषभ देव अवतार निरत सुरपति ने किया आके,
+निरत किया आके हर्षा के प्रभूजी के नव भव कूं दरशाके,
+सरर सरर कर सारंगी तंबूरा बाजे पोरी पोरी मटका के, लिया.
+प्रथम प्रकासी वाने इंद्र जाल विद्या ऐसी,
+आजलों जगत मैं सुनी ना कहूं देखी ऐसी,
+आयो है छ्बीलो छटकीलो है मुकुट बंध,
+छ्म्भ देसी कूदो मानु आ कूदो पूनम को चांद,
+मन को हरत गत भरत प्रभू को..पूजै धरनी को शिर नाके ॥
+भूजों पै चढाये हैं हज़ारों देव देवी ताने
+हाथों की हथेली में जमाये हैं अखाडे तानै
+ताधिन्ना ताधिन्ना तबला किट किट उनकी प्यारी लागे
+धुम कि्ट धुम किट बाजा बाजे नाचत प्रभूजी के आगे
+सैना मै रिझावै तिरछी ऐड लगावे..उड जावे भजन गाके ॥
+छिन मैं जाब दे वो तो नंदीश्वर द्वीप जाय,
+पांचो मेर वंद आ मृदंग पै लगावे थाप,
+वंदे ढाई द्वीप तेरा द्वीप के शकल चैत्य,
+तीन लोक मांहि बिम्ब पूज आवे नित्य नित्य,
+आबै वो झपट समही पै दोडा लेने दम..मनमोहन मुसका के॥
+अमृत की लगी झड बरषै रतन धारा,
+सीरी सीरी चाले पोन बोलै देव जय जय कारा ,
+भर भर झोरी बर्षावै फ़ूल दे दे ताल,
+महके सुगंध चहक मुचंग षट्ताल,
+जन्मे ये जिनेन्द्र यों नाभि के आनंद भयो..
+गये भक्ति को बतलाके ॥लिया॥`,
+      sa: "",
+      en: `Liyaa rishabha deva avataara nirata surapati ne kiyaa aake,
+Nirata kiyaa aake harshaa ke prabhoojee ke nava bhava koon darashaake,
+Sarara sarara kara saarangee tanbooraa baaje poree poree matakaa ke, liyaa.
+Prathama prakaasee vaane indra jaala vidyaa aisee,
+Aajalon jagata main sunee naa kahoon dekhee aisee,
+Aayo hai chhbeelo chhatakeelo hai mukuta bandha,
+Chhmbha desee koodo maanu aa koodo poonama ko chaanda,
+Mana ko harata gata bharata prabhoo ko..poojai dharanee ko shira naake | |
+Bhoojon pai chadhaaye hain hajaaron deva devee taane
+Haathon kee hathelee men jamaaye hain akhaade taanai
+Taadhinnaa taadhinnaa tabalaa kita kita unakee pyaaree laage
+Dhuma kita dhuma kita baajaa baaje naachata prabhoojee ke aage
+Sainaa mai rijhaavai tirachhee aida lagaave..uda jaave bhajana gaake | |
+Chhina main jaaba de vo to nandeeshvara dveepa jaaya,
+Paancho mera vanda aa mridanga pai lagaave thaapa,
+Vande dhaaee dveepa teraa dveepa ke shakala chaitya,
+Teena loka maanhi bimba pooja aave nitya nitya,
+Aabai vo jhapata samahee pai dodaa lene dama..manamohana musakaa ke | |
+Amrita kee lagee jhada barashai ratana dhaaraa,
+Seeree seeree chaale pona bolai deva jaya jaya kaaraa ,
+Bhara bhara jhoree barshaavai phoola de de taala,
+Mahake sugandha chahaka muchanga shattaala,
+Janme ye jinendra yon naabhi ke aananda bhayo..
+Gaye bhakti ko batalaake | | liyaa | |`,
+    },
+  },
+  {
+    id: "baje-chhe-badhai",
+    type: "bhajan",
+    title: {
+      gu: "બાજૈ છૈ બધાઈ",
+      hi: "बाजै छै बधाई",
+      sa: "",
+      en: "Baajai Chhai Badhaaee",
+    },
+    text: {
+      gu: `બાજૈ છૈ બધાઈ, રાજા નાભિ કે દરબાર જી
+નાભિ કે દરબાર રાજા નાભિ કે દરબાર જી ॥
+મોરા દેવી બેટો જાયો, જાયો રિષભ કુમાર જી
+અયોધ્યા મેં ઉત્સવ કીનો ,ઘર ઘર મંગલાચાર જી ॥
+ઘન ઘન ઘન ઘન ઘંટા બાજે, દેવ કરે જયકાર જી
+નોપત કે ટંકારો લાગ્યો ,ઝાં ઝાં કી ઝનકાર જી ॥
+હાથી દીના ઘોડા દીના, દીના ગજ અસવાર જી
+નગર સરીસા પટ્ટન દીના, દીના રતન ભંડાર જી ॥
+હીરા દીના પન્ના દીના, લાં લાં કો નહિં પાર જી
+નાભિ રાજા દાન દીનો, ભર ભર મોતિયન થાલ જી ॥
+ગુણીજન ગાવૈ ઐસે, દે દે તાલ જી
+ચિરંજી હો બાલક તેરો, જન હિતકાર જી ॥`,
+      hi: `बाजै छै बधाई, राजा नाभि के दरबार जी
+नाभि के दरबार राजा नाभि के दरबार जी ॥
+मोरा देवी बेटो जायो, जायो रिषभ कुमार जी
+अयोध्या में उत्सव कीनो ,घर घर मंगलाचार जी ॥
+घन घन घन घन घंटा बाजे, देव करे जयकार जी
+नोपत के टंकारो लाग्यो ,झां झां की झनकार जी ॥
+हाथी दीना घोडा दीना, दीना गज असवार जी
+नगर सरीसा पट्टन दीना, दीना रतन भंडार जी ॥
+हीरा दीना पन्ना दीना, लां लां को नहिं पार जी
+नाभि राजा दान दीनो, भर भर मोतियन थाल जी ॥
+गुणीजन गावै ऐसे, दे दे ताल जी
+चिरंजी हो बालक तेरो, जन हितकार जी ॥`,
+      sa: "",
+      en: `Baajai chhai badhaaee, raajaa naabhi ke darabaara jee
+Naabhi ke darabaara raajaa naabhi ke darabaara jee | |
+Moraa devee beto jaayo, jaayo rishabha kumaara jee
+Ayodhyaa men utsava keeno ,ghara ghara mangalaachaara jee | |
+Ghana ghana ghana ghana ghantaa baaje, deva kare jayakaara jee
+Nopata ke tankaaro laagyo ,jhaan jhaan kee jhanakaara jee | |
+Haathee deenaa ghodaa deenaa, deenaa gaja asavaara jee
+Nagara sareesaa pattana deenaa, deenaa ratana bhandaara jee | |
+Heeraa deenaa pannaa deenaa, laan laan ko nahin paara jee
+Naabhi raajaa daana deeno, bhara bhara motiyana thaala jee | |
+Guneejana gaavai aise, de de taala jee
+Chiranjee ho baalaka tero, jana hitakaara jee | |`,
+    },
+  },
+  {
+    id: "madhuban-ke-mandiron-me",
+    type: "bhajan",
+    title: {
+      gu: "મધુબન કે મંદિરોં મેં",
+      hi: "मधुबन के मंदिरों में",
+      sa: "",
+      en: "Madhubana ke Mandiron Men",
+    },
+    text: {
+      gu: `મધુબન કે મંદિરોં મેં, ભગવાન બસ રહા હૈ,
+પારસ પ્રભુ કે દર સે, સોના બરસ રહા હૈ ॥
+અધ્યાત્મ કા યે સોના, પારસ ને ખુદ દિયા હૈ,
+ઋષિયોં ને ઇસ ધરા સે નિર્વાણ પદ લિયા હૈ,
+સદિયોં સે ઇસ શિખર કા, સ્વર્ણિમ સુયશ રહા હૈ ॥ પારસ...॥
+તીર્થંકરોં કે તપ સે, પર્વત હુઆ હૈ પાવન,
+કૈવલ્ય રશ્મિયોં કા, બરસા યહાં પે સાવન,
+ઉસ જ્ઞાન અમૃત જલ સે, પર્વત સરસ રહા હૈ ॥ પારસ...॥
+પર્વત કે ગર્ભ મેં હૈ, રત્નોં કા વો ખજાના,
+જબ તક હૈ ચાઁદ સૂરજ, હોગા નહીં પુરાના,
+જન્મા હૈ જૈન કુલ મેં, તૂ ક્યોં તરસ રહા હૈ ॥ પારસ...॥
+નાગોં કો ભી યે પારસ, રાજેન્દ્ર સમ બનાયે,
+ઉપસર્ગ કે સમય જો, ધરણેન્દ્ર બન કે આયે,
+પારસ કે સિર પે દેવી પદ્‍માવતી યહાં હૈ ॥ પારસ...॥`,
+      hi: `मधुबन के मंदिरों में, भगवान बस रहा है,
+पारस प्रभु के दर से, सोना बरस रहा है ॥
+अध्यात्म का ये सोना, पारस ने खुद दिया है,
+ऋषियों ने इस धरा से निर्वाण पद लिया है,
+सदियों से इस शिखर का, स्वर्णिम सुयश रहा है ॥ पारस...॥
+तीर्थंकरों के तप से, पर्वत हुआ है पावन,
+कैवल्य रश्मियों का, बरसा यहां पे सावन,
+उस ज्ञान अमृत जल से, पर्वत सरस रहा है ॥ पारस...॥
+पर्वत के गर्भ में है, रत्नों का वो खजाना,
+जब तक है चाँद सूरज, होगा नहीं पुराना,
+जन्मा है जैन कुल में, तू क्यों तरस रहा है ॥ पारस...॥
+नागों को भी ये पारस, राजेन्द्र सम बनाये,
+उपसर्ग के समय जो, धरणेन्द्र बन के आये,
+पारस के सिर पे देवी पद्‍मावती यहां है ॥ पारस...॥`,
+      sa: "",
+      en: `Madhubana ke mandiron men, bhagavaana basa rahaa hai,
+Paarasa prabhu ke dara se, sonaa barasa rahaa hai | |
+Adhyaatma kaa ye sonaa, paarasa ne khuda diyaa hai,
+Rishiyon ne isa dharaa se nirvaana pada liyaa hai,
+Sadiyon se isa shikhara kaa, svarnima suyasha rahaa hai | | paarasa... | |
+Teerthankaron ke tapa se, parvata huaa hai paavana,
+Kaivalya rashmiyon kaa, barasaa yahaan pe saavana,
+Usa gyaana amrita jala se, parvata sarasa rahaa hai | | paarasa... | |
+Parvata ke garbha men hai, ratnon kaa vo khajaanaa,
+Jaba taka hai chaanda sooraja, hogaa naheen puraanaa,
+Janmaa hai jaina kula men, too kyon tarasa rahaa hai | | paarasa... | |
+Naagon ko bhee ye paarasa, raajendra sama banaaye,
+Upasarga ke samaya jo, dharanendra bana ke aaye,
+Paarasa ke sira pe devee pad‍maavatee yahaan hai | | paarasa... | |`,
+    },
+  },
+  {
+    id: "tum-gun-aprampar",
+    type: "bhajan",
+    title: {
+      gu: "તુમ ગુણ અપરંપાર",
+      hi: "तुम गुण अपरंपार",
+      sa: "",
+      en: "Tuma Guna Aparanpaara",
+    },
+    text: {
+      gu: `ચન્દ્રોજ્વલ અવિકાર સ્વામી જી ,તુમ ગુણ અપરંપાર
+જબૈ પ્રભૂ ગરભ માહિં આયે, સકલ સુર નર મુનિ હર્ષાયે
+રતન નગરી મેં બરસાયે...
+ઓ૓.... અમિત અમોઘ સુથાર સ્વામી જી...તુમ ગુણ અપરંપાર ॥
+જન્મ પ્રભૂ તુમને જબ લીના, ન્હવન મન્દિર પર હરિ કીના
+ભક્તિ સુર શચિ સહિત બીના...
+ઓ... બોલે જયજયકાર સ્વામી જી...તુમ ગુણ અપરંપાર ॥
+અથિર જગ તુમને જબ જાના, આસ્તવન લોકાંતિક થાના
+ભયે પ્રભૂ જતિ નગન બાના....
+ઓ....ત્યાગરાજ કો ભાર સ્વામી જી...તુમ ગુણ અપરંપાર ॥
+ઘાતિયા પ્રકૃતિ જબહ નાસી, લોક તરુ આલોક પરકાસી
+કરી પ્રભૂ ધર્મ વૃષ્ટિ ખાસી...
+ઓ... કેવલ જ્ઞાન ભંડાર સ્વામી જી...તુમ ગુણ અપરંપાર ॥
+અઘાતિયા પ્રકૃતિ જો વિઘટાઈ, મુક્તિ કાંતા તબ હી પાઈ
+નિરાકુલ આનંદ સુખદાઈ...
+ઓ ...તીન લોક સિરતાજ સ્વામી જી...તુમ ગુણ અપરંપાર ॥
+ચરણ મુનિ જબ તુમરે ધ્યાવે, પાર ગણધર હૂં નહિં પાવૈ
+કહ લગ ભાગચન્દ ગાવે...
+ઓ...ભવસાગર સે પાર સ્વામી જી...તુમ ગુણ અપરંપાર ॥`,
+      hi: `चन्द्रोज्वल अविकार स्वामी जी ,तुम गुण अपरंपार
+जबै प्रभू गरभ माहिं आये, सकल सुर नर मुनि हर्षाये
+रतन नगरी में बरसाये...
+ओ॓.... अमित अमोघ सुथार स्वामी जी...तुम गुण अपरंपार ॥
+जन्म प्रभू तुमने जब लीना, न्हवन मन्दिर पर हरि कीना
+भक्ति सुर शचि सहित बीना...
+ओ... बोले जयजयकार स्वामी जी...तुम गुण अपरंपार ॥
+अथिर जग तुमने जब जाना, आस्तवन लोकांतिक थाना
+भये प्रभू जति नगन बाना....
+ओ....त्यागराज को भार स्वामी जी...तुम गुण अपरंपार ॥
+घातिया प्रकृति जबह नासी, लोक तरु आलोक परकासी
+करी प्रभू धर्म वृष्टि खासी...
+ओ... केवल ज्ञान भंडार स्वामी जी...तुम गुण अपरंपार ॥
+अघातिया प्रकृति जो विघटाई, मुक्ति कांता तब ही पाई
+निराकुल आनंद सुखदाई...
+ओ ...तीन लोक सिरताज स्वामी जी...तुम गुण अपरंपार ॥
+चरण मुनि जब तुमरे ध्यावे, पार गणधर हूं नहिं पावै
+कह लग भागचन्द गावे...
+ओ...भवसागर से पार स्वामी जी...तुम गुण अपरंपार ॥`,
+      sa: "",
+      en: `Chandrojvala avikaara svaamee jee ,tuma guna aparanpaara
+Jabai prabhoo garabha maahin aaye, sakala sura nara muni harshaaye
+Ratana nagaree men barasaaye...
+O.... amita amogha suthaara svaamee jee...tuma guna aparanpaara | |
+Janma prabhoo tumane jaba leenaa, nhavana mandira para hari keenaa
+Bhakti sura shachi sahita beenaa...
+O... bole jayajayakaara svaamee jee...tuma guna aparanpaara | |
+Athira jaga tumane jaba jaanaa, aastavana lokaantika thaanaa
+Bhaye prabhoo jati nagana baanaa....
+O....tyaagaraaja ko bhaara svaamee jee...tuma guna aparanpaara | |
+Ghaatiyaa prakriti jabaha naasee, loka taru aaloka parakaasee
+Karee prabhoo dharma vrishti khaasee...
+O... kevala gyaana bhandaara svaamee jee...tuma guna aparanpaara | |
+Aghaatiyaa prakriti jo vighataaee, mukti kaantaa taba hee paaee
+Niraakula aananda sukhadaaee...
+O ...teena loka sirataaja svaamee jee...tuma guna aparanpaara | |
+Charana muni jaba tumare dhyaave, paara ganadhara hoon nahin paavai
+Kaha laga bhaagachanda gaave...
+O...bhavasaagara se paara svaamee jee...tuma guna aparanpaara | |`,
+    },
+  },
+  {
+    id: "ab-to-chet-parakh-lala",
+    type: "bhajan",
+    title: {
+      gu: "અબ તો ચેત પરખ લાલા",
+      hi: "अब तो चेत परख लाला",
+      sa: "",
+      en: "Aba To Cheta Parakha Laalaa",
+    },
+    text: {
+      gu: `પર્વરાજ પર્યૂષણ આયા દસ ધર્મો કી લે માલા
+મિથ્યાતમ મેં દબી આત્મનિધિ અબ તો ચેત પરખ લાલા ॥
+તૂ અખંડ અવિનાશી ચેતન જ્ઞાતા દૃષ્ટા સિદ્ધ સમાન,
+રાગદ્વેષ પરપરણતિ કારણ સ્વસ્વરૂપ કો કરયો ન ભાન,
+મોહજાલ કી ભૂલ ભુલૈયા સમઝ નરક સી હૈ જ્વાલા ।૧।
+પરમ અહિંસક ક્ષમા ભાવ ભર, તજ દે મિથ્યા માન ગુમાન,
+કપટ કટારી દૂર ફૈંક દે જો ચાહે અપનો કલ્યાણ,
+સત્ય શૌચ સંયમ તપ અનુપમ હૈ અમૃત ભર પી પ્યાલા ।૨।
+પરિગ્રહ ત્યાગ બ્રહ્મ મેં રમજા વીતરાગ દર્શન ગાયો,
+ચિંતામણી સૂ કાગ ઉડા મત નરકુલ ઉત્તમ તૂ પાયો,
+શિવરમણી \`સૌભાગ્ય' દિખા રહી તુઝ અનશ્વર સુખશાલા ।૩।`,
+      hi: `पर्वराज पर्यूषण आया दस धर्मो की ले माला
+मिथ्यातम में दबी आत्मनिधि अब तो चेत परख लाला ॥
+तू अखंड अविनाशी चेतन ज्ञाता दृष्टा सिद्ध समान,
+रागद्वेष परपरणति कारण स्वस्वरूप को करयो न भान,
+मोहजाल की भूल भुलैया समझ नरक सी है ज्वाला ।१।
+परम अहिंसक क्षमा भाव भर, तज दे मिथ्या मान गुमान,
+कपट कटारी दूर फैंक दे जो चाहे अपनो कल्याण,
+सत्य शौच संयम तप अनुपम है अमृत भर पी प्याला ।२।
+परिग्रह त्याग ब्रह्म में रमजा वीतराग दर्शन गायो,
+चिंतामणी सू काग उड़ा मत नरकुल उत्तम तू पायो,
+शिवरमणी \`सौभाग्य' दिखा रही तुझ अनश्वर सुखशाला ।३।`,
+      sa: "",
+      en: `Parvaraaja paryooshana aayaa dasa dharmo kee le maalaa
+Mithyaatama men dabee aatmanidhi aba to cheta parakha laalaa | |
+Too akhanda avinaashee chetana gyaataa drishtaa siddha samaana,
+Raagadvesha paraparanati kaarana svasvaroopa ko karayo na bhaana,
+Mohajaala kee bhoola bhulaiyaa samajha naraka see hai jvaalaa | 1 |
+Parama ahinsaka kshamaa bhaava bhara, taja de mithyaa maana gumaana,
+Kapata kataaree doora phainka de jo chaahe apano kalyaana,
+Satya shaucha sanyama tapa anupama hai amrita bhara pee pyaalaa | 2 |
+Parigraha tyaaga brahma men ramajaa veetaraaga darshana gaayo,
+Chintaamanee soo kaaga udaa mata narakula uttama too paayo,
+Shivaramanee \`saubhaagya' dikhaa rahee tujha anashvara sukhashaalaa | 3 |`,
+    },
+  },
+  {
+    id: "jayjayakar",
+    type: "bhajan",
+    title: {
+      gu: "જયજયકાર",
+      hi: "जयजयकार",
+      sa: "",
+      en: "Jayajayakaara",
+    },
+    text: {
+      gu: `લિયા પ્રભૂ અવતાર જયજયકાર જયજયકાર જયજયકાર।
+ત્રિશલા નંદ કુમાર જયજયકાર જયજયકાર જયજયકાર॥
+આજ ખુશી હૈ આજ ખુશી હૈ, તુમ્હેં ખુશી હૈ હમેં ખુશી હૈ।
+ખુશિયાં અપરમ્પાર ॥ જયજયકાર...॥
+પુષ્પ ઔર રત્નોં કી વર્ષા,સુરપતિ કરતે હર્ષા હર્ષા।
+બજા દુંદુભિ સાર ॥ જયજયકાર... ॥
+ઉમગ ઉમગ નરનારી આતે,નૃત્ય ભજન સંગીત સુનાતે।
+ઇંદ્ર શચી લે લાર ॥ જયજયકાર... ॥
+પ્રભૂ કા અનુપમ રૂપ સુહાયા,નિરખ નિરખ છવિ હરિ લલચાયા।
+કીને નેત્ર હજાર ॥ જયજયકાર... ॥
+જન્મોત્સવ કી શોભા ભારી,દેખો પ્રભૂ કી લગી સવારી।
+જુડ રહી ભીડ અપાર ॥ જયજયકાર... ॥
+આઓ હમ સબ પ્રભુ ગુણ ગાવેં,સત્ય અહિંસા ધ્વજ લહરાયેં।
+જો જગ મંગલાચાર ॥ જયજયકાર... ॥
+પુણ્ય યોગ સૌભાગ્ય હમારા,સફલ હુઆ હૈ જીવન સારા।
+મિલે મોક્ષ દાતાર ॥ જયજયકાર... ॥`,
+      hi: `लिया प्रभू अवतार जयजयकार जयजयकार जयजयकार।
+त्रिशला नंद कुमार जयजयकार जयजयकार जयजयकार॥
+आज खुशी है आज खुशी है, तुम्हें खुशी है हमें खुशी है।
+खुशियां अपरम्पार ॥ जयजयकार...॥
+पुष्प और रत्नों की वर्षा,सुरपति करते हर्षा हर्षा।
+बजा दुंदुभि सार ॥ जयजयकार... ॥
+उमग उमग नरनारी आते,नृत्य भजन संगीत सुनाते।
+इंद्र शची ले लार ॥ जयजयकार... ॥
+प्रभू का अनुपम रूप सुहाया,निरख निरख छवि हरि ललचाया।
+कीने नेत्र हजार ॥ जयजयकार... ॥
+जन्मोत्सव की शोभा भारी,देखो प्रभू की लगी सवारी।
+जुड रही भीड अपार ॥ जयजयकार... ॥
+आओ हम सब प्रभु गुण गावें,सत्य अहिंसा ध्वज लहरायें।
+जो जग मंगलाचार ॥ जयजयकार... ॥
+पुण्य योग सौभाग्य हमारा,सफ़ल हुआ है जीवन सारा।
+मिले मोक्ष दातार ॥ जयजयकार... ॥`,
+      sa: "",
+      en: `Liyaa prabhoo avataara jayajayakaara jayajayakaara jayajayakaara |
+Trishalaa nanda kumaara jayajayakaara jayajayakaara jayajayakaara | |
+Aaja khushee hai aaja khushee hai, tumhen khushee hai hamen khushee hai |
+Khushiyaan aparampaara | | jayajayakaara... | |
+Pushpa aura ratnon kee varshaa,surapati karate harshaa harshaa |
+Bajaa dundubhi saara | | jayajayakaara... | |
+Umaga umaga naranaaree aate,nritya bhajana sangeeta sunaate |
+Indra shachee le laara | | jayajayakaara... | |
+Prabhoo kaa anupama roopa suhaayaa,nirakha nirakha chhavi hari lalachaayaa |
+Keene netra hajaara | | jayajayakaara... | |
+Janmotsava kee shobhaa bhaaree,dekho prabhoo kee lagee savaaree |
+Juda rahee bheeda apaara | | jayajayakaara... | |
+Aao hama saba prabhu guna gaaven,satya ahinsaa dhvaja laharaayen |
+Jo jaga mangalaachaara | | jayajayakaara... | |
+Punya yoga saubhaagya hamaaraa,saphala huaa hai jeevana saaraa |
+Mile moksha daataara | | jayajayakaara... | |`,
+    },
+  },
+  {
+    id: "jay-jinendra-boliye",
+    type: "bhajan",
+    title: {
+      gu: "જય જિનેન્દ્ર બોલિએ",
+      hi: "जय जिनेन्द्र बोलिए",
+      sa: "",
+      en: "Jaya Jinendra Bolie",
+    },
+    text: {
+      gu: `જય જિનેન્દ્ર, જય જિનેન્દ્ર, જય જિનેન્દ્ર બોલિએ।
+જય જિનેન્દ્ર કી ધ્વનિ સે, અપના મૌન ખોલિએ॥
+સુર અસુર જિનેન્દ્ર કી મહિમા કો નહીં ગા સકે।
+ઔર ગૌતમ સ્વામી ન મહિમા કો પાર પા સકે॥
+જય જિનેન્દ્ર બોલકર જિનેન્દ્ર શક્તિ તૌલિએ।
+જય જિનેન્દ્ર, જય જિનેન્દ્ર, જય જિનેન્દ્ર, બોલિએ॥
+જય જિનેન્દ્ર હી હમારા એક માત્ર મંત્ર હો
+જય જિનેન્દ્ર બોલને કો હર મનુષ્ય સ્વતંત્ર હો॥
+જય નેન્દ્ર બોલબોલ ખુદ જિનેન્દ્ર હો લિએ।
+જય જિનેન્દ્ર, જય જિનેન્દ્ર, જય જિનેન્દ્ર બોલિએ॥
+પાપ છોડ ધર્મ છોડ યે જિનેન્દ્ર દેશના।
+અષ્ટ કર્મ કો મરોડ યે જિનેન્દ્ર દેશના॥
+જાગ, જાગ, જગ ચેતન બહુકાલ સો લિએ।
+જય જિનેન્દ્ર, જય જિનેન્દ્ર, જય જિનેન્દ્ર બોલિએ॥
+હૈ જિનેન્દ્ર જ્ઞાન દો, મોક્ષ કા વરદાન દો।
+કર રહે પ્રાર્થના, પ્રાર્થના પર ધ્યાન દો॥
+જય જિનેન્દ્ર બોલકર હૃદય કે દ્વાર ખોલિએ।
+જય જિનેન્દ્ર, જય જિનેન્દ્ર, જય જિનેન્દ્ર બોલિએ॥
+જય જિનેન્દ્ર કી ધ્વનિ સે અપના મૌન ખોલિએ॥`,
+      hi: `जय जिनेन्द्र, जय जिनेन्द्र, जय जिनेन्द्र बोलिए।
+जय जिनेन्द्र की ध्वनि से, अपना मौन खोलिए॥
+सुर असुर जिनेन्द्र की महिमा को नहीं गा सके।
+और गौतम स्वामी न महिमा को पार पा सके॥
+जय जिनेन्द्र बोलकर जिनेन्द्र शक्ति तौलिए।
+जय जिनेन्द्र, जय जिनेन्द्र, जय जिनेन्द्र, बोलिए॥
+जय जिनेन्द्र ही हमारा एक मात्र मंत्र हो
+जय जिनेन्द्र बोलने को हर मनुष्य स्वतंत्र हो॥
+जय नेन्द्र बोलबोल खुद जिनेन्द्र हो लिए।
+जय जिनेन्द्र, जय जिनेन्द्र, जय जिनेन्द्र बोलिए॥
+पाप छोड धर्म छोड ये जिनेन्द्र देशना।
+अष्ट कर्म को मरोड ये जिनेन्द्र देशना॥
+जाग, जाग, जग चेतन बहुकाल सो लिए।
+जय जिनेन्द्र, जय जिनेन्द्र, जय जिनेन्द्र बोलिए॥
+है जिनेन्द्र ज्ञान दो, मोक्ष का वरदान दो।
+कर रहे प्रार्थना, प्रार्थना पर ध्यान दो॥
+जय जिनेन्द्र बोलकर हृदय के द्वार खोलिए।
+जय जिनेन्द्र, जय जिनेन्द्र, जय जिनेन्द्र बोलिए॥
+जय जिनेन्द्र की ध्वनि से अपना मौन खोलिए॥`,
+      sa: "",
+      en: `Jaya jinendra, jaya jinendra, jaya jinendra bolie |
+Jaya jinendra kee dhvani se, apanaa mauna kholie | |
+Sura asura jinendra kee mahimaa ko naheen gaa sake |
+Aura gautama svaamee na mahimaa ko paara paa sake | |
+Jaya jinendra bolakara jinendra shakti taulie |
+Jaya jinendra, jaya jinendra, jaya jinendra, bolie | |
+Jaya jinendra hee hamaaraa eka maatra mantra ho
+Jaya jinendra bolane ko hara manushya svatantra ho | |
+Jaya nendra bolabola khuda jinendra ho lie |
+Jaya jinendra, jaya jinendra, jaya jinendra bolie | |
+Paapa chhoda dharma chhoda ye jinendra deshanaa |
+Ashta karma ko maroda ye jinendra deshanaa | |
+Jaaga, jaaga, jaga chetana bahukaala so lie |
+Jaya jinendra, jaya jinendra, jaya jinendra bolie | |
+Hai jinendra gyaana do, moksha kaa varadaana do |
+Kara rahe praarthanaa, praarthanaa para dhyaana do | |
+Jaya jinendra bolakara hridaya ke dvaara kholie |
+Jaya jinendra, jaya jinendra, jaya jinendra bolie | |
+Jaya jinendra kee dhvani se apanaa mauna kholie | |`,
+    },
+  },
+  {
+    id: "vesh-digambar-dhaar",
+    type: "bhajan",
+    title: {
+      gu: "વેષ દિગમ્બર ધાર",
+      hi: "वेष दिगम्बर धार",
+      sa: "",
+      en: "Vesha Digambara Dhaara",
+    },
+    text: {
+      gu: `વિષયોં કી તૃષ્ણા કો છોડ, સંયમ કી સાધના મેં
+ચલ પડે નેમિ કુમાર ॥
+પરિગ્રહ કી ચિંતા કો તોડકર નિજ કે ચિંતન મેં .
+રમ રહે નેમિ કુમાર, વેષ દિગમ્બર ધાર ।૦।
+યહ જીવ અનાદિ સે, હૈ મોહ સે હારા,
+ચહુંગતિ મેં ભટક રહા, દુખ સહતા બેચારા,
+કોઈ નહીં હૈ શરણ અતઃ, આતમ હી શરણા હૈ,
+જાના જગત અસાર . વેષ દિગમ્બર ધાર ।૧।
+પ્રભૂ ચલ પડે વન કો, ધ્યાયે નિજ ચેતન કો,
+સબ રાગ તંતુ તોડે, કાટે ભવ બંધન કો,
+ફિર મોહ શત્રુ નાશે ઔર ક્ષાયિક ચારિત્ર ધારે,
+જિસ મેં હૈ આનંદ અપાર . વેષ દિગમ્બર ધાર ।૨।
+કર ચાર ઘાતિયા ક્ષય, પ્રગટે ચતુષ્ટ અક્ષય,
+સારી સૃષ્ટિ ઝલકે, પરિણતિ નિજ મેં તન્મય,
+શાશ્વત શિવપદ પાયે ઔર ફિર મુક્તિ વધૂ બ્યાહેં,
+હો ભવ સાગર પાર . વેષ દિગમ્બર ધાર ।૩।`,
+      hi: `विषयों की तृष्णा को छोड, संयम की साधना में
+चल पडे नेमि कुमार ॥
+परिग्रह की चिंता को तोडकर निज के चिंतन में .
+रम रहे नेमि कुमार, वेष दिगम्बर धार ।०।
+यह जीव अनादि से, है मोह से हारा,
+चहुंगति में भटक रहा, दुख सहता बेचारा,
+कोई नहीं है शरण अतः, आतम ही शरणा है,
+जाना जगत असार . वेष दिगम्बर धार ।१।
+प्रभू चल पडे वन को, ध्याये निज चेतन को,
+सब राग तंतु तोडे, काटे भव बंधन को,
+फ़िर मोह शत्रु नाशे और क्षायिक चारित्र धारे,
+जिस में है आनंद अपार . वेष दिगम्बर धार ।२।
+कर चार घातिया क्षय, प्रगटे चतुष्ट अक्षय,
+सारी सृष्टि झलके, परिणति निज में तन्मय,
+शाश्वत शिवपद पाये और फ़िर मुक्ति वधू ब्याहें,
+हो भव सागर पार . वेष दिगम्बर धार ।३।`,
+      sa: "",
+      en: `Vishayon kee trishnaa ko chhoda, sanyama kee saadhanaa men
+Chala pade nemi kumaara | |
+Parigraha kee chintaa ko todakara nija ke chintana men .
+Rama rahe nemi kumaara, vesha digambara dhaara | 0 |
+Yaha jeeva anaadi se, hai moha se haaraa,
+Chahungati men bhataka rahaa, dukha sahataa bechaaraa,
+Koee naheen hai sharana atah, aatama hee sharanaa hai,
+Jaanaa jagata asaara . vesha digambara dhaara | 1 |
+Prabhoo chala pade vana ko, dhyaaye nija chetana ko,
+Saba raaga tantu tode, kaate bhava bandhana ko,
+Phira moha shatru naashe aura kshaayika chaaritra dhaare,
+Jisa men hai aananda apaara . vesha digambara dhaara | 2 |
+Kara chaara ghaatiyaa kshaya, pragate chatushta akshaya,
+Saaree srishti jhalake, parinati nija men tanmaya,
+Shaashvata shivapada paaye aura phira mukti vadhoo byaahen,
+Ho bhava saagara paara . vesha digambara dhaara | 3 |`,
+    },
+  },
+  {
+    id: "baje-kundalpur-men-badhai",
+    type: "bhajan",
+    title: {
+      gu: "બાજે કુણ્ડલપુર મેં બધાઈ",
+      hi: "बाजे कुण्डलपुर में बधाई",
+      sa: "",
+      en: "Baaje Kundalapura Men Badhaaee",
+    },
+    text: {
+      gu: `બાજે કુણ્ડલપુર મેં બધાઈ
+કિ નગરી મેં વીર જન્મે, મહાવીર જી ॥ટેક॥
+જાગે ભાગ હૈં ત્રિશલા માઁ કે..
+ત્રિભુવન કે નાથ જન્મે, મહાવીર જી ।૧।
+શુભ ઘડી જનમ કી આઈ...
+કિ સ્વર્ગ સે દેવ આયે, મહાવીર જી ।૨।
+તુઝે દેવિયાં ઝુલાવે પલના..
+કિ મન મેં મગન હોકે, મહાવીર જી ।૩।
+તેરે પલને મેં હીરે મોતી..
+કિ ડોરિયોં મેં લાલ લટકે, મહાવીર જી ।૪।
+તેરે ન્હવન કરેં મેરુ પર..
+કિ ઇંદ્ર જલ ભર લાયેં, મહાવીર જી ।૫।
+હમ તેરે દરસ કો આયે..
+કિ પાપ સબ કટ જાઐંગે, મહાવીર જી ।૬।`,
+      hi: `बाजे कुण्डलपुर में बधाई
+कि नगरी में वीर जन्मे, महावीर जी ॥टेक॥
+जागे भाग हैं त्रिशला माँ के..
+त्रिभुवन के नाथ जन्मे, महावीर जी ।१।
+शुभ घडी जनम की आई...
+कि स्वर्ग से देव आये, महावीर जी ।२।
+तुझे देवियां झुलावे पलना..
+कि मन में मगन होके, महावीर जी ।३।
+तेरे पलने में हीरे मोती..
+कि डोरियों में लाल लटके, महावीर जी ।४।
+तेरे न्हवन करें मेरु पर..
+कि इंद्र जल भर लायें, महावीर जी ।५।
+हम तेरे दरस को आये..
+कि पाप सब कट जाऐंगे, महावीर जी ।६।`,
+      sa: "",
+      en: `Baaje kundalapura men badhaaee
+Ki nagaree men veera janme, mahaaveera jee | | teka | |
+Jaage bhaaga hain trishalaa maan ke..
+Tribhuvana ke naatha janme, mahaaveera jee | 1 |
+Shubha ghadee janama kee aaee...
+Ki svarga se deva aaye, mahaaveera jee | 2 |
+Tujhe deviyaan jhulaave palanaa..
+Ki mana men magana hoke, mahaaveera jee | 3 |
+Tere palane men heere motee..
+Ki doriyon men laala latake, mahaaveera jee | 4 |
+Tere nhavana karen meru para..
+Ki indra jala bhara laayen, mahaaveera jee | 5 |
+Hama tere darasa ko aaye..
+Ki paapa saba kata jaaainge, mahaaveera jee | 6 |`,
+    },
+  },
+  {
+    id: "raatram-diwas-dewa-tujhee-moorti-dhyanam",
+    type: "bhajan",
+    title: {
+      gu: "રાત્રં દિવસ દેવા તુઝી મૂર્તિ ધ્યાનં",
+      hi: "रात्रं दिवस देवा तुझी मूर्ति ध्यानं",
+      sa: "",
+      en: "Raatran Divasa Devaa Tujhee Moorti Dhyaanan",
+    },
+    text: {
+      gu: `રાત્રં દિવસ દેવા તુઝી મૂર્તિ ધ્યાનં |
+ત્વાચા લો ન અંત સ્વપ્નાત આલે માઝે ભગવંત ||
+અશ્વસેન રાજા હો તુમચે પિતા |
+વામાદેવી રાણી હો તુમચી માતા ||
+ઉદરી જન્માસિ આલે હો ભગવંત ||૧|| ત્વાચા..
+ઇંદ્રઇન્દ્રાણી હો આલે નાચત |
+બાલાસી નેલે હો મેરુ પર્વત ||
+જન્મોત્સવ કરી હો બહુ આનંદિત ||૨|| ત્વાચા..
+નામ ઠેવિલો હો પાર્શ્વનાથ |
+નગ્ન દિગંબર મૂર્તિ હો બહુ શોભત ||
+સિંહાસન છલકે હો રત્નજડિત ||૩|| ત્વાચા..
+વીતરાગ મૂર્તિ હો મંદિરાત |
+દર્શન ધેતા વિઘ્ન હો દૂર હોતાત ||
+આશીર્વાદ દયાવા આમ્હાં ભગવંત ||૪|| ત્વાચા..
+લાસુર ગાવામધ્યે પાર્શ્વનાથ |
+લાસુર ગાવામધ્યે નેમિનાથ ||
+મુનિ શ્રાવક યેતી હો દર્શનાસ ||૫|| ત્વાચા..`,
+      hi: `रात्रं दिवस देवा तुझी मूर्ति ध्यानं |
+त्वाचा लो न अंत स्वप्नात आले माझे भगवंत ||
+अश्वसेन राजा हो तुमचे पिता |
+वामादेवी राणी हो तुमची माता ||
+उदरी जन्मासि आले हो भगवंत ||१|| त्वाचा..
+इंद्रइन्द्राणी हो आले नाचत |
+बालासी नेले हो मेरु पर्वत ||
+जन्मोत्सव करी हो बहु आनंदित ||२|| त्वाचा..
+नाम ठेविलो हो पार्श्वनाथ |
+नग्न दिगंबर मूर्ति हो बहु शोभत ||
+सिंहासन छलके हो रत्नजडित ||३|| त्वाचा..
+वीतराग मूर्ति हो मंदिरात |
+दर्शन धेता विघ्न हो दूर होतात ||
+आशीर्वाद दयावा आम्हां भगवंत ||४|| त्वाचा..
+लासुर गावामध्ये पार्श्वनाथ |
+लासुर गावामध्ये नेमिनाथ ||
+मुनि श्रावक येती हो दर्शनास ||५|| त्वाचा..`,
+      sa: "",
+      en: `Raatran divasa devaa tujhee moorti dhyaanan |
+Tvaachaa lo na anta svapnaata aale maajhe bhagavanta | |
+Ashvasena raajaa ho tumache pitaa |
+Vaamaadevee raanee ho tumachee maataa | |
+Udaree janmaasi aale ho bhagavanta | | 1 | | tvaachaa..
+Indraindraanee ho aale naachata |
+Baalaasee nele ho meru parvata | |
+Janmotsava karee ho bahu aanandita | | 2 | | tvaachaa..
+Naama thevilo ho paarshvanaatha |
+Nagna diganbara moorti ho bahu shobhata | |
+Sinhaasana chhalake ho ratnajadita | | 3 | | tvaachaa..
+Veetaraaga moorti ho mandiraata |
+Darshana dhetaa vighna ho doora hotaata | |
+Aasheervaada dayaavaa aamhaan bhagavanta | | 4 | | tvaachaa..
+Laasura gaavaamadhye paarshvanaatha |
+Laasura gaavaamadhye neminaatha | |
+Muni shraavaka yetee ho darshanaasa | | 5 | | tvaachaa..`,
+    },
+  },
+  {
+    id: "jeevan-hai-pani-ki-boond",
+    type: "bhajan",
+    title: {
+      gu: "જીવન હૈ પાની કી બૂઁદ કબ મિટ જાએ રે",
+      hi: "जीवन है पानी की बूँद कब मिट जाए रे",
+      sa: "",
+      en: "Jeevana hai Paanee Kee Boonda Kaba Mita Jaae re",
+    },
+    text: {
+      gu: `જીવન હૈ પાની કી બૂઁદ કબ મિટ જાએ રે
+હોની અનહોની કબ ક્યા ઘાટ જાએ રે
+જિતના ભી કર જાઓગે, ઉતના હી ફલ પાઓગે
+કરની જો કર જાઓગે, વૈસા હી ફલ પાઓગે
+નીમ કે તરુ મેં નહીં આમ દિખાએ રે
+જીવન હૈ પાની કી બૂઁદ...
+ચાઁદ દિનોં કા જીવન હૈ, ઇસમેં દેખો સુખ કામ હૈ
+જનમ સભી કો માલૂમ હૈ, લેકિન મૃત્યુ સે ગાફિલ હૈ
+જાને કબ તન સે પંક્ષી ઉડ જાએ રે
+જીવન હૈ પાની કી બૂઁદ.........
+કિસ કો મને અપના હૈ, અપના ભી તો સપના હૈ
+જિસકે લિએ માયા જોડી ક્યા વો તેરા અપના હૈ
+તેરા હો બેટા તુઝે આગ લગાએ રે
+જીવન હૈ પાની કી બૂઁદ..........
+ગુરુ જિસ કો છૂ લેતે હૈં વો કુંદન બન જાતા હૈ
+તબ તક સુલગતા દાવાનલ, વો સાવન બન જાતા હૈ
+આતંક કા લોહા અબ પારસ કર લે રે
+જીવન હૈ પાની કી બૂઁદ.......`,
+      hi: `जीवन है पानी की बूँद कब मिट जाए रे
+होनी अनहोनी कब क्या घाट जाए रे
+जितना भी कर जाओगे, उतना ही फल पाओगे
+करनी जो कर जाओगे, वैसा ही फल पाओगे
+नीम के तरु में नहीं आम दिखाए रे
+जीवन है पानी की बूँद...
+चाँद दिनों का जीवन है, इसमें देखो सुख काम है
+जनम सभी को मालूम है, लेकिन मृत्यु से ग़ाफ़िल है
+जाने कब तन से पंक्षी उड़ जाए रे
+जीवन है पानी की बूँद.........
+किस को मने अपना है, अपना भी तो सपना है
+जिसके लिए माया जोड़ी क्या वो तेरा अपना है
+तेरा हो बेटा तुझे आग लगाए रे
+जीवन है पानी की बूँद..........
+गुरु जिस को छू लेते हैं वो कुंदन बन जाता है
+तब तक सुलगता दावानल, वो सावन बन जाता है
+आतंक का लोहा अब पारस कर ले रे
+जीवन है पानी की बूँद.......`,
+      sa: "",
+      en: `Jeevana hai paanee kee boonda kaba mita jaae re
+Honee anahonee kaba kyaa ghaata jaae re
+Jitanaa bhee kara jaaoge, utanaa hee phala paaoge
+Karanee jo kara jaaoge, vaisaa hee phala paaoge
+Neema ke taru men naheen aama dikhaae re
+Jeevana hai paanee kee boonda...
+Chaanda dinon kaa jeevana hai, isamen dekho sukha kaama hai
+Janama sabhee ko maalooma hai, lekina mrityu se gaaphila hai
+Jaane kaba tana se pankshee uda jaae re
+Jeevana hai paanee kee boonda.........
+Kisa ko mane apanaa hai, apanaa bhee to sapanaa hai
+Jisake lie maayaa jodee kyaa vo teraa apanaa hai
+Teraa ho betaa tujhe aaga lagaae re
+Jeevana hai paanee kee boonda..........
+Guru jisa ko chhoo lete hain vo kundana bana jaataa hai
+Taba taka sulagataa daavaanala, vo saavana bana jaataa hai
+Aatanka kaa lohaa aba paarasa kara le re
+Jeevana hai paanee kee boonda.......`,
+    },
+  },
+  {
+    id: "jin-mandir-jin-mandir-aana-sabhi",
+    type: "bhajan",
+    title: {
+      gu: "જિન મંદિર જિન મંદિર આના સભી,આના સભી ઘર છોડકે, મોહ છોડકે",
+      hi: "जिन मंदिर जिन मंदिर आना सभी,आना सभी घर छोड़के, मोह छोड़के",
+      sa: "",
+      en: "Jina Mandira Jina Mandira Aanaa Sabhee,aanaa Sabhee Ghara Chhodake, Moha Chhodake",
+    },
+    text: {
+      gu: `તર્જ- પરદેસી પરદેસી જાના નહીં..!!
+જિન મંદિર જિન મંદિર આના સભી,
+આના સભી ઘર છોડકે, મોહ છોડકે
+જિન મંદિર મેરે ભાઈ રોજ હૈ આના
+ઇસે યાદ રખના કભી ભૂલ ના જાના। જિન મંદિર…..!!
+ચાર કષાયેં તુમને પાલી પાપ કિયા,પાપ કિયા
+નર ભવ અપના યોં હી તો બર્બાદ કિયા,બર્બાદ કિયા।
+જૈની હોકર જિન મંદિર કો છોડ દિયા,છોડ દિયા।
+દુનિયા કે કામોં મેં સમય ગુજાર દિયા,ગુજાર દિયા।
+જિન મંદિર મેરે ભાઈ…….।
+જૈન ધર્મ હમકો યે સિખલાતા હૈ સિખલાતા હૈ
+વસ્તુ સ્વરૂપ સ્વતંત્ર સમઝો સમઝાતા હૈ,સમઝાતા હૈ।
+જીવ માત્ર ભગવાન હમેં સિખલાતા હૈ,સિખલાતા હૈ।
+કરો આત્મ કલ્યાણ સમય અબ જાતા હૈ।
+જિન મંદિર મેરે ભાઈ…….।
+ક્યોં જાતા ગિરનાર અરે જાતા કાશી,જાતા કાશી।
+ઘર મેં હી તૂ દેખ અરે ઘર કા વાશી,ઘર કા વાશી।
+વીર પ્રભુ કી દિવ્ય દેશના મેં આયા,મેં આયા।
+અપના પ્રભુ તો અપને અંદર મેં છાયા,મેં છાયા।
+જિન મંદિર મેરે ભાઈ……..।`,
+      hi: `तर्ज़- परदेसी परदेसी जाना नहीं..!!
+जिन मंदिर जिन मंदिर आना सभी,
+आना सभी घर छोड़के, मोह छोड़के
+जिन मंदिर मेरे भाई रोज़ है आना
+इसे याद रखना कभी भूल ना जाना। जिन मंदिर…..!!
+चार कषायें तुमने पाली पाप किया,पाप किया
+नर भव अपना यों ही तो बर्बाद किया,बर्बाद किया।
+जैनी होकर जिन मंदिर को छोड़ दिया,छोड़ दिया।
+दुनिया के कामों में समय गुजार दिया,गुजार दिया।
+जिन मंदिर मेरे भाई…….।
+जैन धर्म हमको ये सिखलाता है सिखलाता है
+वस्तु स्वरूप स्वतंत्र समझो समझाता है,समझाता है।
+जीव मात्र भगवान हमें सिखलाता है,सिखलाता है।
+करो आत्म कल्याण समय अब जाता है।
+जिन मंदिर मेरे भाई…….।
+क्यों जाता गिरनार अरे जाता काशी,जाता काशी।
+घर में ही तू देख अरे घर का वाशी,घर का वाशी।
+वीर प्रभु की दिव्य देशना में आया,में आया।
+अपना प्रभु तो अपने अंदर में छाया,में छाया।
+जिन मंदिर मेरे भाई……..।`,
+      sa: "",
+      en: `Tarja- paradesee paradesee jaanaa naheen..!!
+Jina mandira jina mandira aanaa sabhee,
+Aanaa sabhee ghara chhodake, moha chhodake
+Jina mandira mere bhaaee roja hai aanaa
+Ise yaada rakhanaa kabhee bhoola naa jaanaa | jina mandira…..!!
+Chaara kashaayen tumane paalee paapa kiyaa,paapa kiyaa
+Nara bhava apanaa yon hee to barbaada kiyaa,barbaada kiyaa |
+Jainee hokara jina mandira ko chhoda diyaa,chhoda diyaa |
+Duniyaa ke kaamon men samaya gujaara diyaa,gujaara diyaa |
+Jina mandira mere bhaaee……. |
+Jaina dharma hamako ye sikhalaataa hai sikhalaataa hai
+Vastu svaroopa svatantra samajho samajhaataa hai,samajhaataa hai |
+Jeeva maatra bhagavaana hamen sikhalaataa hai,sikhalaataa hai |
+Karo aatma kalyaana samaya aba jaataa hai |
+Jina mandira mere bhaaee……. |
+Kyon jaataa giranaara are jaataa kaashee,jaataa kaashee |
+Ghara men hee too dekha are ghara kaa vaashee,ghara kaa vaashee |
+Veera prabhu kee divya deshanaa men aayaa,men aayaa |
+Apanaa prabhu to apane andara men chhaayaa,men chhaayaa |
+Jina mandira mere bhaaee…….. |`,
+    },
+  },
+  {
+    id: "ghadi-na-rahegi-ye-pal-na-rahega",
+    type: "bhajan",
+    title: {
+      gu: "ઘડી ના રહેગી યે પલ ના રહેગા",
+      hi: "घड़ी ना रहेगी ये पल ना रहेगा",
+      sa: "",
+      en: "Ghadee Naa Rahegee Ye Pala Naa Rahegaa",
+    },
+    text: {
+      gu: `જો આજ દિન હૈ વો, કલ ના રહેગા, કલ ના રહેગા,
+ઘડી ના રહેગી યે પલ ના રહેગા ।
+સમઝ સીખ ગુરુ કી વાણી, ફિરકો કહેગા, ફિરકો કહેગા,
+ઘડી ના રહેગી યે પલ ના રહેગા ।।ટેક।।
+જગ ભોગોં કે પીછે, અનન્તોં કાલ કાલ બીતે હૈં ।
+ઇસ આશા તૃષ્ણા કે અભી ભી સપને રીતે હૈં ।
+બના મૂઢ કબલોં મન પર, ચલતા રહેગા-૨ ।।ઘડી.. ।૧।
+અરે ઇસ માટી કે તન પે, વૃથા અભિમાન હૈ તેરા ।
+પડા રહ જાયગા વૈભવ, ઉઠેગા છોડ જબ ડેરા ।
+નહીં સાથ આયા ન જાતે, કોઈ સંગ રહેગા-૨ ।।ઘડી.. ।૨।
+જ્ઞાનદૃગ ખોલકર ચેતન, ભેદવિજ્ઞાન ઘટ ભર લે ।
+સહજ \`સૌભાગ્ય' સુખ સાધન,મુક્તિ રમણી સખા વર લે।
+યહી એક પદ હૈ પ્રિયવર, અમર જો રહેગા-૨ ।।ઘડી.. ।૩।`,
+      hi: `जो आज दिन है वो, कल ना रहेगा, कल ना रहेगा,
+घड़ी ना रहेगी ये पल ना रहेगा ।
+समझ सीख गुरु की वाणी, फिरको कहेगा, फिरको कहेगा,
+घड़ी ना रहेगी ये पल ना रहेगा ।।टेक।।
+जग भोगों के पीछे, अनन्तों काल काल बीते हैं ।
+इस आशा तृष्णा के अभी भी सपने रीते हैं ।
+बना मूढ़ कबलों मन पर, चलता रहेगा-२ ।।घड़ी.. ।१।
+अरे इस माटी के तन पे, वृथा अभिमान है तेरा ।
+पड़ा रह जायगा वैभव, उठेगा छोड़ जब डेरा ।
+नहीं साथ आया न जाते, कोई संग रहेगा-२ ।।घड़ी.. ।२।
+ज्ञानदृग खोलकर चेतन, भेदविज्ञान घट भर ले ।
+सहज \`सौभाग्य' सुख साधन,मुक्ति रमणी सखा वर ले।
+यही एक पद है प्रियवर, अमर जो रहेगा-२ ।।घड़ी.. ।३।`,
+      sa: "",
+      en: `Jo aaja dina hai vo, kala naa rahegaa, kala naa rahegaa,
+Ghadee naa rahegee ye pala naa rahegaa |
+Samajha seekha guru kee vaanee, phirako kahegaa, phirako kahegaa,
+Ghadee naa rahegee ye pala naa rahegaa | | teka | |
+Jaga bhogon ke peechhe, ananton kaala kaala beete hain |
+Isa aashaa trishnaa ke abhee bhee sapane reete hain |
+Banaa moodha kabalon mana para, chalataa rahegaa-2 | | ghadee.. | 1 |
+Are isa maatee ke tana pe, vrithaa abhimaana hai teraa |
+Padaa raha jaayagaa vaibhava, uthegaa chhoda jaba deraa |
+Naheen saatha aayaa na jaate, koee sanga rahegaa-2 | | ghadee.. | 2 |
+Gyaanadriga kholakara chetana, bhedavigyaana ghata bhara le |
+Sahaja \`saubhaagya' sukha saadhana,mukti ramanee sakhaa vara le |
+Yahee eka pada hai priyavara, amara jo rahegaa-2 | | ghadee.. | 3 |`,
+    },
+  },
+  {
+    id: "rom-rom-se-nikle-prabhuvar",
+    type: "bhajan",
+    title: {
+      gu: "રોમ રોમ સે નિકલે પ્રભુવર",
+      hi: "रोम रोम से निकले प्रभुवर",
+      sa: "",
+      en: "Roma Roma se Nikale Prabhuvara",
+    },
+    text: {
+      gu: `રોમ રોમ સે નિકલે પ્રભુવર
+રોમ રોમ સે નિકલે પ્રભુવર નામ તુમ્હારા, હાં નામ તુમ્હારા ।
+ઐસી ભક્તિ કરૂં પ્રભુ જી, પાઊં ન જન્મ દુબારા ॥
+જિનમંદિર મેં આયા, જિનવર દર્શન પાયા,
+અંતર્મુખ મુદ્રા કો દેખા, આતમ દર્શન પાયા,
+જનમ જનમ તક ના ભૂલૂંગા, યહ ઉપકાર તુમ્હારા ॥
+અરહંતોં કો જાના, આતમ કો પહિચાના,
+દ્રવ્ય ઔર ગુણ પર્યાયોં સે, જિન સમ નિજ કો માના,
+ભેદ જ્ઞાન હી મહામંત્ર હૈ, મોહ તિમિર ક્ષયકારા ॥
+પંચ મહાવ્રત ધારૂં, સમિતિ ગુપ્તિ અપનાઊં,
+નિર્ગ્રથોં કે પથ પર ચલકર, મોક્ષ મહલ મેં આઊં,
+પુણ્ય પાપ કી બંધ શ્રૄંખલા, નષ્ટ કરૂં દુખકારા ॥
+દેવ-શાસ્ત્ર-ગુરુ મેરે, હૈં સચ્ચે હિતકારી,
+સહજ શુદ્ધ ચૈતન્ય રાજ કી, મહિમા જગ સે ન્યારી,
+ભેદજ્ઞાન બિન નહીં મિલેગા, ભવ કા કભી કિનારા ॥`,
+      hi: `रोम रोम से निकले प्रभुवर
+रोम रोम से निकले प्रभुवर नाम तुम्हारा, हां नाम तुम्हारा ।
+ऐसी भक्ति करूं प्रभु जी, पाऊं न जन्म दुबारा ॥
+जिनमंदिर में आया, जिनवर दर्शन पाया,
+अंतर्मुख मुद्रा को देखा, आतम दर्शन पाया,
+जनम जनम तक ना भूलूंगा, यह उपकार तुम्हारा ॥
+अरहंतों को जाना, आतम को पहिचाना,
+द्रव्य और गुण पर्यायों से, जिन सम निज को माना,
+भेद ज्ञान ही महामंत्र है, मोह तिमिर क्षयकारा ॥
+पंच महाव्रत धारूं, समिति गुप्ति अपनाऊं,
+निर्ग्रथों के पथ पर चलकर, मोक्ष महल में आऊं,
+पुण्य पाप की बंध श्रॄंखला, नष्ट करूं दुखकारा ॥
+देव-शास्त्र-गुरु मेरे, हैं सच्चे हितकारी,
+सहज शुद्ध चैतन्य राज की, महिमा जग से न्यारी,
+भेदज्ञान बिन नहीं मिलेगा, भव का कभी किनारा ॥`,
+      sa: "",
+      en: `Roma roma se nikale prabhuvara
+Roma roma se nikale prabhuvara naama tumhaaraa, haan naama tumhaaraa |
+Aisee bhakti karoon prabhu jee, paaoon na janma dubaaraa | |
+Jinamandira men aayaa, jinavara darshana paayaa,
+Antarmukha mudraa ko dekhaa, aatama darshana paayaa,
+Janama janama taka naa bhooloongaa, yaha upakaara tumhaaraa | |
+Arahanton ko jaanaa, aatama ko pahichaanaa,
+Dravya aura guna paryaayon se, jina sama nija ko maanaa,
+Bheda gyaana hee mahaamantra hai, moha timira kshayakaaraa | |
+Pancha mahaavrata dhaaroon, samiti gupti apanaaoon,
+Nirgrathon ke patha para chalakara, moksha mahala men aaoon,
+Punya paapa kee bandha shrreenkhalaa, nashta karoon dukhakaaraa | |
+Deva-shaastra-guru mere, hain sachche hitakaaree,
+Sahaja shuddha chaitanya raaja kee, mahimaa jaga se nyaaree,
+Bhedagyaana bina naheen milegaa, bhava kaa kabhee kinaaraa | |`,
+    },
+  },
+  {
+    id: "bin-gyan-jiya-to-jeena-kya",
+    type: "bhajan",
+    title: {
+      gu: "બિન જ્ઞાન જિયા તો જીના ક્યા",
+      hi: "बिन ज्ञान जिया तो जीना क्या",
+      sa: "",
+      en: "Bina Gyaana Jiyaa To Jeenaa Kyaa",
+    },
+    text: {
+      gu: `સંસાર મહા અઘસાગર મેં, વહ મૂઢ મહા દુ:ખ ભરતા હૈ ।
+જડ નશ્વર ભોગ સમઝ અપને, જો પર મેં મમતા કરતા હૈ।
+બિન જ્ઞાન જિયા તો જીના ક્યા - ૨
+પુણ્ય ઉદય નર જન્મ મિલા શુભ,
+વ્યર્થ ગમોં ફલ લીના ક્યા ॥
+કષ્ટ પડા હૈ જો જો ઉઠાના, લાખ ચૌરાસી મેં ગોતે ખાના
+ભૂલ ગયા તૂં કિસ મસ્તી મેં ઉસદિન થા પ્રણ કીના ક્યા ॥
+બચપન બીતા બીતી જવાની, સર પર છાઈ મૌત ડરાની
+યે કંચન સી કાયા ખોકર, બાંધા હૈ ગાઁઠ નગીના ક્યા ॥
+દિખતે જો જગ ભોગ રંગીલે, ઊપર મીઠે હૈં જહરીલે
+ભવ ભય કારણ નર્ક નિશાની, હૈ તૂને ચિત દીના ક્યા ॥
+અંતર આતમ અનુભવ કરલે, ભેદ વિજ્ઞાન સુધા ઘટ ભરલે
+અક્ષય પદ \`સૌભાગ્ય' મિલેગા,પુનિપુનિ મરના જીના ક્યા ॥`,
+      hi: `संसार महा अघसागर में, वह मूढ़ महा दु:ख भरता है ।
+जड़ नश्वर भोग समझ अपने, जो पर में ममता करता है।
+बिन ज्ञान जिया तो जीना क्या - २
+पुण्य उदय नर जन्म मिला शुभ,
+व्यर्थ गमों फल लीना क्या ॥
+कष्ट पड़ा है जो जो उठाना, लाख चौरासी में गोते खाना
+भूल गया तूं किस मस्ती में उसदिन था प्रण कीना क्या ॥
+बचपन बीता बीती जवानी, सर पर छाई मौत डरानी
+ये कंचन सी काया खोकर, बांधा है गाँठ नगीना क्या ॥
+दिखते जो जग भोग रंगीले, ऊपर मीठे हैं जहरीले
+भव भय कारण नर्क निशानी, है तूने चित दीना क्या ॥
+अंतर आतम अनुभव करले, भेद विज्ञान सुधा घट भरले
+अक्षय पद \`सौभाग्य' मिलेगा,पुनिपुनि मरना जीना क्या ॥`,
+      sa: "",
+      en: `Sansaara mahaa aghasaagara men, vaha moodha mahaa du:kha bharataa hai |
+Jada nashvara bhoga samajha apane, jo para men mamataa karataa hai |
+Bina gyaana jiyaa to jeenaa kyaa - 2
+Punya udaya nara janma milaa shubha,
+Vyartha gamon phala leenaa kyaa | |
+Kashta padaa hai jo jo uthaanaa, laakha chauraasee men gote khaanaa
+Bhoola gayaa toon kisa mastee men usadina thaa prana keenaa kyaa | |
+Bachapana beetaa beetee javaanee, sara para chhaaee mauta daraanee
+Ye kanchana see kaayaa khokara, baandhaa hai gaantha nageenaa kyaa | |
+Dikhate jo jaga bhoga rangeele, oopara meethe hain jahareele
+Bhava bhaya kaarana narka nishaanee, hai toone chita deenaa kyaa | |
+Antara aatama anubhava karale, bheda vigyaana sudhaa ghata bharale
+Akshaya pada \`saubhaagya' milegaa,punipuni maranaa jeenaa kyaa | |`,
+    },
+  },
+  {
+    id: "koi-it-aao-ji",
+    type: "bhajan",
+    title: {
+      gu: "કોઈ ઇત આઓ જી",
+      hi: "कोई इत आओ जी",
+      sa: "",
+      en: "Koee Ita Aao Jee",
+    },
+    text: {
+      gu: `કોઈ ઇત આઓ જી
+કોઈ ઇત આઓ જી, વીતરાગ ધ્યાઓ જી,
+જિનગુણ કી આરતી સંજોય લાઓ જી ॥
+દયા કા હો દીપક, ક્ષમા કી હો જ્યોત,
+તેલ સત્ય સંયમ મેં, જ્ઞાન કા ઉદ્યોત,
+મોહતમ નશાઓ જી, વીતરાગ ધ્યાઓ જી ॥
+સંયમ કી આરતી મેં, સમકિત સુગંધ,
+દર્શ જ્ઞાન ચારિત્ર કી, હૃદય મેં ઉમંગ,
+ભેદ જ્ઞાન પાઓ જી, વીતરાગ ધ્યાઓ જી ॥
+નિર-તન કો પાય કર, ભૂલયો મતી,
+બન જા દિગમ્બર, મહાવ્રત યતી,
+ભાવના યે ભાવો જી, વીતરાગ ધ્યાઓ જી ॥
+જિનગુણ કી આરતી મેં, ધ્યાન કી કલા,
+ભવ ભવ કે લાગે સબ, કર્મ લો ગલા,
+ભવભ્રમણ મિટાઓ જી, વીતરાગ ધ્યાઓ જી ॥`,
+      hi: `कोई इत आओ जी
+कोई इत आओ जी, वीतराग ध्याओ जी,
+जिनगुण की आरती संजोय लाओ जी ॥
+दया का हो दीपक, क्षमा की हो ज्योत,
+तेल सत्य संयम में, ज्ञान का उद्योत,
+मोहतम नशाओ जी, वीतराग ध्याओ जी ॥
+संयम की आरती में, समकित सुगंध,
+दर्श ज्ञान चारित्र की, हृदय में उमंग,
+भेद ज्ञान पाओ जी, वीतराग ध्याओ जी ॥
+निर-तन को पाय कर, भूलयो मती,
+बन जा दिगम्बर, महाव्रत यती,
+भावना ये भावो जी, वीतराग ध्याओ जी ॥
+जिनगुण की आरती में, ध्यान की कला,
+भव भव के लागे सब, कर्म लो गला,
+भवभ्रमण मिटाओ जी, वीतराग ध्याओ जी ॥`,
+      sa: "",
+      en: `Koee ita aao jee
+Koee ita aao jee, veetaraaga dhyaao jee,
+Jinaguna kee aaratee sanjoya laao jee | |
+Dayaa kaa ho deepaka, kshamaa kee ho jyota,
+Tela satya sanyama men, gyaana kaa udyota,
+Mohatama nashaao jee, veetaraaga dhyaao jee | |
+Sanyama kee aaratee men, samakita sugandha,
+Darsha gyaana chaaritra kee, hridaya men umanga,
+Bheda gyaana paao jee, veetaraaga dhyaao jee | |
+Nira-tana ko paaya kara, bhoolayo matee,
+Bana jaa digambara, mahaavrata yatee,
+Bhaavanaa ye bhaavo jee, veetaraaga dhyaao jee | |
+Jinaguna kee aaratee men, dhyaana kee kalaa,
+Bhava bhava ke laage saba, karma lo galaa,
+Bhavabhramana mitaao jee, veetaraaga dhyaao jee | |`,
+    },
+  },
+  {
+    id: "gaa-re-bhaiya-ga-rebhaiya",
+    type: "bhajan",
+    title: {
+      gu: "ગા રે ભૈયા, ગા રે ભૈયા",
+      hi: "गा रे भैया, गा रे भैया",
+      sa: "",
+      en: "Gaa re Bhaiyaa, Gaa re Bhaiyaa",
+    },
+    text: {
+      gu: `ગા રે ભૈયા, ગા રે ભૈયા
+ગા રે ભૈયા, ગા રે ભૈયા, ગા રે ભૈયા ગા,
+પ્રભુ ગુણ ગા તૂ સમય ના ગવાં ॥
+કિસકો સમઝે અપના પ્યારે, સ્વારથ કે હૈં રિશ્તે સારે
+ફિર ક્યોં પ્રીત લગાયે, ઓ ભૈયા જી॥ ગા રે ભૈયા...।૧।
+દુનિયાં કે સબ લોગ નિરાલે, બાહર ઉજલે અંદર કાલે
+ફિર ક્યોં મોહ બઢાયે, ઓ બાબૂ જી॥ ગા રે ભૈયા...।૨।
+મિટ્ટી કી યહ નશ્વર કાયા, જિસમેં આતમ રામ સમાયા
+ઉસકા ધ્યાન લગા લે, ઓ દાદા જી॥ ગા રે ભૈયા...।૩।
+સ્વારથ કી દુનિયાં કો તજકર,
+નિશ દિન પ્રભુ કા નામ જપાકર
+સમયગ્દર્શન પાલે, ઓ કાકા જી॥ ગા રે ભૈયા...।૪।
+શુદ્ધાતમ કો લક્ષ્ય બનાકર, નિર્મલ ભેદજ્ઞાન પ્રગટાકર
+મુક્તિ વધૂ કો પાલે, ઓ લાલા જી॥ ગા રે ભૈયા...।૫।`,
+      hi: `गा रे भैया, गा रे भैया
+गा रे भैया, गा रे भैया, गा रे भैया गा,
+प्रभु गुण गा तू समय ना गवां ॥
+किसको समझे अपना प्यारे, स्वारथ के हैं रिश्ते सारे
+फ़िर क्यों प्रीत लगाये, ओ भैया जी॥ गा रे भैया...।१।
+दुनियां के सब लोग निराले, बाहर उजले अंदर काले
+फ़िर क्यों मोह बढाये, ओ बाबू जी॥ गा रे भैया...।२।
+मिट्टी की यह नश्वर काया, जिसमें आतम राम समाया
+उसका ध्यान लगा ले, ओ दादा जी॥ गा रे भैया...।३।
+स्वारथ की दुनियां को तजकर,
+निश दिन प्रभु का नाम जपाकर
+समयग्दर्शन पाले, ओ काका जी॥ गा रे भैया...।४।
+शुद्धातम को लक्ष्य बनाकर, निर्मल भेदज्ञान प्रगटाकर
+मुक्ति वधू को पाले, ओ लाला जी॥ गा रे भैया...।५।`,
+      sa: "",
+      en: `Gaa re bhaiyaa, gaa re bhaiyaa
+Gaa re bhaiyaa, gaa re bhaiyaa, gaa re bhaiyaa gaa,
+Prabhu guna gaa too samaya naa gavaan | |
+Kisako samajhe apanaa pyaare, svaaratha ke hain rishte saare
+Phira kyon preeta lagaaye, o bhaiyaa jee | | gaa re bhaiyaa... | 1 |
+Duniyaan ke saba loga niraale, baahara ujale andara kaale
+Phira kyon moha badhaaye, o baaboo jee | | gaa re bhaiyaa... | 2 |
+Mittee kee yaha nashvara kaayaa, jisamen aatama raama samaayaa
+Usakaa dhyaana lagaa le, o daadaa jee | | gaa re bhaiyaa... | 3 |
+Svaaratha kee duniyaan ko tajakara,
+Nisha dina prabhu kaa naama japaakara
+Samayagdarshana paale, o kaakaa jee | | gaa re bhaiyaa... | 4 |
+Shuddhaatama ko lakshya banaakara, nirmala bhedagyaana pragataakara
+Mukti vadhoo ko paale, o laalaa jee | | gaa re bhaiyaa... | 5 |`,
+    },
+  },
+  {
+    id: "kaha-maanle-o-mere-bhaiya",
+    type: "bhajan",
+    title: {
+      gu: "કહા માનલે ઓ મેરે ભૈયા",
+      hi: "कहा मानले ओ मेरे भैया",
+      sa: "",
+      en: "Kahaa Maanale o Mere Bhaiyaa",
+    },
+    text: {
+      gu: `કહા માનલે ઓ મેરે ભૈયા, ભવ ભવ ડુલને મેં ક્યા સાર હૈ
+તૂ બનજા બને તો પરમાત્મા,તેરી આત્મા કી શક્તિ અપાર હૈ ॥
+ભોગ બુરે હૈં ત્યાગ સજન યે, વિપદ કરેં ઔર નરક ધરેં
+ધ્યાન હી હૈ એક નાવ સજન જો, ઇધર તિરેં ઔર ઉધર વરેં
+ઝૂઁઠી પ્રીતિ મેં તેરી હી હાર હૈ,વાણી ગણધરકી યે હિતકાર હૈ ॥
+લોભ પાપ કા બાપ સજન ક્યોં રાગ કરે દુ:ખભાર ભરે
+જ્ઞાન કસૌટી પરખ સજન મત છલિયોં કા વિશ્વાસ કરે
+ઠગ આઠોં કી યહાઁ ભરમાર હૈ, ઇન્હેં જીતે તો બેડા પાર હૈ ॥
+નરતન કા \`સૌભાગ્ય' સજન યે હાથ લગે ના હાથ લગે
+કર આતમરસ પાન સજન જો જનમ ભગે ઔર મરણ ભગે
+મોક્ષ મહલ કા યે હી દ્વાર હૈ, વીતરાગી હી બનના સાર હૈ ॥`,
+      hi: `कहा मानले ओ मेरे भैया, भव भव डुलने में क्या सार है
+तू बनजा बने तो परमात्मा,तेरी आत्मा की शक्ति अपार है ॥
+भोग बुरे हैं त्याग सजन ये, विपद करें और नरक धरें
+ध्यान ही है एक नाव सजन जो, इधर तिरें और उधर वरें
+झूँठी प्रीति में तेरी ही हार है,वाणी गणधरकी ये हितकार है ॥
+लोभ पाप का बाप सजन क्यों राग करे दु:खभार भरे
+ज्ञान कसौटी परख सजन मत छलियों का विश्वास करे
+ठग आठों की यहाँ भरमार है, इन्हें जीते तो बेड़ा पार है ॥
+नरतन का \`सौभाग्य' सजन ये हाथ लगे ना हाथ लगे
+कर आतमरस पान सजन जो जनम भगे और मरण भगे
+मोक्ष महल का ये ही द्वार है, वीतरागी ही बनना सार है ॥`,
+      sa: "",
+      en: `Kahaa maanale o mere bhaiyaa, bhava bhava dulane men kyaa saara hai
+Too banajaa bane to paramaatmaa,teree aatmaa kee shakti apaara hai | |
+Bhoga bure hain tyaaga sajana ye, vipada karen aura naraka dharen
+Dhyaana hee hai eka naava sajana jo, idhara tiren aura udhara varen
+Jhoonthee preeti men teree hee haara hai,vaanee ganadharakee ye hitakaara hai | |
+Lobha paapa kaa baapa sajana kyon raaga kare du:khabhaara bhare
+Gyaana kasautee parakha sajana mata chhaliyon kaa vishvaasa kare
+Thaga aathon kee yahaan bharamaara hai, inhen jeete to bedaa paara hai | |
+Naratana kaa \`saubhaagya' sajana ye haatha lage naa haatha lage
+Kara aatamarasa paana sajana jo janama bhage aura marana bhage
+Moksha mahala kaa ye hee dvaara hai, veetaraagee hee bananaa saara hai | |`,
+    },
+  },
+  {
+    id: "aayo-aayo-re-hamaro-bado-baag",
+    type: "bhajan",
+    title: {
+      gu: "આયો આયો રે હમારો બડો ભાગ",
+      hi: "आयो आयो रे हमारो बडो भाग",
+      sa: "",
+      en: "Aayo Aayo re Hamaaro Bado Bhaaga",
+    },
+    text: {
+      gu: `આયો આયો રે હમારો બડો ભાગ
+આયો આયો રે હમારો બડો ભાગ, કિ હમ આયે પૂજન કો,
+પૂજન કો પ્રભુ દર્શન કો, પાવન પ્રભુ પદ દર્શન કો॥
+જિનવર કી અંતર્મુખ મુદ્રા આતમ દર્શ કરાતી,
+મોહ મહાતમ પ્રક્ષાલન કર શુદ્ધ સ્વરૂપ દિખાતી ।૧।
+ભવ્ય અકૃત્રિમ ચૈત્યાલય કી જગ મેં શોભા ભારી,
+મંગલ ધ્વજ લે સુરપતિ આયે શોભા જિનકી ન્યારી ।૨।
+અનેકાંત મય વસ્તુ સમઝ જિન શાસન ધ્વજ લહરાવેં,
+સ્યાદ્વાદ શૈલી સે પ્રભુવર મુક્તિ માર્ગ સમઝાવેં ।૩।`,
+      hi: `आयो आयो रे हमारो बडो भाग
+आयो आयो रे हमारो बडो भाग, कि हम आये पूजन को,
+पूजन को प्रभु दर्शन को, पावन प्रभु पद दर्शन को॥
+जिनवर की अंतर्मुख मुद्रा आतम दर्श कराती,
+मोह महातम प्रक्षालन कर शुद्ध स्वरूप दिखाती ।१।
+भव्य अकृत्रिम चैत्यालय की जग में शोभा भारी,
+मंगल ध्वज ले सुरपति आये शोभा जिनकी न्यारी ।२।
+अनेकांत मय वस्तु समझ जिन शासन ध्वज लहरावें,
+स्याद्वाद शैली से प्रभुवर मुक्ति मार्ग समझावें ।३।`,
+      sa: "",
+      en: `Aayo aayo re hamaaro bado bhaaga
+Aayo aayo re hamaaro bado bhaaga, ki hama aaye poojana ko,
+Poojana ko prabhu darshana ko, paavana prabhu pada darshana ko | |
+Jinavara kee antarmukha mudraa aatama darsha karaatee,
+Moha mahaatama prakshaalana kara shuddha svaroopa dikhaatee | 1 |
+Bhavya akritrima chaityaalaya kee jaga men shobhaa bhaaree,
+Mangala dhvaja le surapati aaye shobhaa jinakee nyaaree | 2 |
+Anekaanta maya vastu samajha jina shaasana dhvaja laharaaven,
+Syaadvaada shailee se prabhuvara mukti maarga samajhaaven | 3 |`,
+    },
+  },
+  {
+    id: "kar-lo-jinvar-ka-gungan",
+    type: "bhajan",
+    title: {
+      gu: "કર લો જિનવર કા ગુણગાન",
+      hi: "कर लो जिनवर का गुणगान",
+      sa: "",
+      en: "Kara Lo Jinavara Kaa Gunagaana",
+    },
+    text: {
+      gu: `કર લો જિનવર કા ગુણગાન
+કર લો જિનવર કા ગુણગાન, આઈ સુખદ ઘડી,
+આઈ સફલ ઘડી, દેખો મંગલ ઘડી॥
+વીતરાગ કા દર્શન-પૂજન, ભવ ભવ કો સુખકારી।
+જિન પ્રતિમા કી પ્યારી છબિ લખ મૈં જાઊં બલહારી ।૧।
+તીર્થંકર સર્વજ્ઞ હિતંકર મહા મોક્ષ કા દાતા।
+જો ભી શરણ આપકી આતા તુમ સમ હી બન જાતા ।૨।
+પ્રભુ દર્શન સે આર્ત રૌદ્ર પરિણામ નાશ હો જાતે।
+ધર્મ ધ્યાન મેં મન લગતા હૈ, શુકલ ધ્યાન ભી પાતે ।૩।
+સમ્યગ્દર્શન હો જાતા હૈ મિથ્યાતમ મિટ જાતા।
+રત્નત્રય કી દિવ્ય શક્તિ સે, કર્મ નાશ હો જાતા ।૪।
+નિજ સ્વરૂપ કા દર્શન હોતા, નિજ કી મહિમા આતી।
+નિજ સ્વભાવ સાધન કે દ્વારા સિદ્ધ સ્વગતિ મિલ જાતી ।૫।`,
+      hi: `कर लो जिनवर का गुणगान
+कर लो जिनवर का गुणगान, आई सुखद घडी,
+आई सफ़ल घडी, देखो मंगल घडी॥
+वीतराग का दर्शन-पूजन, भव भव को सुखकारी।
+जिन प्रतिमा की प्यारी छबि लख मैं जाऊं बलहारी ।१।
+तीर्थंकर सर्वज्ञ हितंकर महा मोक्ष का दाता।
+जो भी शरण आपकी आता तुम सम ही बन जाता ।२।
+प्रभु दर्शन से आर्त रौद्र परिणाम नाश हो जाते।
+धर्म ध्यान में मन लगता है, शुकल ध्यान भी पाते ।३।
+सम्यग्दर्शन हो जाता है मिथ्यातम मिट जाता।
+रत्नत्रय की दिव्य शक्ति से, कर्म नाश हो जाता ।४।
+निज स्वरूप का दर्शन होता, निज की महिमा आती।
+निज स्वभाव साधन के द्वारा सिद्ध स्वगति मिल जाती ।५।`,
+      sa: "",
+      en: `Kara lo jinavara kaa gunagaana
+Kara lo jinavara kaa gunagaana, aaee sukhada ghadee,
+Aaee saphala ghadee, dekho mangala ghadee | |
+Veetaraaga kaa darshana-poojana, bhava bhava ko sukhakaaree |
+Jina pratimaa kee pyaaree chhabi lakha main jaaoon balahaaree | 1 |
+Teerthankara sarvagya hitankara mahaa moksha kaa daataa |
+Jo bhee sharana aapakee aataa tuma sama hee bana jaataa | 2 |
+Prabhu darshana se aarta raudra parinaama naasha ho jaate |
+Dharma dhyaana men mana lagataa hai, shukala dhyaana bhee paate | 3 |
+Samyagdarshana ho jaataa hai mithyaatama mita jaataa |
+Ratnatraya kee divya shakti se, karma naasha ho jaataa | 4 |
+Nija svaroopa kaa darshana hotaa, nija kee mahimaa aatee |
+Nija svabhaava saadhana ke dvaaraa siddha svagati mila jaatee | 5 |`,
+    },
+  },
+  {
+    id: "aaj-awsar-mila",
+    type: "bhajan",
+    title: {
+      gu: "આજ અવસર મિલા",
+      hi: "आज अवसर मिला",
+      sa: "",
+      en: "Aaja Avasara Milaa",
+    },
+    text: {
+      gu: `તોડ વિષિયોં સે મન, જોડ પ્રભુ સે લગન,
+આજ અવસર મિલા ।।ટેર ।।
+રંગ દુનિયાં કે અબ તક ન સમઝા હૈ તૂ
+ભૂલ નિજ કો હા! પર મૈં યોં રીઝા હૈ તૂ
+અબ તો મુઁહ ખોલ ચખ, સ્વાદ આતમ કા લખ,
+શિવ પયોધર મિલા ।૧।
+હાથ આને કી ફિર યે સુ-ઘડિયાઁ નહીં
+પ્રીતિ જડ સે લગાના હૈ અચ્છા નહીં
+દેખ પુદ્ગલ કા ઘર, નહીં રહતા અમર, જગ ચરાચર મિલા ।૨।
+જ્ઞાન જ્યોતિ હૃદય મેં અબ તો જગા
+દેખ \`સૌભાગ્ય' જગ મેં ન કોઈ સગા
+તજદે મિથ્યા ભરમ, તુઝે સચ્ચે ધરમ કા, હૈ અવસર મિલા ।૩।`,
+      hi: `तोड़ विषियों से मन, जोड़ प्रभु से लगन,
+आज अवसर मिला ।।टेर ।।
+रंग दुनियां के अब तक न समझा है तू
+भूल निज को हा! पर मैं यों रीझा है तू
+अब तो मुँह खोल चख, स्वाद आतम का लख,
+शिव पयोधर मिला ।१।
+हाथ आने की फिर ये सु-घड़ियाँ नहीं
+प्रीति जड़ से लगाना है अच्छा नहीं
+देख पुद्गल का घर, नहीं रहता अमर, जग चराचर मिला ।२।
+ज्ञान ज्योति हृदय में अब तो जगा
+देख \`सौभाग्य' जग में न कोई सगा
+तजदे मिथ्या भरम, तुझे सच्चे धरम का, है अवसर मिला ।३।`,
+      sa: "",
+      en: `Toda vishiyon se mana, joda prabhu se lagana,
+Aaja avasara milaa | | tera | |
+Ranga duniyaan ke aba taka na samajhaa hai too
+Bhoola nija ko haa! para main yon reejhaa hai too
+Aba to munha khola chakha, svaada aatama kaa lakha,
+Shiva payodhara milaa | 1 |
+Haatha aane kee phira ye su-ghadiyaan naheen
+Preeti jada se lagaanaa hai achchhaa naheen
+Dekha pudgala kaa ghara, naheen rahataa amara, jaga charaachara milaa | 2 |
+Gyaana jyoti hridaya men aba to jagaa
+Dekha \`saubhaagya' jaga men na koee sagaa
+Tajade mithyaa bharama, tujhe sachche dharama kaa, hai avasara milaa | 3 |`,
+    },
+  },
+  {
+    id: "jinvar-darbaar-tumhara",
+    type: "bhajan",
+    title: {
+      gu: "જિનવર દરબાર તુમ્હારા",
+      hi: "जिनवर दरबार तुम्हारा",
+      sa: "",
+      en: "Jinavara Darabaara Tumhaaraa",
+    },
+    text: {
+      gu: `જિનવર દરબાર તુમ્હારા
+જિનવર દરબાર તુમ્હારા, સ્વર્ગોં સે જ્યાદા પ્યારા।
+વીતરાગ મુદ્રા સે પરિણામોં મેં ઉજિયારા।
+ઐસા તો હમારા ભગવન હૈ, ચરણોં મેં સમર્પિત જીવન હૈ ॥
+સમવસરણ કે અંદર, સ્વર્ણ કમલ પર આસન,
+ચાર ચતુષ્ટય ધારી, બૈઠે હો પદ્માસન।
+પરિણામોં મેં નિર્મલતા, તુમકો લખને સે આયે,
+ફિર વીતરાગતા બઢતી, જો જિનવર દર્શન પાયે, ઐસા તો...
+ત્રૈલોક્ય ઝલકતા ભગવન, કૈવલ્ય કલા મેં,
+તીનોં હી કાલોં મેં કબ ક્યા હોગા કૈસે।
+જગ કે સારે જ્ઞેયોં કો, તુમ એક સમય મેં જાનો,
+નિજ મેં હી તન્મય રહતે, ઉનકો ન અપના માનો, ઐસા તો..
+દિવ્યધ્વનિ કે દ્વારા, મોક્ષ માર્ગ દર્શાયા,
+પ્રભુ અવલંબન લેકર, મૈંને ભી નિજપદ પાયા।
+મૈં ભી તુમસા બનને કો, અબ ભેદજ્ઞાન પ્રગટાઊં,
+નિજ પરિણતિ મેં હી રમકર, અબ સમ્યકદર્શન પાઊં, ઐસા..`,
+      hi: `जिनवर दरबार तुम्हारा
+जिनवर दरबार तुम्हारा, स्वर्गों से ज्यादा प्यारा।
+वीतराग मुद्रा से परिणामों में उजियारा।
+ऐसा तो हमारा भगवन है, चरणों में समर्पित जीवन है ॥
+समवसरण के अंदर, स्वर्ण कमल पर आसन,
+चार चतुष्टय धारी, बैठे हो पद्मासन।
+परिणामों में निर्मलता, तुमको लखने से आये,
+फ़िर वीतरागता बढती, जो जिनवर दर्शन पाये, ऐसा तो...
+त्रैलोक्य झलकता भगवन, कैवल्य कला में,
+तीनों ही कालों में कब क्या होगा कैसे।
+जग के सारे ज्ञेयों को, तुम एक समय में जानो,
+निज में ही तन्मय रहते, उनको न अपना मानो, ऐसा तो..
+दिव्यध्वनि के द्वारा, मोक्ष मार्ग दर्शाया,
+प्रभु अवलंबन लेकर, मैंने भी निजपद पाया।
+मैं भी तुमसा बनने को, अब भेदज्ञान प्रगटाऊं,
+निज परिणति में ही रमकर, अब सम्यकदर्शन पाऊं, ऐसा..`,
+      sa: "",
+      en: `Jinavara darabaara tumhaaraa
+Jinavara darabaara tumhaaraa, svargon se jyaadaa pyaaraa |
+Veetaraaga mudraa se parinaamon men ujiyaaraa |
+Aisaa to hamaaraa bhagavana hai, charanon men samarpita jeevana hai | |
+Samavasarana ke andara, svarna kamala para aasana,
+Chaara chatushtaya dhaaree, baithe ho padmaasana |
+Parinaamon men nirmalataa, tumako lakhane se aaye,
+Phira veetaraagataa badhatee, jo jinavara darshana paaye, aisaa to...
+Trailokya jhalakataa bhagavana, kaivalya kalaa men,
+Teenon hee kaalon men kaba kyaa hogaa kaise |
+Jaga ke saare gyeyon ko, tuma eka samaya men jaano,
+Nija men hee tanmaya rahate, unako na apanaa maano, aisaa to..
+Divyadhvani ke dvaaraa, moksha maarga darshaayaa,
+Prabhu avalanbana lekara, mainne bhee nijapada paayaa |
+Main bhee tumasaa banane ko, aba bhedagyaana pragataaoon,
+Nija parinati men hee ramakara, aba samyakadarshana paaoon, aisaa..`,
+    },
+  },
+  {
+    id: "suno-jiya-ye-satguru-ki-batein",
+    type: "bhajan",
+    title: {
+      gu: "સુનો જિયા યે સતગુરુ કી બાતૈં",
+      hi: "सुनो जिया ये सतगुरु की बातैं",
+      sa: "",
+      en: "Suno Jiyaa Ye Sataguru Kee Baatain",
+    },
+    text: {
+      gu: `સુનો જિયા યે સતગુરુ કી બાતૈં, હિત કહત દયાલ દયા તૈં ॥
+યહ તન આન અચેતન હૈ તૂ, ચેતન મિલત ન યાતૈં
+તદપિ પિછાન એક આતમકો, તજત ન હઠ શઠ-તાતૈં ॥
+ચહુઁગતિ ફિરત ભરત મમતાકો, વિષય મહાવિષ ખાતૈં
+તદપિ ન તજત ન રજત અભાગૈ, દૃગ વ્રત બુદ્ધિસુધાતૈં ॥
+માત તાત સુત ભ્રાત સ્વજન તુઝ, સાથી સ્વારથ નાતૈં
+તૂ ઇન કાજ સાજ ગૃહકો સબ, જ્ઞાનાદિક મત ઘાતૈ ॥
+તન ધન ભોગ સંજોગ સુપન સમ, વાર ન લગત વિલાતૈં
+મમત ન કર ભ્રમ તજ તૂ ભ્રાતા, અનુભવ-જ્ઞાન કલાતૈં ॥
+દુર્લભ નર-ભવ સુથલ સુકુલ હૈ, જિન ઉપદેશ લહા તૈં
+દૌલ તજો મનસૌં મમતા જ્યોં, નિવડો દ્વંદ દશાતૈં ॥`,
+      hi: `सुनो जिया ये सतगुरु की बातैं, हित कहत दयाल दया तैं ॥
+यह तन आन अचेतन है तू, चेतन मिलत न यातैं
+तदपि पिछान एक आतमको, तजत न हठ शठ-तातैं ॥
+चहुँगति फिरत भरत ममताको, विषय महाविष खातैं
+तदपि न तजत न रजत अभागै, दृग व्रत बुद्धिसुधातैं ॥
+मात तात सुत भ्रात स्वजन तुझ, साथी स्वारथ नातैं
+तू इन काज साज गृहको सब, ज्ञानादिक मत घातै ॥
+तन धन भोग संजोग सुपन सम, वार न लगत विलातैं
+ममत न कर भ्रम तज तू भ्राता, अनुभव-ज्ञान कलातैं ॥
+दुर्लभ नर-भव सुथल सुकुल है, जिन उपदेश लहा तैं
+दौल तजो मनसौं ममता ज्यों, निवडो द्वंद दशातैं ॥`,
+      sa: "",
+      en: `Suno jiyaa ye sataguru kee baatain, hita kahata dayaala dayaa tain | |
+Yaha tana aana achetana hai too, chetana milata na yaatain
+Tadapi pichhaana eka aatamako, tajata na hatha shatha-taatain | |
+Chahungati phirata bharata mamataako, vishaya mahaavisha khaatain
+Tadapi na tajata na rajata abhaagai, driga vrata buddhisudhaatain | |
+Maata taata suta bhraata svajana tujha, saathee svaaratha naatain
+Too ina kaaja saaja grihako saba, gyaanaadika mata ghaatai | |
+Tana dhana bhoga sanjoga supana sama, vaara na lagata vilaatain
+Mamata na kara bhrama taja too bhraataa, anubhava-gyaana kalaatain | |
+Durlabha nara-bhava suthala sukula hai, jina upadesha lahaa tain
+Daula tajo manasaun mamataa jyon, nivado dvanda dashaatain | |`,
+    },
+  },
+  {
+    id: "aagya-aagya-aagya",
+    type: "bhajan",
+    title: {
+      gu: "આગયા.. આગયા... આગયા..",
+      hi: "आगया.. आगया... आगया..",
+      sa: "",
+      en: "Aagayaa.. Aagayaa... Aagayaa..",
+    },
+    text: {
+      gu: `આગયા.. આગયા... આગયા..
+તર્જ : આએગા આએગા - મહલ
+આગયા.. આગયા... આગયા...
+આગયા શરણ તિહારી આગયા... આગયા... આગયા..
+સુનકર બિરદ તુમ્હારા, તેરી શરણ મેં આયા।
+તુમસા ન દેવ મૈંને, કોઈ કહીં હૈ પાયા।
+સર્વજ્ઞ વીતરાગી સચ્ચે હિતોપદેશક ૨
+દર્શન સે નાથ તેરે કટતે હૈં પાપ બેશક ॥ આગયા..।૧।
+ચારોં ગતિ કે દુખ જો, મૈંને ભુગત લિયે હૈં।
+તુમસે છિપે નહીં હૈં, જો જો કરમ કિયે હૈં।
+અબ તો જનમ મરણ કી કાટો હમારી ફાંસી ૨
+વરના હંસેગી દુનિયા, બિગડેગી બાત ખાસી ॥ આગયા..।૨।
+અંજન સે ચોર કો ભી, તુમને કિયા નિરંજન।
+શ્રીપાલ કોડિ કી ભી, કાયા બના દી કંચન।
+મેંઢક સા જીવ ભી જબ, તેરે નામ સે તિરા હૈ ૨
+પંકજ યે સોચ તેરે, ચરણોં મેં આ ગિરા હૈ ॥ આગયા..।૩।`,
+      hi: `आगया.. आगया... आगया..
+तर्ज : आएगा आएगा - महल
+आगया.. आगया... आगया...
+आगया शरण तिहारी आगया... आगया... आगया..
+सुनकर बिरद तुम्हारा, तेरी शरण में आया।
+तुमसा न देव मैंने, कोई कहीं है पाया।
+सर्वज्ञ वीतरागी सच्चे हितोपदेशक २
+दर्शन से नाथ तेरे कटते हैं पाप बेशक ॥ आगया..।१।
+चारों गति के दुख जो, मैंने भुगत लिये हैं।
+तुमसे छिपे नहीं हैं, जो जो करम किये हैं।
+अब तो जनम मरण की काटो हमारी फ़ांसी २
+वरना हंसेगी दुनिया, बिगडेगी बात खासी ॥ आगया..।२।
+अंजन से चोर को भी, तुमने किया निरंजन।
+श्रीपाल कोडि की भी, काया बना दी कंचन।
+मेंढक सा जीव भी जब, तेरे नाम से तिरा है २
+पंकज ये सोच तेरे, चरणों में आ गिरा है ॥ आगया..।३।`,
+      sa: "",
+      en: `Aagayaa.. aagayaa... aagayaa..
+Tarja : aaegaa aaegaa - mahala
+Aagayaa.. aagayaa... aagayaa...
+Aagayaa sharana tihaaree aagayaa... aagayaa... aagayaa..
+Sunakara birada tumhaaraa, teree sharana men aayaa |
+Tumasaa na deva mainne, koee kaheen hai paayaa |
+Sarvagya veetaraagee sachche hitopadeshaka 2
+Darshana se naatha tere katate hain paapa beshaka | | aagayaa.. | 1 |
+Chaaron gati ke dukha jo, mainne bhugata liye hain |
+Tumase chhipe naheen hain, jo jo karama kiye hain |
+Aba to janama marana kee kaato hamaaree phaansee 2
+Varanaa hansegee duniyaa, bigadegee baata khaasee | | aagayaa.. | 2 |
+Anjana se chora ko bhee, tumane kiyaa niranjana |
+Shreepaala kodi kee bhee, kaayaa banaa dee kanchana |
+Mendhaka saa jeeva bhee jaba, tere naama se tiraa hai 2
+Pankaja ye socha tere, charanon men aa giraa hai | | aagayaa.. | 3 |`,
+    },
+  },
+  {
+    id: "charno-main-aaya-hoon-addhar",
+    type: "bhajan",
+    title: {
+      gu: "ચરણોં મેં આયા હૂં, ઉદ્ધાર",
+      hi: "चरणों में आया हूं, उद्धार",
+      sa: "",
+      en: "Charanon Men Aayaa Hoon, Uddhaara",
+    },
+    text: {
+      gu: `ચરણોં મેં આયા હૂં, ઉદ્ધાર
+તર્જ: હોઠોં સે છૂ લો...
+ચરણોં મેં આયા હૂં, ઉદ્ધાર જિનંદ કર દો।
+નિજ રીતિ નિભાકર કે, ઉપકાર જિનંદ કર દો॥
+સંસાર કી નશ્‍વરતા, મૈંને અબ જાની હૈ,
+મંગલકારી જબ હી, સુની જિનવર વાણી હૈ।
+ચારિત્ર કી નાવ ચઢા, ભવપાર જિનંદ કર દો॥ નિજ...॥
+ના ચાહત ભોગોં કી, ના જગ કા કોઈ બંધન,
+ગર ધ્યાન કરૂં કોઈ, તો દેખૂં કેવલ જિન।
+તમ દૂર હટા મન કા, ઉજિયાર જિનંદ કર દો॥ નિજ...॥
+કર્મોં ને જનમ જનમ, મેરા પીછા નહીં છોડા,
+ભરમાયા યૂંહી પ્રભૂ સે, નાતા ના કભી જોડા।
+કરુણા કર અબ ઇનસે, નિસ્તાર જિનંદ કર દો॥ નિજ...॥`,
+      hi: `चरणों में आया हूं, उद्धार
+तर्ज: होठों से छू लो...
+चरणों में आया हूं, उद्धार जिनंद कर दो।
+निज रीति निभाकर के, उपकार जिनंद कर दो॥
+संसार की नश्‍वरता, मैंने अब जानी है,
+मंगलकारी जब ही, सुनी जिनवर वाणी है।
+चारित्र की नाव चढा, भवपार जिनंद कर दो॥ निज...॥
+ना चाहत भोगों की, ना जग का कोई बंधन,
+गर ध्यान करूं कोई, तो देखूं केवल जिन।
+तम दूर हटा मन का, उजियार जिनंद कर दो॥ निज...॥
+कर्मों ने जनम जनम, मेरा पीछा नहीं छोडा,
+भरमाया यूंही प्रभू से, नाता ना कभी जोडा।
+करुणा कर अब इनसे, निस्तार जिनंद कर दो॥ निज...॥`,
+      sa: "",
+      en: `Charanon men aayaa hoon, uddhaara
+Tarja: hothon se chhoo lo...
+Charanon men aayaa hoon, uddhaara jinanda kara do |
+Nija reeti nibhaakara ke, upakaara jinanda kara do | |
+Sansaara kee nash‍varataa, mainne aba jaanee hai,
+Mangalakaaree jaba hee, sunee jinavara vaanee hai |
+Chaaritra kee naava chadhaa, bhavapaara jinanda kara do | | nija... | |
+Naa chaahata bhogon kee, naa jaga kaa koee bandhana,
+Gara dhyaana karoon koee, to dekhoon kevala jina |
+Tama doora hataa mana kaa, ujiyaara jinanda kara do | | nija... | |
+Karmon ne janama janama, meraa peechhaa naheen chhodaa,
+Bharamaayaa yoonhee prabhoo se, naataa naa kabhee jodaa |
+Karunaa kara aba inase, nistaara jinanda kara do | | nija... | |`,
+    },
+  },
+  {
+    id: "hum-to-kabhu-na-hit-upjaye",
+    type: "bhajan",
+    title: {
+      gu: "હમ તો કબહૂઁ ન હિત ઉપજાયે",
+      hi: "हम तो कबहूँ न हित उपजाये",
+      sa: "",
+      en: "Hama To Kabahoon na Hita Upajaaye",
+    },
+    text: {
+      gu: `હમ તો કબહૂઁ ન હિત ઉપજાયે
+સુકુલ-સુદેવ-સુગુરુ સુસંગ હિત, કારન પાય ગમાયે! ॥
+જ્યોં શિશુ નાચત, આપ ન માચત, લખનહારા બૌરાયે
+ત્યોં શ્રુત વાંચત આપ ન રાચત, ઔરનકો સમુઝાયે ।૧।
+સુજસ-લાહકી ચાહ ન તજ નિજ, પ્રભુતા લખિ હરખાયે
+વિષય તજે ન રજે નિજ પદમેં, પરપદ અપદ લુભાયે ।૨।
+પાપત્યાગ જિન-જાપ ન કીન્હૌં, સુમનચાપ-તપ તાયે
+ચેતન તનકો કહત ભિન્ન પર, દેહ સનેહી થાયે ।૩।
+યહ ચિર ભૂલ ભઈ હમરી અબ કહા હોત પછતાયે
+દૌલ અજૌં ભવભોગ રચૌ મત, યૌં ગુરુ વચન સુનાયે ।૪।`,
+      hi: `हम तो कबहूँ न हित उपजाये
+सुकुल-सुदेव-सुगुरु सुसंग हित, कारन पाय गमाये! ॥
+ज्यों शिशु नाचत, आप न माचत, लखनहारा बौराये
+त्यों श्रुत वांचत आप न राचत, औरनको समुझाये ।१।
+सुजस-लाहकी चाह न तज निज, प्रभुता लखि हरखाये
+विषय तजे न रजे निज पदमें, परपद अपद लुभाये ।२।
+पापत्याग जिन-जाप न कीन्हौं, सुमनचाप-तप ताये
+चेतन तनको कहत भिन्न पर, देह सनेही थाये ।३।
+यह चिर भूल भई हमरी अब कहा होत पछताये
+दौल अजौं भवभोग रचौ मत, यौं गुरु वचन सुनाये ।४।`,
+      sa: "",
+      en: `Hama to kabahoon na hita upajaaye
+Sukula-sudeva-suguru susanga hita, kaarana paaya gamaaye! | |
+Jyon shishu naachata, aapa na maachata, lakhanahaaraa bauraaye
+Tyon shruta vaanchata aapa na raachata, auranako samujhaaye | 1 |
+Sujasa-laahakee chaaha na taja nija, prabhutaa lakhi harakhaaye
+Vishaya taje na raje nija padamen, parapada apada lubhaaye | 2 |
+Paapatyaaga jina-jaapa na keenhaun, sumanachaapa-tapa taaye
+Chetana tanako kahata bhinna para, deha sanehee thaaye | 3 |
+Yaha chira bhoola bhaee hamaree aba kahaa hota pachhataaye
+Daula ajaun bhavabhoga rachau mata, yaun guru vachana sunaaye | 4 |`,
+    },
+  },
+  {
+    id: "kesariyan-kesariyan-aaj-hamaro-man",
+    type: "bhajan",
+    title: {
+      gu: "કેસરિયા, કેસરિયા, આજ હમારો મન",
+      hi: "केसरिया, केसरिया, आज हमारो मन",
+      sa: "",
+      en: "Kesariyaa, Kesariyaa, Aaja Hamaaro Mana",
+    },
+    text: {
+      gu: `કેસરિયા, કેસરિયા, આજ હમારો મન
+કેસરિયા, કેસરિયા, આજ હમારો મન કેસરિયા ॥
+તન કેસરિયા, મન કેસરિયા, પૂજા કે ચાવલ કેસરિયા,
+ભક્તિ મેં હમ સબ કેસરિયા॥ કેસરિયા...॥
+હમ કેસરિયા, તુમ કેસરિયા, અષ્ટ દ્રવ્ય સબ હૈં કેસરિયા,
+મંદિર કી હૈ ધ્વજા કેસરિયા, ભક્તિ મેં હમ સબ કેસરિયા ॥
+ઇન્દ્ર કેસરિયા, ઇન્દ્રાણિ કેસરિયા, સિદ્ધોં કી પૂજન કેસરિયા,
+પૂજા કે સબ ભાવ કેસરિયા, ભક્તિ મેં હમ સબ કેસરિયા ॥
+વીર પ્રભુ કી વાણી કેસરિયા, અહિંસા પરમો ધર્મ કેસરિયા,
+જીયો જીને દો કેસરિયા, ભક્તિ મેં હમ સબ કેસરિયા ॥
+પીછી કેસરિયા, કમણ્ડલ કેસરિયા,દિગમ્બર સાધુ ભી કેસરિયા
+શત શત વંદન હૈ કેસરિયા, ભક્તિ મેં હમ સબ કેસરિયા ॥
+સ્વર્ણિમ રથ દેખો કેસરિયા, સ્વર્ણ વરણ પ્રભુજી કેસરિયા,
+છત્ર ચંવર ધ્વજ સબ કેસરિયા, ભક્તિ મેં હમ સબ કેસરિયા ॥`,
+      hi: `केसरिया, केसरिया, आज हमारो मन
+केसरिया, केसरिया, आज हमारो मन केसरिया ॥
+तन केसरिया, मन केसरिया, पूजा के चावल केसरिया,
+भक्ति में हम सब केसरिया॥ केसरिया...॥
+हम केसरिया, तुम केसरिया, अष्ट द्रव्य सब हैं केसरिया,
+मंदिर की है ध्वजा केसरिया, भक्ति में हम सब केसरिया ॥
+इन्द्र केसरिया, इन्द्राणि केसरिया, सिद्धों की पूजन केसरिया,
+पूजा के सब भाव केसरिया, भक्ति में हम सब केसरिया ॥
+वीर प्रभु की वाणी केसरिया, अहिंसा परमो धर्म केसरिया,
+जीयो जीने दो केसरिया, भक्ति में हम सब केसरिया ॥
+पीछी केसरिया, कमण्डल केसरिया,दिगम्बर साधु भी केसरिया
+शत शत वंदन है केसरिया, भक्ति में हम सब केसरिया ॥
+स्वर्णिम रथ देखो केसरिया, स्वर्ण वरण प्रभुजी केसरिया,
+छत्र चंवर ध्वज सब केसरिया, भक्ति में हम सब केसरिया ॥`,
+      sa: "",
+      en: `Kesariyaa, kesariyaa, aaja hamaaro mana
+Kesariyaa, kesariyaa, aaja hamaaro mana kesariyaa | |
+Tana kesariyaa, mana kesariyaa, poojaa ke chaavala kesariyaa,
+Bhakti men hama saba kesariyaa | | kesariyaa... | |
+Hama kesariyaa, tuma kesariyaa, ashta dravya saba hain kesariyaa,
+Mandira kee hai dhvajaa kesariyaa, bhakti men hama saba kesariyaa | |
+Indra kesariyaa, indraani kesariyaa, siddhon kee poojana kesariyaa,
+Poojaa ke saba bhaava kesariyaa, bhakti men hama saba kesariyaa | |
+Veera prabhu kee vaanee kesariyaa, ahinsaa paramo dharma kesariyaa,
+Jeeyo jeene do kesariyaa, bhakti men hama saba kesariyaa | |
+Peechhee kesariyaa, kamandala kesariyaa,digambara saadhu bhee kesariyaa
+Shata shata vandana hai kesariyaa, bhakti men hama saba kesariyaa | |
+Svarnima ratha dekho kesariyaa, svarna varana prabhujee kesariyaa,
+Chhatra chanvara dhvaja saba kesariyaa, bhakti men hama saba kesariyaa | |`,
+    },
+  },
+  {
+    id: "hum-to-kabhu-na-nij-gun-bhaaye",
+    type: "bhajan",
+    title: {
+      gu: "હમ તો કબહુઁ ન નિજગુન ભાયે",
+      hi: "हम तो कबहुँ न निजगुन भाये",
+      sa: "",
+      en: "Hama To Kabahun na Nijaguna Bhaaye",
+    },
+    text: {
+      gu: `હમ તો કબહુઁ ન નિજગુન ભાયે
+તન નિજ માન જાન તનદુખસુખ મેં બિલખે હરખાયે ॥
+તનકો ગરન મરન લખિ તનકો, ધરન માન હમ જાયે
+યા ભ્રમ ભૌંર પરે ભવજલ ચિર, ચહુઁગતિ વિપત લહાયે ।૧।
+દરશબોધવ્રતસુધા ન ચાખ્યૌ, વિવિધ વિષય-વિષ ખાયે
+સુગુરુ દયાલ સીખ દઇ પુનિપુનિ,સુનિ,સુનિ ઉર નહિ લાયે।૨।
+બહિરાતમતા તજી ન અન્તર-દૃષ્ટિ ન હ્વૈ નિજ ધ્યાયે
+ધામ-કામ-ધન-રામાકી નિત, આશ-હુતાશ જલાયે ।૩।
+અચલ અનૂપ શુદ્ધ ચિદ્રૂપી, સબ સુખમય મુનિ ગાયે
+દૌલ ચિદાનંદ સ્વગુન મગન જે, તે જિય સુખિયા થાયે ।૪।`,
+      hi: `हम तो कबहुँ न निजगुन भाये
+तन निज मान जान तनदुखसुख में बिलखे हरखाये ॥
+तनको गरन मरन लखि तनको, धरन मान हम जाये
+या भ्रम भौंर परे भवजल चिर, चहुँगति विपत लहाये ।१।
+दरशबोधव्रतसुधा न चाख्यौ, विविध विषय-विष खाये
+सुगुरु दयाल सीख दइ पुनिपुनि,सुनि,सुनि उर नहि लाये।२।
+बहिरातमता तजी न अन्तर-दृष्टि न ह्वै निज ध्याये
+धाम-काम-धन-रामाकी नित, आश-हुताश जलाये ।३।
+अचल अनूप शुद्ध चिद्रूपी, सब सुखमय मुनि गाये
+दौल चिदानंद स्वगुन मगन जे, ते जिय सुखिया थाये ।४।`,
+      sa: "",
+      en: `Hama to kabahun na nijaguna bhaaye
+Tana nija maana jaana tanadukhasukha men bilakhe harakhaaye | |
+Tanako garana marana lakhi tanako, dharana maana hama jaaye
+Yaa bhrama bhaunra pare bhavajala chira, chahungati vipata lahaaye | 1 |
+Darashabodhavratasudhaa na chaakhyau, vividha vishaya-visha khaaye
+Suguru dayaala seekha dai punipuni,suni,suni ura nahi laaye | 2 |
+Bahiraatamataa tajee na antara-drishti na hvai nija dhyaaye
+Dhaama-kaama-dhana-raamaakee nita, aasha-hutaasha jalaaye | 3 |
+Achala anoopa shuddha chidroopee, saba sukhamaya muni gaaye
+Daula chidaananda svaguna magana je, te jiya sukhiyaa thaaye | 4 |`,
+    },
+  },
+  {
+    id: "mahaveer-svami-ho-ji-ho",
+    type: "bhajan",
+    title: {
+      gu: "મહારાજા સ્વામી હો જી હો",
+      hi: "महाराजा स्वामी हो जी हो",
+      sa: "",
+      en: "Mahaaraajaa Svaamee ho Jee ho",
+    },
+    text: {
+      gu: `મહારાજા સ્વામી હો જી હો
+મહારાજા સ્વામી હો જી હો જિનરાજા સ્વામી
+થે તો મ્હાનૈ ત્યારો મ્હાકા રાજ।
+થે તો મ્હાનૈ ત્યારો મ્હાકા રાજ જી, મહારાજા સ્વામી...॥
+થે હી તારન તરણ છોજી, થે છો ગરીવનરાજ,
+અધમ ઉધારન જાન કે જી, શરણૈં આયા રી લાજ જી ॥
+જીવ અનંતા ત્યારિયા જી, જાકો અંત ન પાર,
+અધમ ઉદધિ તિર્યંચ કે જી, બહુત કિયે ભવપાર જી ॥
+ઐસી સુણકર સાખ તિહારી, આયો છૂં દરબાર,
+ભવદધિ ડૂબત કાઢ મોકૂં, સરણૈં આયા કી લાજ જી ॥
+અર્જ કરૂં કર જોડ કે જી, વિનવૂં બારંબાર,
+બલદેવ પ્રભૂ હૈ દાસ તિહારો, દીજો શિવપુર વાસ જી ॥`,
+      hi: `महाराजा स्वामी हो जी हो
+महाराजा स्वामी हो जी हो जिनराजा स्वामी
+थे तो म्हानै त्यारो म्हाका राज।
+थे तो म्हानै त्यारो म्हाका राज जी, महाराजा स्वामी...॥
+थे ही तारन तरण छोजी, थे छो गरीवनराज,
+अधम उधारन जान के जी, शरणैं आया री लाज जी ॥
+जीव अनंता त्यारिया जी, जाको अंत न पार,
+अधम उदधि तिर्यंच के जी, बहुत किये भवपार जी ॥
+ऐसी सुणकर साख तिहारी, आयो छूं दरबार,
+भवदधि डूबत काढ मोकूं, सरणैं आया की लाज जी ॥
+अर्ज करूं कर जोड के जी, विनवूं बारंबार,
+बलदेव प्रभू है दास तिहारो, दीजो शिवपुर वास जी ॥`,
+      sa: "",
+      en: `Mahaaraajaa svaamee ho jee ho
+Mahaaraajaa svaamee ho jee ho jinaraajaa svaamee
+The to mhaanai tyaaro mhaakaa raaja |
+The to mhaanai tyaaro mhaakaa raaja jee, mahaaraajaa svaamee... | |
+The hee taarana tarana chhojee, the chho gareevanaraaja,
+Adhama udhaarana jaana ke jee, sharanain aayaa ree laaja jee | |
+Jeeva anantaa tyaariyaa jee, jaako anta na paara,
+Adhama udadhi tiryancha ke jee, bahuta kiye bhavapaara jee | |
+Aisee sunakara saakha tihaaree, aayo chhoon darabaara,
+Bhavadadhi doobata kaadha mokoon, saranain aayaa kee laaja jee | |
+Arja karoon kara joda ke jee, vinavoon baaranbaara,
+Baladeva prabhoo hai daasa tihaaro, deejo shivapura vaasa jee | |`,
+    },
+  },
+  {
+    id: "jhhotha-hai-jag-ka-vyohara",
+    type: "bhajan",
+    title: {
+      gu: "ઝૂઠા હૈ જગકા બ્યોહારા",
+      hi: "झूठा है जगका ब्योहारा",
+      sa: "",
+      en: "Jhoothaa hai Jagakaa Byohaaraa",
+    },
+    text: {
+      gu: `હમ ન કિસીકે કોઈ ન હમારા, ઝૂઠા હૈ જગકા બ્યોહારા ......
+તનસમ્બન્ધી સબ પરિવારા, સો તન હમને જાના ન્યારા ॥
+પુન્ય ઉદય સુખકા બઢવારા, પાપ ઉદય દુખ હોત અપારા
+પાપ પુન્ય દોઊ સંસારા, મૈં સબ દેખન જાનન હારા ।૧।
+મૈં તિહુઁ જગ તિહુઁ કાલ અકેલા, પર સંજોગ ભયા બહુ મેલા
+થિતિ પૂરી કરિ ખિર ખિર જાંહીં,મેરે હર્ષ શોક કછુ નાહીં ।૨।
+રાગ ભાવતૈં સજ્જન માનૈં, દોષ ભાવતૈં દુર્જન જાનૈં ।
+રાગ દોષ દોઊ મમ નાહીં, \`દ્યાનત' મૈં ચેતનપદમાહીં ।૩।`,
+      hi: `हम न किसीके कोई न हमारा, झूठा है जगका ब्योहारा ......
+तनसम्बन्धी सब परिवारा, सो तन हमने जाना न्यारा ॥
+पुन्य उदय सुखका बढ़वारा, पाप उदय दुख होत अपारा
+पाप पुन्य दोऊ संसारा, मैं सब देखन जानन हारा ।१।
+मैं तिहुँ जग तिहुँ काल अकेला, पर संजोग भया बहु मेला
+थिति पूरी करि खिर खिर जांहीं,मेरे हर्ष शोक कछु नाहीं ।२।
+राग भावतैं सज्जन मानैं, दोष भावतैं दुर्जन जानैं ।
+राग दोष दोऊ मम नाहीं, \`द्यानत' मैं चेतनपदमाहीं ।३।`,
+      sa: "",
+      en: `Hama na kiseeke koee na hamaaraa, jhoothaa hai jagakaa byohaaraa ......
+Tanasambandhee saba parivaaraa, so tana hamane jaanaa nyaaraa | |
+Punya udaya sukhakaa badhavaaraa, paapa udaya dukha hota apaaraa
+Paapa punya dooo sansaaraa, main saba dekhana jaanana haaraa | 1 |
+Main tihun jaga tihun kaala akelaa, para sanjoga bhayaa bahu melaa
+Thiti pooree kari khira khira jaanheen,mere harsha shoka kachhu naaheen | 2 |
+Raaga bhaavatain sajjana maanain, dosha bhaavatain durjana jaanain |
+Raaga dosha dooo mama naaheen, \`dyaanata' main chetanapadamaaheen | 3 |`,
+    },
+  },
+  {
+    id: "simandhar-svami-main-charnan-ka",
+    type: "bhajan",
+    title: {
+      gu: "સીમંધર સ્વામી, મૈં ચરનન કા",
+      hi: "सीमंधर स्वामी, मैं चरनन का",
+      sa: "",
+      en: "Seemandhara Svaamee, Main Charanana Kaa",
+    },
+    text: {
+      gu: `સીમંધર સ્વામી, મૈં ચરનન કા
+સીમંધર સ્વામી, મૈં ચરનન કા ચેરા ॥ટેક॥
+ઇસ સંસાર અસાર મેં કોઈ, ઔર ન રક્ષક મેરા ॥સીમંધર..
+લખ ચૌરાસી જોની મેં મૈં, ફિરિ ફિરિ કીનોં ફેરા
+તુમ મહિમા જાની નહીં પ્રભુ, દેખ્યા દુ:ખ ઘનેરા ॥ સીમંધર..
+ભાગ ઉદયતૈં પાઇયા અબ, કીજે નાથ નિવેરા ।
+બેગી દયા કરી દીજિયે મુઝે, અવિચલ થન-બસેરા ॥સીમંધર..
+નામ લિયે અઘ ના રહૈ જ્યોં, ઊગેં ભાન અંધેરા ।
+ભુધર ચિંતા ક્યા રહી ઐસી, સમરથ સાહિબ તેરા ॥સીમંધર ..`,
+      hi: `सीमंधर स्वामी, मैं चरनन का
+सीमंधर स्वामी, मैं चरनन का चेरा ॥टेक॥
+इस संसार असार में कोई, और न रक्षक मेरा ॥सीमंधर..
+लख चौरासी जोनी में मैं, फ़िरि फ़िरि कीनों फ़ेरा
+तुम महिमा जानी नहीं प्रभु, देख्या दु:ख घनेरा ॥ सीमंधर..
+भाग उदयतैं पाइया अब, कीजे नाथ निवेरा ।
+बेगी दया करी दीजिये मुझे, अविचल थन-बसेरा ॥सीमंधर..
+नाम लिये अघ ना रहै ज्यों, ऊगें भान अंधेरा ।
+भुधर चिंता क्या रही ऐसी, समरथ साहिब तेरा ॥सीमंधर ..`,
+      sa: "",
+      en: `Seemandhara svaamee, main charanana kaa
+Seemandhara svaamee, main charanana kaa cheraa | | teka | |
+Isa sansaara asaara men koee, aura na rakshaka meraa | | seemandhara..
+Lakha chauraasee jonee men main, phiri phiri keenon pheraa
+Tuma mahimaa jaanee naheen prabhu, dekhyaa du:kha ghaneraa | | seemandhara..
+Bhaaga udayatain paaiyaa aba, keeje naatha niveraa |
+Begee dayaa karee deejiye mujhe, avichala thana-baseraa | | seemandhara..
+Naama liye agha naa rahai jyon, oogen bhaana andheraa |
+Bhudhara chintaa kyaa rahee aisee, samaratha saahiba teraa | | seemandhara ..`,
+    },
+  },
+  {
+    id: "mahaveer-svami-tumhara-sahara",
+    type: "bhajan",
+    title: {
+      gu: "મહાવીર સ્વામી તુમ્હારા સહારા",
+      hi: "महावीर स्वामी तुम्हारा सहारा",
+      sa: "",
+      en: "Mahaaveera Svaamee Tumhaaraa Sahaaraa",
+    },
+    text: {
+      gu: `મહાવીર સ્વામી તુમ્હારા સહારા
+મહાવીર સ્વામી તુમ્હારા સહારા,
+બિના આપકે કૌન જગ મેં હમારા॥
+જગત સંકટોં કો, સદા આપ હરતે-૨
+તથા શાંતિ સંતોષ, સુખપૂર્ણ કરતે-૨
+તુમ્હીં કલ્પતરૂ, કામધેનુ તુમ્હીં હો,
+સભી કામના પૂર્ણ કર્ત્તા તુમ્હીં હો ।૧। મહાવીર સ્વામી..
+તુમ્હીં રત્ન ચિંતામણી સ્વર્ણદાતા-૨
+તુમ્હીં પાપ હર્ત્તા તુમ્હીં વિઘ્નધાતા-૨
+તુમ્હીં સમદર્શી તુમ્હીં વીતરાગી,
+તુમ્હીં સત્યવક્તા તુમ્હીં સર્વત્યાગી ।૨। મહાવીર સ્વામી..
+તુમ્હીં બુદ્ધ બ્રહ્મા મહેશ્‍વર વ શંકર-૨
+મહાદેવ ઈશ્‍વર અશુભ કે શયંકર-૨
+સતી અંજના દ્રૌપદી સીતા માતા,
+મનોરમ બનીલી હુઈ જગ વિખ્યાતા ।૩। મહાવીર સ્વામી..
+સુદર્શન શ્રીપાલ તુમ નામ ધ્યાયા-૨
+સબોં કે દુખોં કો ક્ષણિક મેં મિટાયા-૨
+નહીં આજ શરણા પ્રભુજી તુમ્હારી,
+રહેંગે જગત મેં ક્યા ફિર ભી દુખારી ।૪। મહાવીર સ્વામી
+પરમ પૂજ્ય શ્રદ્ધેય તુમકો જો ધ્યાવે,
+વહી ઇન્દ્ર ભગવાન પદવી કો પાવે ॥ મહાવીર સ્વામી..`,
+      hi: `महावीर स्वामी तुम्हारा सहारा
+महावीर स्वामी तुम्हारा सहारा,
+बिना आपके कौन जग में हमारा॥
+जगत संकटों को, सदा आप हरते-२
+तथा शांति संतोष, सुखपूर्ण करते-२
+तुम्हीं कल्पतरू, कामधेनु तुम्हीं हो,
+सभी कामना पूर्ण कर्त्ता तुम्हीं हो ।१। महावीर स्वामी..
+तुम्हीं रत्न चिंतामणी स्वर्णदाता-२
+तुम्हीं पाप हर्त्ता तुम्हीं विघ्नधाता-२
+तुम्हीं समदर्शी तुम्हीं वीतरागी,
+तुम्हीं सत्यवक्ता तुम्हीं सर्वत्यागी ।२। महावीर स्वामी..
+तुम्हीं बुद्ध ब्रह्मा महेश्‍वर व शंकर-२
+महादेव ईश्‍वर अशुभ के शयंकर-२
+सती अंजना द्रौपदी सीता माता,
+मनोरम बनीली हुई जग विख्याता ।३। महावीर स्वामी..
+सुदर्शन श्रीपाल तुम नाम ध्याया-२
+सबों के दुखों को क्षणिक में मिटाया-२
+नहीं आज शरणा प्रभुजी तुम्हारी,
+रहेंगे जगत में क्या फ़िर भी दुखारी ।४। महावीर स्वामी
+परम पूज्य श्रद्धेय तुमको जो ध्यावे,
+वही इन्द्र भगवान पदवी को पावे ॥ महावीर स्वामी..`,
+      sa: "",
+      en: `Mahaaveera svaamee tumhaaraa sahaaraa
+Mahaaveera svaamee tumhaaraa sahaaraa,
+Binaa aapake kauna jaga men hamaaraa | |
+Jagata sankaton ko, sadaa aapa harate-2
+Tathaa shaanti santosha, sukhapoorna karate-2
+Tumheen kalpataroo, kaamadhenu tumheen ho,
+Sabhee kaamanaa poorna karttaa tumheen ho | 1 | mahaaveera svaamee..
+Tumheen ratna chintaamanee svarnadaataa-2
+Tumheen paapa harttaa tumheen vighnadhaataa-2
+Tumheen samadarshee tumheen veetaraagee,
+Tumheen satyavaktaa tumheen sarvatyaagee | 2 | mahaaveera svaamee..
+Tumheen buddha brahmaa mahesh‍vara va shankara-2
+Mahaadeva eesh‍vara ashubha ke shayankara-2
+Satee anjanaa draupadee seetaa maataa,
+Manorama baneelee huee jaga vikhyaataa | 3 | mahaaveera svaamee..
+Sudarshana shreepaala tuma naama dhyaayaa-2
+Sabon ke dukhon ko kshanika men mitaayaa-2
+Naheen aaja sharanaa prabhujee tumhaaree,
+Rahenge jagata men kyaa phira bhee dukhaaree | 4 | mahaaveera svaamee
+Parama poojya shraddheya tumako jo dhyaave,
+Vahee indra bhagavaana padavee ko paave | | mahaaveera svaamee..`,
+    },
+  },
+  {
+    id: "aao-re-aao-re-gyananand-ki-dagariya",
+    type: "bhajan",
+    title: {
+      gu: "આઓ રે આઓ રે જ્ઞાનાનંદ કી ડગરિયા",
+      hi: "आओ रे आओ रे ज्ञानानंद की डगरिया",
+      sa: "",
+      en: "Aao re Aao re Gyaanaananda Kee Dagariyaa",
+    },
+    text: {
+      gu: `આઓ રે આઓ રે જ્ઞાનાનંદ કી ડગરિયા,
+તુમ આઓ રે આઓ, ગુણ ગાઓ રે ગાઓ,
+ચેતન રસિયા, આનંદ રસિયા ॥
+બડા અચંભા હોતા હૈ, ક્યોં અપને સે અનજાન રે,
+પર્યાયોં કે પાર દેખ લે, આપ સ્વયં ભગવાન રે ॥ આઓ..
+દર્શન જ્ઞાન સ્વભાવ મેં, નહીં જ્ઞેય કા લેશ રે,
+નિજ મેં નિજ કો જાનકર, તજો જ્ઞેય કા વેશ રે ॥ આઓ..
+મૈં જ્ઞાયક મૈં જ્ઞાન હૂં, મૈં ધ્યાતા મૈં ધ્યેય રે,
+ધ્યાન ધ્યેય મેં લીન હો, નિજ હી નિજ કા જ્ઞેય રે ॥ આઓ`,
+      hi: `आओ रे आओ रे ज्ञानानंद की डगरिया,
+तुम आओ रे आओ, गुण गाओ रे गाओ,
+चेतन रसिया, आनंद रसिया ॥
+बडा अचंभा होता है, क्यों अपने से अनजान रे,
+पर्यायों के पार देख ले, आप स्वयं भगवान रे ॥ आओ..
+दर्शन ज्ञान स्वभाव में, नहीं ज्ञेय का लेश रे,
+निज में निज को जानकर, तजो ज्ञेय का वेश रे ॥ आओ..
+मैं ज्ञायक मैं ज्ञान हूं, मैं ध्याता मैं ध्येय रे,
+ध्यान ध्येय में लीन हो, निज ही निज का ज्ञेय रे ॥ आओ`,
+      sa: "",
+      en: `Aao re aao re gyaanaananda kee dagariyaa,
+Tuma aao re aao, guna gaao re gaao,
+Chetana rasiyaa, aananda rasiyaa | |
+Badaa achanbhaa hotaa hai, kyon apane se anajaana re,
+Paryaayon ke paara dekha le, aapa svayan bhagavaana re | | aao..
+Darshana gyaana svabhaava men, naheen gyeya kaa lesha re,
+Nija men nija ko jaanakara, tajo gyeya kaa vesha re | | aao..
+Main gyaayaka main gyaana hoon, main dhyaataa main dhyeya re,
+Dhyaana dhyeya men leena ho, nija hee nija kaa gyeya re | | aao`,
+    },
+  },
+  {
+    id: "gomtesh-jay-gomtesh",
+    type: "bhajan",
+    title: {
+      gu: "ગોમટેશ જય ગોમટેશ",
+      hi: "गोमटेश जय गोमटेश",
+      sa: "",
+      en: "Gomatesha Jaya Gomatesha",
+    },
+    text: {
+      gu: `ગોમટેશ જય ગોમટેશ
+ગોમટેશ જય ગોમટેશ, મમ હૃદય વિરાજો-૨
+ગોમટેશ જય ગોમટેશ, જય જય બાહુબલી ॥
+હમ યહી કામના કરતે હૈ, કામના કરતે હૈં,
+ઐસા આને વાલા કલ હો, હો નગર નગર મેં બાહુબલી,
+સારી ધરતી ધર્મસ્થલ હો... હમ યહી કામના ।૧।
+હમ ભેદમતોં કે સમઝેં પર, આપસ મેં કોઈ મતભેદ ના હો,
+ઐસે આચરણ કરેં જિન પર,કોઈ ક્ષોભ ના હો કોઈ ખેદ ના હો,
+જો પ્રેમ પ્રીત કી શિક્ષા દે, વહી ધર્મ હમારા સંબલ હો ।૨।
+આરાધ્ય વહી હો જિન સબને, માનવતા કા સંદેશ દિયા,
+તુમ જીયો સભી કો જીને દો, સબકે હિત યહ ઉપદેશ દિયા,
+ઉનકે સિદ્ધાન્તોં કો માને,ઔર જીવન કા પથ ઉજ્જવલ હો ।૩
+ચિંતામણી કી ચિંતા ના કરેં, જીવન કો ચિંતામણી જાનેં,
+પરિગ્રહ ના અનાવશ્યક જોડેં, ક્યા હૈ આવશ્યક પહચાનેં,
+ક્ષણ ભંગુર સુખ કે હેતુ કભી, નહીં ચિત્ત હમારા ચંચલ હો ।૪।
+હમ નહીં દિગમ્બર શ્વેતામ્બર, તેરહપંથી સ્થાનકવાસી,
+સબ એક પંથ કે અનુયાયી, સબ એક દેવ કે વિશ્‍વાસી,
+હમ જૈની અપના ધર્મ જૈન, ઇતના હી પરિચય કેવલ હો ।૫।
+સબ ણમોકાર કા જાપ કરેં, ઔર પાઠ કરેં ભક્તામર કા,
+નિત નિયમિત પાલેં પંચશીલ, ઔર ત્યાગ કરેં આડમ્બર કા,
+વો કર્મ કરેં જિન કર્મોં સે, સારે સંસાર કા મંગલ હો ।૬।
+વૈરાગ્ય હુઆ જિસ પલ પ્રભુ કો, કોઈ રોક નહીં પાયા મગ મેં,
+અપની ઉપમા બન આપ ખડે, કોઈ ઔર નહીં ઇન સા જગ મેં,
+ઇનકે સુમિરન સે પ્રાપ્ત હમેં, બાહુબલ હો આતમ બલ હો ।૭।`,
+      hi: `गोमटेश जय गोमटेश
+गोमटेश जय गोमटेश, मम हृदय विराजो-२
+गोमटेश जय गोमटेश, जय जय बाहुबली ॥
+हम यही कामना करते है, कामना करते हैं,
+ऐसा आने वाला कल हो, हो नगर नगर में बाहुबली,
+सारी धरती धर्मस्थल हो... हम यही कामना ।१।
+हम भेदमतों के समझें पर, आपस में कोई मतभेद ना हो,
+ऐसे आचरण करें जिन पर,कोई क्षोभ ना हो कोई खेद ना हो,
+जो प्रेम प्रीत की शिक्षा दे, वही धर्म हमारा संबल हो ।२।
+आराध्य वही हो जिन सबने, मानवता का संदेश दिया,
+तुम जीयो सभी को जीने दो, सबके हित यह उपदेश दिया,
+उनके सिद्धान्तों को माने,और जीवन का पथ उज्जवल हो ।३
+चिंतामणी की चिंता ना करें, जीवन को चिंतामणी जानें,
+परिग्रह ना अनावश्यक जोडें, क्या है आवश्यक पहचानें,
+क्षण भंगुर सुख के हेतु कभी, नहीं चित्त हमारा चंचल हो ।४।
+हम नहीं दिगम्बर श्वेताम्बर, तेरहपंथी स्थानकवासी,
+सब एक पंथ के अनुयायी, सब एक देव के विश्‍वासी,
+हम जैनी अपना धर्म जैन, इतना ही परिचय केवल हो ।५।
+सब णमोकार का जाप करें, और पाठ करें भक्तामर का,
+नित नियमित पालें पंचशील, और त्याग करें आडम्बर का,
+वो कर्म करें जिन कर्मों से, सारे संसार का मंगल हो ।६।
+वैराग्य हुआ जिस पल प्रभु को, कोई रोक नहीं पाया मग में,
+अपनी उपमा बन आप खडे, कोई और नहीं इन सा जग में,
+इनके सुमिरन से प्राप्त हमें, बाहुबल हो आतम बल हो ।७।`,
+      sa: "",
+      en: `Gomatesha jaya gomatesha
+Gomatesha jaya gomatesha, mama hridaya viraajo-2
+Gomatesha jaya gomatesha, jaya jaya baahubalee | |
+Hama yahee kaamanaa karate hai, kaamanaa karate hain,
+Aisaa aane vaalaa kala ho, ho nagara nagara men baahubalee,
+Saaree dharatee dharmasthala ho... hama yahee kaamanaa | 1 |
+Hama bhedamaton ke samajhen para, aapasa men koee matabheda naa ho,
+Aise aacharana karen jina para,koee kshobha naa ho koee kheda naa ho,
+Jo prema preeta kee shikshaa de, vahee dharma hamaaraa sanbala ho | 2 |
+Aaraadhya vahee ho jina sabane, maanavataa kaa sandesha diyaa,
+Tuma jeeyo sabhee ko jeene do, sabake hita yaha upadesha diyaa,
+Unake siddhaanton ko maane,aura jeevana kaa patha ujjavala ho | 3
+Chintaamanee kee chintaa naa karen, jeevana ko chintaamanee jaanen,
+Parigraha naa anaavashyaka joden, kyaa hai aavashyaka pahachaanen,
+Kshana bhangura sukha ke hetu kabhee, naheen chitta hamaaraa chanchala ho | 4 |
+Hama naheen digambara shvetaambara, terahapanthee sthaanakavaasee,
+Saba eka pantha ke anuyaayee, saba eka deva ke vish‍vaasee,
+Hama jainee apanaa dharma jaina, itanaa hee parichaya kevala ho | 5 |
+Saba namokaara kaa jaapa karen, aura paatha karen bhaktaamara kaa,
+Nita niyamita paalen panchasheela, aura tyaaga karen aadambara kaa,
+Vo karma karen jina karmon se, saare sansaara kaa mangala ho | 6 |
+Vairaagya huaa jisa pala prabhu ko, koee roka naheen paayaa maga men,
+Apanee upamaa bana aapa khade, koee aura naheen ina saa jaga men,
+Inake sumirana se praapta hamen, baahubala ho aatama bala ho | 7 |`,
+    },
+  },
+  {
+    id: "jhini-jhini-ude-re-gulala",
+    type: "bhajan",
+    title: {
+      gu: "ઝીની ઝીની ઉડે રે ગુલાલ",
+      hi: "झीनी झीनी उडे रे गुलाल",
+      sa: "",
+      en: "Jheenee Jheenee Ude re Gulaala",
+    },
+    text: {
+      gu: `ઝીની ઝીની ઉડે રે ગુલાલ
+ઝીની ઝીની ઉડે રે ગુલાલ, ચાલો રે મંદરિયા મેં।
+ચાલો રે મંદરિયા મેં, ચાલો રે મંદરિયા મેં ॥
+મ્હારા તો ગુરુજી આતમજ્ઞાની,જ્ઞાન કી જિસને જ્યોત જગા દી
+જ્ઞાન કા ભરા રે ભંડાર, ચાલો રે મંદરિયા મેં ॥
+વીર પ્રભુ જી દયા કે સાગર, મહાવીર પ્રભુ જી દયા કે સાગર
+શીશ ઝુકાઊં બારમ્બાર, ચાલો રે મંદરિયા મેં ॥
+વીર પ્રભુ કે ચરણોં મેં આયે, આકર ચરણોં મેં શીશ નવાયે
+હો રહી જયજયકાર, ચાલો રે મંદરિયા મેં ॥`,
+      hi: `झीनी झीनी उडे रे गुलाल
+झीनी झीनी उडे रे गुलाल, चालो रे मंदरिया में।
+चालो रे मंदरिया में, चालो रे मंदरिया में ॥
+म्हारा तो गुरुजी आतमज्ञानी,ज्ञान की जिसने ज्योत जगा दी
+ज्ञान का भरा रे भंडार, चालो रे मंदरिया में ॥
+वीर प्रभु जी दया के सागर, महावीर प्रभु जी दया के सागर
+शीश झुकाऊं बारम्बार, चालो रे मंदरिया में ॥
+वीर प्रभु के चरणों में आये, आकर चरणों में शीश नवाये
+हो रही जयजयकार, चालो रे मंदरिया में ॥`,
+      sa: "",
+      en: `Jheenee jheenee ude re gulaala
+Jheenee jheenee ude re gulaala, chaalo re mandariyaa men |
+Chaalo re mandariyaa men, chaalo re mandariyaa men | |
+Mhaaraa to gurujee aatamagyaanee,gyaana kee jisane jyota jagaa dee
+Gyaana kaa bharaa re bhandaara, chaalo re mandariyaa men | |
+Veera prabhu jee dayaa ke saagara, mahaaveera prabhu jee dayaa ke saagara
+Sheesha jhukaaoon baarambaara, chaalo re mandariyaa men | |
+Veera prabhu ke charanon men aaye, aakara charanon men sheesha navaaye
+Ho rahee jayajayakaara, chaalo re mandariyaa men | |`,
+    },
+  },
+  {
+    id: "kyun-kare-abhimaan-jeewan",
+    type: "bhajan",
+    title: {
+      gu: "ક્યૂં કરે અભિમાન જીવન",
+      hi: "क्यूं करे अभिमान जीवन",
+      sa: "",
+      en: "Kyoon Kare Abhimaana Jeevana",
+    },
+    text: {
+      gu: `ક્યૂં કરે અભિમાન જીવન, હૈ યે દો દિન કા ।
+ઇક હવા કે ઝોંકે સે ઉડ જાએ જ્યોં તિનકા ॥
+લાખોં આએ ઔર ચલે ગએ,થિર ન રહ પાયા
+ખાક બન જાયેગી ઇક દિન, યે તેરી કાયા
+યે સમય હૈ આજ તેરે આત્મ ચિંતન કા ॥
+ખાલી હાથોં આયા જગ મેં, સંગ ના કુછ જાએ
+કર્મ તૂ જૈસા કરેગા, કામ વો હી આએ
+જ્ઞાન કી જ્યોતિ જગા, તમ દૂર કર મન કા ॥
+છોડકર ઝંઝટ જગત કે, શરણ પ્રભુ કી આ
+ત્યાગ જપ તપ શીલ સંયમ,સાધના ચિત લા
+દાસ હૈ યે ભક્ત તેરા- વીર ચરણન કા ॥`,
+      hi: `क्यूं करे अभिमान जीवन, है ये दो दिन का ।
+इक हवा के झोंके से उड़ जाए ज्यों तिनका ॥
+लाखों आए और चले गए,थिर न रह पाया
+ख़ाक बन जायेगी इक दिन, ये तेरी काया
+ये समय है आज तेरे आत्म चिंतन का ॥
+खाली हाथों आया जग में, संग ना कुछ जाए
+कर्म तू जैसा करेगा, काम वो ही आए
+ज्ञान की ज्योति जगा, तम दूर कर मन का ॥
+छोड़कर झंझट जगत के, शरण प्रभु की आ
+त्याग जप तप शील संयम,साधना चित ला
+दास है ये भक्त तेरा- वीर चरणन का ॥`,
+      sa: "",
+      en: `Kyoon kare abhimaana jeevana, hai ye do dina kaa |
+Ika havaa ke jhonke se uda jaae jyon tinakaa | |
+Laakhon aae aura chale gae,thira na raha paayaa
+Khaaka bana jaayegee ika dina, ye teree kaayaa
+Ye samaya hai aaja tere aatma chintana kaa | |
+Khaalee haathon aayaa jaga men, sanga naa kuchha jaae
+Karma too jaisaa karegaa, kaama vo hee aae
+Gyaana kee jyoti jagaa, tama doora kara mana kaa | |
+Chhodakara jhanjhata jagata ke, sharana prabhu kee aa
+Tyaaga japa tapa sheela sanyama,saadhanaa chita laa
+Daasa hai ye bhakta teraa- veera charanana kaa | |`,
+    },
+  },
+  {
+    id: "bahubali-bhagvaan-ka-mastkaabhishek",
+    type: "bhajan",
+    title: {
+      gu: "બાહુબલી ભગવાન કા મસ્તકાભિષેક",
+      hi: "बाहुबली भगवान का मस्तकाभिषेक",
+      sa: "",
+      en: "Baahubalee Bhagavaana Kaa Mastakaabhisheka",
+    },
+    text: {
+      gu: `બાહુબલી ભગવાન કા મસ્તકાભિષેક
+બાહુબલી ભગવાન કા મસ્તકાભિષેક,
+બારહ વર્ષોં સે હમ ઇસકી રાહ રહે થે ટેક,
+ધન્ય ધન્ય વે લોગ યહાં જો આજ રહે સિર ટેક ॥
+મસ્તકાભિષેક.... મહામસ્તકાભિષેક ॥ બાહુબલી..
+બીતે વર્ષ સહસ્ત્ર મૂર્તિ યે તપ કી ગઢી હુઈ,
+ખડે તપસ્વી કા પ્રતીક બન તબ સે ખડી હુઈ
+શ્રી ચામુણ્ડરાય કી માતા, ઇસકા શ્રેય ઉન્હીં કો જાતા
+ઉનકે લિયે ગઢી પ્રતિમા સે લાભાન્વિત પ્રત્યેક॥ધન્ય...॥
+ઋષભ દેવ પિતુ માત સુનંદા ભ્રાતા ભરત સમાન,
+ઘુટ્ટી મેં શ્રી બાહુબલી કો મિલા ધર્મ કા જ્ઞાન
+ચક્રવર્તી કા શીશ ઝુકાકર પ્રભુતા છોડી પ્રભુતા પાકર
+વિજય ગર્વ સે પહલે પ્રભુ ને ધરા દિગમ્બર વેખ॥ધન્ય..॥
+પર્વત પર નર નારી ચલે કલશોં મેં નીર ભરે,
+હોડ લગી અભિષેક પ્રભુ કા પહલે કૌન કરે।
+નીર ક્ષીર કી બહતી ધારા, ફિર ભી ના ભીગા તન સારા।
+ઐસી અન્ય વિશાલ મૂર્તિ કા કહીં નહીં ઉલ્લેખ॥ધન્ય...॥
+ઐસા ધ્યાન લગાયા પ્રભુ કો રહા ના યે ભી ધ્યાન,
+કિસ કિસ ને ચરણાર્બિન્દુ મેં બના લિયા હૈ સ્થાન।
+બાત ઉન્હેં યે ભી ના પતા થી તન લિપટી માધવી લતા થી।
+યે લાખોં મેં એક નહીં હૈં, દુનિયા ભર મેં એક॥ ધન્ય...॥
+મહક રહે ચંદન કેશર પુષ્પોં કી ઝડી લગી,
+દેખન કો યહ દૃશ્ય ભીડ યહાં કિતની બડી લગી
+ઐસી છટા લગે મનભાવન, ફાગુન બન બરસે ક્યૂં સાવન
+આજ યહાં વે જુડે જિન્હોંને જોડે પુણ્ય અનેક॥ ધન્ય...॥
+અપને ગુરુવર સહિત પધારે મુનિ શ્રી વિદ્યાનંદ,
+ચારુ કીર્તિ કી સૌમ્ય છવિ લખ હર્ષિત શ્રાવક વૃંદ
+નગર નગર સે ઘૂમ ઘુમાકર આયા મંગલ કલશ યહાં પર
+એક સભી કી ભક્તિ ભાવના લક્ષ્ય સભી કા એક ॥ધન્ય...॥
+ગોમટેશ કા હૈ સંદેશ ધારો અપરિગ્રહ વાદ,
+સબ કુછ હોતે સબ કુછ ત્યાગો વો ભી બિના વિષાદ।
+ભૌતિક બલ પર મત ઇતરાઓ, દયા ક્ષમા કી શક્તિ બઢાઓ।
+આતમ હિત કે હેતુ હૃદય મેં જાગૃત કરો વિવેક ॥ધન્ય..॥`,
+      hi: `बाहुबली भगवान का मस्तकाभिषेक
+बाहुबली भगवान का मस्तकाभिषेक,
+बारह वर्षों से हम इसकी राह रहे थे टेक,
+धन्य धन्य वे लोग यहां जो आज रहे सिर टेक ॥
+मस्तकाभिषेक.... महामस्तकाभिषेक ॥ बाहुबली..
+बीते वर्ष सहस्त्र मूर्ति ये तप की गढी हुई,
+खडे तपस्वी का प्रतीक बन तब से खडी हुई
+श्री चामुण्डराय की माता, इसका श्रेय उन्हीं को जाता
+उनके लिये गढी प्रतिमा से लाभान्वित प्रत्येक॥धन्य...॥
+ऋषभ देव पितु मात सुनंदा भ्राता भरत समान,
+घुट्टी में श्री बाहुबली को मिला धर्म का ज्ञान
+चक्रवर्ती का शीश झुकाकर प्रभुता छोडी प्रभुता पाकर
+विजय गर्व से पहले प्रभु ने धरा दिगम्बर वेख॥धन्य..॥
+पर्वत पर नर नारी चले कलशों में नीर भरे,
+होड लगी अभिषेक प्रभु का पहले कौन करे।
+नीर क्षीर की बहती धारा, फ़िर भी ना भीगा तन सारा।
+ऐसी अन्य विशाल मूर्ति का कहीं नहीं उल्लेख॥धन्य...॥
+ऐसा ध्यान लगाया प्रभु को रहा ना ये भी ध्यान,
+किस किस ने चरणार्बिन्दु में बना लिया है स्थान।
+बात उन्हें ये भी ना पता थी तन लिपटी माधवी लता थी।
+ये लाखों में एक नहीं हैं, दुनिया भर में एक॥ धन्य...॥
+महक रहे चंदन केशर पुष्पों की झडी लगी,
+देखन को यह दृश्य भीड यहां कितनी बडी लगी
+ऐसी छटा लगे मनभावन, फ़ागुन बन बरसे क्यूं सावन
+आज यहां वे जुडे जिन्होंने जोडे पुण्य अनेक॥ धन्य...॥
+अपने गुरुवर सहित पधारे मुनि श्री विद्यानंद,
+चारु कीर्ति की सौम्य छवि लख हर्षित श्रावक वृंद
+नगर नगर से घूम घुमाकर आया मंगल कलश यहां पर
+एक सभी की भक्ति भावना लक्ष्य सभी का एक ॥धन्य...॥
+गोमटेश का है संदेश धारो अपरिग्रह वाद,
+सब कुछ होते सब कुछ त्यागो वो भी बिना विषाद।
+भौतिक बल पर मत इतराओ, दया क्षमा की शक्ति बढाओ।
+आतम हित के हेतु हृदय में जागृत करो विवेक ॥धन्य..॥`,
+      sa: "",
+      en: `Baahubalee bhagavaana kaa mastakaabhisheka
+Baahubalee bhagavaana kaa mastakaabhisheka,
+Baaraha varshon se hama isakee raaha rahe the teka,
+Dhanya dhanya ve loga yahaan jo aaja rahe sira teka | |
+Mastakaabhisheka.... mahaamastakaabhisheka | | baahubalee..
+Beete varsha sahastra moorti ye tapa kee gadhee huee,
+Khade tapasvee kaa prateeka bana taba se khadee huee
+Shree chaamundaraaya kee maataa, isakaa shreya unheen ko jaataa
+Unake liye gadhee pratimaa se laabhaanvita pratyeka | | dhanya... | |
+Rishabha deva pitu maata sunandaa bhraataa bharata samaana,
+Ghuttee men shree baahubalee ko milaa dharma kaa gyaana
+Chakravartee kaa sheesha jhukaakara prabhutaa chhodee prabhutaa paakara
+Vijaya garva se pahale prabhu ne dharaa digambara vekha | | dhanya.. | |
+Parvata para nara naaree chale kalashon men neera bhare,
+Hoda lagee abhisheka prabhu kaa pahale kauna kare |
+Neera ksheera kee bahatee dhaaraa, phira bhee naa bheegaa tana saaraa |
+Aisee anya vishaala moorti kaa kaheen naheen ullekha | | dhanya... | |
+Aisaa dhyaana lagaayaa prabhu ko rahaa naa ye bhee dhyaana,
+Kisa kisa ne charanaarbindu men banaa liyaa hai sthaana |
+Baata unhen ye bhee naa pataa thee tana lipatee maadhavee lataa thee |
+Ye laakhon men eka naheen hain, duniyaa bhara men eka | | dhanya... | |
+Mahaka rahe chandana keshara pushpon kee jhadee lagee,
+Dekhana ko yaha drishya bheeda yahaan kitanee badee lagee
+Aisee chhataa lage manabhaavana, phaaguna bana barase kyoon saavana
+Aaja yahaan ve jude jinhonne jode punya aneka | | dhanya... | |
+Apane guruvara sahita padhaare muni shree vidyaananda,
+Chaaru keerti kee saumya chhavi lakha harshita shraavaka vrinda
+Nagara nagara se ghooma ghumaakara aayaa mangala kalasha yahaan para
+Eka sabhee kee bhakti bhaavanaa lakshya sabhee kaa eka | | dhanya... | |
+Gomatesha kaa hai sandesha dhaaro aparigraha vaada,
+Saba kuchha hote saba kuchha tyaago vo bhee binaa vishaada |
+Bhautika bala para mata itaraao, dayaa kshamaa kee shakti badhaao |
+Aatama hita ke hetu hridaya men jaagrita karo viveka | | dhanya.. | |`,
+    },
+  },
+  {
+    id: "main-sahjanand-swarupi-hu",
+    type: "bhajan",
+    title: {
+      gu: "મૈં સહજાનન્દ સ્વરૂપી હૂં",
+      hi: "मैं सहजानन्द स्वरूपी हूं",
+      sa: "",
+      en: "Main Sahajaananda Svaroopee Hoon",
+    },
+    text: {
+      gu: `મૈં દર્શન જ્ઞાન સ્વરૂપી હૂં, મૈં સહજાનન્દ સ્વરૂપી હૂં ॥
+હૂં જ્ઞાન માત્ર પરભાવ શૂન્ય, હૂં સહજ જ્ઞાન ધન સ્વયં પૂર્ણ,
+હૂં સત્ય સહજ આનન્દ ધામ, મૈં સહજાનન્દ સ્વરૂપી હૂં॥
+હૂં ખુદ કા હી કર્તા ભોક્તા, પર મેં મેરા કુછ કામ નહીં,
+પર કા ન પ્રવેશ ન કાર્ય યહાં, મૈં સહજાનન્દ સ્વરૂપી હૂં ॥
+આઓ ઉતરો રમલો નિજ મેં,નિજ મેં નિજ કી દુવિધા હી ક્યા।
+હૈ અનુભવ રસ સે સહજ પ્રાપ્ત, મૈં સહજાનન્દ સ્વરૂપી હૂં ॥`,
+      hi: `मैं दर्शन ज्ञान स्वरूपी हूं, मैं सहजानन्द स्वरूपी हूं ॥
+हूं ज्ञान मात्र परभाव शून्य, हूं सहज ज्ञान धन स्वयं पूर्ण,
+हूं सत्य सहज आनन्द धाम, मैं सहजानन्द स्वरूपी हूं॥
+हूं खुद का ही कर्ता भोक्ता, पर में मेरा कुछ काम नहीं,
+पर का न प्रवेश न कार्य यहां, मैं सहजानन्द स्वरूपी हूं ॥
+आओ उतरो रमलो निज में,निज में निज की दुविधा ही क्या।
+है अनुभव रस से सहज प्राप्त, मैं सहजानन्द स्वरूपी हूं ॥`,
+      sa: "",
+      en: `Main darshana gyaana svaroopee hoon, main sahajaananda svaroopee hoon | |
+Hoon gyaana maatra parabhaava shoonya, hoon sahaja gyaana dhana svayan poorna,
+Hoon satya sahaja aananda dhaama, main sahajaananda svaroopee hoon | |
+Hoon khuda kaa hee kartaa bhoktaa, para men meraa kuchha kaama naheen,
+Para kaa na pravesha na kaarya yahaan, main sahajaananda svaroopee hoon | |
+Aao utaro ramalo nija men,nija men nija kee duvidhaa hee kyaa |
+Hai anubhava rasa se sahaja praapta, main sahajaananda svaroopee hoon | |`,
+    },
+  },
+  {
+    id: "milta-hai-sachha-sukh-keval",
+    type: "bhajan",
+    title: {
+      gu: "મિલતા હૈ સચ્ચા સુખ કેવલ",
+      hi: "मिलता है सच्चा सुख केवल",
+      sa: "",
+      en: "Milataa hai Sachchaa Sukha Kevala",
+    },
+    text: {
+      gu: `મિલતા હૈ સચ્ચા સુખ કેવલ
+મિલતા હૈ સચ્ચા સુખ કેવલ, ભગવાન તુમ્હારે ચરણોં મેં
+મેરી વિનતી હૈ પલ-પલ છિન-છિન,રહે ધ્યાન તુમ્હારે ચરણોં મેં
+ચાહે બૈરી કુલ સંસાર રહે, મેરા જીવન મુઝ પર ભાર રહે
+ચાહે મૌત ગલે કા હાર બને, રહે ધ્યાન તુમ્હારે ચરણોં મેં॥
+ચાહે સંકટ ને મુઝે ઘેરા હો, ચાહે ચારોં ઓર અંધેરા હો
+પર ચિત્ત ન મેરા ડગમગ હો, રહે ધ્યાન તુમ્હારે ચરણોં મેં॥
+ચાહે અગ્નિ મેં ભી જલના હો, ચાહે કાંટોં પે ભી ચલના હો
+ચાહે છોડ કે દેશ નિકલના હો,રહે ધ્યાન તુમ્હારે ચરણોંમેં ॥
+જિવ્હા પર તેરા નામ રહે, તેરી યાદ સુબહ ઔર શામ રહે
+બસ કામ યે આઠોં ધામ રહે, રહે ધ્યાન તુમ્હારે ચરણોં મેં ॥`,
+      hi: `मिलता है सच्चा सुख केवल
+मिलता है सच्चा सुख केवल, भगवान तुम्हारे चरणों में
+मेरी विनती है पल-पल छिन-छिन,रहे ध्यान तुम्हारे चरणों में
+चाहे बैरी कुल संसार रहे, मेरा जीवन मुझ पर भार रहे
+चाहे मौत गले का हार बने, रहे ध्यान तुम्हारे चरणों में॥
+चाहे संकट ने मुझे घेरा हो, चाहे चारों ओर अंधेरा हो
+पर चित्त न मेरा डगमग हो, रहे ध्यान तुम्हारे चरणों में॥
+चाहे अग्नि में भी जलना हो, चाहे कांटों पे भी चलना हो
+चाहे छोड के देश निकलना हो,रहे ध्यान तुम्हारे चरणोंमें ॥
+जिव्हा पर तेरा नाम रहे, तेरी याद सुबह और शाम रहे
+बस काम ये आठों धाम रहे, रहे ध्यान तुम्हारे चरणों में ॥`,
+      sa: "",
+      en: `Milataa hai sachchaa sukha kevala
+Milataa hai sachchaa sukha kevala, bhagavaana tumhaare charanon men
+Meree vinatee hai pala-pala chhina-chhina,rahe dhyaana tumhaare charanon men
+Chaahe bairee kula sansaara rahe, meraa jeevana mujha para bhaara rahe
+Chaahe mauta gale kaa haara bane, rahe dhyaana tumhaare charanon men | |
+Chaahe sankata ne mujhe gheraa ho, chaahe chaaron ora andheraa ho
+Para chitta na meraa dagamaga ho, rahe dhyaana tumhaare charanon men | |
+Chaahe agni men bhee jalanaa ho, chaahe kaanton pe bhee chalanaa ho
+Chaahe chhoda ke desha nikalanaa ho,rahe dhyaana tumhaare charanonmen | |
+Jivhaa para teraa naama rahe, teree yaada subaha aura shaama rahe
+Basa kaama ye aathon dhaama rahe, rahe dhyaana tumhaare charanon men | |`,
+    },
+  },
+  {
+    id: "tumhare-desh-bin-svami",
+    type: "bhajan",
+    title: {
+      gu: "તુમ્હારે દર્શ બિન સ્વામી",
+      hi: "तुम्हारे दर्श बिन स्वामी",
+      sa: "",
+      en: "Tumhaare Darsha Bina Svaamee",
+    },
+    text: {
+      gu: `તુમ્હારે દર્શ બિન સ્વામી
+તુમ્હારે દર્શ બિન સ્વામી, મુઝે નહીં ચૈન પડતી હૈ,
+છવિ વૈરાગ્ય તેરી સામને આઁખોં કે ફિરતી હૈ ॥ તુમ્હારે...
+નિરાભૂષણ વિગાતદુશન, પરમ આસન, મધુર ભાષણ।
+નજર નૈંનો કી આશા કી અનિ પર સે ગુજરતી હૈ ॥ તુમ્હારે
+નહીં કર્મોં કા ડર હમકો, કિ જબ લગે ધ્યાન ચરનન મેં।
+તેરે દર્શન સે સુનતે હૈ કરમ રેખા બદલતી હૈ ॥ તુમ્હારે...
+મિલે ગર સ્વર્ગ કી સંપત્તિ, અચંભા કૌન સા ઇસમેં।
+તુમ્હેં જો નયન ભર દેખેં, ગતિ દુર્ગતિ હી ટલતી હૈ ॥તુમ્હારે
+હજારોં મૂર્તિયાઁ હમને બહુત સી અન્ય મત દેખી।
+શાંતિ મૂરત તુમ્હારી સી નહીં નજરોં મેં ચઢતી હૈ ॥ તુમ્હારે..
+જગત સિરતાજ હો જિનરાજ સેવક કો દરશ દીજે।
+તુમ્હારા ક્યા બિગડતા હૈ મેરી બિગડી સુધરતી હૈ ॥ તુમ્હારે.. .`,
+      hi: `तुम्हारे दर्श बिन स्वामी
+तुम्हारे दर्श बिन स्वामी, मुझे नहीं चैन पड़ती है,
+छवि वैराग्य तेरी सामने आँखों के फिरती है ॥ तुम्हारे...
+निराभूषण विगातदुशन, परम आसन, मधुर भाषण।
+नजर नैंनो की आशा की अनि पर से गुजरती है ॥ तुम्हारे
+नहीं कर्मों का डर हमको, कि जब लगे ध्यान चरनन में।
+तेरे दर्शन से सुनते है करम रेखा बदलती है ॥ तुम्हारे...
+मिले गर स्वर्ग की संपत्ति, अचंभा कौन सा इसमें।
+तुम्हें जो नयन भर देखें, गति दुर्गति ही टलती है ॥तुम्हारे
+हजारों मूर्तियाँ हमने बहुत सी अन्य मत देखी।
+शांति मूरत तुम्हारी सी नहीं नजरों में चढ़ती है ॥ तुम्हारे..
+जगत सिरताज हो जिनराज सेवक को दरश दीजे।
+तुम्हारा क्या बिगड़ता है मेरी बिगड़ी सुधरती है ॥ तुम्हारे.. .`,
+      sa: "",
+      en: `Tumhaare darsha bina svaamee
+Tumhaare darsha bina svaamee, mujhe naheen chaina padatee hai,
+Chhavi vairaagya teree saamane aankhon ke phiratee hai | | tumhaare...
+Niraabhooshana vigaatadushana, parama aasana, madhura bhaashana |
+Najara nainno kee aashaa kee ani para se gujaratee hai | | tumhaare
+Naheen karmon kaa dara hamako, ki jaba lage dhyaana charanana men |
+Tere darshana se sunate hai karama rekhaa badalatee hai | | tumhaare...
+Mile gara svarga kee sanpatti, achanbhaa kauna saa isamen |
+Tumhen jo nayana bhara dekhen, gati durgati hee talatee hai | | tumhaare
+Hajaaron moortiyaan hamane bahuta see anya mata dekhee |
+Shaanti moorata tumhaaree see naheen najaron men chadhatee hai | | tumhaare..
+Jagata sirataaja ho jinaraaja sevaka ko darasha deeje |
+Tumhaaraa kyaa bigadataa hai meree bigadee sudharatee hai | | tumhaare.. .`,
+    },
+  },
+  {
+    id: "tu-jaag-re-chetan",
+    type: "bhajan",
+    title: {
+      gu: "તૂ જાગ રે ચેતન",
+      hi: "तू जाग रे चेतन",
+      sa: "",
+      en: "Too Jaaga re Chetana",
+    },
+    text: {
+      gu: `તૂ જાગ રે ચેતન દેવ તુઝે જિનદેવ જગાતે હૈં ।
+તેરે અંદર મેં આનન્દ કે ગીત તુઝે સંગીત ન ભાતે હૈં ॥
+પરપદ અપદ હૈ, પરપદ અપદ હૈ તુઝકો ન શોભા દેતા
+અપને હી રંગ મેં,અપની હી ધુન મેં રમજા તૂ સંતોં ને ઘેરા
+તેરી મહિમા અગમ અનૂપ, તુઝે જિનદેવ જગાતે હૈં ॥
+ઇસ પલ ભી જીના,નિજ બલપે જીના,શોભાવે સન્મુખ હી જીના
+દો દિન કા મેલા ફિરતૂ અકેલા કોઈ હૈ જગ કા કહીં ના
+સુન સમયસાર સંગીત તુઝે જિનદેવ સુનાતે હૈં ॥
+ચૈતન્ય રસ મેં, આનન્દ કે રસ મેં, શાન્તિ કે રસ મેં નહાલે
+પ્રભુતા કે રસ મેં,ભીરુતા કે રસ મેં,વૈરાગ્ય રસ મેં મજા લે
+ફિર સબ ગાવેં તેરે ગીત, તુઝે જિનદેવ જગાતે હૈં ॥`,
+      hi: `तू जाग रे चेतन देव तुझे जिनदेव जगाते हैं ।
+तेरे अंदर में आनन्द के गीत तुझे संगीत न भाते हैं ॥
+परपद अपद है, परपद अपद है तुझको न शोभा देता
+अपने ही रंग में,अपनी ही धुन में रमजा तू संतों ने घेरा
+तेरी महिमा अगम अनूप, तुझे जिनदेव जगाते हैं ॥
+इस पल भी जीना,निज बलपे जीना,शोभावे सन्मुख ही जीना
+दो दिन का मेला फ़िरतू अकेला कोई है जग का कहीं ना
+सुन समयसार संगीत तुझे जिनदेव सुनाते हैं ॥
+चैतन्य रस में, आनन्द के रस में, शान्ति के रस में नहाले
+प्रभुता के रस में,भीरुता के रस में,वैराग्य रस में मजा ले
+फ़िर सब गावें तेरे गीत, तुझे जिनदेव जगाते हैं ॥`,
+      sa: "",
+      en: `Too jaaga re chetana deva tujhe jinadeva jagaate hain |
+Tere andara men aananda ke geeta tujhe sangeeta na bhaate hain | |
+Parapada apada hai, parapada apada hai tujhako na shobhaa detaa
+Apane hee ranga men,apanee hee dhuna men ramajaa too santon ne gheraa
+Teree mahimaa agama anoopa, tujhe jinadeva jagaate hain | |
+Isa pala bhee jeenaa,nija balape jeenaa,shobhaave sanmukha hee jeenaa
+Do dina kaa melaa phiratoo akelaa koee hai jaga kaa kaheen naa
+Suna samayasaara sangeeta tujhe jinadeva sunaate hain | |
+Chaitanya rasa men, aananda ke rasa men, shaanti ke rasa men nahaale
+Prabhutaa ke rasa men,bheerutaa ke rasa men,vairaagya rasa men majaa le
+Phira saba gaaven tere geeta, tujhe jinadeva jagaate hain | |`,
+    },
+  },
+  {
+    id: "jinvani-amrit-rasaal",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી અમૃત રસાલ",
+      hi: "जिनवाणी अमृत रसाल",
+      sa: "",
+      en: "Jinavaanee Amrita Rasaala",
+    },
+    text: {
+      gu: `જિનવાણી અમૃત રસાલ
+જિનવાણી અમૃત રસાલ, રસિયા આવો જી સુણવા ॥ટેક॥
+છહ દ્રવ્યોં કા જ્ઞાન કરાવે, નવ તત્ત્વોં કા રહસ્ય બતાવે,
+આતમ તત્ત્વ હૈ મહાન રસિયા આવોજી ।૧।
+વિષય કષાય કા નાશ કરાવે, નિજ આતમ સે પ્રીતિ બઢાવે,
+મિથ્યાત્વ કા હોવે નાશ રસિયા આવોજી ।૨।
+અનેકાન્તમય ધર્મ બતાવે, સ્યાદ્વાદ શૈલી કથન મેં આવે,
+ભવસાગર સે હોવે પાર રસિયા આવોજી ।૩।
+જો જિનવાણી સુન હરષાએ, નિશ્ચય હી વહ ભવ્ય કહાવે,
+સ્વાધ્યાય તપ હૈ મહાન્ રસિયા આવોજી ।૪।`,
+      hi: `जिनवाणी अमृत रसाल
+जिनवाणी अमृत रसाल, रसिया आवो जी सुणवा ॥टेक॥
+छह द्रव्यों का ज्ञान करावे, नव तत्त्वों का रहस्य बतावे,
+आतम तत्त्व है महान रसिया आवोजी ।१।
+विषय कषाय का नाश करावे, निज आतम से प्रीति बढ़ावे,
+मिथ्यात्व का होवे नाश रसिया आवोजी ।२।
+अनेकान्तमय धर्म बतावे, स्याद्वाद शैली कथन में आवे,
+भवसागर से होवे पार रसिया आवोजी ।३।
+जो जिनवाणी सुन हरषाए, निश्चय ही वह भव्य कहावे,
+स्वाध्याय तप है महान् रसिया आवोजी ।४।`,
+      sa: "",
+      en: `Jinavaanee amrita rasaala
+Jinavaanee amrita rasaala, rasiyaa aavo jee sunavaa | | teka | |
+Chhaha dravyon kaa gyaana karaave, nava tattvon kaa rahasya bataave,
+Aatama tattva hai mahaana rasiyaa aavojee | 1 |
+Vishaya kashaaya kaa naasha karaave, nija aatama se preeti badhaave,
+Mithyaatva kaa hove naasha rasiyaa aavojee | 2 |
+Anekaantamaya dharma bataave, syaadvaada shailee kathana men aave,
+Bhavasaagara se hove paara rasiyaa aavojee | 3 |
+Jo jinavaanee suna harashaae, nishchaya hee vaha bhavya kahaave,
+Svaadhyaaya tapa hai mahaan rasiyaa aavojee | 4 |`,
+    },
+  },
+  {
+    id: "chetan-apno-roop-niharo",
+    type: "bhajan",
+    title: {
+      gu: "ચેતન અપનો રૂપ નિહારો",
+      hi: "चेतन अपनो रूप निहारो",
+      sa: "",
+      en: "Chetana Apano Roopa Nihaaro",
+    },
+    text: {
+      gu: `ચેતન અપનો રૂપ નિહારો, નહીં ગોરો નહીં કારો
+દર્શન જ્ઞાન મયી તિન મૂરત, સકલ કર્મ તે ન્યારો ॥
+જાકી બિન પહચાન કિયે તે, સહો મહા દુખ ભારો,
+જાકે લખે ઉદય હુએ તત્ક્ષણ, કેવલજ્ઞાન ઉજારો ॥
+કર્મ જનિત પર્યાય પાય ના, કીનો આપ પસારો,
+આપા પર સ્વરૂપ ના પિછાન્યો, તાતેં સહો રુઝારો ॥
+અબ નિજ મેં નિજ જાન નિયત કહાં સો સબ હી ઉરઝારો,
+જગત રામ સબ વિધિ સુખસાગર, પદી પાઓ અવિકારો ॥`,
+      hi: `चेतन अपनो रूप निहारो, नहीं गोरो नहीं कारो
+दर्शन ज्ञान मयी तिन मूरत, सकल कर्म ते न्यारो ॥
+जाकी बिन पहचान किये ते, सहो महा दुख भारो,
+जाके लखे उदय हुए तत्क्षण, केवलज्ञान उजारो ॥
+कर्म जनित पर्याय पाय ना, कीनो आप पसारो,
+आपा पर स्वरूप ना पिछान्यो, तातें सहो रुझारो ॥
+अब निज में निज जान नियत कहां सो सब ही उरझारो,
+जगत राम सब विधि सुखसागर, पदी पाओ अविकारो ॥`,
+      sa: "",
+      en: `Chetana apano roopa nihaaro, naheen goro naheen kaaro
+Darshana gyaana mayee tina moorata, sakala karma te nyaaro | |
+Jaakee bina pahachaana kiye te, saho mahaa dukha bhaaro,
+Jaake lakhe udaya hue tatkshana, kevalagyaana ujaaro | |
+Karma janita paryaaya paaya naa, keeno aapa pasaaro,
+Aapaa para svaroopa naa pichhaanyo, taaten saho rujhaaro | |
+Aba nija men nija jaana niyata kahaan so saba hee urajhaaro,
+Jagata raama saba vidhi sukhasaagara, padee paao avikaaro | |`,
+    },
+  },
+  {
+    id: "dhanya-dhanya-vitraag-vani",
+    type: "bhajan",
+    title: {
+      gu: "ધન્ય ધન્ય વીતરાગ વાણી",
+      hi: "धन्य धन्य वीतराग वाणी",
+      sa: "",
+      en: "Dhanya Dhanya Veetaraaga Vaanee",
+    },
+    text: {
+      gu: `ધન્ય ધન્ય વીતરાગ વાણી
+ધન્ય ધન્ય વીતરાગ વાણી, અમર તેરી જગ મેં કહાની
+ચિદાનન્દ કી રાજધાની, અમર તેરી જગ મેં કહાની ।।ટેક।।
+ઉત્પાદ વ્યય ઔર ધ્રોવ્ય સ્વરૂપ, વસ્તુમબખાની સર્વજ્ઞ ભૂપ ।
+સ્યાદ્વાદ તેરી નિશાની, અમર તેરી જગ મેં કહાની ।૧।
+નિત્ય અનિત્ય અરૂ એક અનેક, વસ્તુકથંચિત ભેદ અભેદ ।
+અનેકાન્ત રૂપા બખાની, અમર તેરી જગ મેં કહાની ।૨।
+ભાવ શુભાશુભ બંધ સ્વરૂપ, શુદ્ધ ચિદાનન્દમય મુક્તિ રૂપ ।
+મારગ દિખાતી હૈ વાણી, અમર તેરી જગ મેં કહાની ।૩।
+ચિદાનન્દ ચૈતન્ય આનન્દધામ, જ્ઞાન સ્વભાવી નિજાતમ રામ ।
+સ્વાશ્રય સે મુક્તિ બખાની, અમર તેરી જગ મેં કહાની ।૪।`,
+      hi: `धन्य धन्य वीतराग वाणी
+धन्य धन्य वीतराग वाणी, अमर तेरी जग में कहानी
+चिदानन्द की राजधानी, अमर तेरी जग में कहानी ।।टेक।।
+उत्पाद व्यय और ध्रोव्य स्वरूप, वस्तुमबखानी सर्वज्ञ भूप ।
+स्याद्वाद तेरी निशानी, अमर तेरी जग में कहानी ।१।
+नित्य अनित्य अरू एक अनेक, वस्तुकथंचित भेद अभेद ।
+अनेकान्त रूपा बखानी, अमर तेरी जग में कहानी ।२।
+भाव शुभाशुभ बंध स्वरूप, शुद्ध चिदानन्दमय मुक्ति रूप ।
+मारग दिखाती है वाणी, अमर तेरी जग में कहानी ।३।
+चिदानन्द चैतन्य आनन्दधाम, ज्ञान स्वभावी निजातम राम ।
+स्वाश्रय से मुक्ति बखानी, अमर तेरी जग में कहानी ।४।`,
+      sa: "",
+      en: `Dhanya dhanya veetaraaga vaanee
+Dhanya dhanya veetaraaga vaanee, amara teree jaga men kahaanee
+Chidaananda kee raajadhaanee, amara teree jaga men kahaanee | | teka | |
+Utpaada vyaya aura dhrovya svaroopa, vastumabakhaanee sarvagya bhoopa |
+Syaadvaada teree nishaanee, amara teree jaga men kahaanee | 1 |
+Nitya anitya aroo eka aneka, vastukathanchita bheda abheda |
+Anekaanta roopaa bakhaanee, amara teree jaga men kahaanee | 2 |
+Bhaava shubhaashubha bandha svaroopa, shuddha chidaanandamaya mukti roopa |
+Maaraga dikhaatee hai vaanee, amara teree jaga men kahaanee | 3 |
+Chidaananda chaitanya aanandadhaama, gyaana svabhaavee nijaatama raama |
+Svaashraya se mukti bakhaanee, amara teree jaga men kahaanee | 4 |`,
+    },
+  },
+  {
+    id: "sanchi-to-ganga-yah",
+    type: "bhajan",
+    title: {
+      gu: "સાંચી તો ગંગા યહ",
+      hi: "सांची तो गंगा यह",
+      sa: "",
+      en: "Saanchee To Gangaa Yaha",
+    },
+    text: {
+      gu: `સાંચી તો ગંગા યહ
+સાંચી તો ગંગા યહ વીતરાગવાની
+અવિચ્છન્ન ધારા નિજ ધર્મકી કહાની ॥ટેક॥
+જામેં અતિ હી વિમલ અગાધ જ્ઞાનપાની
+જહાઁ નહીં સંશયાદિ પંકકી નિશાની ।૧।
+સપ્તભંગ જહઁ તરંગ ઉછલત સુખદાની
+સંતચિત મરાલવૃંદ રમૈં નિત્ય જ્ઞાની ।૨।
+જાકે અવગાહનતૈં શુદ્ધ હોય પ્રાની
+ભાગચન્દ નિહચૈ ઘટમાહિં યા પ્રમાની ।૩।`,
+      hi: `सांची तो गंगा यह
+सांची तो गंगा यह वीतरागवानी
+अविच्छन्न धारा निज धर्मकी कहानी ॥टेक॥
+जामें अति ही विमल अगाध ज्ञानपानी
+जहाँ नहीं संशयादि पंककी निशानी ।१।
+सप्तभंग जहँ तरंग उछलत सुखदानी
+संतचित मरालवृंद रमैं नित्य ज्ञानी ।२।
+जाके अवगाहनतैं शुद्ध होय प्रानी
+भागचन्द निहचै घटमाहिं या प्रमानी ।३।`,
+      sa: "",
+      en: `Saanchee to gangaa yaha
+Saanchee to gangaa yaha veetaraagavaanee
+Avichchhanna dhaaraa nija dharmakee kahaanee | | teka | |
+Jaamen ati hee vimala agaadha gyaanapaanee
+Jahaan naheen sanshayaadi pankakee nishaanee | 1 |
+Saptabhanga jahan taranga uchhalata sukhadaanee
+Santachita maraalavrinda ramain nitya gyaanee | 2 |
+Jaake avagaahanatain shuddha hoya praanee
+Bhaagachanda nihachai ghatamaahin yaa pramaanee | 3 |`,
+    },
+  },
+  {
+    id: "moh-ki-mahima-dekho",
+    type: "bhajan",
+    title: {
+      gu: "મોહ કી મહિમા દેખો",
+      hi: "मोह की महिमा देखो",
+      sa: "",
+      en: "Moha Kee Mahimaa Dekho",
+    },
+    text: {
+      gu: `મોહ કી મહિમા દેખો ક્યા તેરે મન મેં સમાઈ,
+અપની હી મહિમા ભુલાઈ તૂને અપની હી મહિમા ના આઈ
+કાહે અરિહન્તો કે કુલ કો લજાયા,
+કાહે જિનવાણી માઁ કા કહના ભુલાયા ।
+કાહે મુનિરાજોં કી સીખ ના માની,
+સિદ્ધ સમાન શક્તિ, હરકત બચકાની,
+અપને હી હાથોં અપને ઘર મેં હી આગ લગાઈ ॥ અપની હી..
+સમવસરણ મેં જિનવર, ઇન્દ્રોં ને ગાયા,
+સૌ સૌ ઇન્દ્રોં કે મધ્ય સબકો સમઝાયા ।
+અપની શુદ્ધાત્મા કો ભગવન બતાયા,
+ભવ્યોં ને સમઝા અંદર અનુભવ મેં આયા,
+જાનો ઔર દેખો ચેતન ઇસમેં હી તેરી ભલાઈ ॥ અપની હી..
+કાહે અપનાયે તૂને માટી કે ઢેલે,
+કહતા તુ સોના ચાંદી, સિક્કે વ ધેલે ।
+પુદ્ગલ અચેતન સે પ્રીતી બઢાઈ,
+પ્રભુતા કો ભૂલા પામર કૃતિ બનાઈ,
+રઘુકુલ કે રામ તૂને કાહે કો રીતિ ગમાઈ ॥ અપની હી..
+આતમ આરાધના કા આતમ હી મંચ હૈ,
+જિસમેં પરભાવોં કા ના રંચ પ્રપંચ હૈ ।
+કોઈ ના સ્વામી જિસમેં કોઈ ના ચાકર,
+બંસી બજૈયા તૂહી તેરા નટનાગર,
+જિસને ભી મુક્તિ પાઈ અસ્તિ કી મસ્તી મેં પાઈ ॥ અપની હી..`,
+      hi: `मोह की महिमा देखो क्या तेरे मन में समाई,
+अपनी ही महिमा भुलाई तूने अपनी ही महिमा ना आई
+काहे अरिहन्तो के कुल को लजाया,
+काहे जिनवाणी माँ का कहना भुलाया ।
+काहे मुनिराजों की सीख ना मानी,
+सिद्ध समान शक्ति, हरकत बचकानी,
+अपने ही हाथों अपने घर में ही आग लगाई ॥ अपनी ही..
+समवसरण में जिनवर, इन्द्रों ने गाया,
+सौ सौ इन्द्रों के मध्य सबको समझाया ।
+अपनी शुद्धात्मा को भगवन बताया,
+भव्यों ने समझा अंदर अनुभव में आया,
+जानो और देखो चेतन इसमें ही तेरी भलाई ॥ अपनी ही..
+काहे अपनाये तूने माटी के ढेले,
+कहता तु सोना चांदी, सिक्के व धेले ।
+पुद्गल अचेतन से प्रीती बढाई,
+प्रभुता को भूला पामर कृति बनाई,
+रघुकुल के राम तूने काहे को रीति गमाई ॥ अपनी ही..
+आतम आराधना का आतम ही मंच है,
+जिसमें परभावों का ना रंच प्रपंच है ।
+कोई ना स्वामी जिसमें कोई ना चाकर,
+बंसी बजैया तूही तेरा नटनागर,
+जिसने भी मुक्ति पाई अस्ति की मस्ती में पाई ॥ अपनी ही..`,
+      sa: "",
+      en: `Moha kee mahimaa dekho kyaa tere mana men samaaee,
+Apanee hee mahimaa bhulaaee toone apanee hee mahimaa naa aaee
+Kaahe arihanto ke kula ko lajaayaa,
+Kaahe jinavaanee maan kaa kahanaa bhulaayaa |
+Kaahe muniraajon kee seekha naa maanee,
+Siddha samaana shakti, harakata bachakaanee,
+Apane hee haathon apane ghara men hee aaga lagaaee | | apanee hee..
+Samavasarana men jinavara, indron ne gaayaa,
+Sau sau indron ke madhya sabako samajhaayaa |
+Apanee shuddhaatmaa ko bhagavana bataayaa,
+Bhavyon ne samajhaa andara anubhava men aayaa,
+Jaano aura dekho chetana isamen hee teree bhalaaee | | apanee hee..
+Kaahe apanaaye toone maatee ke dhele,
+Kahataa tu sonaa chaandee, sikke va dhele |
+Pudgala achetana se preetee badhaaee,
+Prabhutaa ko bhoolaa paamara kriti banaaee,
+Raghukula ke raama toone kaahe ko reeti gamaaee | | apanee hee..
+Aatama aaraadhanaa kaa aatama hee mancha hai,
+Jisamen parabhaavon kaa naa rancha prapancha hai |
+Koee naa svaamee jisamen koee naa chaakara,
+Bansee bajaiyaa toohee teraa natanaagara,
+Jisane bhee mukti paaee asti kee mastee men paaee | | apanee hee..`,
+    },
+  },
+  {
+    id: "shanti-sudha-barsaye-jinvani",
+    type: "bhajan",
+    title: {
+      gu: "શાંતિ સુધા બરસાએ જિનવાણી",
+      hi: "शांति सुधा बरसाए जिनवाणी",
+      sa: "",
+      en: "Shaanti Sudhaa Barasaae Jinavaanee",
+    },
+    text: {
+      gu: `શાંતિ સુધા બરસાએ જિનવાણી
+શાંતિ સુધા બરસાએ જિનવાણી, વસ્તુસ્વરૂપ બતાએ જિનવાણી ॥
+પૂર્વાપર સબ દોષ રહિત હૈ, વીતરાગ મય ધર્મ સહિત હૈ,
+પરમાગમ કહલાએ જિનવાણી ।૧।
+મુક્તિ વધૂ કે મુખ કા દરપણ, જીવન અપના કર દેં અરપણ,
+ભવ સમુદ્ર સે તારે જિનવાણી ।૨।
+રાગદ્વેષ અંગારોં દ્વારા, મહાક્લેશ પાતા જગ સારા,
+સજલ મેઘ બરસાએ જિનવાણી ।૩।
+સાત તત્ત્વ કા જ્ઞાન કરાવે, અચલ વિમલ નિજ પદ દરસાવે,
+સુખ સાગર લહરાએ જિનવાણી ।૪।`,
+      hi: `शांति सुधा बरसाए जिनवाणी
+शांति सुधा बरसाए जिनवाणी, वस्तुस्वरूप बताए जिनवाणी ॥
+पूर्वापर सब दोष रहित है, वीतराग मय धर्म सहित है,
+परमागम कहलाए जिनवाणी ।१।
+मुक्ति वधू के मुख का दरपण, जीवन अपना कर दें अरपण,
+भव समुद्र से तारे जिनवाणी ।२।
+रागद्वेष अंगारों द्वारा, महाक्लेश पाता जग सारा,
+सजल मेघ बरसाए जिनवाणी ।३।
+सात तत्त्व का ज्ञान करावे, अचल विमल निज पद दरसावे,
+सुख सागर लहराए जिनवाणी ।४।`,
+      sa: "",
+      en: `Shaanti sudhaa barasaae jinavaanee
+Shaanti sudhaa barasaae jinavaanee, vastusvaroopa bataae jinavaanee | |
+Poorvaapara saba dosha rahita hai, veetaraaga maya dharma sahita hai,
+Paramaagama kahalaae jinavaanee | 1 |
+Mukti vadhoo ke mukha kaa darapana, jeevana apanaa kara den arapana,
+Bhava samudra se taare jinavaanee | 2 |
+Raagadvesha angaaron dvaaraa, mahaaklesha paataa jaga saaraa,
+Sajala megha barasaae jinavaanee | 3 |
+Saata tattva kaa gyaana karaave, achala vimala nija pada darasaave,
+Sukha saagara laharaae jinavaanee | 4 |`,
+    },
+  },
+  {
+    id: "apne-me-apna-parmatam",
+    type: "bhajan",
+    title: {
+      gu: "અપને મેં અપના પરમાતમ",
+      hi: "अपने में अपना परमातम",
+      sa: "",
+      en: "Apane Men Apanaa Paramaatama",
+    },
+    text: {
+      gu: `અપને મેં અપના પરમાતમ, અપને સે હી પાના રે।
+અપને કો પાને અપને સે, દૂર કહીં નહીં જાના રે॥
+અપની નિધિ અપને મેં હોગી, અપને કો અપનેપન દે,
+અપની નિધિ કી વિધિ અપને મેં, અપના સાધન આતમ રે,
+અપના અપના રહા સદા હી, પરિચય હી કો પાના રે,
+અપને કો પાને અપને સે...
+અપને જૈસે જીવ અનન્તે, અપને બલ સે સેતે હુએ,
+અપની પ્રભુતા કી પ્રભુતા હી, પહચાની પ્રસેતે હુએ,
+અપની પ્રભુતા નહીં બનાના, અપને સે હૈ પાના રે,
+અપને કો પાને અપને સે...`,
+      hi: `अपने में अपना परमातम, अपने से ही पाना रे।
+अपने को पाने अपने से, दूर कहीं नहीं जाना रे॥
+अपनी निधि अपने में होगी, अपने को अपनेपन दे,
+अपनी निधि की विधि अपने में, अपना साधन आतम रे,
+अपना अपना रहा सदा ही, परिचय ही को पाना रे,
+अपने को पाने अपने से...
+अपने जैसे जीव अनन्ते, अपने बल से सेते हुए,
+अपनी प्रभुता की प्रभुता ही, पहचानी प्रसेते हुए,
+अपनी प्रभुता नहीं बनाना, अपने से है पाना रे,
+अपने को पाने अपने से...`,
+      sa: "",
+      en: `Apane men apanaa paramaatama, apane se hee paanaa re |
+Apane ko paane apane se, doora kaheen naheen jaanaa re | |
+Apanee nidhi apane men hogee, apane ko apanepana de,
+Apanee nidhi kee vidhi apane men, apanaa saadhana aatama re,
+Apanaa apanaa rahaa sadaa hee, parichaya hee ko paanaa re,
+Apane ko paane apane se...
+Apane jaise jeeva anante, apane bala se sete hue,
+Apanee prabhutaa kee prabhutaa hee, pahachaanee prasete hue,
+Apanee prabhutaa naheen banaanaa, apane se hai paanaa re,
+Apane ko paane apane se...`,
+    },
+  },
+  {
+    id: "ma-jinvani-baso-hradya-main",
+    type: "bhajan",
+    title: {
+      gu: "માઁ જિનવાણી બસો હૃદય મેં",
+      hi: "माँ जिनवाणी बसो हृदय में",
+      sa: "",
+      en: "Maan Jinavaanee Baso Hridaya Men",
+    },
+    text: {
+      gu: `માઁ જિનવાણી બસો હૃદય મેં
+માઁ જિનવાણી બસો હૃદય મેં, દુખ કા હો નિસ્તારા
+નિત્યબોધની જિનવર વાણી, વન્દન હો શતવારા ।।ટેક ।।
+વીતરાગતા ગર્ભિત જિસમેં, ઐસી પ્રભુ કી વાણી
+જીવન મેં ઇસકો અપનાએઁ, બન જાએ સમ્યક્જ્ઞાની
+જનમ-જનમ તક ના ભૂલૂઁગા, યહ ઉપકાર તુમ્હારા ।૧।
+યુગ યુગ સે હી મહાદુખી હૈ, જગ કે સારે પ્રાણી
+મોહરૂપ મદિરા કો પીકર, બને હુએ અજ્ઞાની
+ઐસી રાહ બતા દો માતા, મિટે મોહ અંધિયારા ।૨।
+દ્રવ્ય ઔર ગુણપર્યાયોં કા, જ્ઞાન આપસે હોતા
+ચિદાનન્દ ચૈતન્યશક્તિ કા, ભાન આપસે હોતા
+મૈં અપને મેં હી રમ જાઊઁ, યહી હો લક્ષ્ય હમારા ।૩।
+ભટક ભટક કર હાર ગએ અબ, તેરી શરણ મેં આએ
+અનેકાંત વાણી કો સુનકર, નિજ સ્વરૂપ કો ધ્યાએઁ
+જય જય જય માઁ સરસ્વતી, શત શત નમન હમારા ।૪।`,
+      hi: `माँ जिनवाणी बसो हृदय में
+माँ जिनवाणी बसो हृदय में, दुख का हो निस्तारा
+नित्यबोधनी जिनवर वाणी, वन्दन हो शतवारा ।।टेक ।।
+वीतरागता गर्भित जिसमें, ऐसी प्रभु की वाणी
+जीवन में इसको अपनाएँ, बन जाए सम्यक्ज्ञानी
+जनम-जनम तक ना भूलूँगा, यह उपकार तुम्हारा ।१।
+युग युग से ही महादुखी है, जग के सारे प्राणी
+मोहरूप मदिरा को पीकर, बने हुए अज्ञानी
+ऐसी राह बता दो माता, मिटे मोह अंधियारा ।२।
+द्रव्य और गुणपर्यायों का, ज्ञान आपसे होता
+चिदानन्द चैतन्यशक्ति का, भान आपसे होता
+मैं अपने में ही रम जाऊँ, यही हो लक्ष्य हमारा ।३।
+भटक भटक कर हार गए अब, तेरी शरण में आए
+अनेकांत वाणी को सुनकर, निज स्वरूप को ध्याएँ
+जय जय जय माँ सरस्वती, शत शत नमन हमारा ।४।`,
+      sa: "",
+      en: `Maan jinavaanee baso hridaya men
+Maan jinavaanee baso hridaya men, dukha kaa ho nistaaraa
+Nityabodhanee jinavara vaanee, vandana ho shatavaaraa | | teka | |
+Veetaraagataa garbhita jisamen, aisee prabhu kee vaanee
+Jeevana men isako apanaaen, bana jaae samyakgyaanee
+Janama-janama taka naa bhooloongaa, yaha upakaara tumhaaraa | 1 |
+Yuga yuga se hee mahaadukhee hai, jaga ke saare praanee
+Moharoopa madiraa ko peekara, bane hue agyaanee
+Aisee raaha bataa do maataa, mite moha andhiyaaraa | 2 |
+Dravya aura gunaparyaayon kaa, gyaana aapase hotaa
+Chidaananda chaitanyashakti kaa, bhaana aapase hotaa
+Main apane men hee rama jaaoon, yahee ho lakshya hamaaraa | 3 |
+Bhataka bhataka kara haara gae aba, teree sharana men aae
+Anekaanta vaanee ko sunakara, nija svaroopa ko dhyaaen
+Jaya jaya jaya maan sarasvatee, shata shata namana hamaaraa | 4 |`,
+    },
+  },
+  {
+    id: "dekho-jab-apne-antar-ko",
+    type: "bhajan",
+    title: {
+      gu: "દેખા જબ અપને અંતર કો",
+      hi: "देखा जब अपने अंतर को",
+      sa: "",
+      en: "Dekhaa Jaba Apane Antara ko",
+    },
+    text: {
+      gu: `દેખા જબ અપને અંતર કો કુછ ઔર નહીં ભગવાન હૂં મૈં
+પર્યાય ભલે હી પામર હો અંદર સે વૈભવવાન હૂં મૈં,
+દેખા જબ અપને અંતર કો...
+ચૈતન્ય પ્રાણોં સે જીવિત હૈં, ઇંદ્રિય બલ શ્‍વાસોચ્છવાસ નહીં,
+હૂં આયુરહિત નિત અજરઅમર, સચ્ચિદાનંદ ગુણખાન હૂં મૈં ॥
+આધીન નહીં સંયોગોં કે, પર્યાયોં સે અપ્રભાવી હૂં,
+સ્વાધીન અખંડ પ્રતાપી હૂં, નિજ સે હી પ્રભુતાવાન હૂં મૈં ॥
+સામાન્ય વિશેષોં સહિત વિશુદ્ધ, પ્રત્યક્ષ ઝલક જાવે ક્ષણ મેં,
+સર્વજ્ઞ સર્વોદય શ્રીઆદિક,સમ્યક નિધિયોં કી ખાન હૂં મૈં॥
+સૌ ધર્મોં મેં વ્યાપ્તિ વિભુ હૂં, અરુ ધર્મ અનંતામયી ધર્મી,
+નિત નિજ સ્વરૂપ કી રચના સે,અંતર મેં ધીરજવાન હૂં મૈં॥
+મેરા વૈભવ શાશ્વત અક્ષુણ્ણ, પર સે આદાન પ્રદાન નહીં,
+ત્યાગોપાદાન શૂન્ય નિષ્ક્રિય,અરુ અગુરુલઘુ સે ઉધામહૂં મૈં॥
+તૃપ્તિ આનંદમયી પ્રગટી, જબ દેખા અંતર નાથ કો મૈં,
+નહીં રહી કામના અબ કોઈ, બસ નિર્વિકાર નિષ્કામ હૂં મૈં॥`,
+      hi: `देखा जब अपने अंतर को कुछ और नहीं भगवान हूं मैं
+पर्याय भले ही पामर हो अंदर से वैभववान हूं मैं,
+देखा जब अपने अंतर को...
+चैतन्य प्राणों से जीवित हैं, इंद्रिय बल श्‍वासोच्छवास नहीं,
+हूं आयुरहित नित अजरअमर, सच्चिदानंद गुणखान हूं मैं ॥
+आधीन नहीं संयोगों के, पर्यायों से अप्रभावी हूं,
+स्वाधीन अखंड प्रतापी हूं, निज से ही प्रभुतावान हूं मैं ॥
+सामान्य विशेषों सहित विशुद्ध, प्रत्यक्ष झलक जावे क्षण में,
+सर्वज्ञ सर्वोदय श्रीआदिक,सम्यक निधियों की खान हूं मैं॥
+सौ धर्मों में व्याप्ति विभु हूं, अरु धर्म अनंतामयी धर्मी,
+नित निज स्वरूप की रचना से,अंतर में धीरजवान हूं मैं॥
+मेरा वैभव शाश्वत अक्षुण्ण, पर से आदान प्रदान नहीं,
+त्यागोपादान शून्य निष्क्रिय,अरु अगुरुलघु से उधामहूं मैं॥
+तृप्ति आनंदमयी प्रगटी, जब देखा अंतर नाथ को मैं,
+नहीं रही कामना अब कोई, बस निर्विकार निष्काम हूं मैं॥`,
+      sa: "",
+      en: `Dekhaa jaba apane antara ko kuchha aura naheen bhagavaana hoon main
+Paryaaya bhale hee paamara ho andara se vaibhavavaana hoon main,
+Dekhaa jaba apane antara ko...
+Chaitanya praanon se jeevita hain, indriya bala sh‍vaasochchhavaasa naheen,
+Hoon aayurahita nita ajaraamara, sachchidaananda gunakhaana hoon main | |
+Aadheena naheen sanyogon ke, paryaayon se aprabhaavee hoon,
+Svaadheena akhanda prataapee hoon, nija se hee prabhutaavaana hoon main | |
+Saamaanya visheshon sahita vishuddha, pratyaksha jhalaka jaave kshana men,
+Sarvagya sarvodaya shreeaadika,samyaka nidhiyon kee khaana hoon main | |
+Sau dharmon men vyaapti vibhu hoon, aru dharma anantaamayee dharmee,
+Nita nija svaroopa kee rachanaa se,antara men dheerajavaana hoon main | |
+Meraa vaibhava shaashvata akshunna, para se aadaana pradaana naheen,
+Tyaagopaadaana shoonya nishkriya,aru agurulaghu se udhaamahoon main | |
+Tripti aanandamayee pragatee, jaba dekhaa antara naatha ko main,
+Naheen rahee kaamanaa aba koee, basa nirvikaara nishkaama hoon main | |`,
+    },
+  },
+  {
+    id: "sharan-koi-nahi-jag-main",
+    type: "bhajan",
+    title: {
+      gu: "શરણ કોઈ નહીં જગ મેં",
+      hi: "शरण कोई नहीं जग में",
+      sa: "",
+      en: "Sharana Koee Naheen Jaga Men",
+    },
+    text: {
+      gu: `શરણ કોઈ નહીં જગ મેં
+શરણ કોઈ નહીં જગ મેં, શરણ બસ હૈ જિનાગમ કા
+જો ચાહો કાજ આતમ કા,તો શરણા લો જિનાગમ કા ॥
+જહાઁ નિજ સત્વ કી ચર્ચા, જહાઁ સબ તત્ત્વ કી બાતેં
+જહાઁ શિવલોક કી કથની, તહાઁ ડર હૈ નહીં યમ કા ।૧।
+ઇસી સે કર્મ નસતે હૈં, ઇસી સે ભરમ ભજતે હૈં
+ઇસી સે ધ્યાન ધરતે હૈં, વિરાગી વન મેં આતમ કા ।૨।
+ભલા યહ દાવ પાયા હૈ, જિનાગમ હાથ આયા હૈ
+અભાગે દૂર ક્યોં ભાગો, ભલા અવસર સમાગમ કા ।૩।
+જો કરના હૈ સો અબ કરલો, બુરે કામોં સે અબ ડરલો
+કહે \`મુલતાન' સુન ભાઈ, ભરોસા હૈ ન ઇક પલ કા ।૪।`,
+      hi: `शरण कोई नहीं जग में
+शरण कोई नहीं जग में, शरण बस है जिनागम का
+जो चाहो काज आतम का,तो शरणा लो जिनागम का ॥
+जहाँ निज सत्व की चर्चा, जहाँ सब तत्त्व की बातें
+जहाँ शिवलोक की कथनी, तहाँ डर है नहीं यम का ।१।
+इसी से कर्म नसते हैं, इसी से भरम भजते हैं
+इसी से ध्यान धरते हैं, विरागी वन में आतम का ।२।
+भला यह दाव पाया है, जिनागम हाथ आया है
+अभागे दूर क्यों भागो, भला अवसर समागम का ।३।
+जो करना है सो अब करलो, बुरे कामों से अब डरलो
+कहे \`मुलतान' सुन भाई, भरोसा है न इक पल का ।४।`,
+      sa: "",
+      en: `Sharana koee naheen jaga men
+Sharana koee naheen jaga men, sharana basa hai jinaagama kaa
+Jo chaaho kaaja aatama kaa,to sharanaa lo jinaagama kaa | |
+Jahaan nija satva kee charchaa, jahaan saba tattva kee baaten
+Jahaan shivaloka kee kathanee, tahaan dara hai naheen yama kaa | 1 |
+Isee se karma nasate hain, isee se bharama bhajate hain
+Isee se dhyaana dharate hain, viraagee vana men aatama kaa | 2 |
+Bhalaa yaha daava paayaa hai, jinaagama haatha aayaa hai
+Abhaage doora kyon bhaago, bhalaa avasara samaagama kaa | 3 |
+Jo karanaa hai so aba karalo, bure kaamon se aba daralo
+Kahe \`mulataana' suna bhaaee, bharosaa hai na ika pala kaa | 4 |`,
+    },
+  },
+  {
+    id: "vishyon-me-na-bah-jana",
+    type: "bhajan",
+    title: {
+      gu: "વિષયોં મેં ના બહ જાના",
+      hi: "विषयों में ना बह जाना",
+      sa: "",
+      en: "Vishayon Men Naa Baha Jaanaa",
+    },
+    text: {
+      gu: `માયા મેં ફંસે ઇંસાન, વિષયોં મેં ના બહ જાના।
+ચિન્મય ચૈતન્ય નિધિ કો ભૂલ ના પછતાના ॥
+તન ધન વૈભવ પરિજન, તેરે કામ ના આયેંગે,
+સંયોગ સભી નશ્વર, તેરે સાથ ના જાયેંગે,
+તૂ અજર અમર ધ્રુવ હૈ, યહ ભાવ સદા લાના ।૧।
+પર દ્રવ્યોં મેં રમકર, અપને કો ભૂલ રહા,
+માયા અરુ મમતા મેં તૂ પ્રતિક્ષણ ફૂલ રહા,
+અનમોલ તેરા જીવન, ગફલત મેં ના ખો જાના ।૨।
+ચૈતન્ય સદન ભાસી, તૂ જ્ઞાન દિવાકર હૈ,
+હૈ સહજ શુદ્ધ ભગવન, તૂ સુખ કા સાગર હૈ,
+અપને કો જરા પહિચાન, વિષયોં મેં ના ખો જાના ।૩।
+લખ ચૌરાસી ભ્રમતે, દુર્લભ નરતન પાયા,
+જિનશ્રુત જિનદેવ શરણ, પુણ્યોદય સે પાયા,
+આતમ અનુભૂતિ બિના રહ જાયે ના પછતાના ।૪।`,
+      hi: `माया में फ़ंसे इंसान, विषयों में ना बह जाना।
+चिन्मय चैतन्य निधि को भूल ना पछताना ॥
+तन धन वैभव परिजन, तेरे काम ना आयेंगे,
+संयोग सभी नश्वर, तेरे साथ ना जायेंगे,
+तू अजर अमर ध्रुव है, यह भाव सदा लाना ।१।
+पर द्रव्यों में रमकर, अपने को भूल रहा,
+माया अरु ममता में तू प्रतिक्षण फ़ूल रहा,
+अनमोल तेरा जीवन, गफ़लत में ना खो जाना ।२।
+चैतन्य सदन भासी, तू ज्ञान दिवाकर है,
+है सहज शुद्ध भगवन, तू सुख का सागर है,
+अपने को जरा पहिचान, विषयों में ना खो जाना ।३।
+लख चौरासी भ्रमते, दुर्लभ नरतन पाया,
+जिनश्रुत जिनदेव शरण, पुण्योदय से पाया,
+आतम अनुभूति बिना रह जाये ना पछताना ।४।`,
+      sa: "",
+      en: `Maayaa men phanse insaana, vishayon men naa baha jaanaa |
+Chinmaya chaitanya nidhi ko bhoola naa pachhataanaa | |
+Tana dhana vaibhava parijana, tere kaama naa aayenge,
+Sanyoga sabhee nashvara, tere saatha naa jaayenge,
+Too ajara amara dhruva hai, yaha bhaava sadaa laanaa | 1 |
+Para dravyon men ramakara, apane ko bhoola rahaa,
+Maayaa aru mamataa men too pratikshana phoola rahaa,
+Anamola teraa jeevana, gaphalata men naa kho jaanaa | 2 |
+Chaitanya sadana bhaasee, too gyaana divaakara hai,
+Hai sahaja shuddha bhagavana, too sukha kaa saagara hai,
+Apane ko jaraa pahichaana, vishayon men naa kho jaanaa | 3 |
+Lakha chauraasee bhramate, durlabha naratana paayaa,
+Jinashruta jinadeva sharana, punyodaya se paayaa,
+Aatama anubhooti binaa raha jaaye naa pachhataanaa | 4 |`,
+    },
+  },
+  {
+    id: "onkarmayi-vani-teri",
+    type: "bhajan",
+    title: {
+      gu: "ઓંકારમયી વાણી તેરી",
+      hi: "ओंकारमयी वाणी तेरी",
+      sa: "",
+      en: "Onkaaramayee Vaanee Teree",
+    },
+    text: {
+      gu: `ઓંકારમયી વાણી તેરી
+ઓંકારમયી વાણી તેરી, જિનધર્મ કી શાન હૈ,
+સમવશરણ દેખકે, શાંત છવિ દેખકે,ગણધર ભી હૈરાન હૈં ॥
+સ્વર્ણ કમલ પર, આસન હૈ તેરા,
+સૌ ઇંદ્ર કર રહે ગુણગાન હૈ,
+દૃષ્ટિ હૈ તેરી, નાસા કે ઊપર,
+સર્વજ્ઞતા હી તેરી શાન હૈ,
+ચાઁદ સિતારોં મેં,લાખ હજારોં મેં,
+તેરી યહાં કોઈ મિસાલ નહીં હૈ,
+ચાર મુખ દિખતે, સમોશરણ મે,
+સ્વર્ગ મેં ભી ઐસા કમાલ નહી હૈ,
+હમકો ભી મુક્તિ મિલે હમ સબ કા અરમાન હૈ ॥સમવશરણ ॥
+સારે જહાં મેં, ફૈલી યે વાણી,
+ગણધર ને ગૂંથી ઇસે શાસ્ત્ર મેં,
+સચ્ચી વિનય સે,શ્રદ્ધા કરે તો,
+લે જાતી હૈ મુક્તિ કે માર્ગ મેં,
+કષાય મિટાય, રાગ કો ભગાયે,
+ઇસકે શ્રવણ સે યે શાંતિ મિલિ હૈ,
+સુખ કા યે સાગર, આત્મ મેં રમણકર,
+આતમ કી બગિયા મેં મુક્તિ ખિલિ હૈ,
+હમસબ ભી તુમસા બને-ઐસા યે વરદાન હૈ ॥ સમવશરણ॥
+મૈં હૂં ત્રિકાલી, જ્ઞાન સ્વભાવી,
+દિવ્ય ધ્વનિ કા યહી સાર હૈ.,
+શક્તિ અનંત કા, પિણ્ડ અખંડ,
+પર્યાય કા ભી યે આધાર હૈ,
+જ્ઞેય ઝલકતે હૈં, જ્ઞાન કી કલા મેં,
+ઐસા યે અદ્ભુત કલાકાર હૈ,
+સૃષ્ટિ કો પીતા, ફિર ભી અછૂતા,
+તુઝમેં યે ઐસા ચમત્કાર હૈ,
+જગ મેં હૈ મહિમા તેરી ગૂંજ રહા નામ હૈ ॥ સમવશરણ ॥`,
+      hi: `ओंकारमयी वाणी तेरी
+ओंकारमयी वाणी तेरी, जिनधर्म की शान है,
+समवशरण देखके, शांत छवि देखके,गणधर भी हैरान हैं ॥
+स्वर्ण कमल पर, आसन है तेरा,
+सौ इंद्र कर रहे गुणगान है,
+दृष्टि है तेरी, नासा के ऊपर,
+सर्वज्ञता ही तेरी शान है,
+चाँद सितारों में,लाख हजारों में,
+तेरी यहां कोई मिसाल नहीं है,
+चार मुख दिखते, समोशरण मे,
+स्वर्ग में भी ऐसा कमाल नही है,
+हमको भी मुक्ति मिले हम सब का अरमान है ॥समवशरण ॥
+सारे जहां में, फ़ैली ये वाणी,
+गणधर ने गूंथी इसे शास्त्र में,
+सच्ची विनय से,श्रद्धा करे तो,
+ले जाती है मुक्ति के मार्ग में,
+कषाय मिटाय, राग को भगाये,
+इसके श्रवण से ये शांति मिलि है,
+सुख का ये सागर, आत्म में रमणकर,
+आतम की बगिया में मुक्ति खिलि है,
+हमसब भी तुमसा बने-ऐसा ये वरदान है ॥ समवशरण॥
+मैं हूं त्रिकाली, ज्ञान स्वभावी,
+दिव्य ध्वनि का यही सार है.,
+शक्ति अनंत का, पिण्ड अखंड,
+पर्याय का भी ये आधार है,
+ज्ञेय झलकते हैं, ज्ञान की कला में,
+ऐसा ये अद्भुत कलाकार है,
+सृष्टि को पीता, फ़िर भी अछूता,
+तुझमें ये ऐसा चमत्कार है,
+जग में है महिमा तेरी गूंज रहा नाम है ॥ समवशरण ॥`,
+      sa: "",
+      en: `Onkaaramayee vaanee teree
+Onkaaramayee vaanee teree, jinadharma kee shaana hai,
+Samavasharana dekhake, shaanta chhavi dekhake,ganadhara bhee hairaana hain | |
+Svarna kamala para, aasana hai teraa,
+Sau indra kara rahe gunagaana hai,
+Drishti hai teree, naasaa ke oopara,
+Sarvagyataa hee teree shaana hai,
+Chaanda sitaaron men,laakha hajaaron men,
+Teree yahaan koee misaala naheen hai,
+Chaara mukha dikhate, samosharana me,
+Svarga men bhee aisaa kamaala nahee hai,
+Hamako bhee mukti mile hama saba kaa aramaana hai | | samavasharana | |
+Saare jahaan men, phailee ye vaanee,
+Ganadhara ne goonthee ise shaastra men,
+Sachchee vinaya se,shraddhaa kare to,
+Le jaatee hai mukti ke maarga men,
+Kashaaya mitaaya, raaga ko bhagaaye,
+Isake shravana se ye shaanti mili hai,
+Sukha kaa ye saagara, aatma men ramanakara,
+Aatama kee bagiyaa men mukti khili hai,
+Hamasaba bhee tumasaa bane-aisaa ye varadaana hai | | samavasharana | |
+Main hoon trikaalee, gyaana svabhaavee,
+Divya dhvani kaa yahee saara hai.,
+Shakti ananta kaa, pinda akhanda,
+Paryaaya kaa bhee ye aadhaara hai,
+Gyeya jhalakate hain, gyaana kee kalaa men,
+Aisaa ye adbhuta kalaakaara hai,
+Srishti ko peetaa, phira bhee achhootaa,
+Tujhamen ye aisaa chamatkaara hai,
+Jaga men hai mahimaa teree goonja rahaa naama hai | | samavasharana | |`,
+    },
+  },
+  {
+    id: "jinvain-sunat-mori",
+    type: "bhajan",
+    title: {
+      gu: "જિનવૈન સુનત, મોરી",
+      hi: "जिनवैन सुनत, मोरी",
+      sa: "",
+      en: "Jinavaina Sunata, Moree",
+    },
+    text: {
+      gu: `જિનવૈન સુનત, મોરી
+જિનવૈન સુનત, મોરી ભૂલ ભગી ।। ટેક ।।
+કર્મસ્વભાવ ભાવ ચેતનકો, ભિન્ન પિછાનન સુમતિ જગી ।।
+નિજ અનુભૂતિ સહજ જ્ઞાયકતા, સો ચિર રુષ તુષ મૈલ-પગી ।
+સ્યાદવાદ-ધુનિ-નિર્મલ-જલતૈં, વિમલ ભઈ સમભાવ લગી ।૧।
+સંશયમોહભરમતા વિઘટી, પ્રગટી આતમસોંજ સગી ।
+\`દૌલ' અપૂરબ મંગલ પાયો, શિવસુખ લેન હોંસ ઉમગી ।૨।`,
+      hi: `जिनवैन सुनत, मोरी
+जिनवैन सुनत, मोरी भूल भगी ।। टेक ।।
+कर्मस्वभाव भाव चेतनको, भिन्न पिछानन सुमति जगी ।।
+निज अनुभूति सहज ज्ञायकता, सो चिर रुष तुष मैल-पगी ।
+स्यादवाद-धुनि-निर्मल-जलतैं, विमल भई समभाव लगी ।१।
+संशयमोहभरमता विघटी, प्रगटी आतमसोंज सगी ।
+\`दौल' अपूरब मंगल पायो, शिवसुख लेन होंस उमगी ।२।`,
+      sa: "",
+      en: `Jinavaina sunata, moree
+Jinavaina sunata, moree bhoola bhagee | | teka | |
+Karmasvabhaava bhaava chetanako, bhinna pichhaanana sumati jagee | |
+Nija anubhooti sahaja gyaayakataa, so chira rusha tusha maila-pagee |
+Syaadavaada-dhuni-nirmala-jalatain, vimala bhaee samabhaava lagee | 1 |
+Sanshayamohabharamataa vighatee, pragatee aatamasonja sagee |
+\`daula' apooraba mangala paayo, shivasukha lena honsa umagee | 2 |`,
+    },
+  },
+  {
+    id: "pana-nahi-jeewan-ko-badalna-hai-sadhna",
+    type: "bhajan",
+    title: {
+      gu: "પાના નહીં જીવન કો, બદ્લના હૈ સાધના",
+      hi: "पाना नहीं जीवन को, बद्लना है साधना",
+      sa: "",
+      en: "Paanaa Naheen Jeevana Ko, Badlanaa hai Saadhanaa",
+    },
+    text: {
+      gu: `પાના નહીં જીવન કો, બદ્લના હૈ સાધના,
+તૂ ઐસા જીવન પાવત હૈ, જલના હૈ સાધના॥
+મૂંડ મુંડાના બહુત સરલ હૈ, મન મુંડન આસાન નહીં,
+વ્યર્થ ભભૂત રમાના તન પર, યદિ ભીતર કા જ્ઞાન નહીં,
+પર કી પીડા મેં, મોમ સા પિઘલના હૈ સાધના॥ પાના નહીં..
+મંદિર મેં હમ બહુત ગયે પર, મન યહ મંદિર નહીં બના,
+વ્યર્થ શિવાલય મેં જાના જો, મન શિવસુન્દર નહીં બના
+પલ પલ સમતા મેં ઇસ મન કા ઢલના હૈ સાધના॥ પાના નહીં..
+સચ્ચા પાઠ તભી હોગા જબ, જીવન મેં પારાયણ હો,
+શ્વાસ શ્વાસ ધડકન ધડકન સે જુડી હુઈ રામાયણ હો,
+તબ સત પથ પર જન જન મન કા ચલના હૈ સાધના॥ પાના ..`,
+      hi: `पाना नहीं जीवन को, बद्लना है साधना,
+तू ऐसा जीवन पावत है, जलना है साधना॥
+मूंड मुंडाना बहुत सरल है, मन मुंडन आसान नहीं,
+व्यर्थ भभूत रमाना तन पर, यदि भीतर का ज्ञान नहीं,
+पर की पीडा में, मोम सा पिघलना है साधना॥ पाना नहीं..
+मंदिर में हम बहुत गये पर, मन यह मंदिर नहीं बना,
+व्यर्थ शिवालय में जाना जो, मन शिवसुन्दर नहीं बना
+पल पल समता में इस मन का ढलना है साधना॥ पाना नहीं..
+सच्चा पाठ तभी होगा जब, जीवन में पारायण हो,
+श्वास श्वास धडकन धडकन से जुडी हुई रामायण हो,
+तब सत पथ पर जन जन मन का चलना है साधना॥ पाना ..`,
+      sa: "",
+      en: `Paanaa naheen jeevana ko, badlanaa hai saadhanaa,
+Too aisaa jeevana paavata hai, jalanaa hai saadhanaa | |
+Moonda mundaanaa bahuta sarala hai, mana mundana aasaana naheen,
+Vyartha bhabhoota ramaanaa tana para, yadi bheetara kaa gyaana naheen,
+Para kee peedaa men, moma saa pighalanaa hai saadhanaa | | paanaa naheen..
+Mandira men hama bahuta gaye para, mana yaha mandira naheen banaa,
+Vyartha shivaalaya men jaanaa jo, mana shivasundara naheen banaa
+Pala pala samataa men isa mana kaa dhalanaa hai saadhanaa | | paanaa naheen..
+Sachchaa paatha tabhee hogaa jaba, jeevana men paaraayana ho,
+Shvaasa shvaasa dhadakana dhadakana se judee huee raamaayana ho,
+Taba sata patha para jana jana mana kaa chalanaa hai saadhanaa | | paanaa ..`,
+    },
+  },
+  {
+    id: "aaj-main-param-padarath-payo",
+    type: "bhajan",
+    title: {
+      gu: "આજ મૈં પરમ પદારથ પાયૌ",
+      hi: "आज मैं परम पदारथ पायौ",
+      sa: "",
+      en: "Aaja Main Parama Padaaratha Paayau",
+    },
+    text: {
+      gu: `આજ મૈં પરમ પદારથ પાયૌ
+આજ મૈં પરમ પદારથ પાયૌ, પ્રભુચરનન ચિત લાયૌ ।।ટેક।।
+અશુભ ગયે શુભ પ્રગટ ભયે હૈં, સહજ કલ્પતરુ છાયૌ ।૧।
+જ્ઞાનશક્તિ તપ ઐસી જાકી, ચેતનપદ દરસાયો ।૨।
+અષ્ટકર્મ રિપુ જોધા જીતે, શિવ અંકૂર જમાયૌ ।૩।
+દૌલત રામ નિરખ નિજ પ્રભો કો ઉરુ આનન્દ ન સમાયો ।૪।`,
+      hi: `आज मैं परम पदारथ पायौ
+आज मैं परम पदारथ पायौ, प्रभुचरनन चित लायौ ।।टेक।।
+अशुभ गये शुभ प्रगट भये हैं, सहज कल्पतरु छायौ ।१।
+ज्ञानशक्ति तप ऐसी जाकी, चेतनपद दरसायो ।२।
+अष्टकर्म रिपु जोधा जीते, शिव अंकूर जमायौ ।३।
+दौलत राम निरख निज प्रभो को उरु आनन्द न समायो ।४।`,
+      sa: "",
+      en: `Aaja main parama padaaratha paayau
+Aaja main parama padaaratha paayau, prabhucharanana chita laayau | | teka | |
+Ashubha gaye shubha pragata bhaye hain, sahaja kalpataru chhaayau | 1 |
+Gyaanashakti tapa aisee jaakee, chetanapada darasaayo | 2 |
+Ashtakarma ripu jodhaa jeete, shiva ankoora jamaayau | 3 |
+Daulata raama nirakha nija prabho ko uru aananda na samaayo | 4 |`,
+    },
+  },
+  {
+    id: "dhanya-dhanya-hai-ghadi-aajki",
+    type: "bhajan",
+    title: {
+      gu: "ધન્ય ધન્ય હૈ ઘડી આજકી",
+      hi: "धन्य धन्य है घड़ी आजकी",
+      sa: "",
+      en: "Dhanya Dhanya hai Ghadee Aajakee",
+    },
+    text: {
+      gu: `ધન્ય ધન્ય હૈ ઘડી આજકી
+ધન્ય ધન્ય હૈ ઘડી આજકી, જિનધુનિ શ્રવન પરી ।
+તત્ત્વપ્રતીત ભઈ અબ મેરે, મિથ્યાદૃષ્ટિ ટરી ।।ટેક ।।
+જડતૈં ભિન્ન લખી ચિન્મૂરતિ, ચેતન સ્વરસ ભરી ।
+અહંકાર મમકાર બુદ્ધિ પુનિ, પરમેં સબ પરિહરી ।૧।
+પાપપુણ્ય વિધિબંધ અવસ્થા, ભાસી અતિદુખભરી ।
+વીતરાગ વિજ્ઞાનભાવમય, પરિનત અતિ વિસ્તરી ।૨।
+ચાહ-દાહ વિનસી વરસી પુનિ, સમતામેઘઝરી ।
+બાઢી પ્રીતિ નિરાકુલ પદસોં, \`ભાગચન્દ' હમરી ।૩।`,
+      hi: `धन्य धन्य है घड़ी आजकी
+धन्य धन्य है घड़ी आजकी, जिनधुनि श्रवन परी ।
+तत्त्वप्रतीत भई अब मेरे, मिथ्यादृष्टि टरी ।।टेक ।।
+जड़तैं भिन्न लखी चिन्मूरति, चेतन स्वरस भरी ।
+अहंकार ममकार बुद्धि पुनि, परमें सब परिहरी ।१।
+पापपुण्य विधिबंध अवस्था, भासी अतिदुखभरी ।
+वीतराग विज्ञानभावमय, परिनत अति विस्तरी ।२।
+चाह-दाह विनसी वरसी पुनि, समतामेघझरी ।
+बाढ़ी प्रीति निराकुल पदसों, \`भागचन्द' हमरी ।३।`,
+      sa: "",
+      en: `Dhanya dhanya hai ghadee aajakee
+Dhanya dhanya hai ghadee aajakee, jinadhuni shravana paree |
+Tattvaprateeta bhaee aba mere, mithyaadrishti taree | | teka | |
+Jadatain bhinna lakhee chinmoorati, chetana svarasa bharee |
+Ahankaara mamakaara buddhi puni, paramen saba pariharee | 1 |
+Paapapunya vidhibandha avasthaa, bhaasee atidukhabharee |
+Veetaraaga vigyaanabhaavamaya, parinata ati vistaree | 2 |
+Chaaha-daaha vinasee varasee puni, samataameghajharee |
+Baadhee preeti niraakula padason, \`bhaagachanda' hamaree | 3 |`,
+    },
+  },
+  {
+    id: "nijanand-paan-karenge",
+    type: "bhajan",
+    title: {
+      gu: "નિજાનંદ પાન કરેંગે",
+      hi: "निजानंद पान करेंगे",
+      sa: "",
+      en: "Nijaananda Paana Karenge",
+    },
+    text: {
+      gu: `અબ ગતિયોં મેં નાહીં રુલેંગે, નિજાનંદ પાન કરેંગે।
+અબ ભવ ભવ કા નાશ કરેંગેં, નિજાનંદ પાન કરેંગે।
+ખુદ કી ખુદ મેં હી ખોજ કરેંગેં, નિજાનંદ પાન કરેંગે ॥ અબ..
+મૈં મુઝ મેં પર પર મેં રહતા, નિજ રસ કે આનંદ મેં રહતા,
+અબ કેવલ જ્ઞાન કરેંગેં, નિજાનંદ પાન કરેંગે ॥ અબ..
+મૈં જ્ઞાયક જ્ઞાયક હી ન જાના, મૈં તો હૂં બસ સિદ્ધ કે સમાના,
+અબ સિદ્ધોં કે બીચ રહેંગેં, નિજાનંદ પાન કરેંગે ॥ અબ..`,
+      hi: `अब गतियों में नाहीं रुलेंगे, निजानंद पान करेंगे।
+अब भव भव का नाश करेंगें, निजानंद पान करेंगे।
+खुद की खुद में ही खोज करेंगें, निजानंद पान करेंगे ॥ अब..
+मैं मुझ में पर पर में रहता, निज रस के आनंद में रहता,
+अब केवल ज्ञान करेंगें, निजानंद पान करेंगे ॥ अब..
+मैं ज्ञायक ज्ञायक ही न जाना, मैं तो हूं बस सिद्ध के समाना,
+अब सिद्धों के बीच रहेंगें, निजानंद पान करेंगे ॥ अब..`,
+      sa: "",
+      en: `Aba gatiyon men naaheen rulenge, nijaananda paana karenge |
+Aba bhava bhava kaa naasha karengen, nijaananda paana karenge |
+Khuda kee khuda men hee khoja karengen, nijaananda paana karenge | | aba..
+Main mujha men para para men rahataa, nija rasa ke aananda men rahataa,
+Aba kevala gyaana karengen, nijaananda paana karenge | | aba..
+Main gyaayaka gyaayaka hee na jaanaa, main to hoon basa siddha ke samaanaa,
+Aba siddhon ke beecha rahengen, nijaananda paana karenge | | aba..`,
+    },
+  },
+  {
+    id: "dhanya-dhanya-jinvani-maata",
+    type: "bhajan",
+    title: {
+      gu: "ધન્ય ધન્ય જિનવાણી માતા",
+      hi: "धन्य धन्य जिनवाणी माता",
+      sa: "",
+      en: "Dhanya Dhanya Jinavaanee Maataa",
+    },
+    text: {
+      gu: `ધન્ય ધન્ય જિનવાણી માતા
+ધન્ય ધન્ય જિનવાણી માતા, શરણ તુમ્હારી આયે,
+પરમાગમ કા મંથન કરકે, શિવપુર પથ પર ધાયે,
+માતા દર્શન તેરા રે, ભવિક કો આનંદ દેતા હૈ,
+હમારી નૈયા ખેતા હૈ ॥ ધન્ય ધન્ય.. ॥
+વસ્તુકથંચિત નિત્ય અનિત્ય, અનેકાંતમય શોભે,
+પરદ્રવ્યોં સે ભિન્ન સર્વથા, સ્વચતુષ્ટયમય શોભે,
+ઐસી વસ્તુસમઝને સે, ચતુર્ગતિ ફેરા કટતા હૈ,
+જગત કા ફેરા મિટતા હૈ ॥ ધન્ય ધન્ય.. ॥
+નયનિશ્ચય વ્યવહાર નિરૂપણ, મોક્ષ માર્ગ કા કરતી,
+વીતરાગતા હી મુક્તિ પથ, શુભ વ્યવહાર ઉચરતી,
+માતા તેરી સેવા સે, મુક્તિ કા માર્ગ ખુલતા હૈ,
+મહા મિથ્યાતમ ધુલતા હૈ ॥ ધન્ય ધન્ય.. ॥
+તેરે અંચલ મેં ચેતન કી, દિવ્ય ચેતના પાતે,
+તેરી અનુપમ લોરી ક્યા હૈ, અનુભવ કી બરસાતે,
+માતા તેરી વર્ષા મે, નિજાનંદ ઝરના ઝરતા હૈ,
+અનુપમાનંદ ઉછલતા હૈ ॥ ધન્ય ધન્ય.. ॥
+નવ તત્વો મે છુપી હુઈ જો, જ્યોતિ ઉસે બતલાતી,
+ચિદાનંદ ચૈતન્ય રાજ કા, દર્શન સદા કરાતી,
+માતા તેરે દર્શન સે, નિજાતમ દર્શન હોતા હૈ,
+સમ્યકદર્શન હોતા હૈ ॥ ધન્ય ધન્ય.. ॥`,
+      hi: `धन्य धन्य जिनवाणी माता
+धन्य धन्य जिनवाणी माता, शरण तुम्हारी आये,
+परमागम का मंथन करके, शिवपुर पथ पर धाये,
+माता दर्शन तेरा रे, भविक को आनंद देता है,
+हमारी नैया खेता है ॥ धन्य धन्य.. ॥
+वस्तुकथंचित नित्य अनित्य, अनेकांतमय शोभे,
+परद्रव्यों से भिन्न सर्वथा, स्वचतुष्टयमय शोभे,
+ऐसी वस्तुसमझने से, चतुर्गति फ़ेरा कटता है,
+जगत का फ़ेरा मिटता है ॥ धन्य धन्य.. ॥
+नयनिश्चय व्यवहार निरूपण, मोक्ष मार्ग का करती,
+वीतरागता ही मुक्ति पथ, शुभ व्यवहार उचरती,
+माता तेरी सेवा से, मुक्ति का मार्ग खुलता है,
+महा मिथ्यातम धुलता है ॥ धन्य धन्य.. ॥
+तेरे अंचल में चेतन की, दिव्य चेतना पाते,
+तेरी अनुपम लोरी क्या है, अनुभव की बरसाते,
+माता तेरी वर्षा मे, निजानंद झरना झरता है,
+अनुपमानंद उछलता है ॥ धन्य धन्य.. ॥
+नव तत्वो मे छुपी हुई जो, ज्योति उसे बतलाती,
+चिदानंद चैतन्य राज का, दर्शन सदा कराती,
+माता तेरे दर्शन से, निजातम दर्शन होता है,
+सम्यकदर्शन होता है ॥ धन्य धन्य.. ॥`,
+      sa: "",
+      en: `Dhanya dhanya jinavaanee maataa
+Dhanya dhanya jinavaanee maataa, sharana tumhaaree aaye,
+Paramaagama kaa manthana karake, shivapura patha para dhaaye,
+Maataa darshana teraa re, bhavika ko aananda detaa hai,
+Hamaaree naiyaa khetaa hai | | dhanya dhanya.. | |
+Vastukathanchita nitya anitya, anekaantamaya shobhe,
+Paradravyon se bhinna sarvathaa, svachatushtayamaya shobhe,
+Aisee vastusamajhane se, chaturgati pheraa katataa hai,
+Jagata kaa pheraa mitataa hai | | dhanya dhanya.. | |
+Nayanishchaya vyavahaara niroopana, moksha maarga kaa karatee,
+Veetaraagataa hee mukti patha, shubha vyavahaara ucharatee,
+Maataa teree sevaa se, mukti kaa maarga khulataa hai,
+Mahaa mithyaatama dhulataa hai | | dhanya dhanya.. | |
+Tere anchala men chetana kee, divya chetanaa paate,
+Teree anupama loree kyaa hai, anubhava kee barasaate,
+Maataa teree varshaa me, nijaananda jharanaa jharataa hai,
+Anupamaananda uchhalataa hai | | dhanya dhanya.. | |
+Nava tatvo me chhupee huee jo, jyoti use batalaatee,
+Chidaananda chaitanya raaja kaa, darshana sadaa karaatee,
+Maataa tere darshana se, nijaatama darshana hotaa hai,
+Samyakadarshana hotaa hai | | dhanya dhanya.. | |`,
+    },
+  },
+  {
+    id: "shastron-ki-baton-ko-mann-se-juda-mat-karn",
+    type: "bhajan",
+    title: {
+      gu: "શાસ્ત્રોં કી બાતોં કો મન સે ના જુદા કરના",
+      hi: "शास्त्रों की बातों को मन से ना जुदा करना",
+      sa: "",
+      en: "Shaastron Kee Baaton ko Mana se Naa Judaa Karanaa",
+    },
+    text: {
+      gu: `શાસ્ત્રોં કી બાતોં કો મન સે ના જુદા કરના,
+સંકટ જો કોઈ આયે સ્વાધ્યાય સદા કરના॥
+જીવન કે અંધેરોં મેં દુખોં કા બીડા હૈ,
+પહચાન જરા કર લે ફિર જડ સે મિટા દેના॥
+હમ રાહ ભટકતે હૈં, મંજિલ કા નહીં પાના,
+ચહું ઓર અંધેરા હૈ બુઝા દીપ હમારા હૈ।
+હમેં રાહ દિખા જિનવર ભવ પાર હમેં કરના, શાસ્ત્રોં કી....
+ધન દૌલત કી દુનિયા અપના હી પરાયા હૈ,
+તૂ સાર કરે કિસકી માટી કી કાયા હૈ,
+પહચાન જરા કરલે ફિર જગ સે વિદા લેના, શાસ્ત્રોં કી...`,
+      hi: `शास्त्रों की बातों को मन से ना जुदा करना,
+संकट जो कोई आये स्वाध्याय सदा करना॥
+जीवन के अंधेरों में दुखों का बीडा है,
+पहचान जरा कर ले फ़िर जड से मिटा देना॥
+हम राह भटकते हैं, मंजिल का नहीं पाना,
+चहुं ओर अंधेरा है बुझा दीप हमारा है।
+हमें राह दिखा जिनवर भव पार हमें करना, शास्त्रों की....
+धन दौलत की दुनिया अपना ही पराया है,
+तू सार करे किसकी माटी की काया है,
+पहचान जरा करले फ़िर जग से विदा लेना, शास्त्रों की...`,
+      sa: "",
+      en: `Shaastron kee baaton ko mana se naa judaa karanaa,
+Sankata jo koee aaye svaadhyaaya sadaa karanaa | |
+Jeevana ke andheron men dukhon kaa beedaa hai,
+Pahachaana jaraa kara le phira jada se mitaa denaa | |
+Hama raaha bhatakate hain, manjila kaa naheen paanaa,
+Chahun ora andheraa hai bujhaa deepa hamaaraa hai |
+Hamen raaha dikhaa jinavara bhava paara hamen karanaa, shaastron kee....
+Dhana daulata kee duniyaa apanaa hee paraayaa hai,
+Too saara kare kisakee maatee kee kaayaa hai,
+Pahachaana jaraa karale phira jaga se vidaa lenaa, shaastron kee...`,
+    },
+  },
+  {
+    id: "main-gyananand-swabhavi-hun",
+    type: "bhajan",
+    title: {
+      gu: "મૈં જ્ઞાનાનંદ સ્વભાવી હૂં",
+      hi: "मैं ज्ञानानंद स्वभावी हूं",
+      sa: "",
+      en: "Main Gyaanaananda Svabhaavee Hoon",
+    },
+    text: {
+      gu: `મૈં જ્ઞાનાનંદ સ્વભાવી હૂં, મૈં જ્ઞાનાનંદ સ્વભાવી હૂં ॥
+મૈં હૂં અપને મેં સ્વયં પૂર્ણ, પર કી મુઝમેં કુછ ગંધ નહીં
+મૈં અરસ, અરૂપી, અસ્પર્શી, પર સે કુછ ભી સમ્બન્ધ નહીં ॥
+મૈં રંગ રાગ સે ભિન્ન ભેદ સે, ભી મૈં ભિન્ન નિરાલા હૂં
+મૈં હૂં અખંડ ચૈતન્ય પિણ્ડ, નિજ રસ મેં રમને વાલા હૂં ॥
+મૈં હી મેરા કર્તા ધર્તા, મુઝમેં પર કા કુછ કા કામ નહીં
+મૈં મુઝમેં રમને વાલા હૂં, પર મેં મેરા વિશ્રામ નહીં ॥
+મૈં શુદ્ધ બુદ્ધ અવિરુદ્ધ એક, પર પરિણતિ સે અપ્રભાવી હૂં
+આત્માનુભૂતિ સે પ્રાપ્ત તત્વ, મૈં જ્ઞાનાનંદ સ્વભાવી હૂં ॥`,
+      hi: `मैं ज्ञानानंद स्वभावी हूं, मैं ज्ञानानंद स्वभावी हूं ॥
+मैं हूं अपने में स्वयं पूर्ण, पर की मुझमें कुछ गंध नहीं
+मैं अरस, अरूपी, अस्पर्शी, पर से कुछ भी सम्बन्ध नहीं ॥
+मैं रंग राग से भिन्न भेद से, भी मैं भिन्न निराला हूं
+मैं हूं अखंड चैतन्य पिण्ड, निज रस में रमने वाला हूं ॥
+मैं ही मेरा कर्ता धर्ता, मुझमें पर का कुछ का काम नहीं
+मैं मुझमें रमने वाला हूं, पर में मेरा विश्राम नहीं ॥
+मैं शुद्ध बुद्ध अविरुद्ध एक, पर परिणति से अप्रभावी हूं
+आत्मानुभूति से प्राप्त तत्व, मैं ज्ञानानंद स्वभावी हूं ॥`,
+      sa: "",
+      en: `Main gyaanaananda svabhaavee hoon, main gyaanaananda svabhaavee hoon | |
+Main hoon apane men svayan poorna, para kee mujhamen kuchha gandha naheen
+Main arasa, aroopee, asparshee, para se kuchha bhee sambandha naheen | |
+Main ranga raaga se bhinna bheda se, bhee main bhinna niraalaa hoon
+Main hoon akhanda chaitanya pinda, nija rasa men ramane vaalaa hoon | |
+Main hee meraa kartaa dhartaa, mujhamen para kaa kuchha kaa kaama naheen
+Main mujhamen ramane vaalaa hoon, para men meraa vishraama naheen | |
+Main shuddha buddha aviruddha eka, para parinati se aprabhaavee hoon
+Aatmaanubhooti se praapta tatva, main gyaanaananda svabhaavee hoon | |`,
+    },
+  },
+  {
+    id: "nijpur-me-aaj-machi-re-hori",
+    type: "bhajan",
+    title: {
+      gu: "નિજપુર મેં આજ મચી રે હોરી",
+      hi: "निजपुर में आज मची रे होरी",
+      sa: "",
+      en: "Nijapura Men Aaja Machee re Horee",
+    },
+    text: {
+      gu: `નિજપુર મેં આજ મચી રે હોરી ॥ ટેક ॥
+ઉમગી ચિદાનંદ જી ઇત આયે, ઇત આઈ સુમતિ ગોરી ॥
+લોકલાજ કુલકાનિ ગમાઈ, જ્ઞાન ગુલાલ ભરી ઝોરી।
+સમકિત કેસર રંગ બનાયો, ચારિત કી પિચુકી છોરી ॥
+ગાવત અજપા ગાન મનોહર, અનહદ ઝરસૌં વરસ્યો રી।
+દેખન આયે બુધજન ભીગે, નિરખ્યૌ ખ્યાલ અનોખો રી ॥`,
+      hi: `निजपुर में आज मची रे होरी ॥ टेक ॥
+उमगी चिदानंद जी इत आये, इत आई सुमति गोरी ॥
+लोकलाज कुलकानि गमाई, ज्ञान गुलाल भरी झोरी।
+समकित केसर रंग बनायो, चारित की पिचुकी छोरी ॥
+गावत अजपा गान मनोहर, अनहद झरसौं वरस्यो री।
+देखन आये बुधजन भीगे, निरख्यौ ख्याल अनोखो री ॥`,
+      sa: "",
+      en: `Nijapura men aaja machee re horee | | teka | |
+Umagee chidaananda jee ita aaye, ita aaee sumati goree | |
+Lokalaaja kulakaani gamaaee, gyaana gulaala bharee jhoree |
+Samakita kesara ranga banaayo, chaarita kee pichukee chhoree | |
+Gaavata ajapaa gaana manohara, anahada jharasaun varasyo ree |
+Dekhana aaye budhajana bheege, nirakhyau khyaala anokho ree | |`,
+    },
+  },
+  {
+    id: "apni-sudhi-paay-aap",
+    type: "bhajan",
+    title: {
+      gu: "અપની સુધિ પાય આપ",
+      hi: "अपनी सुधि पाय आप",
+      sa: "",
+      en: "Apanee Sudhi Paaya Aapa",
+    },
+    text: {
+      gu: `અપની સુધિ પાય આપ, આપ યોં લખાયો॥ટેક॥
+મિથ્યાનિશિ ભઈ નાશ, સમ્યક રવિ કો પ્રકાશ।
+નિર્મલ ચૈતન્ય ભાવ, સહજહિં દર્શાયો ॥
+જ્ઞાનાવર્ણાદિ કર્મ, રાગાદિ મેટે ભર્મ
+જ્ઞાનબુદ્ધિ તેં અખંડ, આપ રૂપ થાયો॥
+સમ્યકદૃગ જ્ઞાન ચરણ, કર્ત્તા કર્માદિ કરણ
+ભેદભાવ ત્યાગ કે, અભેદ રૂપ પાયો ॥
+શુક્લધ્યાન ખડ્‍ગ ધાર, વસુ અરિ કીને સંહાર
+લોક અગ્ર સુથિર વાસ, શાશ્વત સુખ પાયો॥`,
+      hi: `अपनी सुधि पाय आप, आप यों लखायो॥टेक॥
+मिथ्यानिशि भई नाश, सम्यक रवि को प्रकाश।
+निर्मल चैतन्य भाव, सहजहिं दर्शायो ॥
+ज्ञानावर्णादि कर्म, रागादि मेटे भर्म
+ज्ञानबुद्धि तें अखंड, आप रूप थायो॥
+सम्यकदृग ज्ञान चरण, कर्त्ता कर्मादि करण
+भेदभाव त्याग के, अभेद रूप पायो ॥
+शुक्लध्यान खड्‍ग धार, वसु अरि कीने संहार
+लोक अग्र सुथिर वास, शाश्वत सुख पायो॥`,
+      sa: "",
+      en: `Apanee sudhi paaya aapa, aapa yon lakhaayo | | teka | |
+Mithyaanishi bhaee naasha, samyaka ravi ko prakaasha |
+Nirmala chaitanya bhaava, sahajahin darshaayo | |
+Gyaanaavarnaadi karma, raagaadi mete bharma
+Gyaanabuddhi ten akhanda, aapa roopa thaayo | |
+Samyakadriga gyaana charana, karttaa karmaadi karana
+Bhedabhaava tyaaga ke, abheda roopa paayo | |
+Shukladhyaana khad‍ga dhaara, vasu ari keene sanhaara
+Loka agra suthira vaasa, shaashvata sukha paayo | |`,
+    },
+  },
+  {
+    id: "parmatam-ban-jaiyo",
+    type: "bhajan",
+    title: {
+      gu: "પરમાતમ બન જ‌ઇયો",
+      hi: "परमातम बन ज‌इयो",
+      sa: "",
+      en: "Paramaatama Bana Ja‌iyo",
+    },
+    text: {
+      gu: `કરલો આતમ જ્ઞાન પરમાતમ બન જ‌ઇયો
+કરલો ભેદવિજ્ઞાન જ્ઞાની બન જ‍ઇયો ॥
+જગ ઝૂઠા ઔર રિશ્તે ઝૂઠે, રિશ્તે ઝૂઠે નાતે ઝૂઠે
+સાંચો હૈ આતમ રામ, પરમાતમ બન જ‌ઇયો ॥
+કુન્દકુન્દ આચાર્ય દેવ ને, આતમ તત્વ બતાયા હૈ
+શુદ્ધાતમ કો જાન, પરમાતમ બન જ‌ઇયો ॥
+દેહ ભિન્ન હૈ આતમ ભિન્ન હૈ, જ્ઞાન ભિન્ન હૈ રાગ ભિન્ન હૈ
+જ્ઞાયક કો પહિચાન, પરમાતમ બન જ‌ઇયો ॥
+કુન્દકુન્દ કે હી પ્રતાપ સે, ધ્રુવ કી ધૂમ મચી હૈ રે
+ધર લો ધ્રુવ કા ધ્યાન, પરમાતમ બન જ‌ઇયો ॥`,
+      hi: `करलो आतम ज्ञान परमातम बन ज‌इयो
+करलो भेदविज्ञान ज्ञानी बन ज‍इयो ॥
+जग झूठा और रिश्ते झूठे, रिश्ते झूठे नाते झूठे
+सांचो है आतम राम, परमातम बन ज‌इयो ॥
+कुन्दकुन्द आचार्य देव ने, आतम तत्व बताया है
+शुद्धातम को जान, परमातम बन ज‌इयो ॥
+देह भिन्न है आतम भिन्न है, ज्ञान भिन्न है राग भिन्न है
+ज्ञायक को पहिचान, परमातम बन ज‌इयो ॥
+कुन्दकुन्द के ही प्रताप से, ध्रुव की धूम मची है रे
+धर लो ध्रुव का ध्यान, परमातम बन ज‌इयो ॥`,
+      sa: "",
+      en: `Karalo aatama gyaana paramaatama bana ja‌iyo
+Karalo bhedavigyaana gyaanee bana ja‍iyo | |
+Jaga jhoothaa aura rishte jhoothe, rishte jhoothe naate jhoothe
+Saancho hai aatama raama, paramaatama bana ja‌iyo | |
+Kundakunda aachaarya deva ne, aatama tatva bataayaa hai
+Shuddhaatama ko jaana, paramaatama bana ja‌iyo | |
+Deha bhinna hai aatama bhinna hai, gyaana bhinna hai raaga bhinna hai
+Gyaayaka ko pahichaana, paramaatama bana ja‌iyo | |
+Kundakunda ke hee prataapa se, dhruva kee dhooma machee hai re
+Dhara lo dhruva kaa dhyaana, paramaatama bana ja‌iyo | |`,
+    },
+  },
+  {
+    id: "jag-me-na-koi-sahayi",
+    type: "bhajan",
+    title: {
+      gu: "જગ મેં ન કોઈ સહાયી",
+      hi: "जग में न कोई सहायी",
+      sa: "",
+      en: "Jaga Men na Koee Sahaayee",
+    },
+    text: {
+      gu: `જબ ચલે આત્મારામ, છોડ ધન-ધામ, જગત સે ભાઈ।
+જગ મેં ન કોઈ સહાયી॥
+તૂ ક્યોં કરતા તેરા મેરા, નહીં દુનિયા મેં કોઈ તેરા।
+જબ કાલ આયતબ સબસે હોય જુદાઈ,જગમેં ન કોઈ સહાયી॥
+તૂ મોહજાલ મેં ફંસા હુઆ, પાપોં કે રંગ મેં રંગા હુઆ।
+જિન્દગાની તૂને વૃથા યોં જી ગવાઈ,જગ મેં ન કોઈ સહાયી॥
+સમ્યક્ત્વ સુધા કા પાન કરો, નિજ આતમ હી કા જ્ઞાન કરો।
+યૂં ટલે જીવ સે લગી કર્મ કી કાઈ,જગ મેં ન કોઈ સહાયી ॥
+ચેતો ચેતો અબ બઢે ચલો, સતપથ સુમાર્ગ પર બઢે ચલો
+યૂં બાજ રહી યમરાજા કી શહનાઈ, જગ મેં ન કોઈ સહાયી ॥`,
+      hi: `जब चले आत्माराम, छोड धन-धाम, जगत से भाई।
+जग में न कोई सहायी॥
+तू क्यों करता तेरा मेरा, नहीं दुनिया में कोई तेरा।
+जब काल आयतब सबसे होय जुदाई,जगमें न कोई सहायी॥
+तू मोहजाल में फ़ंसा हुआ, पापों के रंग में रंगा हुआ।
+जिन्दगानी तूने वृथा यों जी गवाई,जग में न कोई सहायी॥
+सम्यक्त्व सुधा का पान करो, निज आतम ही का ज्ञान करो।
+यूं टले जीव से लगी कर्म की काई,जग में न कोई सहायी ॥
+चेतो चेतो अब बढे चलो, सतपथ सुमार्ग पर बढे चलो
+यूं बाज रही यमराजा की शहनाई, जग में न कोई सहायी ॥`,
+      sa: "",
+      en: `Jaba chale aatmaaraama, chhoda dhana-dhaama, jagata se bhaaee |
+Jaga men na koee sahaayee | |
+Too kyon karataa teraa meraa, naheen duniyaa men koee teraa |
+Jaba kaala aayataba sabase hoya judaaee,jagamen na koee sahaayee | |
+Too mohajaala men phansaa huaa, paapon ke ranga men rangaa huaa |
+Jindagaanee toone vrithaa yon jee gavaaee,jaga men na koee sahaayee | |
+Samyaktva sudhaa kaa paana karo, nija aatama hee kaa gyaana karo |
+Yoon tale jeeva se lagee karma kee kaaee,jaga men na koee sahaayee | |
+Cheto cheto aba badhe chalo, satapatha sumaarga para badhe chalo
+Yoon baaja rahee yamaraajaa kee shahanaaee, jaga men na koee sahaayee | |`,
+    },
+  },
+  {
+    id: "jo-jo-dekhi-veetraag-ne",
+    type: "bhajan",
+    title: {
+      gu: "જો જો દેખી વીતરાગ ને",
+      hi: "जो जो देखी वीतराग ने",
+      sa: "",
+      en: "Jo Jo Dekhee Veetaraaga Ne",
+    },
+    text: {
+      gu: `જો જો દેખી વીતરાગ ને, સો સો હોસી વીરા રે
+અનહોની હોસી નહિ ક્યોં જગ મેં, કાહે હોત અધીરા રે ॥
+સમય એક બઢૈ નહિં ઘટસી, જો સુખ દુખ કી પીરા રે
+તૂ ક્યોં સોચ કરૈ મન મૂરખ, હોય વજ્ર જ્યોં હીરા રે ॥
+લગૈ ન તીર કમાન બાન કહૂં, માર સકૈ નહિં મીરા રે
+તૂ સમ્હારિ પૌરુષ બલ અપનો, સુખ અનંત તો તીરા રે ॥
+નિશ્‍ચય ધ્યાન ધરહુ વા પ્રભુ કો, જો ટારે ભવ ભીરા રે
+’ભૈયા’ ચેત ધરમ નિજ અપનો, જો તારૈં ભવ નીરા રે ॥`,
+      hi: `जो जो देखी वीतराग ने, सो सो होसी वीरा रे
+अनहोनी होसी नहि क्यों जग में, काहे होत अधीरा रे ॥
+समय एक बढै नहिं घटसी, जो सुख दुख की पीरा रे
+तू क्यों सोच करै मन मूरख, होय वज्र ज्यों हीरा रे ॥
+लगै न तीर कमान बान कहूं, मार सकै नहिं मीरा रे
+तू सम्हारि पौरुष बल अपनो, सुख अनंत तो तीरा रे ॥
+निश्‍चय ध्यान धरहु वा प्रभु को, जो टारे भव भीरा रे
+’भैया’ चेत धरम निज अपनो, जो तारैं भव नीरा रे ॥`,
+      sa: "",
+      en: `Jo jo dekhee veetaraaga ne, so so hosee veeraa re
+Anahonee hosee nahi kyon jaga men, kaahe hota adheeraa re | |
+Samaya eka badhai nahin ghatasee, jo sukha dukha kee peeraa re
+Too kyon socha karai mana moorakha, hoya vajra jyon heeraa re | |
+Lagai na teera kamaana baana kahoon, maara sakai nahin meeraa re
+Too samhaari paurusha bala apano, sukha ananta to teeraa re | |
+Nish‍chaya dhyaana dharahu vaa prabhu ko, jo taare bhava bheeraa re
+’bhaiyaa’ cheta dharama nija apano, jo taarain bhava neeraa re | |`,
+    },
+  },
+  {
+    id: "gadi-khadi-re-khadi-re-taiyar",
+    type: "bhajan",
+    title: {
+      gu: "ગાડી ખડી રે ખડી રે તૈયાર",
+      hi: "गाडी खडी रे खडी रे तैयार",
+      sa: "",
+      en: "Gaadee Khadee re Khadee re Taiyaara",
+    },
+    text: {
+      gu: `ગાડી ખડી રે ખડી રે તૈયાર, ચલો રે ભાઈ શિવપુર કો ॥
+જો તૂ ચાહે મોક્ષ કો, સુન રે મોહી જીવ।
+મિથ્યામત કો છોડ કર, જિનવાણી રસ પીવ ।૧।
+જો જિન પૂજૈ ભાવ ધર, દાન સુપાત્રહિ દેય
+સો નર પાવે પરમ પદ, મુક્તિ શ્રી ફલ લેય ।૨।
+જિનકી રુચિ અતિ ધર્મ સોં, સાધર્મિન સૌં પ્રીત
+દેવ શાસ્ત્ર ગુરુ કી સદા, ઉર મેં પરમ પ્રતીત ।૩।
+ઇસ ભવ તરુ કા મૂલ ઇક, જનોં મિથ્યા ભાવ
+તાકો કર નિર્મૂલ અબ, કરિયે મોક્ષ ઉપાવ ।૪।
+દાનોં મે બસ દાન હૈ, શ્રેષ્ઠ જ્ઞાન હી દાન
+જૌં કરતા ઇસ દાન કો, પાતા કેવલજ્ઞાન ।૫।
+જો જાને અરહંત ગુણ, દ્રવ્ય ઔર પર્યાય
+સો જાને નિજ આત્મા, તાકે મોહ નશાય ।૬।
+નિજ પરિણતિ સે જો કરે, જડ ચેતન પહિચાન
+બન જાતા હૈ એક દિન, સમયસાર ભગવાન ।૭।
+તિન લોક કા નાથ તૂ, ક્યોં બન રહા અનાથ
+રત્નત્રય નિધિ સાધ લે, ક્યોં ન હોય જગનાથ ।૮।`,
+      hi: `गाडी खडी रे खडी रे तैयार, चलो रे भाई शिवपुर को ॥
+जो तू चाहे मोक्ष को, सुन रे मोही जीव।
+मिथ्यामत को छोड कर, जिनवाणी रस पीव ।१।
+जो जिन पूजै भाव धर, दान सुपात्रहि देय
+सो नर पावे परम पद, मुक्ति श्री फ़ल लेय ।२।
+जिनकी रुचि अति धर्म सों, साधर्मिन सौं प्रीत
+देव शास्त्र गुरु की सदा, उर में परम प्रतीत ।३।
+इस भव तरु का मूल इक, जनों मिथ्या भाव
+ताको कर निर्मूल अब, करिये मोक्ष उपाव ।४।
+दानों मे बस दान है, श्रेष्ठ ज्ञान ही दान
+जौं करता इस दान को, पाता केवलज्ञान ।५।
+जो जाने अरहंत गुण, द्रव्य और पर्याय
+सो जाने निज आत्मा, ताके मोह नशाय ।६।
+निज परिणति से जो करे, जड चेतन पहिचान
+बन जाता है एक दिन, समयसार भगवान ।७।
+तिन लोक का नाथ तू, क्यों बन रहा अनाथ
+रत्नत्रय निधि साध ले, क्यों न होय जगनाथ ।८।`,
+      sa: "",
+      en: `Gaadee khadee re khadee re taiyaara, chalo re bhaaee shivapura ko | |
+Jo too chaahe moksha ko, suna re mohee jeeva |
+Mithyaamata ko chhoda kara, jinavaanee rasa peeva | 1 |
+Jo jina poojai bhaava dhara, daana supaatrahi deya
+So nara paave parama pada, mukti shree phala leya | 2 |
+Jinakee ruchi ati dharma son, saadharmina saun preeta
+Deva shaastra guru kee sadaa, ura men parama prateeta | 3 |
+Isa bhava taru kaa moola ika, janon mithyaa bhaava
+Taako kara nirmoola aba, kariye moksha upaava | 4 |
+Daanon me basa daana hai, shreshtha gyaana hee daana
+Jaun karataa isa daana ko, paataa kevalagyaana | 5 |
+Jo jaane arahanta guna, dravya aura paryaaya
+So jaane nija aatmaa, taake moha nashaaya | 6 |
+Nija parinati se jo kare, jada chetana pahichaana
+Bana jaataa hai eka dina, samayasaara bhagavaana | 7 |
+Tina loka kaa naatha too, kyon bana rahaa anaatha
+Ratnatraya nidhi saadha le, kyon na hoya jaganaatha | 8 |`,
+    },
+  },
+  {
+    id: "sunakar-vani-jinvar-ki-mhare-harsh-hiye-na-samay-ji",
+    type: "bhajan",
+    title: {
+      gu: "સુનકર વાણી જિનવર કી મ્હારે હર્ષ હિયે ના સમાય જી",
+      hi: "सुनकर वाणी जिनवर की म्हारे हर्ष हिये ना समाय जी",
+      sa: "",
+      en: "Sunakara Vaanee Jinavara Kee Mhaare Harsha Hiye Naa Samaaya Jee",
+    },
+    text: {
+      gu: `સુનકર વાણી જિનવર કી મ્હારે હર્ષ હિયે ના સમાય જી॥
+કાલ અનાદિ કી તપન બુઝાની, નિજ નિધિ મિલી અથાહ જી
+સુનકર વાણી જિનવર કી મ્હારે હર્ષ હિયે ના સમાય જી ॥
+સંશય ભ્રમ ઔર વિપર્યય નાશા, સમ્યક બુદ્ધિ ઉપજાય જી
+સુનકર વાણી જિનવર કી મ્હારે હર્ષ હિયે ના સમાય જી ॥
+નરભવ સફલ ભયો અબ મેરો, બુધજન ભેંટત પાય જી
+સુનકર વાણી જિનવર કી મ્હારે હર્ષ હિયે ના સમાય જી ॥`,
+      hi: `सुनकर वाणी जिनवर की म्हारे हर्ष हिये ना समाय जी॥
+काल अनादि की तपन बुझानी, निज निधि मिली अथाह जी
+सुनकर वाणी जिनवर की म्हारे हर्ष हिये ना समाय जी ॥
+संशय भ्रम और विपर्यय नाशा, सम्यक बुद्धि उपजाय जी
+सुनकर वाणी जिनवर की म्हारे हर्ष हिये ना समाय जी ॥
+नरभव सफ़ल भयो अब मेरो, बुधजन भेंटत पाय जी
+सुनकर वाणी जिनवर की म्हारे हर्ष हिये ना समाय जी ॥`,
+      sa: "",
+      en: `Sunakara vaanee jinavara kee mhaare harsha hiye naa samaaya jee | |
+Kaala anaadi kee tapana bujhaanee, nija nidhi milee athaaha jee
+Sunakara vaanee jinavara kee mhaare harsha hiye naa samaaya jee | |
+Sanshaya bhrama aura viparyaya naashaa, samyaka buddhi upajaaya jee
+Sunakara vaanee jinavara kee mhaare harsha hiye naa samaaya jee | |
+Narabhava saphala bhayo aba mero, budhajana bhentata paaya jee
+Sunakara vaanee jinavara kee mhaare harsha hiye naa samaaya jee | |`,
+    },
+  },
+  {
+    id: "koi-piyega-anubhav-wala",
+    type: "bhajan",
+    title: {
+      gu: "કોઈ પિયેગા અનુભવ વાલા",
+      hi: "कोई पियेगा अनुभव वाला",
+      sa: "",
+      en: "Koee Piyegaa Anubhava Vaalaa",
+    },
+    text: {
+      gu: `યે શાશ્વત સુખ કા પ્યાલા, કોઈ પિયેગા અનુભવ વાલા॥
+ધ્રુવ અખંડ હૈ, આનંદ કંદ હૈ, શુદ્ધ બુદ્ધ ચૈતન્ય પિણ્ડ હૈ
+ધ્રુવ કી ફેરો માલા, કોઈ....।૧।
+મંગલમય હૈ, મંગલકારી, સત ચિત આનંદ કા હૈ ધારી
+ધ્રુવ કા હો ઉજિયારા, કોઈ....।૨।
+ધ્રુવ કા રસ તો જ્ઞાની પાવે, જન્મ મરણ કા દુઃખ મિટાવે
+ધ્રુવ કા ધામ નિરાલા, કોઈ....।૩।
+ધ્રુવ કી ધૂની મુનિ રમાવે, ધ્રુવ કે આનંદ મેં રમ જાવે
+ધ્રુવ કા સ્વાદ નિરાલા, કોઈ....।૪।
+ધ્રુવ કે રસ મેં હમ રમ જાવેં, અપૂર્વ અવસર કબ યહ પાવેં
+ધ્રુવ કા હો મતવાલા, કોઈ....।૫।`,
+      hi: `ये शाश्वत सुख का प्याला, कोई पियेगा अनुभव वाला॥
+ध्रुव अखंड है, आनंद कंद है, शुद्ध बुद्ध चैतन्य पिण्ड है
+ध्रुव की फ़ेरो माला, कोई....।१।
+मंगलमय है, मंगलकारी, सत चित आनंद का है धारी
+ध्रुव का हो उजियारा, कोई....।२।
+ध्रुव का रस तो ज्ञानी पावे, जन्म मरण का दुःख मिटावे
+ध्रुव का धाम निराला, कोई....।३।
+ध्रुव की धूनी मुनि रमावे, ध्रुव के आनंद में रम जावे
+ध्रुव का स्वाद निराला, कोई....।४।
+ध्रुव के रस में हम रम जावें, अपूर्व अवसर कब यह पावें
+ध्रुव का हो मतवाला, कोई....।५।`,
+      sa: "",
+      en: `Ye shaashvata sukha kaa pyaalaa, koee piyegaa anubhava vaalaa | |
+Dhruva akhanda hai, aananda kanda hai, shuddha buddha chaitanya pinda hai
+Dhruva kee phero maalaa, koee.... | 1 |
+Mangalamaya hai, mangalakaaree, sata chita aananda kaa hai dhaaree
+Dhruva kaa ho ujiyaaraa, koee.... | 2 |
+Dhruva kaa rasa to gyaanee paave, janma marana kaa duhkha mitaave
+Dhruva kaa dhaama niraalaa, koee.... | 3 |
+Dhruva kee dhoonee muni ramaave, dhruva ke aananda men rama jaave
+Dhruva kaa svaada niraalaa, koee.... | 4 |
+Dhruva ke rasa men hama rama jaaven, apoorva avasara kaba yaha paaven
+Dhruva kaa ho matavaalaa, koee.... | 5 |`,
+    },
+  },
+  {
+    id: "tumko-lakho-pranam",
+    type: "bhajan",
+    title: {
+      gu: "તુ્મકો લાખોં પ્રણામ",
+      hi: "तु्मको लाखों प्रणाम",
+      sa: "",
+      en: "Tumako Laakhon Pranaama",
+    },
+    text: {
+      gu: `હે જિનવાણી માતા! તુમકો લાખોં પ્રણામ,તુમકો ક્રોડોં પ્રણામ
+શિવસુખદાની માતા! તુ્મકો લાખોં પ્રણામ, તુમકો ક્રોડોં પ્રણામ
+તૂ વસ્તુ-સ્વરૂપ બતાવે, અરુ સકલ વિરોધ મિટાવે ।
+હે સ્યાદ્વાદ વિખ્યાતા! તુમકો લાખોં પ્રણામ, તુ્મકો..
+તૂ કરે જ્ઞાન કા મણ્ડન, મિથ્યાત કુમારગ ખણ્ડન ।
+હે તીન જગત કી માતા તુમકો લાખોં પ્રણામ, તુમકો..
+તૂ લોકાલોક પ્રકાશે, ચર-અચર પદાર્થ વિકાશે ।
+હે વિશ્વતત્ત્વ કી જ્ઞાતા! તુમકો લાખોં પ્રણામ, તુમકો..
+શુદ્ધાતમ તત્ત્વ દિખાવે, રત્નત્રય પથ પ્રકટાવે ।
+નિજ આનન્દ અમૃતદાતા! તુમકો લાખોં પ્રણામ,તુમકો..
+હે માત! કૃપા અબ કીજે, પરભાવ સકલ હર લીજે ।
+શિવરામ સદા ગુણ ગાતા તુમકો લાખોં પ્રણામ, તુમકો.`,
+      hi: `हे जिनवाणी माता! तुमको लाखों प्रणाम,तुमको क्रोड़ों प्रणाम
+शिवसुखदानी माता! तु्मको लाखों प्रणाम, तुमको क्रोड़ों प्रणाम
+तू वस्तु-स्वरूप बतावे, अरु सकल विरोध मिटावे ।
+हे स्याद्वाद विख्याता! तुमको लाखों प्रणाम, तु्मको..
+तू करे ज्ञान का मण्डन, मिथ्यात कुमारग खण्डन ।
+हे तीन जगत की माता तुमको लाखों प्रणाम, तुमको..
+तू लोकालोक प्रकाशे, चर-अचर पदार्थ विकाशे ।
+हे विश्वतत्त्व की ज्ञाता! तुमको लाखों प्रणाम, तुमको..
+शुद्धातम तत्त्व दिखावे, रत्नत्रय पथ प्रकटावे ।
+निज आनन्द अमृतदाता! तुमको लाखों प्रणाम,तुमको..
+हे मात! कृपा अब कीजे, परभाव सकल हर लीजे ।
+शिवराम सदा गुण गाता तुमको लाखों प्रणाम, तुमको.`,
+      sa: "",
+      en: `He jinavaanee maataa! tumako laakhon pranaama,tumako krodon pranaama
+Shivasukhadaanee maataa! tumako laakhon pranaama, tumako krodon pranaama
+Too vastu-svaroopa bataave, aru sakala virodha mitaave |
+He syaadvaada vikhyaataa! tumako laakhon pranaama, tumako..
+Too kare gyaana kaa mandana, mithyaata kumaaraga khandana |
+He teena jagata kee maataa tumako laakhon pranaama, tumako..
+Too lokaaloka prakaashe, chara-achara padaartha vikaashe |
+He vishvatattva kee gyaataa! tumako laakhon pranaama, tumako..
+Shuddhaatama tattva dikhaave, ratnatraya patha prakataave |
+Nija aananda amritadaataa! tumako laakhon pranaama,tumako..
+He maata! kripaa aba keeje, parabhaava sakala hara leeje |
+Shivaraama sadaa guna gaataa tumako laakhon pranaama, tumako.`,
+    },
+  },
+  {
+    id: "jeewan-thoda-raha",
+    type: "bhajan",
+    title: {
+      gu: "જીવન થોડા રહા",
+      hi: "जीवन थोडा रहा",
+      sa: "",
+      en: "Jeevana Thodaa Rahaa",
+    },
+    text: {
+      gu: `સુન રે જિયા ચિરકાલ ગયા,
+તૂને છોડા ના અબ તક પ્રમાદ, જીવન થોડા રહા॥
+જિનવાણી કહતી હૈ તેરી કથા, તૂને ભૂલ કરી સહી ભારી વ્યથા।
+અબ કર લે સ્વયં કી પહચાન, જીવન થોડા રહા॥
+જીવ તત્વ હૈ તૂ પરમ ઉપાદેય, અજીવ સભી હૈં જ્ઞાન કે જ્ઞેય
+નિજ કો નિજ પર કો પર જાન, જીવન થોડા રહા ॥
+આસ્રવ બંધ યે ભાવ વિકારી, ચેતન ને પાયા દુખ ઇનસે ભારી
+સમ્યક્ત્વ કો લે પહિચાન, જીવન થોડા રહા ॥
+સંવર નિર્જરા શુદ્ધ ભાવ હૈ, મોક્ષ તત્વ પૂર્ણ બંધ અભાવ હૈ
+ઇનકો હી તૂ હિત રૂપ માન, જીવન થોડા રહા ॥`,
+      hi: `सुन रे जिया चिरकाल गया,
+तूने छोडा ना अब तक प्रमाद, जीवन थोडा रहा॥
+जिनवाणी कहती है तेरी कथा, तूने भूल करी सही भारी व्यथा।
+अब कर ले स्वयं की पहचान, जीवन थोडा रहा॥
+जीव तत्व है तू परम उपादेय, अजीव सभी हैं ज्ञान के ज्ञेय
+निज को निज पर को पर जान, जीवन थोडा रहा ॥
+आस्रव बंध ये भाव विकारी, चेतन ने पाया दुख इनसे भारी
+सम्यक्त्व को ले पहिचान, जीवन थोडा रहा ॥
+संवर निर्जरा शुद्ध भाव है, मोक्ष तत्व पूर्ण बंध अभाव है
+इनको ही तू हित रूप मान, जीवन थोडा रहा ॥`,
+      sa: "",
+      en: `Suna re jiyaa chirakaala gayaa,
+Toone chhodaa naa aba taka pramaada, jeevana thodaa rahaa | |
+Jinavaanee kahatee hai teree kathaa, toone bhoola karee sahee bhaaree vyathaa |
+Aba kara le svayan kee pahachaana, jeevana thodaa rahaa | |
+Jeeva tatva hai too parama upaadeya, ajeeva sabhee hain gyaana ke gyeya
+Nija ko nija para ko para jaana, jeevana thodaa rahaa | |
+Aasrava bandha ye bhaava vikaaree, chetana ne paayaa dukha inase bhaaree
+Samyaktva ko le pahichaana, jeevana thodaa rahaa | |
+Sanvara nirjaraa shuddha bhaava hai, moksha tatva poorna bandha abhaava hai
+Inako hee too hita roopa maana, jeevana thodaa rahaa | |`,
+    },
+  },
+  {
+    id: "jinvani-mata-ratntrya-nidhi-dijiye",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી માતા રત્નત્રય નિધિ દીજિયે",
+      hi: "जिनवाणी माता रत्नत्रय निधि दीजिये",
+      sa: "",
+      en: "Jinavaanee Maataa Ratnatraya Nidhi Deejiye",
+    },
+    text: {
+      gu: `જિનવાણી માતા રત્નત્રય નિધિ દીજિયે ।।ટેક ।।
+મિથ્યાદર્શન-જ્ઞાન-ચરણ મેં, કાલ અનાદિ ઘૂમે,
+સમ્યગ્દર્શન ભયૌ ન તાતૈં, દુ:ખ પાયો દિન દૂને ।૧।
+હૈ અભિલાષા સમ્યગ્દર્શન-જ્ઞાન-ચરણ દે માતા ।
+હમ પાવૈં નિજસ્વરૂપ આપનો,ક્યોં ન બનૈં ગુણજ્ઞાતા ।૨।
+જીવ અનન્તાનન્ત પઠાયે, સ્વર્ગ-મોક્ષ મેં તૂને ।
+અબ બારી હૈ હમ જીવન કી, હોવે કર્મ વિદૂને ।૩।
+ભવ્યજીવ હૈં પુત્ર તુમ્હારે, ચહુઁગતિ દુ:ખ સે હારે ।
+ઇનકો જિનવર બના શીઘ્ર અબ, દે દે ગુણ-ગણ સારે ।૪।
+ઔગુણ તો અનેક હોત હૈં, બાલક મેં હી માતા ।
+પૈ અબ તુમ-સી માતા પાઈ, ક્યોં ન બને ગુણજ્ઞાતા ।૫।
+ક્ષમા-ક્ષમા હો સભી હમારે દોષ અનન્તે ભવ કે ।
+શિવ કા માર્ગ બતા દો માતા,લેહુ શરણ મેં અબકે ।૬।
+જયવન્તો જિનવાણી જગ મેં, મોક્ષમાર્ગ પ્રવર્તો ।
+શ્રાવક \`જયકુમાર' બીનવે, પદ દે અજર અમર તો ।૭।`,
+      hi: `जिनवाणी माता रत्नत्रय निधि दीजिये ।।टेक ।।
+मिथ्यादर्शन-ज्ञान-चरण में, काल अनादि घूमे,
+सम्यग्दर्शन भयौ न तातैं, दु:ख पायो दिन दूने ।१।
+है अभिलाषा सम्यग्दर्शन-ज्ञान-चरण दे माता ।
+हम पावैं निजस्वरूप आपनो,क्यों न बनैं गुणज्ञाता ।२।
+जीव अनन्तानन्त पठाये, स्वर्ग-मोक्ष में तूने ।
+अब बारी है हम जीवन की, होवे कर्म विदूने ।३।
+भव्यजीव हैं पुत्र तुम्हारे, चहुँगति दु:ख से हारे ।
+इनको जिनवर बना शीघ्र अब, दे दे गुण-गण सारे ।४।
+औगुण तो अनेक होत हैं, बालक में ही माता ।
+पै अब तुम-सी माता पाई, क्यों न बने गुणज्ञाता ।५।
+क्षमा-क्षमा हो सभी हमारे दोष अनन्ते भव के ।
+शिव का मार्ग बता दो माता,लेहु शरण में अबके ।६।
+जयवन्तो जिनवाणी जग में, मोक्षमार्ग प्रवर्तो ।
+श्रावक \`जयकुमार' बीनवे, पद दे अजर अमर तो ।७।`,
+      sa: "",
+      en: `Jinavaanee maataa ratnatraya nidhi deejiye | | teka | |
+Mithyaadarshana-gyaana-charana men, kaala anaadi ghoome,
+Samyagdarshana bhayau na taatain, du:kha paayo dina doone | 1 |
+Hai abhilaashaa samyagdarshana-gyaana-charana de maataa |
+Hama paavain nijasvaroopa aapano,kyon na banain gunagyaataa | 2 |
+Jeeva anantaananta pathaaye, svarga-moksha men toone |
+Aba baaree hai hama jeevana kee, hove karma vidoone | 3 |
+Bhavyajeeva hain putra tumhaare, chahungati du:kha se haare |
+Inako jinavara banaa sheeghra aba, de de guna-gana saare | 4 |
+Auguna to aneka hota hain, baalaka men hee maataa |
+Pai aba tuma-see maataa paaee, kyon na bane gunagyaataa | 5 |
+Kshamaa-kshamaa ho sabhee hamaare dosha anante bhava ke |
+Shiva kaa maarga bataa do maataa,lehu sharana men abake | 6 |
+Jayavanto jinavaanee jaga men, mokshamaarga pravarto |
+Shraavaka \`jayakumaara' beenave, pada de ajara amara to | 7 |`,
+    },
+  },
+  {
+    id: "rahunga-main-to-nij-ghar-me",
+    type: "bhajan",
+    title: {
+      gu: "રહૂંગા મૈં તો નિજ ઘર મેં",
+      hi: "रहूंगा मैं तो निज घर में",
+      sa: "",
+      en: "Rahoongaa Main To Nija Ghara Men",
+    },
+    text: {
+      gu: `મોહે ભાવે ન ભૈયા થારો દેશ, રહૂંગા મૈં તો નિજ ઘર મેં ॥
+મોહે ન ભાવે યહ મહલ અટારી, ઝૂઠી લાગે મોહે દુનિયા સારી
+મોહે ભાવે નગન સુભેષ, રહૂંગા મૈં તો નિજ ઘર મેં ॥
+હમેં યહાં અચ્છા નહીં લગતા, યહાં હમારા કોઈ ન દિખતા
+મોહે લાગે યહાં પરદેસ, રહૂંગા મૈં તો નિજ ઘર મેં ॥
+શ્રદ્ધા જ્ઞાન ચારિત્ર નિવાસા, અનંત ગુણ પરિવાર હમારા
+મૈં તો જાઊંગા સુખ કે ધામ, રહૂંગા મૈં તો નિજ ઘર મેં ॥
+કબ પાઊંગા નિજ મેં થિરતા, મૈં તો ઇસકે લિયે તરસતા
+મૈં તો ધારૂં દિગમ્બર વેષ, રહૂંગા મૈં તો નિજ ઘર મેં ॥`,
+      hi: `मोहे भावे न भैया थारो देश, रहूंगा मैं तो निज घर में ॥
+मोहे न भावे यह महल अटारी, झूठी लागे मोहे दुनिया सारी
+मोहे भावे नगन सुभेष, रहूंगा मैं तो निज घर में ॥
+हमें यहां अच्छा नहीं लगता, यहां हमारा कोई न दिखता
+मोहे लागे यहां परदेस, रहूंगा मैं तो निज घर में ॥
+श्रद्धा ज्ञान चारित्र निवासा, अनंत गुण परिवार हमारा
+मैं तो जाऊंगा सुख के धाम, रहूंगा मैं तो निज घर में ॥
+कब पाऊंगा निज में थिरता, मैं तो इसके लिये तरसता
+मैं तो धारूं दिगम्बर वेष, रहूंगा मैं तो निज घर में ॥`,
+      sa: "",
+      en: `Mohe bhaave na bhaiyaa thaaro desha, rahoongaa main to nija ghara men | |
+Mohe na bhaave yaha mahala ataaree, jhoothee laage mohe duniyaa saaree
+Mohe bhaave nagana subhesha, rahoongaa main to nija ghara men | |
+Hamen yahaan achchhaa naheen lagataa, yahaan hamaaraa koee na dikhataa
+Mohe laage yahaan paradesa, rahoongaa main to nija ghara men | |
+Shraddhaa gyaana chaaritra nivaasaa, ananta guna parivaara hamaaraa
+Main to jaaoongaa sukha ke dhaama, rahoongaa main to nija ghara men | |
+Kaba paaoongaa nija men thirataa, main to isake liye tarasataa
+Main to dhaaroon digambara vesha, rahoongaa main to nija ghara men | |`,
+    },
+  },
+  {
+    id: "jinvanimata-darshan-ki-balihariyan",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી માતા દર્શન કી બલિહારિયાઁ",
+      hi: "जिनवाणी माता दर्शन की बलिहारियाँ",
+      sa: "",
+      en: "Jinavaanee Maataa Darshana Kee Balihaariyaan",
+    },
+    text: {
+      gu: `જિનવાણી માતા દર્શન કી બલિહારિયાઁ ।।ટેક ।।
+પ્રથમ દેવ અરહન્ત મનાઊઁ, ગણધરજી કો ધ્યાઊઁ ।
+કુન્દકુન્દ આચાર્ય હમારે, તિનકો શીશ નવાઊઁ ।૧।
+યોનિ લાખ ચૌરાસી માહીં, ઘોર મહાદુ:ખ પાયો ।
+ઐસી મહિમા સુનકર માતા, શરણ તુમ્હારી આયો ।૨।
+જાનૈ થાઁકો શરણો લીનોં, અષ્ટ કર્મ ક્ષય કીનો ।
+જનમ-મરણ મિટા કે માતા, મોક્ષ મહાપદ દીનો ।૩।
+ઠાડે શ્રાવક અરજ કરત હૈં, હે જિનવાણી માતા ।
+દ્વાદશાંગ ચૌદહ પૂરવ કા, કર દો હમકો જ્ઞાતા ।૪।`,
+      hi: `जिनवाणी माता दर्शन की बलिहारियाँ ।।टेक ।।
+प्रथम देव अरहन्त मनाऊँ, गणधरजी को ध्याऊँ ।
+कुन्दकुन्द आचार्य हमारे, तिनको शीश नवाऊँ ।१।
+योनि लाख चौरासी माहीं, घोर महादु:ख पायो ।
+ऐसी महिमा सुनकर माता, शरण तुम्हारी आयो ।२।
+जानै थाँको शरणो लीनों, अष्ट कर्म क्षय कीनो ।
+जनम-मरण मिटा के माता, मोक्ष महापद दीनो ।३।
+ठाड़े श्रावक अरज करत हैं, हे जिनवाणी माता ।
+द्वादशांग चौदह पूरव का, कर दो हमको ज्ञाता ।४।`,
+      sa: "",
+      en: `Jinavaanee maataa darshana kee balihaariyaan | | teka | |
+Prathama deva arahanta manaaoon, ganadharajee ko dhyaaoon |
+Kundakunda aachaarya hamaare, tinako sheesha navaaoon | 1 |
+Yoni laakha chauraasee maaheen, ghora mahaadu:kha paayo |
+Aisee mahimaa sunakara maataa, sharana tumhaaree aayo | 2 |
+Jaanai thaanko sharano leenon, ashta karma kshaya keeno |
+Janama-marana mitaa ke maataa, moksha mahaapada deeno | 3 |
+Thaade shraavaka araja karata hain, he jinavaanee maataa |
+Dvaadashaanga chaudaha poorava kaa, kara do hamako gyaataa | 4 |`,
+    },
+  },
+  {
+    id: "sote-sote-hi-nikal-gai-sari-jindagi",
+    type: "bhajan",
+    title: {
+      gu: "સોતે સોતે હી નિકલ ગયી, સારી જિન્દગી",
+      hi: "सोते सोते ही निकल गयी, सारी जिन्दगी",
+      sa: "",
+      en: "Sote Sote Hee Nikala Gayee, Saaree Jindagee",
+    },
+    text: {
+      gu: `સોતે સોતે હી નિકલ ગયી, સારી જિન્દગી,
+સારી જિન્દગી તેરી પ્યારી જિન્દગી,
+બોઝા ઢોતે હી નિકલ ગયી, સારી જિન્દગી ॥
+જનમ લેત હી ઇસ ધરતી પર તૂને રુદન મચાયા,
+આંખે ભી ન ખુલને પાઈ, ભૂખ ભૂખ ચિલ્લાયા
+રોતે રોતે હી નિકલ ગયી, સારી જિન્દગી ॥
+ખેલકૂદ મેં બચપન બીતા, યૌવન પા બૌરાયા,
+ધર્મ કર્મ કા મર્મ ના જાના, વિષય ભોગ લપટાયા
+ભોગોં ભોગોં મેં નિકલ ગયી, સારી જિન્દગી ॥
+ધીરે ધીરે બઢા બુઢાપા, ડગમગ ડોલે કાયા,
+સબ કે સબ રોગોં ને દેખો ડેરા ખૂબ જમાયા
+રોગોં રોગોં મેં નિકલ ગયી, સારી જિન્દગી ॥
+જિસકો તૂ અપના સમઝા થા, વહ દે બૈઠા ધોખા,
+પ્રાણ ગયે ફિર જલ જાયેગા, યે માટી કા ખોકા।
+ખોકા ઢોને મેં નિકલ ગયી, સારી જિન્દગી॥`,
+      hi: `सोते सोते ही निकल गयी, सारी जिन्दगी,
+सारी जिन्दगी तेरी प्यारी जिन्दगी,
+बोझा ढोते ही निकल गयी, सारी जिन्दगी ॥
+जनम लेत ही इस धरती पर तूने रुदन मचाया,
+आंखे भी न खुलने पाई, भूख भूख चिल्लाया
+रोते रोते ही निकल गयी, सारी जिन्दगी ॥
+खेलकूद में बचपन बीता, यौवन पा बौराया,
+धर्म कर्म का मर्म ना जाना, विषय भोग लपटाया
+भोगों भोगों में निकल गयी, सारी जिन्दगी ॥
+धीरे धीरे बढा बुढापा, डगमग डोले काया,
+सब के सब रोगों ने देखो डेरा खूब जमाया
+रोगों रोगों में निकल गयी, सारी जिन्दगी ॥
+जिसको तू अपना समझा था, वह दे बैठा धोखा,
+प्राण गये फ़िर जल जायेगा, ये माटी का खोका।
+खोका ढोने में निकल गयी, सारी जिन्दगी॥`,
+      sa: "",
+      en: `Sote sote hee nikala gayee, saaree jindagee,
+Saaree jindagee teree pyaaree jindagee,
+Bojhaa dhote hee nikala gayee, saaree jindagee | |
+Janama leta hee isa dharatee para toone rudana machaayaa,
+Aankhe bhee na khulane paaee, bhookha bhookha chillaayaa
+Rote rote hee nikala gayee, saaree jindagee | |
+Khelakooda men bachapana beetaa, yauvana paa bauraayaa,
+Dharma karma kaa marma naa jaanaa, vishaya bhoga lapataayaa
+Bhogon bhogon men nikala gayee, saaree jindagee | |
+Dheere dheere badhaa budhaapaa, dagamaga dole kaayaa,
+Saba ke saba rogon ne dekho deraa khooba jamaayaa
+Rogon rogon men nikala gayee, saaree jindagee | |
+Jisako too apanaa samajhaa thaa, vaha de baithaa dhokhaa,
+Praana gaye phira jala jaayegaa, ye maatee kaa khokaa |
+Khokaa dhone men nikala gayee, saaree jindagee | |`,
+    },
+  },
+  {
+    id: "mahima-hai-agam-jinagam-ki",
+    type: "bhajan",
+    title: {
+      gu: "મહિમા હૈ, અગમ જિનાગમ કી",
+      hi: "महिमा है, अगम जिनागम की",
+      sa: "",
+      en: "Mahimaa Hai, Agama Jinaagama Kee",
+    },
+    text: {
+      gu: `મહિમા હૈ, અગમ જિનાગમ કી ॥ટેક॥
+જાહિ સુનત જડ ભિન્ન પિછાની,
+હમ ચિન્મૂરતિ આતમ કી મહિમા હૈ ॥
+રાગાદિક દુ:ખ કારન જાનૈં,
+ત્યાગ બુદ્ધિ દીની ભ્રમ કી મહિમા હૈ ।૨।
+જ્ઞાન-જ્યોતિ જાગી ઉર અન્તર,
+રુચિ બાઢી પુનિ શમ-દમ કી મહિમા હૈ ।૩।
+કર્મબંધ કી ભઈ નિરજરા,
+કારણ પરમ પરાક્રમ કી મહિમા હૈ।૪।
+ભાગચન્દ શિવ-લાલચ લાગ્યો,
+પહુઁચ નહીં હૈ જહઁ જમ કી મહિમા હૈ ।૫।`,
+      hi: `महिमा है, अगम जिनागम की ॥टेक॥
+जाहि सुनत जड़ भिन्न पिछानी,
+हम चिन्मूरति आतम की महिमा है ॥
+रागादिक दु:ख कारन जानैं,
+त्याग बुद्धि दीनी भ्रम की महिमा है ।२।
+ज्ञान-ज्योति जागी उर अन्तर,
+रुचि बाढ़ी पुनि शम-दम की महिमा है ।३।
+कर्मबंध की भई निरजरा,
+कारण परम पराक्रम की महिमा है।४।
+भागचन्द शिव-लालच लाग्यो,
+पहुँच नहीं है जहँ जम की महिमा है ।५।`,
+      sa: "",
+      en: `Mahimaa hai, agama jinaagama kee | | teka | |
+Jaahi sunata jada bhinna pichhaanee,
+Hama chinmoorati aatama kee mahimaa hai | |
+Raagaadika du:kha kaarana jaanain,
+Tyaaga buddhi deenee bhrama kee mahimaa hai | 2 |
+Gyaana-jyoti jaagee ura antara,
+Ruchi baadhee puni shama-dama kee mahimaa hai | 3 |
+Karmabandha kee bhaee nirajaraa,
+Kaarana parama paraakrama kee mahimaa hai | 4 |
+Bhaagachanda shiva-laalacha laagyo,
+Pahuncha naheen hai jahan jama kee mahimaa hai | 5 |`,
+    },
+  },
+  {
+    id: "sajdhaj-ke-jis-din-mout-ki-shahjadi-aayegi",
+    type: "bhajan",
+    title: {
+      gu: "સજધજ કે જિસ દિન મૌત કી શહજાદી આયેગી",
+      hi: "सजधज के जिस दिन मौत की शहजादी आयेगी",
+      sa: "",
+      en: "Sajadhaja ke Jisa Dina Mauta Kee Shahajaadee Aayegee",
+    },
+    text: {
+      gu: `સજધજ કે જિસ દિન મૌત કી શહજાદી આયેગી,
+ના સોના કામ આયેગા, ના ચાંદી આયેગી ॥
+છોટા સા તૂ, કિતને બડે અરમાન હૈં તેરે,
+મિટ્ટી કા તૂ સોને કે સબ સામાન હૈં તેરે,
+મિટ્ટી કી કાયા મિટ્ટી મેં જિસ દિન સમાયેગી,
+ના સોના કામ આયેગા, ના ચાંદી આયેગી ॥
+કોઠી વહી બંગલા વહી બગિયા રહે વહી,
+પિંજરા વહી, પંછી વહી હૈ બાગવાં વહી,
+યે તન કા ચોલા આત્મા જબ છોડ જાયેગી,
+ના સોના કામ આયેગા, ના ચાંદી આયેગી ॥
+પર ખોલ કે પંછી તૂ પિંજરા તોડ કે ઉડ જા,
+માયા-મહલ કે સારે બંધન છોડ કે ઉડ જા,
+ધડકન મેં જિસ દિન મૌત તેરી ગુનગુનાયેગી,
+ના સોના કામ આયેગા, ના ચાંદી આયેગી ॥`,
+      hi: `सजधज के जिस दिन मौत की शहजादी आयेगी,
+ना सोना काम आयेगा, ना चांदी आयेगी ॥
+छोटा सा तू, कितने बडे अरमान हैं तेरे,
+मिट्टी का तू सोने के सब सामान हैं तेरे,
+मिट्टी की काया मिट्टी में जिस दिन समायेगी,
+ना सोना काम आयेगा, ना चांदी आयेगी ॥
+कोठी वही बंगला वही बगिया रहे वही,
+पिंजरा वही, पंछी वही है बागवां वही,
+ये तन का चोला आत्मा जब छोड जायेगी,
+ना सोना काम आयेगा, ना चांदी आयेगी ॥
+पर खोल के पंछी तू पिंजरा तोड के उड जा,
+माया-महल के सारे बंधन छोड के उड जा,
+धडकन में जिस दिन मौत तेरी गुनगुनायेगी,
+ना सोना काम आयेगा, ना चांदी आयेगी ॥`,
+      sa: "",
+      en: `Sajadhaja ke jisa dina mauta kee shahajaadee aayegee,
+Naa sonaa kaama aayegaa, naa chaandee aayegee | |
+Chhotaa saa too, kitane bade aramaana hain tere,
+Mittee kaa too sone ke saba saamaana hain tere,
+Mittee kee kaayaa mittee men jisa dina samaayegee,
+Naa sonaa kaama aayegaa, naa chaandee aayegee | |
+Kothee vahee bangalaa vahee bagiyaa rahe vahee,
+Pinjaraa vahee, panchhee vahee hai baagavaan vahee,
+Ye tana kaa cholaa aatmaa jaba chhoda jaayegee,
+Naa sonaa kaama aayegaa, naa chaandee aayegee | |
+Para khola ke panchhee too pinjaraa toda ke uda jaa,
+Maayaa-mahala ke saare bandhana chhoda ke uda jaa,
+Dhadakana men jisa dina mauta teree gunagunaayegee,
+Naa sonaa kaama aayegaa, naa chaandee aayegee | |`,
+    },
+  },
+  {
+    id: "charnon-main-aa-pada-hoon",
+    type: "bhajan",
+    title: {
+      gu: "ચરણોં મેં આ પડા હૂઁ",
+      hi: "चरणों में आ पड़ा हूँ",
+      sa: "",
+      en: "Charanon Men Aa Padaa Hoon",
+    },
+    text: {
+      gu: `ચરણોં મેં આ પડા હૂઁ, હે દ્વાદશાંગ વાણી
+મસ્તક ઝુકા રહા હૂઁ, હે દ્વાદશાંગ વાણી ।।ટેક ।।
+મિથ્યાત્વ કો નશાયા, નિજ તત્ત્વ કો પ્રકાશા
+આપા-પરાયા-ભાસા, હો ભાનુ કે સમાની ।૧।
+ષટ્ દ્રવ્ય કો બતાયા, સ્યાદ્વાદ કો જતાયા
+ભવફન્દ સે છુડાયા, સચ્ચી જિનેન્દ્ર વાણી ।૨।
+રિપુ ચાર મેરે મગ મેં, જંજીર ડાલે પગ મેં
+ઠાડે હૈં મોક્ષ-મગ મેં, તકરાર મોસોં ઠાની ।૩।
+દે જ્ઞાન મુઝકો માતા, ઇસ જગ સે તોઙૂઁ નાતા
+હોવે સુદર્શન સાતા, નહિં જગ મેં તેરી સાની ।૪।`,
+      hi: `चरणों में आ पड़ा हूँ, हे द्वादशांग वाणी
+मस्तक झुका रहा हूँ, हे द्वादशांग वाणी ।।टेक ।।
+मिथ्यात्व को नशाया, निज तत्त्व को प्रकाशा
+आपा-पराया-भासा, हो भानु के समानी ।१।
+षट् द्रव्य को बताया, स्याद्वाद को जताया
+भवफन्द से छुड़ाया, सच्ची जिनेन्द्र वाणी ।२।
+रिपु चार मेरे मग में, जंजीर डाले पग में
+ठाड़े हैं मोक्ष-मग में, तकरार मोसों ठानी ।३।
+दे ज्ञान मुझको माता, इस जग से तोङूँ नाता
+होवे सुदर्शन साता, नहिं जग में तेरी सानी ।४।`,
+      sa: "",
+      en: `Charanon men aa padaa hoon, he dvaadashaanga vaanee
+Mastaka jhukaa rahaa hoon, he dvaadashaanga vaanee | | teka | |
+Mithyaatva ko nashaayaa, nija tattva ko prakaashaa
+Aapaa-paraayaa-bhaasaa, ho bhaanu ke samaanee | 1 |
+Shat dravya ko bataayaa, syaadvaada ko jataayaa
+Bhavaphanda se chhudaayaa, sachchee jinendra vaanee | 2 |
+Ripu chaara mere maga men, janjeera daale paga men
+Thaade hain moksha-maga men, takaraara moson thaanee | 3 |
+De gyaana mujhako maataa, isa jaga se tongoon naataa
+Hove sudarshana saataa, nahin jaga men teree saanee | 4 |`,
+    },
+  },
+  {
+    id: "ek-raah-par-chal",
+    type: "bhajan",
+    title: {
+      gu: "એક રાહ પર ચલ",
+      hi: "एक राह पर चल",
+      sa: "",
+      en: "Eka Raaha Para Chala",
+    },
+    text: {
+      gu: `જ્ઞાતા દૃષ્ટા રાહી હૂં, અતુલ સુખોં કા ગ્રાહી હૂં,
+બોલો મેરે સંગ, આનંદઘન આનંદઘન આનંદઘન ॥
+આત્મા મેં રમૂંગા મૈં ક્ષણ ક્ષણ મેં,
+ચાહે મેરા જ્ઞાન જાને નિજ પર કો,
+અપને કો જાને બિના લૂંગા નહીં દમ,
+આગમ કી આગમ બઢાઊંગા કદમ,
+સુખ મેં દુખ મેં, દુખ મેં સુખ મેં, એક રાહ પર ચલ ॥
+ધૂપ હો યા ગર્મી બરસાત હો જહાં,
+અનુભવ કી ધારા બહાઊંગા વહાં,
+વિષયોં કા ફિર નહીં હોગા જનમ,
+આગમ કી આગમ બઢાઊંગા કદમ,
+સુખ મેં દુખ મેં, દુખ મેં સુખ મેં, એક રાહ પર ચલ ॥
+ગુણ અનંત કા સ્વામી હૂં મૈં મુઝમેં યે રતન,
+ગણધર ભી હાર ગયે કર વર્ણન,
+અનુપમ ઔર અદ્ભુત હૈ મેરા યે ચમન,
+આગમ કી આગમ બઢાઊંગા કદમ,
+સુખ મેં દુખ મેં, દુખ મેં સુખ મેં, એક રાહ પર ચલ ॥`,
+      hi: `ज्ञाता दृष्टा राही हूं, अतुल सुखों का ग्राही हूं,
+बोलो मेरे संग, आनंदघन आनंदघन आनंदघन ॥
+आत्मा में रमूंगा मैं क्षण क्षण में,
+चाहे मेरा ज्ञान जाने निज पर को,
+अपने को जाने बिना लूंगा नहीं दम,
+आगम की आगम बढाऊंगा कदम,
+सुख में दुख में, दुख में सुख में, एक राह पर चल ॥
+धूप हो या गर्मी बरसात हो जहां,
+अनुभव की धारा बहाऊंगा वहां,
+विषयों का फ़िर नहीं होगा जनम,
+आगम की आगम बढाऊंगा कदम,
+सुख में दुख में, दुख में सुख में, एक राह पर चल ॥
+गुण अनंत का स्वामी हूं मैं मुझमें ये रतन,
+गणधर भी हार गये कर वर्णन,
+अनुपम और अद्भुत है मेरा ये चमन,
+आगम की आगम बढाऊंगा कदम,
+सुख में दुख में, दुख में सुख में, एक राह पर चल ॥`,
+      sa: "",
+      en: `Gyaataa drishtaa raahee hoon, atula sukhon kaa graahee hoon,
+Bolo mere sanga, aanandaghana aanandaghana aanandaghana | |
+Aatmaa men ramoongaa main kshana kshana men,
+Chaahe meraa gyaana jaane nija para ko,
+Apane ko jaane binaa loongaa naheen dama,
+Aagama kee aagama badhaaoongaa kadama,
+Sukha men dukha men, dukha men sukha men, eka raaha para chala | |
+Dhoopa ho yaa garmee barasaata ho jahaan,
+Anubhava kee dhaaraa bahaaoongaa vahaan,
+Vishayon kaa phira naheen hogaa janama,
+Aagama kee aagama badhaaoongaa kadama,
+Sukha men dukha men, dukha men sukha men, eka raaha para chala | |
+Guna ananta kaa svaamee hoon main mujhamen ye ratana,
+Ganadhara bhee haara gaye kara varnana,
+Anupama aura adbhuta hai meraa ye chamana,
+Aagama kee aagama badhaaoongaa kadama,
+Sukha men dukha men, dukha men sukha men, eka raaha para chala | |`,
+    },
+  },
+  {
+    id: "tu-jaag-re-chetan-praani",
+    type: "bhajan",
+    title: {
+      gu: "તૂ જાગ રે ચેતન પ્રાણી",
+      hi: "तू जाग रे चेतन प्राणी",
+      sa: "",
+      en: "Too Jaaga re Chetana Praanee",
+    },
+    text: {
+      gu: `તૂ જાગ રે ચેતન પ્રાણી કર આતમ કી અગવાની
+જો આતમ કો લખતે હૈં ઉનકી હૈ અમર કહાની॥
+હૈ જ્ઞાન માત્ર નિજ જ્ઞાયક, જિસમેં હૈ જ્ઞેય ઝલકતે
+હૈ ઝલકન ભી જ્ઞાયક હૈ, ઇસમેં નહીં જ્ઞેય મહકતે
+મૈ દર્શન જ્ઞાન સ્વરૂપી મેરી ચૈતન્ય નિશાની ॥
+અબ સમકિત સાવન આયા, ચિન્મય આનંદ બરસતા
+ભીગા હૈ કણ કણ મેરા, હો ગઈ અખંડ સરસતા
+સમકિત કી મધુ ચિતવન ઝલકી હૈ મુક્તિ નિશાની ॥
+યે શાશ્વત ભવ્ય જિનાલય હૈ શાંતિ બરસતી ઇનમેં
+માનોં આયા સિદ્ધાલય મેરી બસ્તી હો ઉસમેં
+મૈં હૂં શિવપુર કા વાસી ભવ ભવ ખતમ કહાની ॥`,
+      hi: `तू जाग रे चेतन प्राणी कर आतम की अगवानी
+जो आतम को लखते हैं उनकी है अमर कहानी॥
+है ज्ञान मात्र निज ज्ञायक, जिसमें है ज्ञेय झलकते
+है झलकन भी ज्ञायक है, इसमें नहीं ज्ञेय महकते
+मै दर्शन ज्ञान स्वरूपी मेरी चैतन्य निशानी ॥
+अब समकित सावन आया, चिन्मय आनंद बरसता
+भीगा है कण कण मेरा, हो गई अखंड सरसता
+समकित की मधु चितवन झलकी है मुक्ति निशानी ॥
+ये शाश्वत भव्य जिनालय है शांति बरसती इनमें
+मानों आया सिद्धालय मेरी बस्ती हो उसमें
+मैं हूं शिवपुर का वासी भव भव खतम कहानी ॥`,
+      sa: "",
+      en: `Too jaaga re chetana praanee kara aatama kee agavaanee
+Jo aatama ko lakhate hain unakee hai amara kahaanee | |
+Hai gyaana maatra nija gyaayaka, jisamen hai gyeya jhalakate
+Hai jhalakana bhee gyaayaka hai, isamen naheen gyeya mahakate
+Mai darshana gyaana svaroopee meree chaitanya nishaanee | |
+Aba samakita saavana aayaa, chinmaya aananda barasataa
+Bheegaa hai kana kana meraa, ho gaee akhanda sarasataa
+Samakita kee madhu chitavana jhalakee hai mukti nishaanee | |
+Ye shaashvata bhavya jinaalaya hai shaanti barasatee inamen
+Maanon aayaa siddhaalaya meree bastee ho usamen
+Main hoon shivapura kaa vaasee bhava bhava khatama kahaanee | |`,
+    },
+  },
+  {
+    id: "are-jiya-jag-dhokhe-ki-taati",
+    type: "bhajan",
+    title: {
+      gu: "અરે જિયા જગ ધોખે કી ટાટી",
+      hi: "अरे जिया जग धोखे की टाटी",
+      sa: "",
+      en: "Are Jiyaa Jaga Dhokhe Kee Taatee",
+    },
+    text: {
+      gu: `અરે જિયા જગ ધોખે કી ટાટી॥
+ઝૂઠા ઉદ્યમ લોક કરત હૈ, જામેં નિશદિન ઘાટી।
+જાનબૂઝ કર અંધ બને હૈં, આંખન બાંધી પાટી॥
+નિકસ જાયેં પ્રાણ છિનક મેં, પડી રહેગી માટી।
+’દૌલતરામ’ સમઝ મન અપને, દિલ કી ખોલ કપાટી॥`,
+      hi: `अरे जिया जग धोखे की टाटी॥
+झूठा उद्यम लोक करत है, जामें निशदिन घाटी।
+जानबूझ कर अंध बने हैं, आंखन बांधी पाटी॥
+निकस जायें प्राण छिनक में, पडी रहेगी माटी।
+’दौलतराम’ समझ मन अपने, दिल की खोल कपाटी॥`,
+      sa: "",
+      en: `Are jiyaa jaga dhokhe kee taatee | |
+Jhoothaa udyama loka karata hai, jaamen nishadina ghaatee |
+Jaanaboojha kara andha bane hain, aankhana baandhee paatee | |
+Nikasa jaayen praana chhinaka men, padee rahegee maatee |
+’daulataraama’ samajha mana apane, dila kee khola kapaatee | |`,
+    },
+  },
+  {
+    id: "jiski-charcha-hi-hai-sundar",
+    type: "bhajan",
+    title: {
+      gu: "જિસકી ચર્ચા હી હૈ સુન્દર",
+      hi: "जिसकी चर्चा ही है सुन्दर",
+      sa: "",
+      en: "Jisakee Charchaa Hee hai Sundara",
+    },
+    text: {
+      gu: `જબ એક રતન અનમોલ હૈ તો, રત્નાકર ફિર કૈસા હોગા,
+જિસકી ચર્ચા હી હૈ સુન્દર તો, વો કિતના સુન્દર હોગા,
+ઇસકે દીવાને હૈં જ્ઞાની, હર ધુન મેં વહી સવાર રહે,
+બસ એક લક્ષ્ય અરુ એક પ્રક્ષ્ય, હર શ્વાંસ ઉસી કે લિયે રહે
+જિસકો પાકર સબ કુછ પાયા, ઉસસે ભી બઢકર ક્યા હોગા,
+જિસકી ચર્ચા હી હૈ સુન્દર તો
+જો વાણી કે ભી પાર કહા, મન ભી થક કર કે રહ જાયે,
+ઇન્દ્રિય ગોચર તો દૂર અતીન્દ્રિય કે ભી કલ્પ મેં ના આયે
+અનુભવ ગોચર કુછ નામ નહીં નિર્નામ ભી ક્યા અદ્ભુત હોગા,
+જિસકી ચર્ચા હી હૈ સુન્દર તો
+સપ્ત ભંગ પઢે નૌ પૂર્વ રટે, પર ઉસ કા સ્વાદ નહીં આયે,
+ઉનસે ગ્રસીતે અનપઢ ભી લે સ્વાદ સફલ હોકર જાયે,
+જડ પુદ્ગલ તો અનજાન સ્વયં, વો જ્ઞાન તુઝે કૈસે દેગા,
+જિસકી ચર્ચા હી હૈ સુન્દર તો
+જિસકી મહિમા પ્રભુ કી વાણી, જાતી મન મોહ કો લહરાયે,
+જો સામ્ય ગુણોં કે રત્નાકર સબ હે પરમેશ્વર ફરમાયે
+તૂ માને યા ના ભી માને, પરમાત્મપના સમ ના હોગા,
+જિસકી ચર્ચા હી હૈ સુન્દર તો`,
+      hi: `जब एक रतन अनमोल है तो, रत्नाकर फ़िर कैसा होगा,
+जिसकी चर्चा ही है सुन्दर तो, वो कितना सुन्दर होगा,
+इसके दीवाने हैं ज्ञानी, हर धुन में वही सवार रहे,
+बस एक लक्ष्य अरु एक प्रक्ष्य, हर श्वांस उसी के लिये रहे
+जिसको पाकर सब कुछ पाया, उससे भी बढकर क्या होगा,
+जिसकी चर्चा ही है सुन्दर तो
+जो वाणी के भी पार कहा, मन भी थक कर के रह जाये,
+इन्द्रिय गोचर तो दूर अतीन्द्रिय के भी कल्प में ना आये
+अनुभव गोचर कुछ नाम नहीं निर्नाम भी क्या अद्भुत होगा,
+जिसकी चर्चा ही है सुन्दर तो
+सप्त भंग पढे नौ पूर्व रटे, पर उस का स्वाद नहीं आये,
+उनसे ग्रसीते अनपढ भी ले स्वाद सफ़ल होकर जाये,
+जड पुद्गल तो अनजान स्वयं, वो ज्ञान तुझे कैसे देगा,
+जिसकी चर्चा ही है सुन्दर तो
+जिसकी महिमा प्रभु की वाणी, जाती मन मोह को लहराये,
+जो साम्य गुणों के रत्नाकर सब हे परमेश्वर फ़रमाये
+तू माने या ना भी माने, परमात्मपना सम ना होगा,
+जिसकी चर्चा ही है सुन्दर तो`,
+      sa: "",
+      en: `Jaba eka ratana anamola hai to, ratnaakara phira kaisaa hogaa,
+Jisakee charchaa hee hai sundara to, vo kitanaa sundara hogaa,
+Isake deevaane hain gyaanee, hara dhuna men vahee savaara rahe,
+Basa eka lakshya aru eka prakshya, hara shvaansa usee ke liye rahe
+Jisako paakara saba kuchha paayaa, usase bhee badhakara kyaa hogaa,
+Jisakee charchaa hee hai sundara to
+Jo vaanee ke bhee paara kahaa, mana bhee thaka kara ke raha jaaye,
+Indriya gochara to doora ateendriya ke bhee kalpa men naa aaye
+Anubhava gochara kuchha naama naheen nirnaama bhee kyaa adbhuta hogaa,
+Jisakee charchaa hee hai sundara to
+Sapta bhanga padhe nau poorva rate, para usa kaa svaada naheen aaye,
+Unase graseete anapadha bhee le svaada saphala hokara jaaye,
+Jada pudgala to anajaana svayan, vo gyaana tujhe kaise degaa,
+Jisakee charchaa hee hai sundara to
+Jisakee mahimaa prabhu kee vaanee, jaatee mana moha ko laharaaye,
+Jo saamya gunon ke ratnaakara saba he parameshvara pharamaaye
+Too maane yaa naa bhee maane, paramaatmapanaa sama naa hogaa,
+Jisakee charchaa hee hai sundara to`,
+    },
+  },
+  {
+    id: "tero-naam-dhanya-hai",
+    type: "bhajan",
+    title: {
+      gu: "તેરો નામ ધન્ય હૈ",
+      hi: "तेरो नाम धन्य है",
+      sa: "",
+      en: "Tero Naama Dhanya hai",
+    },
+    text: {
+      gu: `માઁ જિનવાણી તેરો નામ, સારે જગ મેં ધન્ય હૈ,
+તેરી ઉતારે આરતી માઁ, તેરો નામ ધન્ય હૈ।
+જ્ઞાન કી જ્યોતિ તૂ હી જલાતી,
+ભક્તોં કો ભગવાન તૂ હી બનાતી,
+અમૃત પિલાતી, માર્ગ દિખાતી, તેરો નામ ધન્ય હૈ ॥ માઁ.
+અરિહન્ત ભાસિત જિનવાણી પ્યારી,
+ગણધર રચી ઔર મુનિયોં ને ધારી,
+જીવન કી નૈયા કો તૂ તાર દે માઁ, તેરો નામ ધન્ય હૈ ॥ માઁ
+તેરે શ્રવણ સે મહિમા સમાઈ,
+ચૈતન્ય ચૈતન્ય કી ધ્વનિ આઈ,
+સન્તોં કે હૃદય કો, ઈશ્વર કે ગૃહ કો તેરે ગુંજાતે છન્દ હૈં ॥માઁ
+સુનને સે સંસાર કા રંગ શિથિલ હો,
+સુનને સે જ્ઞાયક કા મંગલ મિલન હો,
+તુઝકો નમન હૈ, તુઝકો નમન હૈ, તેરો નામ ધન્ય હૈ ॥ માઁ`,
+      hi: `माँ जिनवाणी तेरो नाम, सारे जग में धन्य है,
+तेरी उतारे आरती माँ, तेरो नाम धन्य है।
+ज्ञान की ज्योति तू ही जलाती,
+भक्तों को भगवान तू ही बनाती,
+अमृत पिलाती, मार्ग दिखाती, तेरो नाम धन्य है ॥ माँ.
+अरिहन्त भासित जिनवाणी प्यारी,
+गणधर रची और मुनियों ने धारी,
+जीवन की नैया को तू तार दे माँ, तेरो नाम धन्य है ॥ माँ
+तेरे श्रवण से महिमा समाई,
+चैतन्य चैतन्य की ध्वनि आई,
+सन्तों के हृदय को, ईश्वर के गृह को तेरे गुंजाते छन्द हैं ॥माँ
+सुनने से संसार का रंग शिथिल हो,
+सुनने से ज्ञायक का मंगल मिलन हो,
+तुझको नमन है, तुझको नमन है, तेरो नाम धन्य है ॥ माँ`,
+      sa: "",
+      en: `Maan jinavaanee tero naama, saare jaga men dhanya hai,
+Teree utaare aaratee maan, tero naama dhanya hai |
+Gyaana kee jyoti too hee jalaatee,
+Bhakton ko bhagavaana too hee banaatee,
+Amrita pilaatee, maarga dikhaatee, tero naama dhanya hai | | maan.
+Arihanta bhaasita jinavaanee pyaaree,
+Ganadhara rachee aura muniyon ne dhaaree,
+Jeevana kee naiyaa ko too taara de maan, tero naama dhanya hai | | maan
+Tere shravana se mahimaa samaaee,
+Chaitanya chaitanya kee dhvani aaee,
+Santon ke hridaya ko, eeshvara ke griha ko tere gunjaate chhanda hain | | maan
+Sunane se sansaara kaa ranga shithila ho,
+Sunane se gyaayaka kaa mangala milana ho,
+Tujhako namana hai, tujhako namana hai, tero naama dhanya hai | | maan`,
+    },
+  },
+  {
+    id: "kabai-nirgranth-swaroop-dharoonga",
+    type: "bhajan",
+    title: {
+      gu: "કબૈ નિરગ્રંથ સ્વરૂપ ધરૂંગા",
+      hi: "कबै निरग्रंथ स्वरूप धरूंगा",
+      sa: "",
+      en: "Kabai Niragrantha Svaroopa Dharoongaa",
+    },
+    text: {
+      gu: `કબૈ નિરગ્રંથ સ્વરૂપ ધરૂંગા, તપ કરકે મુક્તિ વરૂંગા॥
+કબ ગૃહ વાસ આસ સબ છાડૂં, કબ વન મેં વિચરૂંગા
+બાહ્યાભ્યંતર ત્યાગ પરિગ્રહ, ઉભય લોક વિચરૂંગા ॥
+હોય એકાકી પરમ ઉદાસી, પંચાચાર ધરૂંગા
+કબ સ્થિર યોગ ધરુ પદ્માસન, ઇન્દ્રિય દમન કરૂંગા ॥
+આતમ ધ્યાન સાજિ દિલ અપને, મોહ અરિ સે લડૂંગા
+ત્યાગ ઉપાધિ સમાધિ લગાકર, પરિષહ સહન કરૂંગા ॥
+કબ ગુણસ્થાન શ્રેણી પર ચઢ કે કરમ કલંક હરૂંગા
+આનન્દકંદ ચિદાનન્દ સાહબ, બિન તુમરે સુમરૂંગા ॥
+ઐસી લબ્ધિ જબે મૈં પાઊં, આપ મેં આપ તિરૂંગા
+’અમોલકચંદ સુત હીરાચંદ’ કહૈ યહ, ચહુરિ જગ મેં ના ભ્રમૂંગા॥`,
+      hi: `कबै निरग्रंथ स्वरूप धरूंगा, तप करके मुक्ति वरूंगा॥
+कब गृह वास आस सब छाडूं, कब वन में विचरूंगा
+बाह्याभ्यंतर त्याग परिग्रह, उभय लोक विचरूंगा ॥
+होय एकाकी परम उदासी, पंचाचार धरूंगा
+कब स्थिर योग धरु पद्मासन, इन्द्रिय दमन करूंगा ॥
+आतम ध्यान साजि दिल अपने, मोह अरि से लडूंगा
+त्याग उपाधि समाधि लगाकर, परिषह सहन करूंगा ॥
+कब गुणस्थान श्रेणी पर चढ के करम कलंक हरूंगा
+आनन्दकंद चिदानन्द साहब, बिन तुमरे सुमरूंगा ॥
+ऐसी लब्धि जबे मैं पाऊं, आप में आप तिरूंगा
+’अमोलकचंद सुत हीराचंद’ कहै यह, चहुरि जग में ना भ्रमूंगा॥`,
+      sa: "",
+      en: `Kabai niragrantha svaroopa dharoongaa, tapa karake mukti varoongaa | |
+Kaba griha vaasa aasa saba chhaadoon, kaba vana men vicharoongaa
+Baahyaabhyantara tyaaga parigraha, ubhaya loka vicharoongaa | |
+Hoya ekaakee parama udaasee, panchaachaara dharoongaa
+Kaba sthira yoga dharu padmaasana, indriya damana karoongaa | |
+Aatama dhyaana saaji dila apane, moha ari se ladoongaa
+Tyaaga upaadhi samaadhi lagaakara, parishaha sahana karoongaa | |
+Kaba gunasthaana shrenee para chadha ke karama kalanka haroongaa
+Aanandakanda chidaananda saahaba, bina tumare sumaroongaa | |
+Aisee labdhi jabe main paaoon, aapa men aapa tiroongaa
+’amolakachanda suta heeraachanda’ kahai yaha, chahuri jaga men naa bhramoongaa | |`,
+    },
+  },
+  {
+    id: "jinvani-ma-jinvani-ma",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી માઁ જિનવાણી માઁ",
+      hi: "जिनवाणी माँ जिनवाणी माँ",
+      sa: "",
+      en: "Jinavaanee Maan Jinavaanee Maan",
+    },
+    text: {
+      gu: `જિનવાણી માઁ જિનવાણી માઁ, જયવન્તો મેરી જિનવાણી માઁ ॥
+શુદ્ધાતમ કા જ્ઞાન કરાતી, ચિદાનન્દ રસ પાન કરાતી,
+કુન્દકુન્દ સે ભેંટ કરાતી, આત્મખ્યાતિ કા બોધ કરાતી ॥
+નિત્યબોધની માઁ જિનવાણી, સ્વ પર વિવેક જગાતી વાણી,
+મિથ્યાભ્રાન્તિ નશાતી વાણી, જ્ઞાયક પ્રભુ દરશાતી વાણી ॥
+અસતાચરણ નસાતી વાણી, સત્ય ધર્મ પ્રગટાતી વાણી,
+ભવ દુખ હરણ પિયૂષ સમાની,ભવ દધિ તારક નૌકા જાની ॥
+જો હિત ચાહો ભવિજન પ્રાણી, પઢો સુનો ધ્યાઓ જિનવાણી,
+સ્વાનુભૂતિ સે કરો પ્રમાની, શિવપથ કો હૈ યહી નિશાની ॥`,
+      hi: `जिनवाणी माँ जिनवाणी माँ, जयवन्तो मेरी जिनवाणी माँ ॥
+शुद्धातम का ज्ञान कराती, चिदानन्द रस पान कराती,
+कुन्दकुन्द से भेंट कराती, आत्मख्याति का बोध कराती ॥
+नित्यबोधनी माँ जिनवाणी, स्व पर विवेक जगाती वाणी,
+मिथ्याभ्रान्ति नशाती वाणी, ज्ञायक प्रभु दरशाती वाणी ॥
+असताचरण नसाती वाणी, सत्य धर्म प्रगटाती वाणी,
+भव दुख हरण पियूष समानी,भव दधि तारक नौका जानी ॥
+जो हित चाहो भविजन प्राणी, पढो सुनो ध्याओ जिनवाणी,
+स्वानुभूति से करो प्रमानी, शिवपथ को है यही निशानी ॥`,
+      sa: "",
+      en: `Jinavaanee maan jinavaanee maan, jayavanto meree jinavaanee maan | |
+Shuddhaatama kaa gyaana karaatee, chidaananda rasa paana karaatee,
+Kundakunda se bhenta karaatee, aatmakhyaati kaa bodha karaatee | |
+Nityabodhanee maan jinavaanee, sva para viveka jagaatee vaanee,
+Mithyaabhraanti nashaatee vaanee, gyaayaka prabhu darashaatee vaanee | |
+Asataacharana nasaatee vaanee, satya dharma pragataatee vaanee,
+Bhava dukha harana piyoosha samaanee,bhava dadhi taaraka naukaa jaanee | |
+Jo hita chaaho bhavijana praanee, padho suno dhyaao jinavaanee,
+Svaanubhooti se karo pramaanee, shivapatha ko hai yahee nishaanee | |`,
+    },
+  },
+  {
+    id: "bhool-ke-apna-ghar",
+    type: "bhajan",
+    title: {
+      gu: "ભૂલ કે અપના ઘર",
+      hi: "भूल के अपना घर",
+      sa: "",
+      en: "Bhoola ke Apanaa Ghara",
+    },
+    text: {
+      gu: `ભૂલ કે અપના ઘર, જાને કિતનોં કે ઘર, તુઝકો જાના પડા॥
+ઇસ જહાં મેં કઈ ઘર બનાયે તૂને,
+રિશ્‍તેદારી સભી સે નિભાઈ તૂને,
+જિનકે થે તુમ પિતા, ફિર ઉન્હીં કો પિતા, તુઝે બનાના પડા ॥
+જો થી માતા તેરી વો હી પત્ની બની,
+પત્ની સે ફિર તેરી ભગિની બની,
+રિશ્‍તે કરતે રહે, હમ બિછુડતે રહે, ના ઠિકાના મિલા ॥
+બનકે થલચર તૂ સબલોં સે ખાયા ગયા,
+બન કે નભચર તૂ જાલોં ફંસાયા ગયા।
+નર્ક પશુઓં કે ગમ, દેખ કર યે સિતમ તુઝકો રોના પડા॥
+ઇસ જહાં કી તો વધુઐં અનેકોં વરીં,
+મુક્તા રાની ન અબ તક તેરે મન બસી।
+જિસને ઉસકો વરા, ઇસ જહાં કી ધરા, પર ના આના પડા॥`,
+      hi: `भूल के अपना घर, जाने कितनों के घर, तुझको जाना पडा॥
+इस जहां में कई घर बनाये तूने,
+रिश्‍तेदारी सभी से निभाई तूने,
+जिनके थे तुम पिता, फ़िर उन्हीं को पिता, तुझे बनाना पडा ॥
+जो थी माता तेरी वो ही पत्नी बनी,
+पत्नी से फ़िर तेरी भगिनी बनी,
+रिश्‍ते करते रहे, हम बिछुडते रहे, ना ठिकाना मिला ॥
+बनके थलचर तू सबलों से खाया गया,
+बन के नभचर तू जालों फ़ंसाया गया।
+नर्क पशुओं के गम, देख कर ये सितम तुझको रोना पडा॥
+इस जहां की तो वधुऐं अनेकों वरीं,
+मुक्ता रानी न अब तक तेरे मन बसी।
+जिसने उसको वरा, इस जहां की धरा, पर ना आना पडा॥`,
+      sa: "",
+      en: `Bhoola ke apanaa ghara, jaane kitanon ke ghara, tujhako jaanaa padaa | |
+Isa jahaan men kaee ghara banaaye toone,
+Rish‍tedaaree sabhee se nibhaaee toone,
+Jinake the tuma pitaa, phira unheen ko pitaa, tujhe banaanaa padaa | |
+Jo thee maataa teree vo hee patnee banee,
+Patnee se phira teree bhaginee banee,
+Rish‍te karate rahe, hama bichhudate rahe, naa thikaanaa milaa | |
+Banake thalachara too sabalon se khaayaa gayaa,
+Bana ke nabhachara too jaalon phansaayaa gayaa |
+Narka pashuon ke gama, dekha kara ye sitama tujhako ronaa padaa | |
+Isa jahaan kee to vadhuain anekon vareen,
+Muktaa raanee na aba taka tere mana basee |
+Jisane usako varaa, isa jahaan kee dharaa, para naa aanaa padaa | |`,
+    },
+  },
+  {
+    id: "main-apne-se-chhal-gaya",
+    type: "bhajan",
+    title: {
+      gu: "મૈં અપને સે છલા ગયા",
+      hi: "मैं अपने से छला गया",
+      sa: "",
+      en: "Main Apane se Chhalaa Gayaa",
+    },
+    text: {
+      gu: `જો અપના નહીં ઉસકે અપનેપન મેં જીવન ચલા ગયા।
+પર મેં અપનાપન કરકે હા મૈં અપને સે છલા ગયા॥
+જગ મેં ઐસા હુઆ કૌન જો અપને સે હી હારા,
+જિસકી પરિણતિ કો અનાદિ સે મોહ શત્રુ ને મારા,
+જિસને જિસકો અપના માના, ઉસે છોડ વહ ચલા ગયા,
+પર મેં અપનાપન કરકે હા મૈં અપને સે છલા ગયા ॥
+અપને કો વિસ્મૃત કરકે હાઁ જિસકો અપના માના,
+ક્યા વહ અપના હુઆ કભી, યહ સત્ય અરે ના જાના,
+જો અનાદિ સે અપના હૈ વહ વિસ્મૃતિ મેં ક્યોં ચલા ગયા,
+પર મેં અપનાપન કરકે હા મૈં અપને સે છલા ગયા ॥
+અપને મેં પર કે શાસન કા અંત કહો કબ હોગા,
+નિજ મેં પર કે અવભાસન કા અંત કહો કબ હોગા,
+પ્રગટ જ્ઞાન કા અંશ અરે પર પરિણતિ મેં ક્યોં ચલા ગયા,
+પર મેં અપનાપન કરકે હા મૈં અપને સે છલા ગયા ॥
+જિસને વીતરાગ મુદ્રા લખ નિજ સ્વરૂપ કો જાના,
+રંગ રાગ સે ભિન્ન અરે નિજ આત્મ તત્વ પહિચાના,
+પ્રગટ જ્ઞાન કા પુંજ તભી નિજ જ્ઞાન પુંજ મેં ચલા ગયા,
+અપને મેં અપનાપન કરકે મૈં અપને મેં ચલા ગયા ॥`,
+      hi: `जो अपना नहीं उसके अपनेपन में जीवन चला गया।
+पर में अपनापन करके हा मैं अपने से छला गया॥
+जग में ऐसा हुआ कौन जो अपने से ही हारा,
+जिसकी परिणति को अनादि से मोह शत्रु ने मारा,
+जिसने जिसको अपना माना, उसे छोड वह चला गया,
+पर में अपनापन करके हा मैं अपने से छला गया ॥
+अपने को विस्मृत करके हाँ जिसको अपना माना,
+क्या वह अपना हुआ कभी, यह सत्य अरे ना जाना,
+जो अनादि से अपना है वह विस्मृति में क्यों चला गया,
+पर में अपनापन करके हा मैं अपने से छला गया ॥
+अपने में पर के शासन का अंत कहो कब होगा,
+निज में पर के अवभासन का अंत कहो कब होगा,
+प्रगट ज्ञान का अंश अरे पर परिणति में क्यों चला गया,
+पर में अपनापन करके हा मैं अपने से छला गया ॥
+जिसने वीतराग मुद्रा लख निज स्वरूप को जाना,
+रंग राग से भिन्न अरे निज आत्म तत्व पहिचाना,
+प्रगट ज्ञान का पुंज तभी निज ज्ञान पुंज में चला गया,
+अपने में अपनापन करके मैं अपने में चला गया ॥`,
+      sa: "",
+      en: `Jo apanaa naheen usake apanepana men jeevana chalaa gayaa |
+Para men apanaapana karake haa main apane se chhalaa gayaa | |
+Jaga men aisaa huaa kauna jo apane se hee haaraa,
+Jisakee parinati ko anaadi se moha shatru ne maaraa,
+Jisane jisako apanaa maanaa, use chhoda vaha chalaa gayaa,
+Para men apanaapana karake haa main apane se chhalaa gayaa | |
+Apane ko vismrita karake haan jisako apanaa maanaa,
+Kyaa vaha apanaa huaa kabhee, yaha satya are naa jaanaa,
+Jo anaadi se apanaa hai vaha vismriti men kyon chalaa gayaa,
+Para men apanaapana karake haa main apane se chhalaa gayaa | |
+Apane men para ke shaasana kaa anta kaho kaba hogaa,
+Nija men para ke avabhaasana kaa anta kaho kaba hogaa,
+Pragata gyaana kaa ansha are para parinati men kyon chalaa gayaa,
+Para men apanaapana karake haa main apane se chhalaa gayaa | |
+Jisane veetaraaga mudraa lakha nija svaroopa ko jaanaa,
+Ranga raaga se bhinna are nija aatma tatva pahichaanaa,
+Pragata gyaana kaa punja tabhee nija gyaana punja men chalaa gayaa,
+Apane men apanaapana karake main apane men chalaa gayaa | |`,
+    },
+  },
+  {
+    id: "jinvani-jag-maiya",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી જગ મૈયા",
+      hi: "जिनवाणी जग मैया",
+      sa: "",
+      en: "Jinavaanee Jaga Maiyaa",
+    },
+    text: {
+      gu: `જિનવાણી જગ મૈયા, જનમ દુખ મેટ દો।
+જનમ દુખ મેટ દો, મરણ દુખ મેટ દો॥
+બહુત દિનોં સે ભટક રહા હૂં, જ્ઞાન બિના હે મૈયા ।
+નિર્મલ જ્ઞાન પ્રદાન સુ કર દો, તૂ હી સચ્ચી મૈયા ॥
+ગુણસ્થાનોં કા અનુભવ હમકો, હો જાવે જગમૈય્યા ।
+ચઢૈં ઉન્હીં પર ક્રમ સે ફિર, હમ હોવેં કર્મ ખિપૈયા ॥
+મેટ હમારા જન્મ મરણ દુખ, ઇતની વિનતી મૈયા ।
+તુમકો શીશ ત્રિલોકી નમાવે, તૂ હી સચ્ચી મૈયા ॥
+વસ્તુ એક અનેક રૂપ હૈ, અનુભવ સબકા ન્યારા ।
+હર વિવાદ કા હલ હો સકતા, સ્યાદવાદ કે દ્વારા ॥`,
+      hi: `जिनवाणी जग मैया, जनम दुख मेट दो।
+जनम दुख मेट दो, मरण दुख मेट दो॥
+बहुत दिनों से भटक रहा हूं, ज्ञान बिना हे मैया ।
+निर्मल ज्ञान प्रदान सु कर दो, तू ही सच्ची मैया ॥
+गुणस्थानों का अनुभव हमको, हो जावे जगमैय्या ।
+चढैं उन्हीं पर क्रम से फ़िर, हम होवें कर्म खिपैया ॥
+मेट हमारा जन्म मरण दुख, इतनी विनती मैया ।
+तुमको शीश त्रिलोकी नमावे, तू ही सच्ची मैया ॥
+वस्तु एक अनेक रूप है, अनुभव सबका न्यारा ।
+हर विवाद का हल हो सकता, स्यादवाद के द्वारा ॥`,
+      sa: "",
+      en: `Jinavaanee jaga maiyaa, janama dukha meta do |
+Janama dukha meta do, marana dukha meta do | |
+Bahuta dinon se bhataka rahaa hoon, gyaana binaa he maiyaa |
+Nirmala gyaana pradaana su kara do, too hee sachchee maiyaa | |
+Gunasthaanon kaa anubhava hamako, ho jaave jagamaiyyaa |
+Chadhain unheen para krama se phira, hama hoven karma khipaiyaa | |
+Meta hamaaraa janma marana dukha, itanee vinatee maiyaa |
+Tumako sheesha trilokee namaave, too hee sachchee maiyaa | |
+Vastu eka aneka roopa hai, anubhava sabakaa nyaaraa |
+Hara vivaada kaa hala ho sakataa, syaadavaada ke dvaaraa | |`,
+    },
+  },
+  {
+    id: "jinvani-ke-sune-so-mithyat-mite",
+    type: "bhajan",
+    title: {
+      gu: "જિનવાણી કે સુનૈ સો મિથ્યાત મિટૈ",
+      hi: "जिनवाणी के सुनै सो मिथ्यात मिटै",
+      sa: "",
+      en: "Jinavaanee ke Sunai So Mithyaata Mitai",
+    },
+    text: {
+      gu: `જિનવાણી કે સુનૈ સો મિથ્યાત મિટૈ
+મિથ્યાત મિટૈ, સમકિત પ્રગટૈ
+જૈસે પ્રાત હોત રવિ ઊગત, રૈન તિમિર સબ તુરત ફટૈ॥
+અનાદિકાલ કી ભૂલ મિટાવૈ, અપની નિધિ ઘટ ઘટ મૈં ઉઘટૈ
+ત્યાગ વિભાવ સુભાવ સુધારૈ, અનુભવ કરતાં કરમ કટૈ॥
+ઔર કામ તજિ સેવો વાકૌં, યા બિન નાહિં અજ્ઞાન ઘટૈ
+બુધજન યા ભવ પરભવ માંહિ, બાકી હુંડી તુરત પટૈં॥`,
+      hi: `जिनवाणी के सुनै सो मिथ्यात मिटै
+मिथ्यात मिटै, समकित प्रगटै
+जैसे प्रात होत रवि ऊगत, रैन तिमिर सब तुरत फ़टै॥
+अनादिकाल की भूल मिटावै, अपनी निधि घट घट मैं उघटै
+त्याग विभाव सुभाव सुधारै, अनुभव करतां करम कटै॥
+और काम तजि सेवो वाकौं, या बिन नाहिं अज्ञान घटै
+बुधजन या भव परभव मांहि, बाकी हुंडी तुरत पटैं॥`,
+      sa: "",
+      en: `Jinavaanee ke sunai so mithyaata mitai
+Mithyaata mitai, samakita pragatai
+Jaise praata hota ravi oogata, raina timira saba turata phatai | |
+Anaadikaala kee bhoola mitaavai, apanee nidhi ghata ghata main ughatai
+Tyaaga vibhaava subhaava sudhaarai, anubhava karataan karama katai | |
+Aura kaama taji sevo vaakaun, yaa bina naahin agyaana ghatai
+Budhajana yaa bhava parabhava maanhi, baakee hundee turata patain | |`,
+    },
+  },
+  {
+    id: "mujhe-hai-kaam-bhagwan-se-jagat-roothe-to-roothan-de",
+    type: "bhajan",
+    title: {
+      gu: "મુઝે હૈ કામ ભગવન સે, જગત રૂઠે તો રુઠન દે",
+      hi: "मुझे है काम भगवन से, जगत रूठे तो रुठन दे",
+      sa: "",
+      en: "Mujhe hai Kaama Bhagavana Se, Jagata Roothe To Ruthana De",
+    },
+    text: {
+      gu: `મુઝે હૈ કામ ભગવન સે, જગત રૂઠે તો રુઠન દે ॥
+બૈઠ સંગત મેં સંતન કી, કરૂ કલ્યાણ મૈં આપના
+લોગ દુનિયા કે ભોગોં મેં, મૌજ માને તો લૂટન દે ।મુઝે..।
+કુટુંબ પરિવાર સુત દારા, લાજ લોકન કી છૂટન દે
+પ્રભુ કા ભજન કરને મેં, અગર છૂટે તો છૂટન દે ।મુઝે..।
+ધરી સિર પાપ કી મટકી, મેરે ગુરુદેવ ને ઝટકી
+વો શ્રી વિદ્યાસાગર ને પટકી, અગર ફૂટે તો ફૂટન દે ।મુઝે..।
+સ્વયં કા ધ્યાન કરને કી, લગી દિલ મેં લગન મેરે
+પ્રીત સંસાર વિષયોં સે, અગર છૂટે તો છૂટન દે ।મુઝે..।`,
+      hi: `मुझे है काम भगवन से, जगत रूठे तो रुठन दे ॥
+बैठ संगत में संतन की, करू कल्याण मैं आपना
+लोग दुनिया के भोगों में, मौज माने तो लूटन दे ।मुझे..।
+कुटुंब परिवार सुत दारा, लाज लोकन की छूटन दे
+प्रभु का भजन करने में, अगर छूटे तो छूटन दे ।मुझे..।
+धरी सिर पाप की मटकी, मेरे गुरुदेव ने झटकी
+वो श्री विद्यासागर ने पटकी, अगर फूटे तो फूटन दे ।मुझे..।
+स्वयं का ध्यान करने की, लगी दिल में लगन मेरे
+प्रीत संसार विषयों से, अगर छूटे तो छूटन दे ।मुझे..।`,
+      sa: "",
+      en: `Mujhe hai kaama bhagavana se, jagata roothe to ruthana de | |
+Baitha sangata men santana kee, karoo kalyaana main aapanaa
+Loga duniyaa ke bhogon men, mauja maane to lootana de | mujhe.. |
+Kutunba parivaara suta daaraa, laaja lokana kee chhootana de
+Prabhu kaa bhajana karane men, agara chhoote to chhootana de | mujhe.. |
+Dharee sira paapa kee matakee, mere gurudeva ne jhatakee
+Vo shree vidyaasaagara ne patakee, agara phoote to phootana de | mujhe.. |
+Svayan kaa dhyaana karane kee, lagee dila men lagana mere
+Preeta sansaara vishayon se, agara chhoote to chhootana de | mujhe.. |`,
+    },
+  },
+  {
+    id: "jinji-ki-vani-bhali-re",
+    type: "bhajan",
+    title: {
+      gu: "જિનજી કી વાણી ભલી રે",
+      hi: "जिनजी की वाणी भली रे",
+      sa: "",
+      en: "Jinajee Kee Vaanee Bhalee re",
+    },
+    text: {
+      gu: `સીમંધર મુખ સે ફુલવા ખિરે, જાકી કુન્દકુન્દ ગૂંથેં માલ રે,
+જિનજી કી વાણી ભલી રે ॥
+વાણી પ્રભૂ મન લાગે ભલી, જિસમેં સાર સમય શિરતાજ રે,
+જિનજી કી વાણી ભલી રે ।૧।
+ગૂંથા પાહુડ અરુ ગૂંથા પંચાસ્તિ, ગૂંથા જો પ્રવચનસાર રે,
+જિનજી કી વાણી ભલી રે ।૨।
+ગૂંથા નિયમસાર, ગૂંથા રયણસાર, ગૂંથા સમય કા સાર રે,
+જિનજી કી વાણી ભલી રે ।૩।
+સ્યાદ્વાદરૂપી સુગન્ધી ભરા જો, જિનજી કા ઓંકારનાદ રે,
+જિનજી કી વાણી ભલી રે ।૪।
+વન્દૂ જિનેશ્‍વર, વન્દૂ મૈં કુન્દકુન્દ, વન્દૂ યહ ઓંકાર નાદ રે,
+જિનજી કી વાણી ભલી રે ।૫।
+હૃદય રહો, મેરે ભાવે રહો, મેરે ધ્યાન રહો જિનબૈન રે,
+જિનજી કી વાણી ભલી રે ।૬।
+જિનેશ્‍વર દેવ કી વાણી કી ગૂંજ, મેરે ગૂંજતી રહો દિન રાત રે,
+જિનજી કી વાણી ભલી રે ।૭।`,
+      hi: `सीमंधर मुख से फ़ुलवा खिरे, जाकी कुन्दकुन्द गूंथें माल रे,
+जिनजी की वाणी भली रे ॥
+वाणी प्रभू मन लागे भली, जिसमें सार समय शिरताज रे,
+जिनजी की वाणी भली रे ।१।
+गूंथा पाहुड अरु गूंथा पंचास्ति, गूंथा जो प्रवचनसार रे,
+जिनजी की वाणी भली रे ।२।
+गूंथा नियमसार, गूंथा रयणसार, गूंथा समय का सार रे,
+जिनजी की वाणी भली रे ।३।
+स्याद्वादरूपी सुगन्धी भरा जो, जिनजी का ओंकारनाद रे,
+जिनजी की वाणी भली रे ।४।
+वन्दू जिनेश्‍वर, वन्दू मैं कुन्दकुन्द, वन्दू यह ओंकार नाद रे,
+जिनजी की वाणी भली रे ।५।
+हृदय रहो, मेरे भावे रहो, मेरे ध्यान रहो जिनबैन रे,
+जिनजी की वाणी भली रे ।६।
+जिनेश्‍वर देव की वाणी की गूंज, मेरे गूंजती रहो दिन रात रे,
+जिनजी की वाणी भली रे ।७।`,
+      sa: "",
+      en: `Seemandhara mukha se phulavaa khire, jaakee kundakunda goonthen maala re,
+Jinajee kee vaanee bhalee re | |
+Vaanee prabhoo mana laage bhalee, jisamen saara samaya shirataaja re,
+Jinajee kee vaanee bhalee re | 1 |
+Goonthaa paahuda aru goonthaa panchaasti, goonthaa jo pravachanasaara re,
+Jinajee kee vaanee bhalee re | 2 |
+Goonthaa niyamasaara, goonthaa rayanasaara, goonthaa samaya kaa saara re,
+Jinajee kee vaanee bhalee re | 3 |
+Syaadvaadaroopee sugandhee bharaa jo, jinajee kaa onkaaranaada re,
+Jinajee kee vaanee bhalee re | 4 |
+Vandoo jinesh‍vara, vandoo main kundakunda, vandoo yaha onkaara naada re,
+Jinajee kee vaanee bhalee re | 5 |
+Hridaya raho, mere bhaave raho, mere dhyaana raho jinabaina re,
+Jinajee kee vaanee bhalee re | 6 |
+Jinesh‍vara deva kee vaanee kee goonja, mere goonjatee raho dina raata re,
+Jinajee kee vaanee bhalee re | 7 |`,
+    },
+  },
+  {
+    id: "jhanda-shri-mahaveer-ka",
+    type: "bhajan",
+    title: {
+      gu: "ઝંડા શ્રી મહાવીર કા",
+      hi: "झंडा श्री महावीर का",
+      sa: "",
+      en: "Jhandaa Shree Mahaaveera Kaa",
+    },
+    text: {
+      gu: `લહરાયેગા-લહરાયેગા ઝંડા શ્રી મહાવીર કા
+ફહરાયેગા-ફહરાયેગા ઝંડા શ્રી મહાવીર કા ॥
+અખિલ વિશ્વ કા જો હૈ પ્યારા,
+જૈન જાતિ કા ચમકિત તારા,
+હમ યુવકોં કા પૂર્ણ સહારા, ઝંડા શ્રી મહાવીર કા ॥
+સત્ય અહિંસા કા હૈ નાયક,
+શાંતિ સુધારસ કા હૈ દાયક,
+દીનજનોં કા સદા સહાયક, ઝંડા શ્રી મહાવીર કા ॥
+સામ્યભાવ દર્શાને વાલા,
+પ્રેમક્ષીર બરસાને વાલા,
+જીવમાત્ર હર્ષાને વાલા, ઝંડા શ્રી મહાવીર કા ॥
+ભારત કા ’સૌભાગ્ય’ બઢાતા,
+સ્વાવલંબ કા પાઠ પઢાતા,
+વન્દે વીરમ્ નાદ ગુંજાતા, ઝંડા શ્રી મહાવીર કા ॥`,
+      hi: `लहरायेगा-लहरायेगा झंडा श्री महावीर का
+फहरायेगा-फहरायेगा झंडा श्री महावीर का ॥
+अखिल विश्व का जो है प्यारा,
+जैन जाति का चमकित तारा,
+हम युवकों का पूर्ण सहारा, झंडा श्री महावीर का ॥
+सत्य अहिंसा का है नायक,
+शांति सुधारस का है दायक,
+दीनजनों का सदा सहायक, झंडा श्री महावीर का ॥
+साम्यभाव दर्शाने वाला,
+प्रेमक्षीर बरसाने वाला,
+जीवमात्र हर्षाने वाला, झंडा श्री महावीर का ॥
+भारत का ’सौभाग्य’ बढ़ाता,
+स्वावलंब का पाठ पढ़ाता,
+वन्दे वीरम् नाद गुंजाता, झंडा श्री महावीर का ॥`,
+      sa: "",
+      en: `Laharaayegaa-laharaayegaa jhandaa shree mahaaveera kaa
+Phaharaayegaa-phaharaayegaa jhandaa shree mahaaveera kaa | |
+Akhila vishva kaa jo hai pyaaraa,
+Jaina jaati kaa chamakita taaraa,
+Hama yuvakon kaa poorna sahaaraa, jhandaa shree mahaaveera kaa | |
+Satya ahinsaa kaa hai naayaka,
+Shaanti sudhaarasa kaa hai daayaka,
+Deenajanon kaa sadaa sahaayaka, jhandaa shree mahaaveera kaa | |
+Saamyabhaava darshaane vaalaa,
+Premaksheera barasaane vaalaa,
+Jeevamaatra harshaane vaalaa, jhandaa shree mahaaveera kaa | |
+Bhaarata kaa ’saubhaagya’ badhaataa,
+Svaavalanba kaa paatha padhaataa,
+Vande veeram naada gunjaataa, jhandaa shree mahaaveera kaa | |`,
+    },
+  },
+  {
+    id: "mahari-ma-jinvani-thari-ho-jayjaykar",
+    type: "bhajan",
+    title: {
+      gu: "મ્હારી માઁ જિનવાણી થારી હો જયજયકાર",
+      hi: "म्हारी माँ जिनवाणी थारी हो जयजयकार",
+      sa: "",
+      en: "Mhaaree Maan Jinavaanee Thaaree ho Jayajayakaara",
+    },
+    text: {
+      gu: `મ્હારી માઁ જિનવાણી થારી હો જયજયકાર ॥
+ચરણાં મેં રાખી લીજો, ભવ સે અબ તારી લીજો
+કર દીજ્યો ઇતનો ઉપકાર ॥ મ્હારી માઁ॥
+કુંદકુંદ સા થારા બેટા, દુખડા સબ જગ કા મેટા
+કર દીજ્યો ઇતનો ઉપકાર ॥ મ્હારી માઁ॥
+જિનવાણી સુન હરષાયે, નિશ્‍ચિત હી ભવ્ય કહાવે
+હો જાવે ભવ સે પાર ॥ મ્હારી માઁ॥
+તત્ત્વોં કા સાર બતાવે, જ્ઞાયક સે ભેંટ કરાવે
+કિયો અનંત ઉપકાર ॥ મ્હારી માઁ॥`,
+      hi: `म्हारी माँ जिनवाणी थारी हो जयजयकार ॥
+चरणां में राखी लीजो, भव से अब तारी लीजो
+कर दीज्यो इतनो उपकार ॥ म्हारी माँ॥
+कुंदकुंद सा थारा बेटा, दुखडा सब जग का मेटा
+कर दीज्यो इतनो उपकार ॥ म्हारी माँ॥
+जिनवाणी सुन हरषाये, निश्‍चित ही भव्य कहावे
+हो जावे भव से पार ॥ म्हारी माँ॥
+तत्त्वों का सार बतावे, ज्ञायक से भेंट करावे
+कियो अनंत उपकार ॥ म्हारी माँ॥`,
+      sa: "",
+      en: `Mhaaree maan jinavaanee thaaree ho jayajayakaara | |
+Charanaan men raakhee leejo, bhava se aba taaree leejo
+Kara deejyo itano upakaara | | mhaaree maan | |
+Kundakunda saa thaaraa betaa, dukhadaa saba jaga kaa metaa
+Kara deejyo itano upakaara | | mhaaree maan | |
+Jinavaanee suna harashaaye, nish‍chita hee bhavya kahaave
+Ho jaave bhava se paara | | mhaaree maan | |
+Tattvon kaa saara bataave, gyaayaka se bhenta karaave
+Kiyo ananta upakaara | | mhaaree maan | |`,
+    },
+  },
+  {
+    id: "kesariya-jhanda-jinmat-ka",
+    type: "bhajan",
+    title: {
+      gu: "કેસરિયા ઝંડા જિનમત કા",
+      hi: "केसरिया झंडा जिनमत का",
+      sa: "",
+      en: "Kesariyaa Jhandaa Jinamata Kaa",
+    },
+    text: {
+      gu: `લહર લહર લહરાયે, કેસરિયા ઝંડા જિનમત કા...હો જી
+સબકા મન હરષાયે, કેસરિયા ઝંડા જિનમત કા...હો જી
+ફર ફર ફર ફર કરતા ઝંડા, ગગન શિખા પે ડોલે,
+સ્વાસ્તિક કા યહ ચિન્હ અનૂઠા, ભેદ હૃદય કે ખોલે,
+યહ જ્ઞાન કી જ્યોતિ જગાયે,
+કેસરિયા ઝંડા જિનમત કા… હો જી ॥
+ઇસકી શીતલ છાયા મેં સબ, પઢે રતન જિનવાણી,
+સત્ય અહિંસા પ્રેમ યુક્ત સબ, બને તત્વ શ્રદ્ધાની,
+યહ સત પથ પર પહુંચાયે,
+કેસરિયા ઝંડા જિનમત કા...હો જી ॥`,
+      hi: `लहर लहर लहराये, केसरिया झंडा जिनमत का...हो जी
+सबका मन हरषाये, केसरिया झंडा जिनमत का...हो जी
+फ़र फ़र फ़र फ़र करता झंडा, गगन शिखा पे डोले,
+स्वास्तिक का यह चिन्ह अनूठा, भेद हृदय के खोले,
+यह ज्ञान की ज्योति जगाये,
+केसरिया झंडा जिनमत का… हो जी ॥
+इसकी शीतल छाया में सब, पढे रतन जिनवाणी,
+सत्य अहिंसा प्रेम युक्त सब, बने तत्व श्रद्धानी,
+यह सत पथ पर पहुंचाये,
+केसरिया झंडा जिनमत का...हो जी ॥`,
+      sa: "",
+      en: `Lahara lahara laharaaye, kesariyaa jhandaa jinamata kaa...ho jee
+Sabakaa mana harashaaye, kesariyaa jhandaa jinamata kaa...ho jee
+Phara phara phara phara karataa jhandaa, gagana shikhaa pe dole,
+Svaastika kaa yaha chinha anoothaa, bheda hridaya ke khole,
+Yaha gyaana kee jyoti jagaaye,
+Kesariyaa jhandaa jinamata kaa… ho jee | |
+Isakee sheetala chhaayaa men saba, padhe ratana jinavaanee,
+Satya ahinsaa prema yukta saba, bane tatva shraddhaanee,
+Yaha sata patha para pahunchaaye,
+Kesariyaa jhandaa jinamata kaa...ho jee | |`,
+    },
+  },
+  {
+    id: "mata-tu-daya-karke",
+    type: "bhajan",
+    title: {
+      gu: "માતા તૂ દયા કરકે",
+      hi: "माता तू दया करके",
+      sa: "",
+      en: "Maataa Too Dayaa Karake",
+    },
+    text: {
+      gu: `માતા તૂ દયા કરકે, કર્મોં સે છુડા દેના,
+ઇતની સી વિનય તુમસે, ચરણોં મેં જગહ દેના ॥
+માતા મૈં ભટકા હૂં, માયા કે અંધેરે મેં
+કોઈ નહીં મેરા હૈ, ઇસ કર્મોં કે રેલે મેં
+કોઈ નહીં મેરા હૈ તુમ ધીર બંધા દેના ॥ માતા...॥
+જીવન કે ચૌરાહે પર મૈં સોચ રહા કબ સે
+જાઊં તો કિધર જાઊં, યહ પૂછ રહા મન સે
+પથ ભૂલ ગયા હૂં મૈં, તુમ રાહ દિખા દેના ॥ માતા...॥
+લાખોં કો ઉબારા હૈ, મુઝકો ભી ઉબારો તુમ
+મંઝધાર મેં નૈયા હૈ, ઉસકો ભી તિરા દો તુમ
+મંઝધાર મેં અટકા હૂં, ઉસ પાર લગા દેના ॥ માતા...॥`,
+      hi: `माता तू दया करके, कर्मों से छुडा देना,
+इतनी सी विनय तुमसे, चरणों में जगह देना ॥
+माता मैं भटका हूं, माया के अंधेरे में
+कोई नहीं मेरा है, इस कर्मों के रेले में
+कोई नहीं मेरा है तुम धीर बंधा देना ॥ माता...॥
+जीवन के चौराहे पर मैं सोच रहा कब से
+जाऊं तो किधर जाऊं, यह पूछ रहा मन से
+पथ भूल गया हूं मैं, तुम राह दिखा देना ॥ माता...॥
+लाखों को उबारा है, मुझको भी उबारो तुम
+मंझधार में नैया है, उसको भी तिरा दो तुम
+मंझधार में अटका हूं, उस पार लगा देना ॥ माता...॥`,
+      sa: "",
+      en: `Maataa too dayaa karake, karmon se chhudaa denaa,
+Itanee see vinaya tumase, charanon men jagaha denaa | |
+Maataa main bhatakaa hoon, maayaa ke andhere men
+Koee naheen meraa hai, isa karmon ke rele men
+Koee naheen meraa hai tuma dheera bandhaa denaa | | maataa... | |
+Jeevana ke chauraahe para main socha rahaa kaba se
+Jaaoon to kidhara jaaoon, yaha poochha rahaa mana se
+Patha bhoola gayaa hoon main, tuma raaha dikhaa denaa | | maataa... | |
+Laakhon ko ubaaraa hai, mujhako bhee ubaaro tuma
+Manjhadhaara men naiyaa hai, usako bhee tiraa do tuma
+Manjhadhaara men atakaa hoon, usa paara lagaa denaa | | maataa... | |`,
+    },
+  },
+  {
+    id: "shrijindharm-sada-jaywant",
+    type: "bhajan",
+    title: {
+      gu: "શ્રીજિનધર્મ સદા જયવન્ત",
+      hi: "श्रीजिनधर्म सदा जयवन्त",
+      sa: "",
+      en: "Shreejinadharma Sadaa Jayavanta",
+    },
+    text: {
+      gu: `શ્રીજિનધર્મ સદા જયવન્ત ......
+તીન લોક તિહુઁ કાલનિમાહીં,જાકો નાહીં આદિ ન અન્ત ॥શ્રી.॥
+સુગુન છિયાલિસ દોષ નિવારૈં, તારન તરન દેવ અરહંત,
+ગુરુ નિરગ્રંથ ધરમ કરુનામય,ઉપજૈં ત્રેસઠ પુરુષ મહંત ।શ્રી.।
+રતનત્રય દશલચ્છન સોલહ-કારન સાધ શ્રાવક સન્ત,
+છહૌં દરબ નવ તત્ત્વ સરધકૈ, સુરગ મુકતિ કે સુખ વિલસન્ત
+નરક નિગોદ ભ્રમ્યો બહુ પ્રાની, જાન્યો નાહિં ધરમ-વિરતંત,
+’દ્યાનત’ ભેદજ્ઞાન સરધાતૈં, પાયો દરવ અનાદિ અનન્ત ।શ્રી.।`,
+      hi: `श्रीजिनधर्म सदा जयवन्त ......
+तीन लोक तिहुँ कालनिमाहीं,जाको नाहीं आदि न अन्त ॥श्री.॥
+सुगुन छियालिस दोष निवारैं, तारन तरन देव अरहंत,
+गुरु निरग्रंथ धरम करुनामय,उपजैं त्रेसठ पुरुष महंत ।श्री.।
+रतनत्रय दशलच्छन सोलह-कारन साध श्रावक सन्त,
+छहौं दरब नव तत्त्व सरधकै, सुरग मुकति के सुख विलसन्त
+नरक निगोद भ्रम्यो बहु प्रानी, जान्यो नाहिं धरम-विरतंत,
+’द्यानत’ भेदज्ञान सरधातैं, पायो दरव अनादि अनन्त ।श्री.।`,
+      sa: "",
+      en: `Shreejinadharma sadaa jayavanta ......
+Teena loka tihun kaalanimaaheen,jaako naaheen aadi na anta | | shree. | |
+Suguna chhiyaalisa dosha nivaarain, taarana tarana deva arahanta,
+Guru niragrantha dharama karunaamaya,upajain tresatha purusha mahanta | shree. |
+Ratanatraya dashalachchhana solaha-kaarana saadha shraavaka santa,
+Chhahaun daraba nava tattva saradhakai, suraga mukati ke sukha vilasanta
+Naraka nigoda bhramyo bahu praanee, jaanyo naahin dharama-viratanta,
+’dyaanata’ bhedagyaana saradhaatain, paayo darava anaadi ananta | shree. |`,
+    },
+  },
+  {
+    id: "hum-us-dharm-ke-paalak-hai",
+    type: "bhajan",
+    title: {
+      gu: "હમ ઉસ ધર્મ કે પાલક હૈં",
+      hi: "हम उस धर्म के पालक हैं",
+      sa: "",
+      en: "Hama Usa Dharma ke Paalaka Hain",
+    },
+    text: {
+      gu: `ભાવોં મેં સરલતા રહતી હૈ, જહાઁ પ્રેમ કી સરિતા બહતી હૈ
+હમ ઉસ ધર્મ કે પાલક હૈં, જહાઁ સત્ય અહિંસા રહતી હૈ ॥
+જો રાગ મેં મૂઁછે તનતે હૈં, જડ ભોગોં મેં રીઝ મચલતે હૈં
+વે ભૂલતે હૈં નિજ કો ભાઈ, જો પાપ કે સાંચે ઢલતે હૈં
+પુચકાર ઉન્હેં માઁ જિનવાણી, જહાઁ જ્ઞાન કથાયેં કહતી હૈં ॥
+હમ ઉસ. ॥૧॥
+જો પર કે પ્રાણ દુખાતે હૈં, વહ આપ સતાયે જાતે હૈં ।
+અધિકારી વે હૈં શિવ સુખ કે,જો આતમ ધ્યાન લગાતે હૈં।।
+\`સૌભાગ્ય' સફલ કર નર જીવન, યહ આયુ ઢલતી રહતી હૈ ।।
+હમ ઉસ. ॥૧॥`,
+      hi: `भावों में सरलता रहती है, जहाँ प्रेम की सरिता बहती है
+हम उस धर्म के पालक हैं, जहाँ सत्य अहिंसा रहती है ॥
+जो राग में मूँछे तनते हैं, जड़ भोगों में रीझ मचलते हैं
+वे भूलते हैं निज को भाई, जो पाप के सांचे ढलते हैं
+पुचकार उन्हें माँ जिनवाणी, जहाँ ज्ञान कथायें कहती हैं ॥
+हम उस. ॥१॥
+जो पर के प्राण दुखाते हैं, वह आप सताये जाते हैं ।
+अधिकारी वे हैं शिव सुख के,जो आतम ध्यान लगाते हैं।।
+\`सौभाग्य' सफल कर नर जीवन, यह आयु ढलती रहती है ।।
+हम उस. ॥१॥`,
+      sa: "",
+      en: `Bhaavon men saralataa rahatee hai, jahaan prema kee saritaa bahatee hai
+Hama usa dharma ke paalaka hain, jahaan satya ahinsaa rahatee hai | |
+Jo raaga men moonchhe tanate hain, jada bhogon men reejha machalate hain
+Ve bhoolate hain nija ko bhaaee, jo paapa ke saanche dhalate hain
+Puchakaara unhen maan jinavaanee, jahaan gyaana kathaayen kahatee hain | |
+Hama usa. | | 1 | |
+Jo para ke praana dukhaate hain, vaha aapa sataaye jaate hain |
+Adhikaaree ve hain shiva sukha ke,jo aatama dhyaana lagaate hain | |
+\`saubhaagya' saphala kara nara jeevana, yaha aayu dhalatee rahatee hai | |
+Hama usa. | | 1 | |`,
+    },
+  },
+  {
+    id: "wo-jaindharm-hai-mera",
+    type: "bhajan",
+    title: {
+      gu: "વો જૈનધર્મ હૈ મેરા",
+      hi: "वो जैनधर्म है मेरा",
+      sa: "",
+      en: "Vo Jainadharma hai Meraa",
+    },
+    text: {
+      gu: `જહાઁ રાગદ્વેષ સે રહિત નિરાકુલ, આતમ સુખ કા ડેરા
+વો વિશ્વ ધર્મ હૈ મેરા, વો જૈન ધર્મ હૈ મેરા
+જહાઁ પદ-પદ પર હૈ પરમ અહિંસા કરતી ક્ષમા બસેરા
+વો વિશ્વ ધર્મ હૈ મેરા, વો જૈનધર્મ હૈ મેરા ॥ટેર॥
+જહાઁ ગૂંજા કરતે, સત સંયમ કે ગીત સુહાને પાવન
+જહાઁ જ્ઞાન સુધા કી બહતી નિશિદિન ધારા પાપ નશાવન
+જહાઁ કામ ક્રોધ, મમતા, માયા કા કહીં નહીં હૈ ઘેરા ॥૧॥
+જહાઁ સમતા સમદૃષ્ટિ પ્યારી, સદ્ભાવ શાંતિ કે ભારી
+જહાઁ સકલ પરિગ્રહ ભાર શૂન્ય હૈ, મન અદોષ અવિકારી
+જહાઁ જ્ઞાનાનંત દરશ સુખ બલ કા, રહતા સદા સવેરા ॥૨॥
+જહાઁ વીતરાગ વિજ્ઞાન કલા, નિજ પર કા બોધ કરાયે
+જો જન્મ મરણ સે રહિત, નિરાપદ મોક્ષ મહલ પધરાયે
+વહ જગતપૂજ્ય “સૌભાગ્ય'' પરમપદ, હો આલોકિત મેરા ॥૩॥`,
+      hi: `जहाँ रागद्वेष से रहित निराकुल, आतम सुख का डेरा
+वो विश्व धर्म है मेरा, वो जैन धर्म है मेरा
+जहाँ पद-पद पर है परम अहिंसा करती क्षमा बसेरा
+वो विश्व धर्म है मेरा, वो जैनधर्म है मेरा ॥टेर॥
+जहाँ गूंजा करते, सत संयम के गीत सुहाने पावन
+जहाँ ज्ञान सुधा की बहती निशिदिन धारा पाप नशावन
+जहाँ काम क्रोध, ममता, माया का कहीं नहीं है घेरा ॥१॥
+जहाँ समता समदृष्टि प्यारी, सद्भाव शांति के भारी
+जहाँ सकल परिग्रह भार शून्य है, मन अदोष अविकारी
+जहाँ ज्ञानानंत दरश सुख बल का, रहता सदा सवेरा ॥२॥
+जहाँ वीतराग विज्ञान कला, निज पर का बोध कराये
+जो जन्म मरण से रहित, निरापद मोक्ष महल पधराये
+वह जगतपूज्य “सौभाग्य'' परमपद, हो आलोकित मेरा ॥३॥`,
+      sa: "",
+      en: `Jahaan raagadvesha se rahita niraakula, aatama sukha kaa deraa
+Vo vishva dharma hai meraa, vo jaina dharma hai meraa
+Jahaan pada-pada para hai parama ahinsaa karatee kshamaa baseraa
+Vo vishva dharma hai meraa, vo jainadharma hai meraa | | tera | |
+Jahaan goonjaa karate, sata sanyama ke geeta suhaane paavana
+Jahaan gyaana sudhaa kee bahatee nishidina dhaaraa paapa nashaavana
+Jahaan kaama krodha, mamataa, maayaa kaa kaheen naheen hai gheraa | | 1 | |
+Jahaan samataa samadrishti pyaaree, sadbhaava shaanti ke bhaaree
+Jahaan sakala parigraha bhaara shoonya hai, mana adosha avikaaree
+Jahaan gyaanaananta darasha sukha bala kaa, rahataa sadaa saveraa | | 2 | |
+Jahaan veetaraaga vigyaana kalaa, nija para kaa bodha karaaye
+Jo janma marana se rahita, niraapada moksha mahala padharaaye
+Vaha jagatapoojya “saubhaagya'' paramapada, ho aalokita meraa | | 3 | |`,
+    },
+  },
+  {
+    id: "karta-hun-main-abhinandan",
+    type: "bhajan",
+    title: {
+      gu: "કરતા હૂં મૈં અભિનન્દન",
+      hi: "करता हूं मैं अभिनन्दन",
+      sa: "",
+      en: "Karataa Hoon Main Abhinandana",
+    },
+    text: {
+      gu: `કરતા હૂં મૈં અભિનન્દન, સ્વીકાર કરો માઁ,
+શરણાગત અપને બાલક કા, ઉદ્ધાર કરો માઁ ।
+હે માઁ જિનવાણી, હે માઁ જિનવાણી॥
+મિથ્યાત્વ વશ રુલ રહા હૂં માઁ, અશરણ સંસાર મેં,
+પુણ્યોદય સે આ ગયા હૂં માઁ, તેરે દરબાર મેં ।
+સમ્યક હો મેરી બુદ્ધિ, ઉપકાર કરો માઁ ॥ શરણાગત...॥
+ઇસ પંચમ કાલ મેં તીર્થંકર, દર્શન હૈં નહીં,
+સચ્ચે જ્ઞાની ગુરુ દુર્લભ, મિલતે કભી નહીં ।
+અતએવ મુઝ નિરાધાર કી, આધાર તુમ્હીં માઁ ॥ શરણાગત...॥
+જીવાદિ સાત તત્વોં કા માઁ, મર્મ બતાયા,
+સ્યાદ્વાદ અનેકાંત લે, નિજરૂપ જતાયા ।
+નિજરૂપ કો લખકર માઁ નિજ મેં લીન રહૂં માઁ ॥ શરણાગત..॥
+ભોગોં સે ઉદાસીન નિજ પર કી ધારૂં કરુણા,
+સમ્યક શ્રદ્ધા પૂર્વક કષાય પરિહરના ।
+રત્નત્રય પથ પર ચલકર શિવનારી વરૂં માઁ ॥ શરણાગત...॥`,
+      hi: `करता हूं मैं अभिनन्दन, स्वीकार करो माँ,
+शरणागत अपने बालक का, उद्धार करो माँ ।
+हे माँ जिनवाणी, हे माँ जिनवाणी॥
+मिथ्यात्व वश रुल रहा हूं माँ, अशरण संसार में,
+पुण्योदय से आ गया हूं माँ, तेरे दरबार में ।
+सम्यक हो मेरी बुद्धि, उपकार करो माँ ॥ शरणागत...॥
+इस पंचम काल में तीर्थंकर, दर्शन हैं नहीं,
+सच्चे ज्ञानी गुरु दुर्लभ, मिलते कभी नहीं ।
+अतएव मुझ निराधार की, आधार तुम्हीं माँ ॥ शरणागत...॥
+जीवादि सात तत्वों का माँ, मर्म बताया,
+स्याद्वाद अनेकांत ले, निजरूप जताया ।
+निजरूप को लखकर माँ निज में लीन रहूं माँ ॥ शरणागत..॥
+भोगों से उदासीन निज पर की धारूं करुणा,
+सम्यक श्रद्धा पूर्वक कषाय परिहरना ।
+रत्नत्रय पथ पर चलकर शिवनारी वरूं माँ ॥ शरणागत...॥`,
+      sa: "",
+      en: `Karataa hoon main abhinandana, sveekaara karo maan,
+Sharanaagata apane baalaka kaa, uddhaara karo maan |
+He maan jinavaanee, he maan jinavaanee | |
+Mithyaatva vasha rula rahaa hoon maan, asharana sansaara men,
+Punyodaya se aa gayaa hoon maan, tere darabaara men |
+Samyaka ho meree buddhi, upakaara karo maan | | sharanaagata... | |
+Isa panchama kaala men teerthankara, darshana hain naheen,
+Sachche gyaanee guru durlabha, milate kabhee naheen |
+Ataeva mujha niraadhaara kee, aadhaara tumheen maan | | sharanaagata... | |
+Jeevaadi saata tatvon kaa maan, marma bataayaa,
+Syaadvaada anekaanta le, nijaroopa jataayaa |
+Nijaroopa ko lakhakara maan nija men leena rahoon maan | | sharanaagata.. | |
+Bhogon se udaaseena nija para kee dhaaroon karunaa,
+Samyaka shraddhaa poorvaka kashaaya pariharanaa |
+Ratnatraya patha para chalakara shivanaaree varoon maan | | sharanaagata... | |`,
+    },
+  },
+  {
+    id: "hai-sharde-ma",
+    type: "bhajan",
+    title: {
+      gu: "હે શારદે માઁ, હે શારદે માઁ",
+      hi: "हे शारदे माँ, हे शारदे माँ",
+      sa: "",
+      en: "He Shaarade Maan, He Shaarade Maan",
+    },
+    text: {
+      gu: `હે શારદે માઁ, હે શારદે માઁ,
+અજ્ઞાનતા સે હમેં તાર દે માઁ ॥
+મુનિયોં ને સમઝી, ગુણિયોં ને જાની,
+શાસ્ત્રોં કી ભાષા, આગમ કી વાણી,
+હમ ભી તો જાનેં, હમ ભી તો સમઝેં,
+વિદ્યા કા ફલ તો હમેં માઁ તૂ દેના ॥
+તૂ જ્ઞાનદાયી હમેં જ્ઞાન દે દે,
+રત્નત્રયોં કા હમેં દાન દે દે,
+મન સે હમારે મિટા દે અંધેરા,
+હમકો ઉજાલોં કા શિવદ્વાર દે માઁ ॥
+તૂ મોક્ષ દાયી યે સંગીત તુઝપે,
+હર શબ્દ તેરા હૈ હર ભાવ તુઝમેં,
+હમ હૈં અકેલે હમ હૈં અધૂરે,
+તેરી શરણ માઁ હમેં તાર દેના ॥`,
+      hi: `हे शारदे माँ, हे शारदे माँ,
+अज्ञानता से हमें तार दे माँ ॥
+मुनियों ने समझी, गुणियों ने जानी,
+शास्त्रों की भाषा, आगम की वाणी,
+हम भी तो जानें, हम भी तो समझें,
+विद्या का फ़ल तो हमें माँ तू देना ॥
+तू ज्ञानदायी हमें ज्ञान दे दे,
+रत्नत्रयों का हमें दान दे दे,
+मन से हमारे मिटा दे अंधेरा,
+हमको उजालों का शिवद्वार दे माँ ॥
+तू मोक्ष दायी ये संगीत तुझपे,
+हर शब्द तेरा है हर भाव तुझमें,
+हम हैं अकेले हम हैं अधूरे,
+तेरी शरण माँ हमें तार देना ॥`,
+      sa: "",
+      en: `He shaarade maan, he shaarade maan,
+Agyaanataa se hamen taara de maan | |
+Muniyon ne samajhee, guniyon ne jaanee,
+Shaastron kee bhaashaa, aagama kee vaanee,
+Hama bhee to jaanen, hama bhee to samajhen,
+Vidyaa kaa phala to hamen maan too denaa | |
+Too gyaanadaayee hamen gyaana de de,
+Ratnatrayon kaa hamen daana de de,
+Mana se hamaare mitaa de andheraa,
+Hamako ujaalon kaa shivadvaara de maan | |
+Too moksha daayee ye sangeeta tujhape,
+Hara shabda teraa hai hara bhaava tujhamen,
+Hama hain akele hama hain adhoore,
+Teree sharana maan hamen taara denaa | |`,
+    },
+  },
+  {
+    id: "aese-munivar-dekhe-van-main",
+    type: "bhajan",
+    title: {
+      gu: "ઐસે મુનિવર દેખેં વન મેં",
+      hi: "ऐसे मुनिवर देखें वन में",
+      sa: "",
+      en: "Aise Munivara Dekhen Vana Men",
+    },
+    text: {
+      gu: `ઐસે મુનિવર દેખેં વન મેં,
+જાકે રાગ દોષ નહિં મન મેં ॥ટેક॥
+ગ્રીષ્મ ઋતુશિખર કે ઊપર,
+[વો તો] મગન રહે ધ્યાનન મેં ।૧।
+ચાતુર્માસ તરૂ તલ ઠાડે,
+[વો તો] બૂન્દ સહે છિન-૨ મેં ।૨।
+શીત માસ દરિયા કે કિનારે,
+[વો તો] ધીરજ ધારે તન મેં ।૩।
+ઐસે ગુરૂ કો નિતપ્રતિ સેઊં,
+[હમ તો] દેત ઢોક ચરણન મેં ।૪।`,
+      hi: `ऐसे मुनिवर देखें वन में,
+जाके राग दोष नहिं मन में ॥टेक॥
+ग्रीष्म ऋतुशिखर के ऊपर,
+[वो तो] मगन रहे ध्यानन में ।१।
+चातुर्मास तरू तल ठाड़े,
+[वो तो] बून्द सहे छिन-२ में ।२।
+शीत मास दरिया के किनारे,
+[वो तो] धीरज धारे तन में ।३।
+ऐसे गुरू को नितप्रति सेऊं,
+[हम तो] देत ढोक चरणन में ।४।`,
+      sa: "",
+      en: `Aise munivara dekhen vana men,
+Jaake raaga dosha nahin mana men | | teka | |
+Greeshma ritushikhara ke oopara,
+[vo to] magana rahe dhyaanana men | 1 |
+Chaaturmaasa taroo tala thaade,
+[vo to] boonda sahe chhina-2 men | 2 |
+Sheeta maasa dariyaa ke kinaare,
+[vo to] dheeraja dhaare tana men | 3 |
+Aise guroo ko nitaprati seoon,
+[hama to] deta dhoka charanana men | 4 |`,
+    },
+  },
+  {
+    id: "aaja-apne-dharm-ki-too-raah-me",
+    type: "bhajan",
+    title: {
+      gu: "આજા અપને ધર્મ કી તૂ રાહ મેં",
+      hi: "आजा अपने धर्म की तू राह में",
+      sa: "",
+      en: "Aajaa Apane Dharma Kee Too Raaha Men",
+    },
+    text: {
+      gu: `આજા અપને ધર્મ કી તૂ રાહ મેં, વો હી કરે ભવ પાર રે...
+ઢેરોં જનમ તૂને ભોગોં મેં ખોયે..તૂને ભોગોં મેં ખોયે
+ફિર ભી હવસ તેરી પૂરી ન હોયે..તેરી પૂરી ન હોયે
+તજ દે તૂ ઇનકી યાદ હો આજા અપને ધરમ...
+તેરા જગ મેં સાથી યહી યે એક ધરમ હૈ
+આશા જિસકી તૂ કરતા વો એક ભરમ હૈ
+ઝૂઠા હૈ જગ સંસાર હો આજા અપને ધરમ...
+સુખ હોતા જગ મેં ના તજતે ફિર તીર્થંકર
+તજ ધન માલિક ના રચતે ભેષ દિગમ્બર
+જગ મેં નહીં કુછ સાર હો આજા અપને ધરમ...`,
+      hi: `आजा अपने धर्म की तू राह में, वो ही करे भव पार रे...
+ढेरों जनम तूने भोगों में खोये..तूने भोगों में खोये
+फ़िर भी हवस तेरी पूरी न होये..तेरी पूरी न होये
+तज दे तू इनकी याद हो आजा अपने धरम...
+तेरा जग में साथी यही ये एक धरम है
+आशा जिसकी तू करता वो एक भरम है
+झूठा है जग संसार हो आजा अपने धरम...
+सुख होता जग में ना तजते फ़िर तीर्थंकर
+तज धन मालिक ना रचते भेष दिगम्बर
+जग में नहीं कुछ सार हो आजा अपने धरम...`,
+      sa: "",
+      en: `Aajaa apane dharma kee too raaha men, vo hee kare bhava paara re...
+Dheron janama toone bhogon men khoye..toone bhogon men khoye
+Phira bhee havasa teree pooree na hoye..teree pooree na hoye
+Taja de too inakee yaada ho aajaa apane dharama...
+Teraa jaga men saathee yahee ye eka dharama hai
+Aashaa jisakee too karataa vo eka bharama hai
+Jhoothaa hai jaga sansaara ho aajaa apane dharama...
+Sukha hotaa jaga men naa tajate phira teerthankara
+Taja dhana maalika naa rachate bhesha digambara
+Jaga men naheen kuchha saara ho aajaa apane dharama...`,
+    },
+  },
+  {
+    id: "dhan-dhan-jaini-sadhu-abadhit",
+    type: "bhajan",
+    title: {
+      gu: "ધન ધન જૈની સાધુ અબાધિત",
+      hi: "धन धन जैनी साधु अबाधित",
+      sa: "",
+      en: "Dhana Dhana Jainee Saadhu Abaadhita",
+    },
+    text: {
+      gu: `ધન ધન જૈની સાધુ અબાધિત, તત્ત્વજ્ઞાનવિલાસી હો ।।ટેક ।।
+દર્શન-બોધમયી નિજમૂરતિ, જિનકોં અપની ભાસી હો ।
+ત્યાગી અન્ય સમસ્ત વસ્તુમેં, અહંબુદ્ધિ દુખદા-સી હો ।૧।
+જિન અશુભોપયોગ કી પરનતિ, સત્તાસહિત વિનાશી હો ।
+હોય કદાચ શુભોપયોગ તો, તહઁ ભી રહત ઉદાસી હો ।૨।
+છેદત જે અનાદિ દુખદાયક, દુવિધિ બંધકી ફાઁસી હો ।
+મોહ ક્ષોભ રહિત જિન પરનતિ, વિમલ મયંકકલા-સી હો ।૩।
+વિષય-ચાહ-દવ-દાહ ખુજાવન, સામ્ય સુધારસ-રાસી હો ।
+ભાગચન્દ જ્ઞાનાનંદી પદ, સાધત સદા હુલાસી હો ।૪।`,
+      hi: `धन धन जैनी साधु अबाधित, तत्त्वज्ञानविलासी हो ।।टेक ।।
+दर्शन-बोधमयी निजमूरति, जिनकों अपनी भासी हो ।
+त्यागी अन्य समस्त वस्तुमें, अहंबुद्धि दुखदा-सी हो ।१।
+जिन अशुभोपयोग की परनति, सत्तासहित विनाशी हो ।
+होय कदाच शुभोपयोग तो, तहँ भी रहत उदासी हो ।२।
+छेदत जे अनादि दुखदायक, दुविधि बंधकी फाँसी हो ।
+मोह क्षोभ रहित जिन परनति, विमल मयंककला-सी हो ।३।
+विषय-चाह-दव-दाह खुजावन, साम्य सुधारस-रासी हो ।
+भागचन्द ज्ञानानंदी पद, साधत सदा हुलासी हो ।४।`,
+      sa: "",
+      en: `Dhana dhana jainee saadhu abaadhita, tattvagyaanavilaasee ho | | teka | |
+Darshana-bodhamayee nijamoorati, jinakon apanee bhaasee ho |
+Tyaagee anya samasta vastumen, ahanbuddhi dukhadaa-see ho | 1 |
+Jina ashubhopayoga kee paranati, sattaasahita vinaashee ho |
+Hoya kadaacha shubhopayoga to, tahan bhee rahata udaasee ho | 2 |
+Chhedata je anaadi dukhadaayaka, duvidhi bandhakee phaansee ho |
+Moha kshobha rahita jina paranati, vimala mayankakalaa-see ho | 3 |
+Vishaya-chaaha-dava-daaha khujaavana, saamya sudhaarasa-raasee ho |
+Bhaagachanda gyaanaanandee pada, saadhata sadaa hulaasee ho | 4 |`,
+    },
+  },
+  {
+    id: "bade-bhagya-se-hamko-mila-jin-dharm",
+    type: "bhajan",
+    title: {
+      gu: "બડે ભાગ્ય સે હમકો મિલા જિન ધર્મ",
+      hi: "बडे भाग्य से हमको मिला जिन धर्म",
+      sa: "",
+      en: "Bade Bhaagya se Hamako Milaa Jina Dharma",
+    },
+    text: {
+      gu: `બડે ભાગ્ય સે હમકો મિલા જિન ધર્મ,
+હમારી કહાની હૈ, તુમ્હારી કહાની હૈ, બડી બેરહમ,
+અનાદિ સે ભટકે ચલે આ રહે હૈં,
+પ્રભુ કે વચન ક્યૂં નહીં ભા રહે હૈં,
+રુદન તેરા ભવ ભવ મેં સુને કૌન જન ॥ બડે ભાગ્ય સે હમકો...
+ભગવાન બનને કી તાકત હૈ મુઝમેં,
+મૈં માન બૈઠા પુજારી હૂં બસ મૈં,
+મેરે ઘટ મેં ઘટ ઘટ કા વાસી ચેતન ॥ બડે ભાગ્ય સે હમકો...
+અણુ અણુ સ્વતંત્ર પ્રભુ ને જ્ઞાન હૈ કરાયા,
+વિષયોં કા વિષ પી પી ઉસે ના સધાયા,
+ક્ષણ ભર કો ભી તો ચેતન હો જા મગન ॥ બડે ભાગ્ય સે..`,
+      hi: `बडे भाग्य से हमको मिला जिन धर्म,
+हमारी कहानी है, तुम्हारी कहानी है, बडी बेरहम,
+अनादि से भटके चले आ रहे हैं,
+प्रभु के वचन क्यूं नहीं भा रहे हैं,
+रुदन तेरा भव भव में सुने कौन जन ॥ बडे भाग्य से हमको...
+भगवान बनने की ताकत है मुझमें,
+मैं मान बैठा पुजारी हूं बस मैं,
+मेरे घट में घट घट का वासी चेतन ॥ बडे भाग्य से हमको...
+अणु अणु स्वतंत्र प्रभु ने ज्ञान है कराया,
+विषयों का विष पी पी उसे ना सधाया,
+क्षण भर को भी तो चेतन हो जा मगन ॥ बडे भाग्य से..`,
+      sa: "",
+      en: `Bade bhaagya se hamako milaa jina dharma,
+Hamaaree kahaanee hai, tumhaaree kahaanee hai, badee berahama,
+Anaadi se bhatake chale aa rahe hain,
+Prabhu ke vachana kyoon naheen bhaa rahe hain,
+Rudana teraa bhava bhava men sune kauna jana | | bade bhaagya se hamako...
+Bhagavaana banane kee taakata hai mujhamen,
+Main maana baithaa pujaaree hoon basa main,
+Mere ghata men ghata ghata kaa vaasee chetana | | bade bhaagya se hamako...
+Anu anu svatantra prabhu ne gyaana hai karaayaa,
+Vishayon kaa visha pee pee use naa sadhaayaa,
+Kshana bhara ko bhee to chetana ho jaa magana | | bade bhaagya se..`,
+    },
+  },
+  {
+    id: "kabdho-mile-mohi-shriguru-munivar",
+    type: "bhajan",
+    title: {
+      gu: "કબધૌં મિલૈ મોહિ શ્રીગુરુ મુનિવર",
+      hi: "कबधौं मिलै मोहि श्रीगुरु मुनिवर",
+      sa: "",
+      en: "Kabadhaun Milai Mohi Shreeguru Munivara",
+    },
+    text: {
+      gu: `કબધૌં મિલૈ મોહિ શ્રીગુરુ મુનિવર, કરિ હૈં ભવોદધિ પારા હો।।
+ભોગઉદાસ જોગ જિન લીનોં, છાઁડિ પરિગ્રહભારા હો ।
+ઇન્દ્રિય દમન વમન મદ કીનો, વિષય કષાય નિવારા હો ।૧।
+કંચન કાઁચ બરાબર જિનકે, નિંદક બંદક સારા હો ।
+દુર્ધર તપ તપિ સમ્યક નિજ ઘર, મનવચતનકર ધારા હો ।૨।
+ગ્રીષમ ગિરિ હિમ સરિતા તીરૈ, પાવસ તરુતલ ઠારા હો ।
+કરુણાભીન ચીન ત્રસથાવર, ઈર્યાપંથ સમારા હો ।૩।
+માર માર વ્રત ધાર શીલ દૃઢ, મોહ મહામલ ટારા હો ।
+માસ છમાસ ઉપાસ વાસ વન, પ્રાસુક કરત અહારા હો ।૪।
+આરત રૌદ્રલેશ નહિં જિનકે, ધર્મ શુકલ ચિત ધારા હો ।
+ધ્યાનારૂઢ ગૂઢ નિજ આતમ, શુધઉપયોગ વિચારા હો ।૫।
+આપ તરહિં ઔરનકો તારહિં, ભવજલસિંધુ અપારા હો ।
+દૌલત ઐસે જૈન-જતિનકો, નિતપ્રતિ ધોક હમારા હો ।૬।`,
+      hi: `कबधौं मिलै मोहि श्रीगुरु मुनिवर, करि हैं भवोदधि पारा हो।।
+भोगउदास जोग जिन लीनों, छाँडि परिग्रहभारा हो ।
+इन्द्रिय दमन वमन मद कीनो, विषय कषाय निवारा हो ।१।
+कंचन काँच बराबर जिनके, निंदक बंदक सारा हो ।
+दुर्धर तप तपि सम्यक निज घर, मनवचतनकर धारा हो ।२।
+ग्रीषम गिरि हिम सरिता तीरै, पावस तरुतल ठारा हो ।
+करुणाभीन चीन त्रसथावर, ईर्यापंथ समारा हो ।३।
+मार मार व्रत धार शील दृढ़, मोह महामल टारा हो ।
+मास छमास उपास वास वन, प्रासुक करत अहारा हो ।४।
+आरत रौद्रलेश नहिं जिनके, धर्म शुकल चित धारा हो ।
+ध्यानारूढ़ गूढ़ निज आतम, शुधउपयोग विचारा हो ।५।
+आप तरहिं औरनको तारहिं, भवजलसिंधु अपारा हो ।
+दौलत ऐसे जैन-जतिनको, नितप्रति धोक हमारा हो ।६।`,
+      sa: "",
+      en: `Kabadhaun milai mohi shreeguru munivara, kari hain bhavodadhi paaraa ho | |
+Bhogaudaasa joga jina leenon, chhaandi parigrahabhaaraa ho |
+Indriya damana vamana mada keeno, vishaya kashaaya nivaaraa ho | 1 |
+Kanchana kaancha baraabara jinake, nindaka bandaka saaraa ho |
+Durdhara tapa tapi samyaka nija ghara, manavachatanakara dhaaraa ho | 2 |
+Greeshama giri hima saritaa teerai, paavasa tarutala thaaraa ho |
+Karunaabheena cheena trasathaavara, eeryaapantha samaaraa ho | 3 |
+Maara maara vrata dhaara sheela dridha, moha mahaamala taaraa ho |
+Maasa chhamaasa upaasa vaasa vana, praasuka karata ahaaraa ho | 4 |
+Aarata raudralesha nahin jinake, dharma shukala chita dhaaraa ho |
+Dhyaanaaroodha goodha nija aatama, shudhaupayoga vichaaraa ho | 5 |
+Aapa tarahin auranako taarahin, bhavajalasindhu apaaraa ho |
+Daulata aise jaina-jatinako, nitaprati dhoka hamaaraa ho | 6 |`,
+    },
+  },
+  {
+    id: "ye-dharm-hai-aatam-gyani-ka",
+    type: "bhajan",
+    title: {
+      gu: "યે ધરમ હૈ આતમ જ્ઞાની કા",
+      hi: "ये धरम है आतम ज्ञानी का",
+      sa: "",
+      en: "Ye Dharama hai Aatama Gyaanee Kaa",
+    },
+    text: {
+      gu: `યે ધરમ હૈ આતમ જ્ઞાની કા, સીમંધર મહાવીર સ્વામી કા,
+ઇસ ધર્મ કા ભૈયા ક્યા કહના, યે ધર્મ હૈ વીરોં કા ગહના,
+જય હો જય હો જય હો...
+યહાં સમયસાર કા ચિંતન હૈ, યહાં નિયમસાર કા મંથન હૈ,
+યહાં રહતે હૈં જ્ઞાની મસ્તી મેં, મસ્તી હૈ સ્વ કી અસ્તિ મેં,
+જય હો જય હો જય હો...
+અસ્તિ મેં મસ્તી જ્ઞાની કી, યહ બાત હૈ ભેદ વિજ્ઞાની કી,
+યહાં ઝરતે હૈં ઝરને આનંદ કે, આનંદ હી આનંદ આતમ હૈ,
+જય હો જય હો જય હો...
+યહાં બાહુબલી સે ધ્યાની હુએ, યહાં કુંદ્કુંદ જૈસે જ્ઞાની હુએ,
+યહાં સતગુરુઓં ને યે બોલા, યે ધર્મ હૈ કિતના અનમોલા,
+જય હો જય હો જય હો...`,
+      hi: `ये धरम है आतम ज्ञानी का, सीमंधर महावीर स्वामी का,
+इस धर्म का भैया क्या कहना, ये धर्म है वीरों का गहना,
+जय हो जय हो जय हो...
+यहां समयसार का चिंतन है, यहां नियमसार का मंथन है,
+यहां रहते हैं ज्ञानी मस्ती में, मस्ती है स्व की अस्ति में,
+जय हो जय हो जय हो...
+अस्ति में मस्ती ज्ञानी की, यह बात है भेद विज्ञानी की,
+यहां झरते हैं झरने आनंद के, आनंद ही आनंद आतम है,
+जय हो जय हो जय हो...
+यहां बाहुबली से ध्यानी हुए, यहां कुंद्कुंद जैसे ज्ञानी हुए,
+यहां सतगुरुओं ने ये बोला, ये धर्म है कितना अनमोला,
+जय हो जय हो जय हो...`,
+      sa: "",
+      en: `Ye dharama hai aatama gyaanee kaa, seemandhara mahaaveera svaamee kaa,
+Isa dharma kaa bhaiyaa kyaa kahanaa, ye dharma hai veeron kaa gahanaa,
+Jaya ho jaya ho jaya ho...
+Yahaan samayasaara kaa chintana hai, yahaan niyamasaara kaa manthana hai,
+Yahaan rahate hain gyaanee mastee men, mastee hai sva kee asti men,
+Jaya ho jaya ho jaya ho...
+Asti men mastee gyaanee kee, yaha baata hai bheda vigyaanee kee,
+Yahaan jharate hain jharane aananda ke, aananda hee aananda aatama hai,
+Jaya ho jaya ho jaya ho...
+Yahaan baahubalee se dhyaanee hue, yahaan kundkunda jaise gyaanee hue,
+Yahaan sataguruon ne ye bolaa, ye dharma hai kitanaa anamolaa,
+Jaya ho jaya ho jaya ho...`,
+    },
+  },
+  {
+    id: "dhani-muni-jin-yah-bhaav-pichhana",
+    type: "bhajan",
+    title: {
+      gu: "ધનિ મુનિ જિન યહ, ભાવ પિછાના",
+      hi: "धनि मुनि जिन यह, भाव पिछाना",
+      sa: "",
+      en: "Dhani Muni Jina Yaha, Bhaava Pichhaanaa",
+    },
+    text: {
+      gu: `ધનિ મુનિ જિન યહ, ભાવ પિછાના
+તનવ્યય વાંછિત પ્રાપતિ માની, પુણ્ય ઉદય દુખ જાના ॥
+એકવિહારી સકલ ઈશ્વરતા, ત્યાગ મહોત્સવ માના ।
+સબ સુખકો પરિહાર સાર સુખ, જાનિ રાગરુષ ભાના ।૧।
+ચિત્સ્વભાવકો ચિંત્ય પ્રાન નિજ, વિમલ જ્ઞાનદૃગસાના ।
+\`દૌલ' કૌન સુખ જાન લહ્યૌ તિન, કરો શાંતિરસપાના ।૨।`,
+      hi: `धनि मुनि जिन यह, भाव पिछाना
+तनव्यय वांछित प्रापति मानी, पुण्य उदय दुख जाना ॥
+एकविहारी सकल ईश्वरता, त्याग महोत्सव माना ।
+सब सुखको परिहार सार सुख, जानि रागरुष भाना ।१।
+चित्स्वभावको चिंत्य प्रान निज, विमल ज्ञानदृगसाना ।
+\`दौल' कौन सुख जान लह्यौ तिन, करो शांतिरसपाना ।२।`,
+      sa: "",
+      en: `Dhani muni jina yaha, bhaava pichhaanaa
+Tanavyaya vaanchhita praapati maanee, punya udaya dukha jaanaa | |
+Ekavihaaree sakala eeshvarataa, tyaaga mahotsava maanaa |
+Saba sukhako parihaara saara sukha, jaani raagarusha bhaanaa | 1 |
+Chitsvabhaavako chintya praana nija, vimala gyaanadrigasaanaa |
+\`daula' kauna sukha jaana lahyau tina, karo shaantirasapaanaa | 2 |`,
+    },
+  },
+  {
+    id: "pp-vatsalya-ratnakar-vimal-sagar",
+    type: "bhajan",
+    title: {
+      gu: "પ. પૂ વાત્સલ્ય રત્નાકર આચાર્ય શ્રી 108 વિમલ સાગર જી",
+      hi: "प. पू वात्सल्य रत्नाकर आचार्य श्री 108 विमल सागर जी",
+      sa: "",
+      en: "Pa. Poo Vaatsalya Ratnaakara Aachaarya Shree Vimala Saagara Jee",
+    },
+    text: {
+      gu: `પ. પૂ વાત્સલ્ય રત્નાકર આચાર્ય શ્રી 108 વિમલ સાગર જી
+ભજન
+વિદા... વિદા... વાત્સલ્ય રત્નાકર અંતિમ વિદા |
+વિદા... વિદા... હે સન્માર્ગ દિવાકર અંતિમ વિદા ||
+કહા મિલેંગે હમે વિમલ પદ કમલ સર્વ દુઃખ હારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા || --2
+નહી વિમલ સાગર કે શોક સાગર કા કોઈ કિનારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||ધૃ|| --2
+જન્મ જયંતી વર્ષ સે હમ જિનકી મનાતે આયે | --2
+જિન આચાર્ય વિમલ સાગર કી મહિમા ગાતે આયે || --2
+સ્નેહ કૃપા વાત્સલ્ય સદા જો હમ પે લુટાતે આયે |
+આજ ઉન્હી કી શોક સભા મે અશ્રૂ બહાતે આયે || --2
+ઉનકે લિયે મૌન રખ્ખા.... બોલા જિનકા જયકારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||1|| --2
+જિકે ધરા પર વર્ષ ઉન્હાસી |
+મુનિવર હો ગયે શિવપુર વાસી ||
+ખો કર ઐસા દૃઢ સંન્યાસી |
+છાઈ સમાજ મે ઘોર ઉદાસી ||
+પૂર્વ દિશા મે વિલય હો ગયા.... ઉત્તર કા ધ્રુવતારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||2|| --2
+વિદા... વિદા... હે યુગ પ્રમુખ સુધાકર અંતિમ વિદા |
+વિદા... વિદા... મંગલમય ધર્મેશ્વર અંતિમ વિદા ||
+હાથો મે રહતી થી માલા અધરો પર જીનવણી | --2
+સ્યાદ-વાદ સિદ્ધાંતો સે થી હર યુક્તી પ્રમાણી || --2
+પાપ તાપ સંતાપ મેટની પિંછીથી કલ્યાણી |
+ઉન સે શ્રીફલ પાકર હો ગયે શ્રીયુત કિતને પ્રાણી || --2
+સત્ય હો ગયા વાક્ય વહી.... જો શ્રીમુખ સે ઉચ્ચારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||3|| --2
+વિમલ દેવ કી વિમલ શાંત છવિ નૈનો બીચ રહેગી | --2
+વિમલ દેહ સે બંધી આતમા વિમલ વિયોગ સહેગી || --2
+વિમલ સિંધુ સા અસ્ત ન દુજા દુનિયા યહી કહેગી |
+વિમલ હૃદય મે વિમલ ભક્તી કી ધારા વિમલ બહેગી || --2
+વિમલ કૃપા સે કાર્ય વિમલ કા.... પૂર્ણ કરેંગે સારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||4|| --2
+વિદા... વિદા... મુક્તીદુત મુક્તેશ્વર અંતિમ વિદા |
+વિદા... વિદા... સર્વવ્યાપ્ત સર્વેશ્વર અંતિમ વિદ ||
+મૌત કી ચાલ તો ચલતી રહેગી |
+જીવો કો યુહી છલતી રહેગી ||
+દિપક ચાહે બદલ ભી જાયે |
+જ્યોત સે જ્યોત તો જલતી રહેગી ||
+બાદ વિમલ સાગર કે.... વિશેષ સાગર કા હમે સહારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||5|| --2
+મધુબન મે સંકટ મોચન કી ભવ્ય સમાધી બની હૈ | --2
+સિદ્ધાત્મા કી જન્મ જયંતી સિદ્ધો બિચ મનેગી || --2
+યે મત સોચો મુનિવર હમકો અબ તો નહી મિલેંગે |
+જબ સમ્મેદ શિખર જાઓગે ગુરૂવર વહી મીલેંગે || --2
+તૂટ નહી સકતા આધ્યાત્મિક.... યે સંબંધ હમારા | --2
+ઉન્હે મૃત્યૂ ને.... હમે મૃત્યૂ કે સમાચાર ને મારા ||6|| --2
+વિદા વિદા હે સમ્મેદ શિખરવર અંતિમ વિદા |
+વિદા વિદા જિનવર રુપી મુનિવર અંતિમ વિદા ||
+અંતિમ વિદા... અંતિમ વિદા... અંતિમ વિદા... || સમાપ્ત ||`,
+      hi: `प. पू वात्सल्य रत्नाकर आचार्य श्री 108 विमल सागर जी
+भजन
+विदा... विदा... वात्सल्य रत्नाकर अंतिम विदा |
+विदा... विदा... हे सन्मार्ग दिवाकर अंतिम विदा ||
+कहा मिलेंगे हमे विमल पद कमल सर्व दुःख हारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा || --2
+नही विमल सागर के शोक सागर का कोई किनारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||धृ|| --2
+जन्म जयंती वर्ष से हम जिनकी मनाते आये | --2
+जिन आचार्य विमल सागर की महिमा गाते आये || --2
+स्नेह कृपा वात्सल्य सदा जो हम पे लुटाते आये |
+आज उन्ही की शोक सभा मे अश्रू बहाते आये || --2
+उनके लिये मौन रख्खा.... बोला जिनका जयकारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||1|| --2
+जिके धरा पर वर्ष उन्हासी |
+मुनिवर हो गये शिवपुर वासी ||
+खो कर ऐसा दृढ संन्यासी |
+छाई समाज मे घोर उदासी ||
+पूर्व दिशा मे विलय हो गया.... उत्तर का ध्रुवतारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||2|| --2
+विदा... विदा... हे युग प्रमुख सुधाकर अंतिम विदा |
+विदा... विदा... मंगलमय धर्मेश्वर अंतिम विदा ||
+हाथो मे रहती थी माला अधरो पर जीनवणी | --2
+स्याद-वाद सिद्धांतो से थी हर युक्ती प्रमाणी || --2
+पाप ताप संताप मेटनी पिंछीथी कल्याणी |
+उन से श्रीफल पाकर हो गये श्रीयुत कितने प्राणी || --2
+सत्य हो गया वाक्य वही.... जो श्रीमुख से उच्चारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||3|| --2
+विमल देव की विमल शांत छवि नैनो बीच रहेगी | --2
+विमल देह से बंधी आतमा विमल वियोग सहेगी || --2
+विमल सिंधु सा अस्त न दुजा दुनिया यही कहेगी |
+विमल हृदय मे विमल भक्ती की धारा विमल बहेगी || --2
+विमल कृपा से कार्य विमल का.... पूर्ण करेंगे सारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||4|| --2
+विदा... विदा... मुक्तीदुत मुक्तेश्वर अंतिम विदा |
+विदा... विदा... सर्वव्याप्त सर्वेश्वर अंतिम विद ||
+मौत की चाल तो चलती रहेगी |
+जीवो को युही छलती रहेगी ||
+दिपक चाहे बदल भी जाये |
+ज्योत से ज्योत तो जलती रहेगी ||
+बाद विमल सागर के.... विशेष सागर का हमे सहारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||5|| --2
+मधुबन मे संकट मोचन की भव्य समाधी बनी है | --2
+सिद्धात्मा की जन्म जयंती सिद्धो बिच मनेगी || --2
+ये मत सोचो मुनिवर हमको अब तो नही मिलेंगे |
+जब सम्मेद शिखर जाओगे गुरूवर वही मीलेंगे || --2
+तूट नही सकता आध्यात्मिक.... ये संबंध हमारा | --2
+उन्हे मृत्यू ने.... हमे मृत्यू के समाचार ने मारा ||6|| --2
+विदा विदा हे सम्मेद शिखरवर अंतिम विदा |
+विदा विदा जिनवर रुपी मुनिवर अंतिम विदा ||
+अंतिम विदा... अंतिम विदा... अंतिम विदा... || समाप्त ||`,
+      sa: "",
+      en: `Pa. poo vaatsalya ratnaakara aachaarya shree 108 vimala saagara jee
+Bhajana
+Vidaa... vidaa... vaatsalya ratnaakara antima vidaa |
+Vidaa... vidaa... he sanmaarga divaakara antima vidaa | |
+Kahaa milenge hame vimala pada kamala sarva duhkha haaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | --2
+Nahee vimala saagara ke shoka saagara kaa koee kinaaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | dhri | | --2
+Janma jayantee varsha se hama jinakee manaate aaye | --2
+Jina aachaarya vimala saagara kee mahimaa gaate aaye | | --2
+Sneha kripaa vaatsalya sadaa jo hama pe lutaate aaye |
+Aaja unhee kee shoka sabhaa me ashroo bahaate aaye | | --2
+Unake liye mauna rakhkhaa.... bolaa jinakaa jayakaaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 1 | | --2
+Jike dharaa para varsha unhaasee |
+Munivara ho gaye shivapura vaasee | |
+Kho kara aisaa dridha sannyaasee |
+Chhaaee samaaja me ghora udaasee | |
+Poorva dishaa me vilaya ho gayaa.... uttara kaa dhruvataaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 2 | | --2
+Vidaa... vidaa... he yuga pramukha sudhaakara antima vidaa |
+Vidaa... vidaa... mangalamaya dharmeshvara antima vidaa | |
+Haatho me rahatee thee maalaa adharo para jeenavanee | --2
+Syaada-vaada siddhaanto se thee hara yuktee pramaanee | | --2
+Paapa taapa santaapa metanee pinchheethee kalyaanee |
+Una se shreephala paakara ho gaye shreeyuta kitane praanee | | --2
+Satya ho gayaa vaakya vahee.... jo shreemukha se uchchaaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 3 | | --2
+Vimala deva kee vimala shaanta chhavi naino beecha rahegee | --2
+Vimala deha se bandhee aatamaa vimala viyoga sahegee | | --2
+Vimala sindhu saa asta na dujaa duniyaa yahee kahegee |
+Vimala hridaya me vimala bhaktee kee dhaaraa vimala bahegee | | --2
+Vimala kripaa se kaarya vimala kaa.... poorna karenge saaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 4 | | --2
+Vidaa... vidaa... mukteeduta mukteshvara antima vidaa |
+Vidaa... vidaa... sarvavyaapta sarveshvara antima vida | |
+Mauta kee chaala to chalatee rahegee |
+Jeevo ko yuhee chhalatee rahegee | |
+Dipaka chaahe badala bhee jaaye |
+Jyota se jyota to jalatee rahegee | |
+Baada vimala saagara ke.... vishesha saagara kaa hame sahaaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 5 | | --2
+Madhubana me sankata mochana kee bhavya samaadhee banee hai | --2
+Siddhaatmaa kee janma jayantee siddho bicha manegee | | --2
+Ye mata socho munivara hamako aba to nahee milenge |
+Jaba sammeda shikhara jaaoge guroovara vahee meelenge | | --2
+Toota nahee sakataa aadhyaatmika.... ye sanbandha hamaaraa | --2
+Unhe mrityoo ne.... hame mrityoo ke samaachaara ne maaraa | | 6 | | --2
+Vidaa vidaa he sammeda shikharavara antima vidaa |
+Vidaa vidaa jinavara rupee munivara antima vidaa | |
+Antima vidaa... antima vidaa... antima vidaa... | | samaapta | |`,
+    },
+  },
+  {
+    id: "vira-veera",
+    type: "bhajan",
+    title: {
+      gu: "વિરા વીરા",
+      hi: "विरा वीरा",
+      sa: "",
+      en: "Viraa Veeraa",
+    },
+    text: {
+      gu: `વિરા વિરા બોલ તેરા ક્યા બિગડે
+વિરા વિરા બોલ તેરા ક્યા બિગડે,
+ક્યા બિગડે,તેરા ક્યા બિગડે,
+મિઠો મિઠો બોલ થારો કાઈ
+બિગડે,કાઈ બિગડે,થારો કાઈ બિગડે
+યા જિવનમા દમ નહી કબ નિકલે
+પ્રાણ માલુમ નહી, વિરા ....
+1. સોચ સમઝલે સ્વાસ્થ કા સંસાર,
+લાખ જતનકર છુટે ના ઘરબાર,
+તુ જાનલે પહચાન લે, સંસાર કિસીકા ઘર નહી,
+કબ નિકલે ……
+2. પ્રભુવર કી મહિમા હૈ અપરમ્પાર,
+ડોલતી નૈયા કી હૈ યે પતકાર,
+તુ જાનલે પહચાન લે, સંસાર કિસીકા ઘર નહી,
+કબ નિકલે ……
+3. ભક્તી કી જો જ્યોત જલાયેગા,
+કર્મો સે વો મુક્તી પાયેગા,
+તુ જાનલે પહચાન લે, સંસાર કિસીકા ઘર નહી,
+કબ નિકલે ……
+4. ગુરુવર યે કહતે હૈ બારંબાર,
+તપ સંયમ હી જિવન કા આધાર
+તુ જાનલે પહચાન લે, સંસાર કિસીકા ઘર નહી,
+કબ નિકલે ……`,
+      hi: `विरा विरा बोल तेरा क्या बिगडे
+विरा विरा बोल तेरा क्या बिगडे,
+क्या बिगडे,तेरा क्या बिगडे,
+मिठो मिठो बोल थारो काई
+बिगडे,काई बिगडे,थारो काई बिगडे
+या जिवनमा दम नही कब निकले
+प्राण मालुम नही, विरा ....
+1. सोच समझले स्वास्थ का संसार,
+लाख जतनकर छुटे ना घरबार,
+तु जानले पहचान ले, संसार किसीका घर नही,
+कब निकले ……
+2. प्रभुवर की महिमा है अपरम्पार,
+डोलती नैया की है ये पतकार,
+तु जानले पहचान ले, संसार किसीका घर नही,
+कब निकले ……
+3. भक्ती की जो ज्योत जलायेगा,
+कर्मो से वो मुक्ती पायेगा,
+तु जानले पहचान ले, संसार किसीका घर नही,
+कब निकले ……
+4. गुरुवर ये कहते है बारंबार,
+तप संयम ही जिवन का आधार
+तु जानले पहचान ले, संसार किसीका घर नही,
+कब निकले ……`,
+      sa: "",
+      en: `Viraa viraa bola teraa kyaa bigade
+Viraa viraa bola teraa kyaa bigade,
+Kyaa bigade,teraa kyaa bigade,
+Mitho mitho bola thaaro kaaee
+Bigade,kaaee bigade,thaaro kaaee bigade
+Yaa jivanamaa dama nahee kaba nikale
+Praana maaluma nahee, viraa ....
+1. socha samajhale svaastha kaa sansaara,
+Laakha jatanakara chhute naa gharabaara,
+Tu jaanale pahachaana le, sansaara kiseekaa ghara nahee,
+Kaba nikale ……
+2. prabhuvara kee mahimaa hai aparampaara,
+Dolatee naiyaa kee hai ye patakaara,
+Tu jaanale pahachaana le, sansaara kiseekaa ghara nahee,
+Kaba nikale ……
+3. bhaktee kee jo jyota jalaayegaa,
+Karmo se vo muktee paayegaa,
+Tu jaanale pahachaana le, sansaara kiseekaa ghara nahee,
+Kaba nikale ……
+4. guruvara ye kahate hai baaranbaara,
+Tapa sanyama hee jivana kaa aadhaara
+Tu jaanale pahachaana le, sansaara kiseekaa ghara nahee,
+Kaba nikale ……`,
+    },
+  },
 ];
 
 // Expose for the pages.
