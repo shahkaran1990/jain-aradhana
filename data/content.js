@@ -24877,6 +24877,3196 @@ Thaado sevaka arja karai chhai, janama marana mitaao jee | |
 Bhakta tumhaare tumako dhyaavain bedaa paara lagaao jee | |`,
     },
   },
+  {
+    id: "aadinath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી આદિનાથ જી ચાલીસા",
+      hi: "श्री आदिनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Aadinath Ji Chalisa",
+    },
+    text: {
+      gu: `ચાલીસા : ભગવાન્ આદિનાથ (ચાઁદખેડી)
+(છંદ: દોહા)
+શીશ નવા અરિહંત કો, સિદ્ધન કરૂઁ પ્રણામ ।
+ઉપાધ્યાય આચાર્ય કા લે સુખકારી નામ ।।
+સર્વ સાધુ ઔર સરસ્વતી જિનમંદિર સુખકાર ।
+આદિનાથ ભગવાન્ કો મન-મંદિર મેં ધાર ।।
+(ચૌપાર્ઇ છન્દ)
+જૈ જૈ આદિનાથ જિન સ્વામી, તીન-કાલ તિહુઁ-જગ મેં નામી ।
+વેષ-દિગમ્બર ધાર રહે હો, કર્મોં કો તુમ માર રહે હો ।।૧।।
+હો સર્વજ્ઞ બાત સબ જાનો; સારી દુનિયાઁ કો પહચાનો ।
+નગર અયોધ્યા જો કહલાયે, રાજા નાભિરાજ બતલાયે ।।૨।।
+મરુદેવી માતા કે ઉદર સે, ચૈત-વદી-નવમી કો જન્મે ।
+તુમને જગ કો જ્ઞાન સિખાયા, કર્મભૂમિ કા બીજ ઉપાયા ।।૩।।
+કલ્પવૃક્ષ જબ લગે બિછરને, જનતા આર્ઇ દુ:ખડા કહને ।
+સબ કા સંશય તભી ભગાયા, સૂર્ય-ચંદ્ર કા જ્ઞાન કરાયા ।।૪।।
+ખેતી કરના ભી સિખલાયા, ન્યાય-દંડ આદિક સમઝાયા ।
+તુમને રાજ કિયા નીતિ કા, સબક આપસે જગ ને સીખા ।।૫।।
+પુત્ર આપકા ભરત બતાયા, ચક્રવર્તી જગ મેં કહલાયા ।
+બાહુબલિ જો પુત્ર તુમ્હારે, ભરત સે પહલે મોક્ષ સિધારે ।।૬।।
+સુતા આપકી દો બતલાર્ઇ, ‘બ્રાહ્મી’ ઔર ‘સુન્દરી’ કહલાર્ઇ ।
+ઉનકો ભી વિદ્યા સિખલાર્ઇ, અક્ષર ઔર ગિનતી બતલાર્ઇ ।।૭।।
+એક દિન રાજસભા કે અંદર, એક અપ્સરા નાચ રહી થી ।
+આયુ ઉસકી બચી અલ્પ થી, ઇસીલિએ આગે નહિં નાચ સકી થી ।।૮।।
+વિલય હો ગયા ઉસકા સત્વર, ઝટ આયા વૈરાગ્ય ઉમડકર ।
+બેટોં કો ઝટ પાસ બુલાયા, રાજપાટ સબ મેં બઁટવાયા ।।૯।।
+છોડ સભી ઝંઝટ સંસારી, વન જાને કી કરી તૈયારી ।
+રાજા હજારોં સાથ સિધાએ, રાજપાટ-તજ વન કો ધાયે ।।૧૦।।
+લેકિન જબ તુમને તપ કીના, સબને અપના રસ્તા લીના ।
+વેષ-દિગમ્બર તજકર સબને, છાલ આદિ કે કપડે પહને ।।૧૧।।
+ભૂખ-પ્યાસ સે જબ ઘબરાયે, ફલ આદિક ખા ભૂખ મિટાયે ।
+તીન સૌ ત્રેસઠ ધર્મ ફૈલાયે, જો અબ દુનિયાઁ મેં દિખલાયે ।।૧૨।।
+છૈ: મહીને તક ધ્યાન લગાયે, ફિર ભોજન કરને કો ધાયે ।
+ભોજન-વિધિ જાને નહિં કોય, કૈસે પ્રભુ કા ભોજન હોય ।।૧૩।।
+ઇસી તરહ બસ ચલતે ચલતે, છૈ: મહીને ભોજન-બિન બીતે ।
+નગર હસ્તિનાપુર મેં આયે, રાજા સોમ શ્રેયાંસ બતાએ ।।૧૪।।
+યાદ તભી પિછલા-ભવ આયા, તુમકો ફૌરન હી પડઘાયા ।
+રસ-ગન્ને કા તુમને પાયા, દુનિયા કો ઉપદેશ સુનાયા ।।૧૫।।
+તપ કર કેવલજ્ઞાન ઉપાયા, મોક્ષ ગએ સબ જગ હર્ષાયા ।
+અતિશયયુક્ત તુમ્હારા મંદિર, ચાઁદખેડી ભઁવરે કે અંદર ।।૧૬।।
+ઉસકા યહ અતિશય બતલાયા, કષ્ટ-ક્લેશ કા હોય સફાયા ।
+માનતુંગ પર દયા દિખાર્ઇ, જંજીરેં સબ કાટ ગિરાર્ઇ ।।૧૭।।
+રાજસભા મેં માન બઢાયા, જૈનધર્મ જગ મેં ફૈલાયા ।
+મુઝ પર ભી મહિમા દિખલાઓ, કષ્ટ ભક્ત કા દૂર ભગાઓ ।।૧૮।।
+(સોરઠા)
+પાઠ કરે ચાલીસ દિન, નિત ચાલીસ હી બાર ।
+ચાઁદખેડી મેં આય કે, ખેવે ધૂપ અપાર ।।
+જન્મ દરિદ્રી હોય જો, હોય કુબેર-સમાન ।
+નામ-વંશ જગ મેં ચલે, જિનકે નહીં સંતાન ।।`,
+      hi: `चालीसा : भगवान् आदिनाथ (चाँदखेड़ी)
+(छंद: दोहा)
+शीश नवा अरिहंत को, सिद्धन करूँ प्रणाम ।
+उपाध्याय आचार्य का ले सुखकारी नाम ।।
+सर्व साधु और सरस्वती जिनमंदिर सुखकार ।
+आदिनाथ भगवान् को मन-मंदिर में धार ।।
+(चौपार्इ छन्द)
+जै जै आदिनाथ जिन स्वामी, तीन-काल तिहुँ-जग में नामी ।
+वेष-दिगम्बर धार रहे हो, कर्मों को तुम मार रहे हो ।।१।।
+हो सर्वज्ञ बात सब जानो; सारी दुनियाँ को पहचानो ।
+नगर अयोध्या जो कहलाये, राजा नाभिराज बतलाये ।।२।।
+मरुदेवी माता के उदर से, चैत-वदी-नवमी को जन्मे ।
+तुमने जग को ज्ञान सिखाया, कर्मभूमि का बीज उपाया ।।३।।
+कल्पवृक्ष जब लगे बिछरने, जनता आर्इ दु:खड़ा कहने ।
+सब का संशय तभी भगाया, सूर्य-चंद्र का ज्ञान कराया ।।४।।
+खेती करना भी सिखलाया, न्याय-दंड आदिक समझाया ।
+तुमने राज किया नीति का, सबक आपसे जग ने सीखा ।।५।।
+पुत्र आपका भरत बताया, चक्रवर्ती जग में कहलाया ।
+बाहुबलि जो पुत्र तुम्हारे, भरत से पहले मोक्ष सिधारे ।।६।।
+सुता आपकी दो बतलार्इ, ‘ब्राह्मी’ और ‘सुन्दरी’ कहलार्इ ।
+उनको भी विद्या सिखलार्इ, अक्षर और गिनती बतलार्इ ।।७।।
+एक दिन राजसभा के अंदर, एक अप्सरा नाच रही थी ।
+आयु उसकी बची अल्प थी, इसीलिए आगे नहिं नाच सकी थी ।।८।।
+विलय हो गया उसका सत्वर, झट आया वैराग्य उमड़कर ।
+बेटों को झट पास बुलाया, राजपाट सब में बँटवाया ।।९।।
+छोड़ सभी झंझट संसारी, वन जाने की करी तैयारी ।
+राजा हजारों साथ सिधाए, राजपाट-तज वन को धाये ।।१०।।
+लेकिन जब तुमने तप कीना, सबने अपना रस्ता लीना ।
+वेष-दिगम्बर तजकर सबने, छाल आदि के कपड़े पहने ।।११।।
+भूख-प्यास से जब घबराये, फल आदिक खा भूख मिटाये ।
+तीन सौ त्रेसठ धर्म फैलाये, जो अब दुनियाँ में दिखलाये ।।१२।।
+छै: महीने तक ध्यान लगाये, फिर भोजन करने को धाये ।
+भोजन-विधि जाने नहिं कोय, कैसे प्रभु का भोजन होय ।।१३।।
+इसी तरह बस चलते चलते, छै: महीने भोजन-बिन बीते ।
+नगर हस्तिनापुर में आये, राजा सोम श्रेयांस बताए ।।१४।।
+याद तभी पिछला-भव आया, तुमको फौरन ही पड़घाया ।
+रस-गन्ने का तुमने पाया, दुनिया को उपदेश सुनाया ।।१५।।
+तप कर केवलज्ञान उपाया, मोक्ष गए सब जग हर्षाया ।
+अतिशययुक्त तुम्हारा मंदिर, चाँदखेड़ी भँवरे के अंदर ।।१६।।
+उसका यह अतिशय बतलाया, कष्ट-क्लेश का होय सफाया ।
+मानतुंग पर दया दिखार्इ, जंजीरें सब काट गिरार्इ ।।१७।।
+राजसभा में मान बढ़ाया, जैनधर्म जग में फैलाया ।
+मुझ पर भी महिमा दिखलाओ, कष्ट भक्त का दूर भगाओ ।।१८।।
+(सोरठा)
+पाठ करे चालीस दिन, नित चालीस ही बार ।
+चाँदखेड़ी में आय के, खेवे धूप अपार ।।
+जन्म दरिद्री होय जो, होय कुबेर-समान ।
+नाम-वंश जग में चले, जिनके नहीं संतान ।।`,
+      sa: "",
+      en: `Chaaleesaa : bhagavaan aadinaatha (chaandakhedee)
+(chhanda: dohaa)
+Sheesha navaa arihanta ko, siddhana karoon pranaama |
+Upaadhyaaya aachaarya kaa le sukhakaaree naama | |
+Sarva saadhu aura sarasvatee jinamandira sukhakaara |
+Aadinaatha bhagavaan ko mana-mandira men dhaara | |
+(chaupaari chhanda)
+Jai jai aadinaatha jina svaamee, teena-kaala tihun-jaga men naamee |
+Vesha-digambara dhaara rahe ho, karmon ko tuma maara rahe ho | | 1 | |
+Ho sarvagya baata saba jaano; saaree duniyaan ko pahachaano |
+Nagara ayodhyaa jo kahalaaye, raajaa naabhiraaja batalaaye | | 2 | |
+Marudevee maataa ke udara se, chaita-vadee-navamee ko janme |
+Tumane jaga ko gyaana sikhaayaa, karmabhoomi kaa beeja upaayaa | | 3 | |
+Kalpavriksha jaba lage bichharane, janataa aari du:khadaa kahane |
+Saba kaa sanshaya tabhee bhagaayaa, soorya-chandra kaa gyaana karaayaa | | 4 | |
+Khetee karanaa bhee sikhalaayaa, nyaaya-danda aadika samajhaayaa |
+Tumane raaja kiyaa neeti kaa, sabaka aapase jaga ne seekhaa | | 5 | |
+Putra aapakaa bharata bataayaa, chakravartee jaga men kahalaayaa |
+Baahubali jo putra tumhaare, bharata se pahale moksha sidhaare | | 6 | |
+Sutaa aapakee do batalaari, ‘braahmee’ aura ‘sundaree’ kahalaari |
+Unako bhee vidyaa sikhalaari, akshara aura ginatee batalaari | | 7 | |
+Eka dina raajasabhaa ke andara, eka apsaraa naacha rahee thee |
+Aayu usakee bachee alpa thee, iseelie aage nahin naacha sakee thee | | 8 | |
+Vilaya ho gayaa usakaa satvara, jhata aayaa vairaagya umadakara |
+Beton ko jhata paasa bulaayaa, raajapaata saba men bantavaayaa | | 9 | |
+Chhoda sabhee jhanjhata sansaaree, vana jaane kee karee taiyaaree |
+Raajaa hajaaron saatha sidhaae, raajapaata-taja vana ko dhaaye | | 10 | |
+Lekina jaba tumane tapa keenaa, sabane apanaa rastaa leenaa |
+Vesha-digambara tajakara sabane, chhaala aadi ke kapade pahane | | 11 | |
+Bhookha-pyaasa se jaba ghabaraaye, phala aadika khaa bhookha mitaaye |
+Teena sau tresatha dharma phailaaye, jo aba duniyaan men dikhalaaye | | 12 | |
+Chhai: maheene taka dhyaana lagaaye, phira bhojana karane ko dhaaye |
+Bhojana-vidhi jaane nahin koya, kaise prabhu kaa bhojana hoya | | 13 | |
+Isee taraha basa chalate chalate, chhai: maheene bhojana-bina beete |
+Nagara hastinaapura men aaye, raajaa soma shreyaansa bataae | | 14 | |
+Yaada tabhee pichhalaa-bhava aayaa, tumako phaurana hee padaghaayaa |
+Rasa-ganne kaa tumane paayaa, duniyaa ko upadesha sunaayaa | | 15 | |
+Tapa kara kevalagyaana upaayaa, moksha gae saba jaga harshaayaa |
+Atishayayukta tumhaaraa mandira, chaandakhedee bhanvare ke andara | | 16 | |
+Usakaa yaha atishaya batalaayaa, kashta-klesha kaa hoya saphaayaa |
+Maanatunga para dayaa dikhaari, janjeeren saba kaata giraari | | 17 | |
+Raajasabhaa men maana badhaayaa, jainadharma jaga men phailaayaa |
+Mujha para bhee mahimaa dikhalaao, kashta bhakta kaa doora bhagaao | | 18 | |
+(sorathaa)
+Paatha kare chaaleesa dina, nita chaaleesa hee baara |
+Chaandakhedee men aaya ke, kheve dhoopa apaara | |
+Janma daridree hoya jo, hoya kubera-samaana |
+Naama-vansha jaga men chale, jinake naheen santaana | |`,
+    },
+  },
+  {
+    id: "ajitnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી અજિતનાથ જી ચાલીસા",
+      hi: "श्री अजितनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Ajitnath Ji Chalisa",
+    },
+    text: {
+      gu: `શ્રી આદિનાથ કો શીશ નવાકર, માતા સરસ્વતી કો ધ્યાય ।
+શુરૂ કરૂ શ્રી અજિતનાથ કા, ચાલીસા સ્વ પર સુખદાય ।।
+જય શ્રી અજિતનાથ જિનરાજ, પાવન ચિન્હ ધરે ગજરાજ ।
+નગર અયોધ્યા કરતે રાજ, જિનાશત્રૂ નામક મહારાજ।।
+વિજયસેના ઉનકી મહારાની, દેખે સોલહ સ્વપના લલામી ।
+દિવ્ય વિમાન વિજય સે ચયકર, જનની ઉદાર બસે પ્રભુ આકર ।।
+શુક્લ દશમી માઘ માસ કી, જન્મ જયંતી અજિતનાથ કી ।
+ઇન્દ્ર પ્રભુ કી શીશધાર કર, ગએ સુમેરુ હર્ષિત હોકર।।
+નીર ક્ષીર સાગર સે લાકર, નવહન કરે ભક્તિ મેં ભર કર ।
+વસ્ત્રાભૂષણ દિવ્ય પહનાયે, વાપસ લૌટ અયોધ્યા આયે ।।
+અજિતનાથ કી શોભા ન્યારી, વર્ણ સ્વર્ણ તમ ક્રાંતિકારી ।
+બીતા બચપન જબ હિતકારી, બ્યાહ હુઆ તબ મંગલકારી ।।
+કર્મબંધ નહીં હો ભોગો મેં, અંતદૃષ્ટી થી યોગો મેં ।
+ચંચલ ચપલા દેખી નભ મેં, હુઆ વૈરાગ્ય નિરંતર મન મેં ।।
+રાજપાઠ નિજ સૂત કો દેકર, હુએ દિગંબર દીક્ષા લેકર ।
+છહ દિન બાદ હુઆ આહાર, કરે શ્રેષ્ઠી બ્રમ્હા સત્કાર ।।
+કિયે પંચ અચરજ દેવોં ને, પુન્યોપાર્જન કિયા સભી ને ।
+બારહ વર્ષ તપસ્યા કીની, દિવ્ય જ્ઞાન કી સિદ્ધિ નવીની ।।
+ધનપતિ ને ઇન્દ્રાજ્ઞા પાકર, રચ દિયા સમોશરણ હર્ષાકર ।
+સભા વિશાલ લગી જિનવર કી, દિવ્ય ધ્વનિ ખિરતી પ્રભુવર કી ।।
+વાદ વિવાદ મિટાને હેતુ, અનેકાંત કા બાઁધા સેતુ ।
+હૈં સાપેક્ષ યહા સબ તત્વ, અન્યોન્યાક્ષ્રિત હૈં ઉન સત્વ ।।
+સબ જીવોં મેં હૈં જો આતમ, વે ભી હો સકતે શુદ્ધાતમ ।
+ધ્યાન અગ્નિ કા તાપ મિલે જબ, કેવલ જ્ઞાન કી જ્યોતિ જલે તબ।।
+મોક્ષ માર્ગ તો બહુત સરલ હૈં, લેકિન રાહી હુએ વિરલ હૈં।
+હીરા તો સબ લે નહીં પાવે, સબ્જી ભાજી ભીડ ધરાવે ।।
+દિવ્ય ધ્વનિ સુનકર જિનવર કી, ખિલી કલી જન જન કે મન કી।
+પ્રાપ્તિ કર સમ્યક દર્શન કી, બગિયા મહકી ભવ્ય જનોં કી ।।
+હિંસક પશુ ભી સમતા ધારે, જન્મ જન્મ કા બૈર નિવારે ।
+પૂર્ણ પ્રભાવના હુઈ ધર્મ કી, ભાવના શુદ્ધ હુઈ ભવિજન કી ।।
+દૂર દૂર તક હુઆ વિહાર, સદાચાર કા હુઆ પ્રચાર ।
+એક માહ કી ઉમ્ર રહી જબ, ગએ શિખર સમ્મેદ પ્રભુ તબ ।।
+અખંડ મૌન કી મુદ્રા કી ધારણ, કર્મ અઘાતી હુએ નિવારણ।
+શુક્લ ધ્યાન કા હુઆ પ્રતાપ, લોક શિખર પર પહુચે આપ ।।
+સિદ્ધવર કૂટ કી ભારી મહિમા, ગાતે સબ પ્રભુ કી ગુણ ગરિમા ।।
+વિજિત કિયે શ્રી અજિત ને, અષ્ટ કર્મ બલવાન ।
+નિહિત આત્મ ગમ અમિત હૈં, અરુણા સુખ કી ખાન ।।`,
+      hi: `श्री आदिनाथ को शीश नवाकर, माता सरस्वती को ध्याय ।
+शुरू करू श्री अजितनाथ का, चालीसा स्व पर सुखदाय ।।
+जय श्री अजितनाथ जिनराज, पावन चिन्ह धरे गजराज ।
+नगर अयोध्या करते राज, जिनाशत्रू नामक महाराज।।
+विजयसेना उनकी महारानी, देखे सोलह स्वपना ललामी ।
+दिव्य विमान विजय से चयकर, जननी उदार बसे प्रभु आकर ।।
+शुक्ल दशमी माघ मास की, जन्म जयंती अजितनाथ की ।
+इन्द्र प्रभु की शीशधार कर, गए सुमेरु हर्षित होकर।।
+नीर क्षीर सागर से लाकर, नवहन करे भक्ति में भर कर ।
+वस्त्राभूषण दिव्य पहनाये, वापस लौट अयोध्या आये ।।
+अजितनाथ की शोभा न्यारी, वर्ण स्वर्ण तम क्रांतिकारी ।
+बीता बचपन जब हितकारी, ब्याह हुआ तब मंगलकारी ।।
+कर्मबंध नहीं हो भोगो में, अंतदृष्टी थी योगो में ।
+चंचल चपला देखी नभ में, हुआ वैराग्य निरंतर मन में ।।
+राजपाठ निज सूत को देकर, हुए दिगंबर दीक्षा लेकर ।
+छह दिन बाद हुआ आहार, करे श्रेष्ठी ब्रम्हा सत्कार ।।
+किये पंच अचरज देवों ने, पुन्योपार्जन किया सभी ने ।
+बारह वर्ष तपस्या कीनी, दिव्य ज्ञान की सिद्धि नवीनी ।।
+धनपति ने इन्द्राज्ञा पाकर, रच दिया समोशरण हर्षाकर ।
+सभा विशाल लगी जिनवर की, दिव्य ध्वनि खिरती प्रभुवर की ।।
+वाद विवाद मिटाने हेतु, अनेकांत का बाँधा सेतु ।
+हैं सापेक्ष यहा सब तत्व, अन्योन्याक्ष्रित हैं उन सत्व ।।
+सब जीवों में हैं जो आतम, वे भी हो सकते शुद्धातम ।
+ध्यान अग्नि का ताप मिले जब, केवल ज्ञान की ज्योति जले तब।।
+मोक्ष मार्ग तो बहुत सरल हैं, लेकिन राही हुए विरल हैं।
+हीरा तो सब ले नहीं पावे, सब्जी भाजी भीड़ धरावे ।।
+दिव्य ध्वनि सुनकर जिनवर की, खिली कली जन जन के मन की।
+प्राप्ति कर सम्यक दर्शन की, बगिया महकी भव्य जनों की ।।
+हिंसक पशु भी समता धारे, जन्म जन्म का बैर निवारे ।
+पूर्ण प्रभावना हुई धर्म की, भावना शुद्ध हुई भविजन की ।।
+दूर दूर तक हुआ विहार, सदाचार का हुआ प्रचार ।
+एक माह की उम्र रही जब, गए शिखर सम्मेद प्रभु तब ।।
+अखंड मौन की मुद्रा की धारण, कर्म अघाती हुए निवारण।
+शुक्ल ध्यान का हुआ प्रताप, लोक शिखर पर पहुचे आप ।।
+सिद्धवर कूट की भारी महिमा, गाते सब प्रभु की गुण गरिमा ।।
+विजित किये श्री अजित ने, अष्ट कर्म बलवान ।
+निहित आत्म गम अमित हैं, अरुणा सुख की खान ।।`,
+      sa: "",
+      en: `Shree aadinaatha ko sheesha navaakara, maataa sarasvatee ko dhyaaya |
+Shuroo karoo shree ajitanaatha kaa, chaaleesaa sva para sukhadaaya | |
+Jaya shree ajitanaatha jinaraaja, paavana chinha dhare gajaraaja |
+Nagara ayodhyaa karate raaja, jinaashatroo naamaka mahaaraaja | |
+Vijayasenaa unakee mahaaraanee, dekhe solaha svapanaa lalaamee |
+Divya vimaana vijaya se chayakara, jananee udaara base prabhu aakara | |
+Shukla dashamee maagha maasa kee, janma jayantee ajitanaatha kee |
+Indra prabhu kee sheeshadhaara kara, gae sumeru harshita hokara | |
+Neera ksheera saagara se laakara, navahana kare bhakti men bhara kara |
+Vastraabhooshana divya pahanaaye, vaapasa lauta ayodhyaa aaye | |
+Ajitanaatha kee shobhaa nyaaree, varna svarna tama kraantikaaree |
+Beetaa bachapana jaba hitakaaree, byaaha huaa taba mangalakaaree | |
+Karmabandha naheen ho bhogo men, antadrishtee thee yogo men |
+Chanchala chapalaa dekhee nabha men, huaa vairaagya nirantara mana men | |
+Raajapaatha nija soota ko dekara, hue diganbara deekshaa lekara |
+Chhaha dina baada huaa aahaara, kare shreshthee bramhaa satkaara | |
+Kiye pancha acharaja devon ne, punyopaarjana kiyaa sabhee ne |
+Baaraha varsha tapasyaa keenee, divya gyaana kee siddhi naveenee | |
+Dhanapati ne indraagyaa paakara, racha diyaa samosharana harshaakara |
+Sabhaa vishaala lagee jinavara kee, divya dhvani khiratee prabhuvara kee | |
+Vaada vivaada mitaane hetu, anekaanta kaa baandhaa setu |
+Hain saapeksha yahaa saba tatva, anyonyaakshrita hain una satva | |
+Saba jeevon men hain jo aatama, ve bhee ho sakate shuddhaatama |
+Dhyaana agni kaa taapa mile jaba, kevala gyaana kee jyoti jale taba | |
+Moksha maarga to bahuta sarala hain, lekina raahee hue virala hain |
+Heeraa to saba le naheen paave, sabjee bhaajee bheeda dharaave | |
+Divya dhvani sunakara jinavara kee, khilee kalee jana jana ke mana kee |
+Praapti kara samyaka darshana kee, bagiyaa mahakee bhavya janon kee | |
+Hinsaka pashu bhee samataa dhaare, janma janma kaa baira nivaare |
+Poorna prabhaavanaa huee dharma kee, bhaavanaa shuddha huee bhavijana kee | |
+Doora doora taka huaa vihaara, sadaachaara kaa huaa prachaara |
+Eka maaha kee umra rahee jaba, gae shikhara sammeda prabhu taba | |
+Akhanda mauna kee mudraa kee dhaarana, karma aghaatee hue nivaarana |
+Shukla dhyaana kaa huaa prataapa, loka shikhara para pahuche aapa | |
+Siddhavara koota kee bhaaree mahimaa, gaate saba prabhu kee guna garimaa | |
+Vijita kiye shree ajita ne, ashta karma balavaana |
+Nihita aatma gama amita hain, arunaa sukha kee khaana | |`,
+    },
+  },
+  {
+    id: "sambhavnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી સમ્ભવનાથ જી ચાલીસા",
+      hi: "श्री सम्भवनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Sambhavnath Ji Chalisa",
+    },
+    text: {
+      gu: `શ્રી જિનદેવ કો કર કર વન્દન, જિનવાણી કો મન મેં ધ્યાય ।
+કામ અસંભવ કર દે સંભવ, સમદર્શી સંભવ જિનરાય ।।
+જગતપુજ્ય શ્રી સંભવ સ્વામી, તીસરે તીર્થંકર હૈં નામી ।
+ધર્મ તીર્થ પ્રગટાને વાલે, ભવ દુઃખ દૂર ભાગને વાલે ।।
+શ્રાવસ્તી નગરી અતિ સોહે, દેવો કે ભી મનકો મોહે ।
+માત સુષેણા પિતા દ્રઢરાજ, ધન્ય હુએ જન્મે જિનરાજ ।।
+ફાલ્ગુન શુક્લ અષ્ટમી આએ, ગર્ભ કલ્યાણક દેવ મનાએ ।
+પૂનમ કાર્તિક શુક્લ આઈ, હુઈ પુન્ય પ્રગટે જિનરાઈ ।।
+તીન લોક મેં ખુશિયા છાઈ, શચી પ્રભુ કો લેને આઈ ।
+મેરુ પર અભિષેક રચાયા, સંભવ પ્રભુ શુભ નામ ધરાયા ।।
+બિતા બચપન યૌવન આયા, પિતા ને રાજ્યાભિષેક કરાયા ।
+મિલી રાનિયા સબ અનુરૂપ, સુખ ભોગે ચવાલિસ લક્ષ પૂર્વ ।।
+એક દિન મહલ કી છત કે ઊપર, દેખે વન સુષમા મનહર ।
+દેખા મેઘ મહલ હિમખણ્ડ, હુઆ નષ્ટ ચલી વાયુ પ્રચણ્ડ ।।
+તભી હુઆ વૈરાગ્ય એકદમ, ગૃહ્બંધન લગા નાગપાશ સમ ।
+કરતે વસ્તુ સ્વરૂપ ચિંતવન, દેવ લોકાન્તિક કરે સમર્થન ।।
+નિજ સૂત કો દેકર રાજ, વન ગમન કરે જિનરાજ ।
+હુએ સવાર સિદ્ધાર્થ પાલકી, ગએ રાહ સહેતુક વન કી ।।
+મંગસિર શુક્લ પૂર્ણિમા પ્યારી, સહસ ભૂપ સંઘ દીક્ષા ધારી ।
+તજા પરિગ્રહ કેશ લોંચ કર, ધ્યાન ધરા પૂરબ કો મુખ કર ।।
+ધારણ કર ઉસ દિન ઉપવાસ, વન મેં હી કિયા નિવાસ ।
+આત્મશુદ્ધિ કા પ્રબલ પ્રમાણ, તત્ક્ષણ હુઆ મનઃ પર્યાય જ્ઞાન ।।
+પ્રથામાહાર હુઆ મુનિવર કા હુઆ, ધન્ય જીવન સુરેન્દ્ર કા ।
+પંચાશ્ચાર્યો સે દેવોં કે હુએ, પ્રજા જન સુખી નગર કે ।।
+ચૌદહ વર્ષો કી આતમ સિદ્ધિ, સ્વયં હી ઉપજી કેવલ ઋદ્ધિ ।
+કૃષ્ણ ચતુર્થી કાર્તિક સાર, સમોશરણ રચના હિતકાર ।।
+ખિરતી સુખકારી જિનવાણી, નિજ ભાષા મેં સમઝે પ્રાણી ।
+વિષયભોગ હૈં વિષસમ વિષમય, ઇનમે મત હોના તુમ તન્મય ।।
+તૃષ્ણા બઢતી હૈં ભોગો સે, કાયા ઘિરતી હૈં રોગોં સે ।
+જિનલિંગ સે નિજ કો પહચાનો, અપના શુદ્ધાતમ સરધાનો ।।
+દર્શન જ્ઞાન ચરિત્ર બતાયે, મોક્ષ માર્ગ એકત્વ દિખાયે ।
+જીવોં કા સન્માર્ગ બતાયા, ભવ્યો કા ઉદ્ધાર કરાયા ।।
+ગણધર એક સૌ પાંચ પ્રભૂ કે, મુનિવર પંદ્રહ સહસ સંઘ કે ।
+દેવી દેવ મનુજ બહુતેરે, સભા મેં થે તિર્યંચ ઘનેરે ।।
+એક મહિના ઉમ્ર રહી જબ, પહુઁચ ગએ સમ્મેદ શિખર તબ ।
+અચલ હુએ ખડગાસન પ્રભુ, કર્મ નાશ કર હુએ સ્વયંભૂ ।।
+ચૈત સુદી ષષ્ઠી થી ન્યારી, ધવલ કૂટ કી મહિમા ભારી ।
+સાઠ લાખ પૂર્વ કા જીવન, પગ મેં અશ્વ થા શુભ લક્ષણ।।
+ચાલીસા શ્રી સંભવ નાથ, પથ કરો શ્રદ્ધા કે સાથ ।
+મનવાંછિત સબ પૂરણ હોવે, અરુણા જનમ મરણ દુઃખ ખોવે ।।`,
+      hi: `श्री जिनदेव को कर कर वन्दन, जिनवाणी को मन में ध्याय ।
+काम असंभव कर दे संभव, समदर्शी संभव जिनराय ।।
+जगतपुज्य श्री संभव स्वामी, तीसरे तीर्थंकर हैं नामी ।
+धर्म तीर्थ प्रगटाने वाले, भव दुःख दूर भागने वाले ।।
+श्रावस्ती नगरी अति सोहे, देवो के भी मनको मोहे ।
+मात सुषेणा पिता द्रढ़राज, धन्य हुए जन्मे जिनराज ।।
+फाल्गुन शुक्ल अष्टमी आए, गर्भ कल्याणक देव मनाए ।
+पूनम कार्तिक शुक्ल आई, हुई पुन्य प्रगटे जिनराई ।।
+तीन लोक में खुशिया छाई, शची प्रभु को लेने आई ।
+मेरु पर अभिषेक रचाया, संभव प्रभु शुभ नाम धराया ।।
+बिता बचपन यौवन आया, पिता ने राज्याभिषेक कराया ।
+मिली रानिया सब अनुरूप, सुख भोगे चवालिस लक्ष पूर्व ।।
+एक दिन महल की छत के ऊपर, देखे वन सुषमा मनहर ।
+देखा मेघ महल हिमखण्ड, हुआ नष्ट चली वायु प्रचण्ड ।।
+तभी हुआ वैराग्य एकदम, गृह्बंधन लगा नागपाश सम ।
+करते वस्तु स्वरूप चिंतवन, देव लोकान्तिक करे समर्थन ।।
+निज सूत को देकर राज, वन गमन करे जिनराज ।
+हुए सवार सिद्धार्थ पालकी, गए राह सहेतुक वन की ।।
+मंगसिर शुक्ल पूर्णिमा प्यारी, सहस भूप संघ दीक्षा धारी ।
+तजा परिग्रह केश लोंच कर, ध्यान धरा पूरब को मुख कर ।।
+धारण कर उस दिन उपवास, वन में ही किया निवास ।
+आत्मशुद्धि का प्रबल प्रमाण, तत्क्षण हुआ मनः पर्याय ज्ञान ।।
+प्रथामाहार हुआ मुनिवर का हुआ, धन्य जीवन सुरेन्द्र का ।
+पंचाश्चार्यो से देवों के हुए, प्रजा जन सुखी नगर के ।।
+चौदह वर्षो की आतम सिद्धि, स्वयं ही उपजी केवल ऋद्धि ।
+कृष्ण चतुर्थी कार्तिक सार, समोशरण रचना हितकार ।।
+खिरती सुखकारी जिनवाणी, निज भाषा में समझे प्राणी ।
+विषयभोग हैं विषसम विषमय, इनमे मत होना तुम तन्मय ।।
+तृष्णा बढती हैं भोगो से, काया घिरती हैं रोगों से ।
+जिनलिंग से निज को पहचानो, अपना शुद्धातम सरधानो ।।
+दर्शन ज्ञान चरित्र बताये, मोक्ष मार्ग एकत्व दिखाये ।
+जीवों का सन्मार्ग बताया, भव्यो का उद्धार कराया ।।
+गणधर एक सौ पांच प्रभू के, मुनिवर पंद्रह सहस संघ के ।
+देवी देव मनुज बहुतेरे, सभा में थे तिर्यंच घनेरे ।।
+एक महिना उम्र रही जब, पहुँच गए सम्मेद शिखर तब ।
+अचल हुए खडगासन प्रभु, कर्म नाश कर हुए स्वयंभू ।।
+चैत सुदी षष्ठी थी न्यारी, धवल कूट की महिमा भारी ।
+साठ लाख पूर्व का जीवन, पग में अश्व था शुभ लक्षण।।
+चालीसा श्री संभव नाथ, पथ करो श्रद्धा के साथ ।
+मनवांछित सब पूरण होवे, अरुणा जनम मरण दुःख खोवे ।।`,
+      sa: "",
+      en: `Shree jinadeva ko kara kara vandana, jinavaanee ko mana men dhyaaya |
+Kaama asanbhava kara de sanbhava, samadarshee sanbhava jinaraaya | |
+Jagatapujya shree sanbhava svaamee, teesare teerthankara hain naamee |
+Dharma teertha pragataane vaale, bhava duhkha doora bhaagane vaale | |
+Shraavastee nagaree ati sohe, devo ke bhee manako mohe |
+Maata sushenaa pitaa dradharaaja, dhanya hue janme jinaraaja | |
+Phaalguna shukla ashtamee aae, garbha kalyaanaka deva manaae |
+Poonama kaartika shukla aaee, huee punya pragate jinaraaee | |
+Teena loka men khushiyaa chhaaee, shachee prabhu ko lene aaee |
+Meru para abhisheka rachaayaa, sanbhava prabhu shubha naama dharaayaa | |
+Bitaa bachapana yauvana aayaa, pitaa ne raajyaabhisheka karaayaa |
+Milee raaniyaa saba anuroopa, sukha bhoge chavaalisa laksha poorva | |
+Eka dina mahala kee chhata ke oopara, dekhe vana sushamaa manahara |
+Dekhaa megha mahala himakhanda, huaa nashta chalee vaayu prachanda | |
+Tabhee huaa vairaagya ekadama, grihbandhana lagaa naagapaasha sama |
+Karate vastu svaroopa chintavana, deva lokaantika kare samarthana | |
+Nija soota ko dekara raaja, vana gamana kare jinaraaja |
+Hue savaara siddhaartha paalakee, gae raaha sahetuka vana kee | |
+Mangasira shukla poornimaa pyaaree, sahasa bhoopa sangha deekshaa dhaaree |
+Tajaa parigraha kesha loncha kara, dhyaana dharaa pooraba ko mukha kara | |
+Dhaarana kara usa dina upavaasa, vana men hee kiyaa nivaasa |
+Aatmashuddhi kaa prabala pramaana, tatkshana huaa manah paryaaya gyaana | |
+Prathaamaahaara huaa munivara kaa huaa, dhanya jeevana surendra kaa |
+Panchaashchaaryo se devon ke hue, prajaa jana sukhee nagara ke | |
+Chaudaha varsho kee aatama siddhi, svayan hee upajee kevala riddhi |
+Krishna chaturthee kaartika saara, samosharana rachanaa hitakaara | |
+Khiratee sukhakaaree jinavaanee, nija bhaashaa men samajhe praanee |
+Vishayabhoga hain vishasama vishamaya, iname mata honaa tuma tanmaya | |
+Trishnaa badhatee hain bhogo se, kaayaa ghiratee hain rogon se |
+Jinalinga se nija ko pahachaano, apanaa shuddhaatama saradhaano | |
+Darshana gyaana charitra bataaye, moksha maarga ekatva dikhaaye |
+Jeevon kaa sanmaarga bataayaa, bhavyo kaa uddhaara karaayaa | |
+Ganadhara eka sau paancha prabhoo ke, munivara pandraha sahasa sangha ke |
+Devee deva manuja bahutere, sabhaa men the tiryancha ghanere | |
+Eka mahinaa umra rahee jaba, pahuncha gae sammeda shikhara taba |
+Achala hue khadagaasana prabhu, karma naasha kara hue svayanbhoo | |
+Chaita sudee shashthee thee nyaaree, dhavala koota kee mahimaa bhaaree |
+Saatha laakha poorva kaa jeevana, paga men ashva thaa shubha lakshana | |
+Chaaleesaa shree sanbhava naatha, patha karo shraddhaa ke saatha |
+Manavaanchhita saba poorana hove, arunaa janama marana duhkha khove | |`,
+    },
+  },
+  {
+    id: "abhinandannath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી અભિનંદનનાથ જી ચાલીસા",
+      hi: "श्री अभिनंदननाथ जी चालीसा",
+      sa: "",
+      en: "Shri Abhinandannath Ji Chalisa",
+    },
+    text: {
+      gu: `ઋષભ અજિત સમ્ભવ અભિનન્દન, દયા કરે સબ પર દુખભંજન ।
+જનમ મરણ કે ટૂટેં બંધન, મનમન્દિર તિષ્ઠે અભિનન્દન ।।
+અયોધ્યા નગરી અતિ સુન્દર, કરતે રાજ્ય ભૂપતિ સંવર ।
+સિદ્ધાર્થા ઉનકી મહારાની, સુન્દરતા મેં થી લાસાની ।।
+રાની ને દેખે શુભ સપને, બરસે રતન મહલ કે અંગને ।
+મુખ મેં દેખા હસ્તી સમાતા, કહલાઈ તીર્થંકર કી માતા ।।
+જનની ઉદર પ્રભુ અવતારે, સ્વર્ગોં સે આયે સુર સારે ।
+માત પિતા કી પૂજા કરતે, ગર્ભ કલ્યાણક ઉત્સવ કરતે ।।
+દ્વાદશી માઘ શુક્લા કી આઈ, જન્મે અભિનન્દન જિનરાઈ ।
+દેવોં કે ભી આસન કાંપે, શિશુ કો લેકે ગએ મેરુ પે ।।
+નવ્હન કિયા શત આઠ કલશોં સે, અભિનન્દન કહા પ્રેમ ભાવ સે ।
+સૂર્ય સમાન પ્રભુ તેજસ્વી, હુએ જગત મેં મહા યશસ્વી ।।
+બોલે હિત મિત વચન સુબોધ, વાણી મેં કહી નહીં વિરોધ ।
+યૌવન સે જબ હુએ વિભૂષિત, રાજ્યશ્રી કો કિયા સુશોભિત ।।
+સાઢે તીન સૌ ધનુષ પ્રમાણ, ઉન્નત પ્રભુ તન શોભાવાન ।
+પરણાઈ કન્યાએં અનેક, લેકિન છોડા નહીં વિવેક ।।
+નિત પ્રતિ નૂતન ભોગ ભોગતે, જલ મેં ભિન્ન કમલ સમ રહતે ।
+એક દિન દેખે મેધ અમ્બર મેં, મેઘ મહલ બનતે પલ મેં ।।
+હુએ વિલીન પવન કે ચલને સે, ઉદાસીન હો ગએ જગત સે ।
+રાજ પાઠ નિજ સૂત કો સૌપા, મન મેં સમતા વૃક્ષ કો રોપા ।।
+ગએ ઉગ્ર નામક ઉદ્યાન, દીક્ષિત હુએ વહા ગુણખાન ।
+શુક્લા દ્વાદશી થી માઘ માસ, દો દિન ધારા ઉપવાસ ।।
+તીસરે દિન ફિર કિયા વિહાર, ઇન્દ્રદત્ત નૃપ ને દિયા આહાર ।
+વર્ષ અઠારહ કિયા ઘોર તપ, સહે શીત વર્ષા ઔર આતપ ।।
+એક દિન અસન વૃક્ષ કે નીચે, ધ્યાન વૃષ્ટિ સે આતમ સીંચે ।
+ઉદય હુઆ કેવલ દિનકર કા, લોકાલોક જ્ઞાન મેં ઝલકા ।।
+હુઈ તબ સમોશરણ કી રચના, ખીરી પ્રભુ કી દિવ્યા દેશના ।
+જીવજીવ ઔર ધર્માધર્મ, આકાશ કાલ ષઠ્દ્રવ્ય મર્મ ।।
+જીવ દ્રવ્ય હી સારભૂત હૈં, સ્વયં સિદ્ધિ હી પરમભુત હૈં ।
+રૂપ તીન લોક સમઝાયા, ઉર્ધ્વ મધ્ય અધોલોક બતાયા ।।
+નીચે નરક બતાયે સાત, ભુગતેં પાપી અપને પાપ ।
+ઊપર સૌલહ સ્વર્ગ સુજાન, ચતુર્નિકાય દેવ વિમાન ।।
+મધ્ય લોક મેં દ્વીપ અસંખ્ય, ઢાઈ દ્વીપ મેં જાયે ભવ્ય ।
+ભટકોં કો સન્માર્ગ દિખાયા, ભવ્યો કો ભવ પાર લગાયા ।।
+પહુચે ગઢ સમ્મેદ અંત મેં, પ્રતિમા યોગ ધરા એકાંત મેં ।
+શુક્લધ્યાન મેં લીન હુએ તબ, કર્મ પ્રકૃતિ ક્ષીર્ણ હુઈ સબ ।।
+બૈસાખ શુક્લ ષષ્ઠી પુન્યવાન, પ્રાતઃ પ્રભુ કા હુઆ નિર્વાણ ।
+મોક્ષ કલ્યાણક કરે સુર આકર, આનંદ્કુટ પૂજે હર્ષાકર ।।
+ચાલીસા શ્રી જિન અભિનન્દન,દૂર કરેં સબકે ભવક્રન્દન ।
+સ્વામી તુમ હો પાપનિકન્દન,અરુણા કરતી શત શત વન્દન ।।`,
+      hi: `ऋषभ अजित सम्भव अभिनन्दन, दया करे सब पर दुखभंजन ।
+जनम मरण के टूटें बंधन, मनमन्दिर तिष्ठे अभिनन्दन ।।
+अयोध्या नगरी अति सुन्दर, करते राज्य भूपति संवर ।
+सिद्धार्था उनकी महारानी, सुन्दरता में थी लासानी ।।
+रानी ने देखे शुभ सपने, बरसे रतन महल के अंगने ।
+मुख में देखा हस्ती समाता, कहलाई तीर्थंकर की माता ।।
+जननी उदर प्रभु अवतारे, स्वर्गों से आये सुर सारे ।
+मात पिता की पूजा करते, गर्भ कल्याणक उत्सव करते ।।
+द्वादशी माघ शुक्ला की आई, जन्मे अभिनन्दन जिनराई ।
+देवों के भी आसन कांपे, शिशु को लेके गए मेरु पे ।।
+नव्हन किया शत आठ कलशों से, अभिनन्दन कहा प्रेम भाव से ।
+सूर्य समान प्रभु तेजस्वी, हुए जगत में महा यशस्वी ।।
+बोले हित मित वचन सुबोध, वाणी में कही नहीं विरोध ।
+यौवन से जब हुए विभूषित, राज्यश्री को किया सुशोभित ।।
+साढ़े तीन सौ धनुष प्रमाण, उन्नत प्रभु तन शोभावान ।
+परणाई कन्याएं अनेक, लेकिन छोड़ा नहीं विवेक ।।
+नित प्रति नूतन भोग भोगते, जल में भिन्न कमल सम रहते ।
+एक दिन देखे मेध अम्बर में, मेघ महल बनते पल में ।।
+हुए विलीन पवन के चलने से, उदासीन हो गए जगत से ।
+राज पाठ निज सूत को सौपा, मन में समता वृक्ष को रोपा ।।
+गए उग्र नामक उद्यान, दीक्षित हुए वहा गुणखान ।
+शुक्ला द्वादशी थी माघ मास, दो दिन धारा उपवास ।।
+तीसरे दिन फिर किया विहार, इन्द्रदत्त नृप ने दिया आहार ।
+वर्ष अठारह किया घोर तप, सहे शीत वर्षा और आतप ।।
+एक दिन असन वृक्ष के नीचे, ध्यान वृष्टि से आतम सींचे ।
+उदय हुआ केवल दिनकर का, लोकालोक ज्ञान में झलका ।।
+हुई तब समोशरण की रचना, खीरी प्रभु की दिव्या देशना ।
+जीवजीव और धर्माधर्म, आकाश काल षठ्द्रव्य मर्म ।।
+जीव द्रव्य ही सारभूत हैं, स्वयं सिद्धि ही परमभुत हैं ।
+रूप तीन लोक समझाया, उर्ध्व मध्य अधोलोक बताया ।।
+नीचे नरक बताये सात, भुगतें पापी अपने पाप ।
+ऊपर सौलह स्वर्ग सुजान, चतुर्निकाय देव विमान ।।
+मध्य लोक में द्वीप असंख्य, ढाई द्वीप में जाये भव्य ।
+भटकों को सन्मार्ग दिखाया, भव्यो को भव पार लगाया ।।
+पहुचे गढ़ सम्मेद अंत में, प्रतिमा योग धरा एकांत में ।
+शुक्लध्यान में लीन हुए तब, कर्म प्रकृति क्षीर्ण हुई सब ।।
+बैसाख शुक्ल षष्ठी पुन्यवान, प्रातः प्रभु का हुआ निर्वाण ।
+मोक्ष कल्याणक करे सुर आकर, आनंद्कुट पूजे हर्षाकर ।।
+चालीसा श्री जिन अभिनन्दन,दूर करें सबके भवक्रन्दन ।
+स्वामी तुम हो पापनिकन्दन,अरुणा करती शत शत वन्दन ।।`,
+      sa: "",
+      en: `Rishabha ajita sambhava abhinandana, dayaa kare saba para dukhabhanjana |
+Janama marana ke tooten bandhana, manamandira tishthe abhinandana | |
+Ayodhyaa nagaree ati sundara, karate raajya bhoopati sanvara |
+Siddhaarthaa unakee mahaaraanee, sundarataa men thee laasaanee | |
+Raanee ne dekhe shubha sapane, barase ratana mahala ke angane |
+Mukha men dekhaa hastee samaataa, kahalaaee teerthankara kee maataa | |
+Jananee udara prabhu avataare, svargon se aaye sura saare |
+Maata pitaa kee poojaa karate, garbha kalyaanaka utsava karate | |
+Dvaadashee maagha shuklaa kee aaee, janme abhinandana jinaraaee |
+Devon ke bhee aasana kaanpe, shishu ko leke gae meru pe | |
+Navhana kiyaa shata aatha kalashon se, abhinandana kahaa prema bhaava se |
+Soorya samaana prabhu tejasvee, hue jagata men mahaa yashasvee | |
+Bole hita mita vachana subodha, vaanee men kahee naheen virodha |
+Yauvana se jaba hue vibhooshita, raajyashree ko kiyaa sushobhita | |
+Saadhe teena sau dhanusha pramaana, unnata prabhu tana shobhaavaana |
+Paranaaee kanyaaen aneka, lekina chhodaa naheen viveka | |
+Nita prati nootana bhoga bhogate, jala men bhinna kamala sama rahate |
+Eka dina dekhe medha ambara men, megha mahala banate pala men | |
+Hue vileena pavana ke chalane se, udaaseena ho gae jagata se |
+Raaja paatha nija soota ko saupaa, mana men samataa vriksha ko ropaa | |
+Gae ugra naamaka udyaana, deekshita hue vahaa gunakhaana |
+Shuklaa dvaadashee thee maagha maasa, do dina dhaaraa upavaasa | |
+Teesare dina phira kiyaa vihaara, indradatta nripa ne diyaa aahaara |
+Varsha athaaraha kiyaa ghora tapa, sahe sheeta varshaa aura aatapa | |
+Eka dina asana vriksha ke neeche, dhyaana vrishti se aatama seenche |
+Udaya huaa kevala dinakara kaa, lokaaloka gyaana men jhalakaa | |
+Huee taba samosharana kee rachanaa, kheeree prabhu kee divyaa deshanaa |
+Jeevajeeva aura dharmaadharma, aakaasha kaala shathdravya marma | |
+Jeeva dravya hee saarabhoota hain, svayan siddhi hee paramabhuta hain |
+Roopa teena loka samajhaayaa, urdhva madhya adholoka bataayaa | |
+Neeche naraka bataaye saata, bhugaten paapee apane paapa |
+Oopara saulaha svarga sujaana, chaturnikaaya deva vimaana | |
+Madhya loka men dveepa asankhya, dhaaee dveepa men jaaye bhavya |
+Bhatakon ko sanmaarga dikhaayaa, bhavyo ko bhava paara lagaayaa | |
+Pahuche gadha sammeda anta men, pratimaa yoga dharaa ekaanta men |
+Shukladhyaana men leena hue taba, karma prakriti ksheerna huee saba | |
+Baisaakha shukla shashthee punyavaana, praatah prabhu kaa huaa nirvaana |
+Moksha kalyaanaka kare sura aakara, aanandkuta pooje harshaakara | |
+Chaaleesaa shree jina abhinandana,doora karen sabake bhavakrandana |
+Svaamee tuma ho paapanikandana,arunaa karatee shata shata vandana | |`,
+    },
+  },
+  {
+    id: "sumatinath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી સુમતિનાથ જી ચાલીસા",
+      hi: "श्री सुमतिनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Sumatinath Ji Chalisa",
+    },
+    text: {
+      gu: `શ્રી સુમતિ નાથ કરુના નિર્ઝર, ભવ્ય જાનો તક પહુચે ઝર ઝર ।
+નયનો મેં પ્રભુ કી છવિ ભર કર, નિત ચાલીસા પઢે સબ ઘર ઘર ।।
+જય શ્રી સુમતિ નાથ ભગવાન્, સબકો દો સદબુદ્ધિ દાન ।
+અયોધ્યા નગરી કલ્યાણી, મેઘરથ રાજા મંગલા રાની ।।
+દોનોં કે અતિ પુણ્ય પ્રજારે, જો તીર્થંકર સૂત અવતારે ।
+શુક્લ ચૈત્ર એકાદશી આઈ, પ્રભુ જન્મ કી બેલા આઈ ।।
+તીનો લોકો મેં આનંદ છાયા, નારાકિયો ને દુઃખ ભુલાયા ।
+મેરુ પર પ્રભુ કો લે જાકર, દેવ ન્વહન કરતે હર્ષાકર ।।
+તપ્ત સ્વર્ણ સમ સોહે પ્રભુ તન, પ્રગટા અંગ પ્રત્યંગ મેં યૌવન ।
+બ્યાહી સુન્દર વધુએઁ યોગ, નાના સુખો કા કરતે ભોગ ।।
+રાજ્ય કિયા પ્રભુ ને સુવ્યવસ્થિત, નહીં રહા કોઈ શત્રુ ઉપસ્થિત ।
+હુઆ એકદિન વૈરાગ્ય સબ, નીરસ લગાને લગે ભોગ સબ ।।
+જિનવર કરતે આત્મ ચિંતન, લૌકંતિક કરતે અનુમોદન ।
+ગએ સહેતુક નામક વન મેં, દીક્ષા લી મધ્યાહ્ન સમય મેં ।।
+બૈસાખ શુક્લ નવમી કા શુભ દિન, પ્રભુ ને કિયા ઉપવાસ તીન દિન ।
+હુઆ સૌમનસ નગર વિહાર, ધ્યુમનધ્યુતી ને દિયા આહાર ।।
+બીસ વર્ષ તક કિયા તબ ઘોર, આલોકિત હુએ લોકાલોક ।
+એકાદશી ચૈત્ર કી શુક્લ, ધન્ય હુઈ કેવલ રવિ નિકલા ।।
+સમોશરણ મેં પ્રભુ વિરાજે, દ્વાદશ કોઠે સુન્દર સાઝે ।
+દિવ્યા ધ્વનિ ખીરી ધરા પર, અનહદ નાદ હુઆ નભ ઊપર ।।
+કિયા વ્યાખ્યાન સપ્ત તત્વોં કા, દિયા દ્રષ્ટાન્ત દેહ નૌકા કા ।
+જીવ અજીવ આશ્રવ બાંધ, સંવર સે નિર્ઝરા નિર્બન્ધ ।।
+બંધ રહીત હોતે હૈં સિદ્ધ, હૈં યહ બાત જગત પ્રસિદ્ધ ।
+નૌકા સમ જાનો નિજ દેહ, નાવિક જિસમે આત્મ વિદેહ ।।
+નૌકા તિરતી જ્યો ઉદધિ મેં, ચેતન ફિરતા ભાવોદધિ મેં।
+હો જાતા યદિ છિદ્ર નાવ મેં, પાની આ જાતા પ્રવાહ મેં ।।
+ઐસે હી આશ્રવ પુદ્ગલ મેં, તીન યોગ સે હો પ્રતિપલ મેં ।
+ભરતી હૈ નૌકા જ્યોં જલ સે, બંધતી આત્મા પુણ્ય પાપ સે ।।
+છિદ્ર બંદ કરના હૈ સંવર, છોડ શુભા શુભ શુદ્ધભાવ ભર ।
+જૈસે જલ કો બાહર નિકાલે, સંયમ સે નિર્જરા કો પાલેં ।।
+નૌકા સૂખે જ્યો ગર્મી સે, જીવ મુક્ત હો ધ્યાનાગ્નિ સે ।
+ઐસા જાનકર કરો પ્રયાસ, શાશ્વત શુખ પાઓ સાયાસ ।।
+જહાઁ જીવોં કા પુણ્ય પ્રબલ થા, હોતા વહી વિહાર સ્વયં થા ।
+ઉમ્ર રહી જબ એક હી માસ, ગિરી સમ્મેદ પર કિયા નિવાસ ।।
+શુક્લ ધ્યાન સે કિયા કર્મક્ષય, સંધ્યા સમય પાયા પદ અક્ષય ।
+ચૈત્ર સુદી એકાદશી સુન્દર, પહુઁચ ગએ પ્રભુ મુક્તિ મંદિર ।।
+ચિન્હ પ્રભુ કા ચકવા જાન, અવિચલ કૂટ પૂજે શુભથાન ।।
+ઇસ અસાર સંસાર મેં, સાર નહીં હૈં શેષ ।
+અરુણા ચાલીસા પઢો, રહે વિષાદ ન લેશ ।।`,
+      hi: `श्री सुमति नाथ करुना निर्झर, भव्य जानो तक पहुचे झर झर ।
+नयनो में प्रभु की छवि भर कर, नित चालीसा पढ़े सब घर घर ।।
+जय श्री सुमति नाथ भगवान्, सबको दो सदबुद्धि दान ।
+अयोध्या नगरी कल्याणी, मेघरथ राजा मंगला रानी ।।
+दोनों के अति पुण्य प्रजारे, जो तीर्थंकर सूत अवतारे ।
+शुक्ल चैत्र एकादशी आई, प्रभु जन्म की बेला आई ।।
+तीनो लोको में आनंद छाया, नाराकियो ने दुःख भुलाया ।
+मेरु पर प्रभु को ले जाकर, देव न्वहन करते हर्षाकर ।।
+तप्त स्वर्ण सम सोहे प्रभु तन, प्रगटा अंग प्रत्यंग में यौवन ।
+ब्याही सुन्दर वधुएँ योग, नाना सुखो का करते भोग ।।
+राज्य किया प्रभु ने सुव्यवस्थित, नहीं रहा कोई शत्रु उपस्थित ।
+हुआ एकदिन वैराग्य सब, नीरस लगाने लगे भोग सब ।।
+जिनवर करते आत्म चिंतन, लौकंतिक करते अनुमोदन ।
+गए सहेतुक नामक वन में, दीक्षा ली मध्याह्न समय में ।।
+बैसाख शुक्ल नवमी का शुभ दिन, प्रभु ने किया उपवास तीन दिन ।
+हुआ सौमनस नगर विहार, ध्युमनध्युती ने दिया आहार ।।
+बीस वर्ष तक किया तब घोर, आलोकित हुए लोकालोक ।
+एकादशी चैत्र की शुक्ल, धन्य हुई केवल रवि निकला ।।
+समोशरण में प्रभु विराजे, द्वादश कोठे सुन्दर साझे ।
+दिव्या ध्वनि खीरी धरा पर, अनहद नाद हुआ नभ ऊपर ।।
+किया व्याख्यान सप्त तत्वों का, दिया द्रष्टान्त देह नौका का ।
+जीव अजीव आश्रव बांध, संवर से निर्झरा निर्बन्ध ।।
+बंध रहीत होते हैं सिद्ध, हैं यह बात जगत प्रसिद्ध ।
+नौका सम जानो निज देह, नाविक जिसमे आत्म विदेह ।।
+नौका तिरती ज्यो उदधि में, चेतन फिरता भावोदधि में।
+हो जाता यदि छिद्र नाव में, पानी आ जाता प्रवाह में ।।
+ऐसे ही आश्रव पुद्गल में, तीन योग से हो प्रतिपल में ।
+भरती है नौका ज्यों जल से, बंधती आत्मा पुण्य पाप से ।।
+छिद्र बंद करना है संवर, छोड़ शुभा शुभ शुद्धभाव भर ।
+जैसे जल को बाहर निकाले, संयम से निर्जरा को पालें ।।
+नौका सूखे ज्यो गर्मी से, जीव मुक्त हो ध्यानाग्नि से ।
+ऐसा जानकर करो प्रयास, शाश्वत शुख पाओ सायास ।।
+जहाँ जीवों का पुण्य प्रबल था, होता वही विहार स्वयं था ।
+उम्र रही जब एक ही मास, गिरी सम्मेद पर किया निवास ।।
+शुक्ल ध्यान से किया कर्मक्षय, संध्या समय पाया पद अक्षय ।
+चैत्र सुदी एकादशी सुन्दर, पहुँच गए प्रभु मुक्ति मंदिर ।।
+चिन्ह प्रभु का चकवा जान, अविचल कूट पूजे शुभथान ।।
+इस असार संसार में, सार नहीं हैं शेष ।
+अरुणा चालीसा पढो, रहे विषाद न लेश ।।`,
+      sa: "",
+      en: `Shree sumati naatha karunaa nirjhara, bhavya jaano taka pahuche jhara jhara |
+Nayano men prabhu kee chhavi bhara kara, nita chaaleesaa padhe saba ghara ghara | |
+Jaya shree sumati naatha bhagavaan, sabako do sadabuddhi daana |
+Ayodhyaa nagaree kalyaanee, megharatha raajaa mangalaa raanee | |
+Donon ke ati punya prajaare, jo teerthankara soota avataare |
+Shukla chaitra ekaadashee aaee, prabhu janma kee belaa aaee | |
+Teeno loko men aananda chhaayaa, naaraakiyo ne duhkha bhulaayaa |
+Meru para prabhu ko le jaakara, deva nvahana karate harshaakara | |
+Tapta svarna sama sohe prabhu tana, pragataa anga pratyanga men yauvana |
+Byaahee sundara vadhuen yoga, naanaa sukho kaa karate bhoga | |
+Raajya kiyaa prabhu ne suvyavasthita, naheen rahaa koee shatru upasthita |
+Huaa ekadina vairaagya saba, neerasa lagaane lage bhoga saba | |
+Jinavara karate aatma chintana, laukantika karate anumodana |
+Gae sahetuka naamaka vana men, deekshaa lee madhyaahna samaya men | |
+Baisaakha shukla navamee kaa shubha dina, prabhu ne kiyaa upavaasa teena dina |
+Huaa saumanasa nagara vihaara, dhyumanadhyutee ne diyaa aahaara | |
+Beesa varsha taka kiyaa taba ghora, aalokita hue lokaaloka |
+Ekaadashee chaitra kee shukla, dhanya huee kevala ravi nikalaa | |
+Samosharana men prabhu viraaje, dvaadasha kothe sundara saajhe |
+Divyaa dhvani kheeree dharaa para, anahada naada huaa nabha oopara | |
+Kiyaa vyaakhyaana sapta tatvon kaa, diyaa drashtaanta deha naukaa kaa |
+Jeeva ajeeva aashrava baandha, sanvara se nirjharaa nirbandha | |
+Bandha raheeta hote hain siddha, hain yaha baata jagata prasiddha |
+Naukaa sama jaano nija deha, naavika jisame aatma videha | |
+Naukaa tiratee jyo udadhi men, chetana phirataa bhaavodadhi men |
+Ho jaataa yadi chhidra naava men, paanee aa jaataa pravaaha men | |
+Aise hee aashrava pudgala men, teena yoga se ho pratipala men |
+Bharatee hai naukaa jyon jala se, bandhatee aatmaa punya paapa se | |
+Chhidra banda karanaa hai sanvara, chhoda shubhaa shubha shuddhabhaava bhara |
+Jaise jala ko baahara nikaale, sanyama se nirjaraa ko paalen | |
+Naukaa sookhe jyo garmee se, jeeva mukta ho dhyaanaagni se |
+Aisaa jaanakara karo prayaasa, shaashvata shukha paao saayaasa | |
+Jahaan jeevon kaa punya prabala thaa, hotaa vahee vihaara svayan thaa |
+Umra rahee jaba eka hee maasa, giree sammeda para kiyaa nivaasa | |
+Shukla dhyaana se kiyaa karmakshaya, sandhyaa samaya paayaa pada akshaya |
+Chaitra sudee ekaadashee sundara, pahuncha gae prabhu mukti mandira | |
+Chinha prabhu kaa chakavaa jaana, avichala koota pooje shubhathaana | |
+Isa asaara sansaara men, saara naheen hain shesha |
+Arunaa chaaleesaa padho, rahe vishaada na lesha | |`,
+    },
+  },
+  {
+    id: "padmaprabhu-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી પદ્મપ્રભુ જી ચાલીસા",
+      hi: "श्री पद्मप्रभु जी चालीसा",
+      sa: "",
+      en: "Shri Padmaprabhu Ji Chalisa",
+    },
+    text: {
+      gu: `શીશ નવા અરિહંત કો, સિદ્ધન કરૂ પ્રણામ ।
+ઉપાધ્યાય આચાર્ય કા, લે ગુણકારી નામ ।।
+સર્વ સાધૂ ઔર સરસ્વતી, જિનમન્દિર સુખકાર ।
+પદમપુરી કે પદ્મ કો, મન મંદિર મેં ધાર।।
+જય શ્રી પદ્મપ્રભુ ગુણકારી, ભાવિજનો કો તુમ હો હિતકારી ।
+દેવોં કે તુમ દેવ કહપ, છટ્ટે તીર્થંકર કહલાઓ ।।
+તિન કાલ તિહૂઁ જગ કી જાનો, સબ બાતોં કો ક્ષણ મેં પહિચાનો ।
+વેષ દિગંબર ધારણ હારે, તુમસે કર્મ શત્રુ ભી હારે ।।
+મૂર્તિ તુમ્હારી કિતની સુન્દર, દૃષ્ટી સુખદ જમતી નાસા પર ।
+ક્રોધ માન મદ લોભ ભગાયા, રાગ દ્વેષ કા લેશ ના પાયા ।।
+વીતરાગ તુમ કહલાતે હો, સબ જગ કે મન કો ભાતે હો ।
+કૌશામ્બી નગરી કહલાયે, રાજા ધારણ જી બતલાયે ।।
+સુન્દર નામ સુસીમા ઉનકે, જિનકે ઉર સે સ્વામી જન્મે ।
+કિતની લમ્બી ઉમર કહાઈ, તીસ લાખ પૂરબ બતલાઈ ।।
+ઇક દિન હાથી બંધા નિરખ કર, ઝટ આયા વૈરાગ્ય ઉમડ કર ।
+કાર્તિક સુદી ત્રયોદશી ભારી, તૂમને મુનિ પદ દીક્ષા ધારી।।
+સારે રાજ પાટ કો તજ કર, તભી મનોહર વન મેં પહુચે ।
+તપ કર કેવલ જ્ઞાન ઉપાયા, ચૈત્ર સુદી પૂનમ કહલાયા ।।
+એક સૌ દસ ગણધર બતલાયે, મુખ્ય વજ્ર ચામર કહલાયે ।
+લાખોં મુનિ આર્જિકા લાખોં, શ્રાવક ઔર શ્રાવિકા લાખોં ।।
+અસંખ્યાત તિર્યંચ બતાયે, દેવી દેવ ગિનત નહીં પાયે।
+ફિર સમ્મેદ શિખર પર જાકર, શિવરમણી કો લી પરણાકર ।।
+પંચમ કાલ મહાદુખદાયી, જબ તુમને મહિમા દિખલાઈ ।
+જયપુર રાજ ગ્રામ બાડા હૈં, સ્ટેશન શિવદાસપુરા હૈં ।।
+મુલા નામ કા જાટ કા લડકા, ઘર કી નીવ ખોદને લગા ।
+ખોદત ખોદત મૂર્તિ દિખાઈ, ઉસને જનતા કો દિખલાઈ ।।
+ચિન્હ કમલ લખ લોગ લુગાઈ, પદમ પ્રભુ કી મૂર્તિ બતાઈ ।
+મન મેં અતિ હર્ષિત હોતે હૈં, અપને મન કા મલ ધોતે હૈં ।।
+તુમને યહ અતિશય દિખલાયા, ભુત પ્રેત કો દૂર ભગાયા ।
+જબ ગંધોદક છીંટે મારેં, ભુત પ્રેત તબ આપ બકારે ।।
+જપને સે જપ નામ તુમ્હારા, ભુત પ્રેત વો કરે કિનારા ।
+ઐસી મહિમા બતલાતેં હૈં, અંધે ભી આઁખે પાતે હૈં ।।
+પ્રતિમા શ્વેત વર્ણ કહલાયે, દેખત હી હ્રદય કો ભાએ ।
+ધ્યાન તુમ્હારા જો ધરતા હૈં, ઇસ ભવ સે વો નર તરતા હૈં ।।
+અઁધા દેખે ગૂંગા ગાવે, લંગડા પર્વત પર ચઢ જાવે ।
+બહરા સુન સુન ખુશ હોવે, જિસ પર કૃપા તુમ્હારી હોવે ।।
+મૈં હૂઁ સ્વામી દાસ તુમ્હારા, મેરી નૈયા કર દો પારા ।
+ચાલિસે કો ચન્દ્ર બનાયે, પદ્મપ્રભુ કો શીશ નવાયે ।।
+સોરઠા
+નિત હી ચાલીસ બાર, પાઠ કરે ચાલીસ ।
+ખેય સુગંધ અપાર, પદમપુરી મેં આય કે ।।
+હોય કુબેર સમાન, જન્મ દરિદ્ર હોય જો ।
+જિસકે નહીં સંતાન, નામ વંશ જગ મેં ચલે ।।`,
+      hi: `शीश नवा अरिहंत को, सिद्धन करू प्रणाम ।
+उपाध्याय आचार्य का, ले गुणकारी नाम ।।
+सर्व साधू और सरस्वती, जिनमन्दिर सुखकार ।
+पदमपुरी के पद्म को, मन मंदिर में धार।।
+जय श्री पद्मप्रभु गुणकारी, भाविजनो को तुम हो हितकारी ।
+देवों के तुम देव कहप, छट्टे तीर्थंकर कहलाओ ।।
+तिन काल तिहूँ जग की जानो, सब बातों को क्षण में पहिचानो ।
+वेष दिगंबर धारण हारे, तुमसे कर्म शत्रु भी हारे ।।
+मूर्ति तुम्हारी कितनी सुन्दर, दृष्टी सुखद जमती नासा पर ।
+क्रोध मान मद लोभ भगाया, राग द्वेष का लेश ना पाया ।।
+वीतराग तुम कहलाते हो, सब जग के मन को भाते हो ।
+कौशाम्बी नगरी कहलाये, राजा धारण जी बतलाये ।।
+सुन्दर नाम सुसीमा उनके, जिनके उर से स्वामी जन्मे ।
+कितनी लम्बी उमर कहाई, तीस लाख पूरब बतलाई ।।
+इक दिन हाथी बंधा निरख कर, झट आया वैराग्य उमड़ कर ।
+कार्तिक सुदी त्रयोदशी भारी, तूमने मुनि पद दीक्षा धारी।।
+सारे राज पाट को तज कर, तभी मनोहर वन में पहुचे ।
+तप कर केवल ज्ञान उपाया, चैत्र सुदी पूनम कहलाया ।।
+एक सौ दस गणधर बतलाये, मुख्य वज्र चामर कहलाये ।
+लाखों मुनि आर्जिका लाखों, श्रावक और श्राविका लाखों ।।
+असंख्यात तिर्यंच बताये, देवी देव गिनत नहीं पाये।
+फिर सम्मेद शिखर पर जाकर, शिवरमणी को ली परणाकर ।।
+पंचम काल महादुखदायी, जब तुमने महिमा दिखलाई ।
+जयपुर राज ग्राम बाड़ा हैं, स्टेशन शिवदासपुरा हैं ।।
+मुला नाम का जाट का लड़का, घर की नीव खोदने लगा ।
+खोदत खोदत मूर्ति दिखाई, उसने जनता को दिखलाई ।।
+चिन्ह कमल लख लोग लुगाई, पदम प्रभु की मूर्ति बताई ।
+मन में अति हर्षित होते हैं, अपने मन का मल धोते हैं ।।
+तुमने यह अतिशय दिखलाया, भुत प्रेत को दूर भगाया ।
+जब गंधोदक छींटे मारें, भुत प्रेत तब आप बकारे ।।
+जपने से जप नाम तुम्हारा, भुत प्रेत वो करे किनारा ।
+ऐसी महिमा बतलातें हैं, अंधे भी आँखे पाते हैं ।।
+प्रतिमा श्वेत वर्ण कहलाये, देखत ही ह्रदय को भाए ।
+ध्यान तुम्हारा जो धरता हैं, इस भव से वो नर तरता हैं ।।
+अँधा देखे गूंगा गावे, लंगड़ा पर्वत पर चढ़ जावे ।
+बहरा सुन सुन खुश होवे, जिस पर कृपा तुम्हारी होवे ।।
+मैं हूँ स्वामी दास तुम्हारा, मेरी नैया कर दो पारा ।
+चालिसे को चन्द्र बनाये, पद्मप्रभु को शीश नवाये ।।
+सोरठा
+नित ही चालीस बार, पाठ करे चालीस ।
+खेय सुगंध अपार, पदमपुरी में आय के ।।
+होय कुबेर समान, जन्म दरिद्र होय जो ।
+जिसके नहीं संतान, नाम वंश जग में चले ।।`,
+      sa: "",
+      en: `Sheesha navaa arihanta ko, siddhana karoo pranaama |
+Upaadhyaaya aachaarya kaa, le gunakaaree naama | |
+Sarva saadhoo aura sarasvatee, jinamandira sukhakaara |
+Padamapuree ke padma ko, mana mandira men dhaara | |
+Jaya shree padmaprabhu gunakaaree, bhaavijano ko tuma ho hitakaaree |
+Devon ke tuma deva kahapa, chhatte teerthankara kahalaao | |
+Tina kaala tihoon jaga kee jaano, saba baaton ko kshana men pahichaano |
+Vesha diganbara dhaarana haare, tumase karma shatru bhee haare | |
+Moorti tumhaaree kitanee sundara, drishtee sukhada jamatee naasaa para |
+Krodha maana mada lobha bhagaayaa, raaga dvesha kaa lesha naa paayaa | |
+Veetaraaga tuma kahalaate ho, saba jaga ke mana ko bhaate ho |
+Kaushaambee nagaree kahalaaye, raajaa dhaarana jee batalaaye | |
+Sundara naama suseemaa unake, jinake ura se svaamee janme |
+Kitanee lambee umara kahaaee, teesa laakha pooraba batalaaee | |
+Ika dina haathee bandhaa nirakha kara, jhata aayaa vairaagya umada kara |
+Kaartika sudee trayodashee bhaaree, toomane muni pada deekshaa dhaaree | |
+Saare raaja paata ko taja kara, tabhee manohara vana men pahuche |
+Tapa kara kevala gyaana upaayaa, chaitra sudee poonama kahalaayaa | |
+Eka sau dasa ganadhara batalaaye, mukhya vajra chaamara kahalaaye |
+Laakhon muni aarjikaa laakhon, shraavaka aura shraavikaa laakhon | |
+Asankhyaata tiryancha bataaye, devee deva ginata naheen paaye |
+Phira sammeda shikhara para jaakara, shivaramanee ko lee paranaakara | |
+Panchama kaala mahaadukhadaayee, jaba tumane mahimaa dikhalaaee |
+Jayapura raaja graama baadaa hain, steshana shivadaasapuraa hain | |
+Mulaa naama kaa jaata kaa ladakaa, ghara kee neeva khodane lagaa |
+Khodata khodata moorti dikhaaee, usane janataa ko dikhalaaee | |
+Chinha kamala lakha loga lugaaee, padama prabhu kee moorti bataaee |
+Mana men ati harshita hote hain, apane mana kaa mala dhote hain | |
+Tumane yaha atishaya dikhalaayaa, bhuta preta ko doora bhagaayaa |
+Jaba gandhodaka chheente maaren, bhuta preta taba aapa bakaare | |
+Japane se japa naama tumhaaraa, bhuta preta vo kare kinaaraa |
+Aisee mahimaa batalaaten hain, andhe bhee aankhe paate hain | |
+Pratimaa shveta varna kahalaaye, dekhata hee hradaya ko bhaae |
+Dhyaana tumhaaraa jo dharataa hain, isa bhava se vo nara tarataa hain | |
+Andhaa dekhe goongaa gaave, langadaa parvata para chadha jaave |
+Baharaa suna suna khusha hove, jisa para kripaa tumhaaree hove | |
+Main hoon svaamee daasa tumhaaraa, meree naiyaa kara do paaraa |
+Chaalise ko chandra banaaye, padmaprabhu ko sheesha navaaye | |
+Sorathaa
+Nita hee chaaleesa baara, paatha kare chaaleesa |
+Kheya sugandha apaara, padamapuree men aaya ke | |
+Hoya kubera samaana, janma daridra hoya jo |
+Jisake naheen santaana, naama vansha jaga men chale | |`,
+    },
+  },
+  {
+    id: "suparshvanath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી સુપાર્શ્વનાથ જી ચાલીસા",
+      hi: "श्री सुपार्श्वनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Suparshvanath Ji Chalisa",
+    },
+    text: {
+      gu: `લોક શિખર કે વાસી હૈં પ્રભુ, તીર્થંકર સુપાર્શ્વ જિનનાથ ।
+નયન દ્વાર કો ખોલ ખડે હૈં, આઓ! વિરાજો! હે જગનાથ ।।
+સુન્દર નગરી વારાણસી સ્થિત, રાજ્ય કરેં રજા સુપ્રતિષ્ટિત ।
+પૃથ્વીસેના ઉનકી રાની, દેખે સ્વપ્ના સોલહ અભિરામી ।।
+તીર્થંકર સૂત ગર્ભ મેં આયે, સુરગણ આકર મોદ મનાયે ।
+શુક્લ જ્યેષ્ઠ દ્વાદશી શુભ દિન, જન્મે અહમિન્દ્ર યોગ મેં શ્રીજિન ।।
+જન્મોત્સવ કી ખુશી અસીમિત, પૂરી વારાણસી હુઈ સુશોભિત ।
+બઢે સુપાશ્વજિન ચન્દ્ર સમાન, મુખ પર બસે મંદ મુસ્કાન ।।
+સમય પ્રવાહ રહા ગતિશીલ, કન્યાએં પરનાઈ સુશીલ ।
+લોક પ્રિય શાસન કહલાતા, પર દુષ્ટોં કા દિલ દહલાતા ।।
+નિત પ્રતિ સુન્દર ભોગ ભોગતે, ફિર ભી કર્મ બંધ નહીં હોતે।
+તન્મય નહીં હોતે ભોગો મેં, દૃષ્ટિ રહે અંતર યોગોં મેં ।।
+એક દિન હુઆ પ્રબલ વૈરાગ્ય, રાજ પાઠ છોડા મોહ ત્યાગ ।
+દૃઢ નિશ્ચય કિયા તપ કરને કા, કરેં દેવ અનુમોદન પ્રભુ કા ।।
+રાજ પાઠ નિજ સૂત કો દેકર, ગએ સહેતુક વન મેં જિનવર ।
+ધ્યાન મેં લીન હુએ તપધારી, તપ કલ્યાણક કરે સુર ભારી ।।
+હુએ એકાગ્ર શ્રી ભગવાન્, તભી હુઆ મનઃ પર્યાય જ્ઞાન ।
+શુદ્ધાહાર લિયા જિનવર ને, સોમખેટ ભૂપતિ કે ઘર મેં ।।
+વન મેં જાકર હુએ ધ્યાનસ્થ, નૌ વર્ષો તક રહે છદ્મસ્થ ।
+દો દિન કા ઉપવાસ ધાર કર, તરુ શિરીષ તલ બૈઠે જાકર ।।
+સ્થિર હુએ પર રહે સક્રિય, કર્મશત્રુ ચતુ: કિયે નિષ્ક્રિય ।
+ક્ષપક શ્રેઢી હુએ આરૂઢ, જ્ઞાન કેવલી પાયા ગૂઢ ।।
+સુરપતિ ને જ્ઞાનોત્સવ કીના, ધનપતિ ને સમોશરણ રચિના ।
+વિરાજે અધરે સુપાર્શ્વસ્વામી, દિવ્યધ્વનિ ખિરતી અભિરામી ।।
+યદિ ચાહો અક્ષય સુખ પાના, કર્માશ્રવ તજ સંવર કરના ।
+અવિપાક નિર્ઝરા કો કરકે, શિવસુખ પાઓ ઉદ્ધમ કરકે ।।
+ચતુ: દર્શન જ્ઞાન અષ્ટ બતાયે, તેરહ વિધિ ચારિત્ર સુનાયે ।
+બ્રહ્માભ્યંતર તપ કી મહિમા, તપ સે મિલતી ગુણ ગરિમા ।।
+સબ દેશો મેં હુઆ વિહાર, ભવ્યો કો કિયા ભવ સે પાર ।
+એક મહીના ઉમ્ર રહી જબ, શૈલ સમ્મેદ પે, કિયા ઉગ્ર તપ।।
+ફાલ્ગુન શુક્લ સપ્તમી આઈ, મુક્તિ મહલ પહુચે જિનરાઈ ।
+નિર્વાણોત્સવ કો સુર આયે, કૂટ પ્રભાસ કી મહિમા ગાયે ।।
+સ્વસ્તિક ચિન્હ સહિત જિનરાજ, પાર કરે ભવ સિંધુ જહાજ ।
+જો ભી પ્રભુ કા ધ્યાન લગાતે, ઉનકે સબ સંકટ કટ જાતે।।
+ચાલીસા સુપાર્શ્વ સ્વામી કા, માન હરે ક્રોધી કામી કા ।
+જિનમન્દિર મેં આકર પઢના, પ્રભુ કા મન સે નામ સુમરના ।।
+અરુણા કો હૈં દૃઢ વિશ્વાસ, પૂરણ હોવે સબ કી આસ ।।`,
+      hi: `लोक शिखर के वासी हैं प्रभु, तीर्थंकर सुपार्श्व जिननाथ ।
+नयन द्वार को खोल खड़े हैं, आओ! विराजो! हे जगनाथ ।।
+सुन्दर नगरी वाराणसी स्थित, राज्य करें रजा सुप्रतिष्टित ।
+पृथ्वीसेना उनकी रानी, देखे स्वप्ना सोलह अभिरामी ।।
+तीर्थंकर सूत गर्भ में आये, सुरगण आकर मोद मनाये ।
+शुक्ल ज्येष्ठ द्वादशी शुभ दिन, जन्मे अहमिन्द्र योग में श्रीजिन ।।
+जन्मोत्सव की ख़ुशी असीमित, पूरी वाराणसी हुई सुशोभित ।
+बढे सुपाश्वजिन चन्द्र समान, मुख पर बसे मंद मुस्कान ।।
+समय प्रवाह रहा गतिशील, कन्याएं परनाई सुशील ।
+लोक प्रिय शासन कहलाता, पर दुष्टों का दिल दहलाता ।।
+नित प्रति सुन्दर भोग भोगते, फिर भी कर्म बंध नहीं होते।
+तन्मय नहीं होते भोगो में, दृष्टि रहे अंतर योगों में ।।
+एक दिन हुआ प्रबल वैराग्य, राज पाठ छोड़ा मोह त्याग ।
+दृढ निश्चय किया तप करने का, करें देव अनुमोदन प्रभु का ।।
+राज पाठ निज सूत को देकर, गए सहेतुक वन में जिनवर ।
+ध्यान में लीन हुए तपधारी, तप कल्याणक करे सुर भारी ।।
+हुए एकाग्र श्री भगवान्, तभी हुआ मनः पर्याय ज्ञान ।
+शुद्धाहार लिया जिनवर ने, सोमखेट भूपति के घर में ।।
+वन में जाकर हुए ध्यानस्थ, नौ वर्षो तक रहे छद्मस्थ ।
+दो दिन का उपवास धार कर, तरु शिरीष तल बैठे जाकर ।।
+स्थिर हुए पर रहे सक्रिय, कर्मशत्रु चतु: किये निष्क्रिय ।
+क्षपक श्रेढ़ी हुए आरूढ़, ज्ञान केवली पाया गूढ़ ।।
+सुरपति ने ज्ञानोत्सव कीना, धनपति ने समोशरण रचिना ।
+विराजे अधरे सुपार्श्वस्वामी, दिव्यध्वनि खिरती अभिरामी ।।
+यदि चाहो अक्षय सुख पाना, कर्माश्रव तज संवर करना ।
+अविपाक निर्झरा को करके, शिवसुख पाओ उद्धम करके ।।
+चतु: दर्शन ज्ञान अष्ट बताये, तेरह विधि चारित्र सुनाये ।
+ब्रह्माभ्यंतर तप की महिमा, तप से मिलती गुण गरिमा ।।
+सब देशो में हुआ विहार, भव्यो को किया भव से पार ।
+एक महीना उम्र रही जब, शैल सम्मेद पे, किया उग्र तप।।
+फाल्गुन शुक्ल सप्तमी आई, मुक्ति महल पहुचे जिनराई ।
+निर्वाणोत्सव को सुर आये, कूट प्रभास की महिमा गाये ।।
+स्वस्तिक चिन्ह सहित जिनराज, पार करे भव सिंधु जहाज ।
+जो भी प्रभु का ध्यान लगाते, उनके सब संकट कट जाते।।
+चालीसा सुपार्श्व स्वामी का, मान हरे क्रोधी कामी का ।
+जिनमन्दिर में आकर पढ़ना, प्रभु का मन से नाम सुमरना ।।
+अरुणा को हैं दृढ विश्वास, पूरण होवे सब की आस ।।`,
+      sa: "",
+      en: `Loka shikhara ke vaasee hain prabhu, teerthankara supaarshva jinanaatha |
+Nayana dvaara ko khola khade hain, aao! viraajo! he jaganaatha | |
+Sundara nagaree vaaraanasee sthita, raajya karen rajaa supratishtita |
+Prithveesenaa unakee raanee, dekhe svapnaa solaha abhiraamee | |
+Teerthankara soota garbha men aaye, suragana aakara moda manaaye |
+Shukla jyeshtha dvaadashee shubha dina, janme ahamindra yoga men shreejina | |
+Janmotsava kee khushee aseemita, pooree vaaraanasee huee sushobhita |
+Badhe supaashvajina chandra samaana, mukha para base manda muskaana | |
+Samaya pravaaha rahaa gatisheela, kanyaaen paranaaee susheela |
+Loka priya shaasana kahalaataa, para dushton kaa dila dahalaataa | |
+Nita prati sundara bhoga bhogate, phira bhee karma bandha naheen hote |
+Tanmaya naheen hote bhogo men, drishti rahe antara yogon men | |
+Eka dina huaa prabala vairaagya, raaja paatha chhodaa moha tyaaga |
+Dridha nishchaya kiyaa tapa karane kaa, karen deva anumodana prabhu kaa | |
+Raaja paatha nija soota ko dekara, gae sahetuka vana men jinavara |
+Dhyaana men leena hue tapadhaaree, tapa kalyaanaka kare sura bhaaree | |
+Hue ekaagra shree bhagavaan, tabhee huaa manah paryaaya gyaana |
+Shuddhaahaara liyaa jinavara ne, somakheta bhoopati ke ghara men | |
+Vana men jaakara hue dhyaanastha, nau varsho taka rahe chhadmastha |
+Do dina kaa upavaasa dhaara kara, taru shireesha tala baithe jaakara | |
+Sthira hue para rahe sakriya, karmashatru chatu: kiye nishkriya |
+Kshapaka shredhee hue aaroodha, gyaana kevalee paayaa goodha | |
+Surapati ne gyaanotsava keenaa, dhanapati ne samosharana rachinaa |
+Viraaje adhare supaarshvasvaamee, divyadhvani khiratee abhiraamee | |
+Yadi chaaho akshaya sukha paanaa, karmaashrava taja sanvara karanaa |
+Avipaaka nirjharaa ko karake, shivasukha paao uddhama karake | |
+Chatu: darshana gyaana ashta bataaye, teraha vidhi chaaritra sunaaye |
+Brahmaabhyantara tapa kee mahimaa, tapa se milatee guna garimaa | |
+Saba desho men huaa vihaara, bhavyo ko kiyaa bhava se paara |
+Eka maheenaa umra rahee jaba, shaila sammeda pe, kiyaa ugra tapa | |
+Phaalguna shukla saptamee aaee, mukti mahala pahuche jinaraaee |
+Nirvaanotsava ko sura aaye, koota prabhaasa kee mahimaa gaaye | |
+Svastika chinha sahita jinaraaja, paara kare bhava sindhu jahaaja |
+Jo bhee prabhu kaa dhyaana lagaate, unake saba sankata kata jaate | |
+Chaaleesaa supaarshva svaamee kaa, maana hare krodhee kaamee kaa |
+Jinamandira men aakara padhanaa, prabhu kaa mana se naama sumaranaa | |
+Arunaa ko hain dridha vishvaasa, poorana hove saba kee aasa | |`,
+    },
+  },
+  {
+    id: "chandraprabhu-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી ચન્દ્રપ્રભુ જી ચાલીસા",
+      hi: "श्री चन्द्रप्रभु जी चालीसा",
+      sa: "",
+      en: "Shri Chandraprabhu Ji Chalisa",
+    },
+    text: {
+      gu: `શીશ નવા અરિહંત કો, સિદ્ધન કરૂઁ પ્રણામ।
+ઉપાધ્યાય આચાર્ય કા, લે સુખકારી નામ।।
+સર્વ સાધુ ઔર સરસ્વતી, જિન મંદિર સુખકર।
+ચન્દ્રપુરી કે ચન્દ્ર કો, મન મંદિર મેં ધાર।।
+।। ચૌપાઈ ।।
+જય-જય સ્વામી શ્રી જિન ચન્દા, તુમકો નિરખ ભયે આનન્દા।
+તુમ હી પ્રભુ દેવન કે દેવા, કરૂઁ તુમ્હારે પદ કી સેવા।।
+વેષ દિગમ્બર કહલાતા હૈ, સબ જગ કે મન ભાતા હૈ।
+નાસા પર હૈ દ્રષ્ટિ તુમ્હારી, મોહનિ મૂરતિ કિતની પ્યારી।।
+તીન લોક કી બાતેં જાનો, તીન કાલ ક્ષણ મેં પહચાનો।
+નામ તુમ્હારા કિતના પ્યારા , ભૂત પ્રેત સબ કરેં નિવારા।।
+તુમ જગ મેં સર્વજ્ઞ કહાઓ, અષ્ટમ તીર્થંકર કહલાઓ।।
+મહાસેન જો પિતા તુમ્હારે, લક્ષ્મણા કે દિલ કે પ્યારે।।
+તજ વૈજંત વિમાન સિધાયે , લક્ષ્મણા કે ઉર મેં આયે।
+પોષ વદી એકાદશ નામી , જન્મ લિયા ચન્દા પ્રભુ સ્વામી।।
+મુનિ સમન્તભદ્ર થે સ્વામી, ઉન્હેં ભસ્મ વ્યાધિ બીમારી।
+વૈષ્ણવ ધર્મ જભી અપનાયા, અપને કો પણ્ડિત કહાયા।।
+કહા રાવ સે બાત બતાઊઁ , મહાદેવ કો ભોગ ખિલાઊઁ।
+પ્રતિદિન ઉત્તમ ભોજન આવે , ઉનકો મુનિ છિપાકર ખાવે।।
+ઇસી તરહ નિજ રોગ ભગાયા , બન ગઈ કંચન જૈસી કાયા।
+ઇક લડકે ને પતા ચલાયા , ફૌરન રાજા કો બતલાયા।।
+તબ રાજા ફરમાયા મુનિ જી કો , નમસ્કાર કરો શિવપિંડી કો।
+રાજા સે તબ મુનિ જી બોલે, નમસ્કાર પિંડી નહિં ઝેલે।।
+રાજા ને જંજીર મંગાઈ , ઉસ શિવપિંડી મેં બંધવાઈ।
+મુનિ ને સ્વયંભૂ પાઠ બનાયા , પિંડી ફટી અચમ્ભા છાયા।।
+ચન્દ્રપ્રભ કી મૂર્તિ દિખાઈ , સબ ને જય - જયકાર મનાઈ।
+નગર ફિરોજાબાદ કહાયે , પાસ નગર ચન્દવાર બતાયે।।
+ચન્દ્રસૈન રાજા કહલાયા , ઉસ પર દુશ્મન ચઢકર આયા।
+રાવ તુમ્હારી સ્તુતિ ગઈ , સબ ફૌજો કો માર ભગાઈ।।
+દુશ્મન કો માલૂમ હો જાવે , નગર ઘેરને ફિર આ જાવે।
+પ્રતિમા જમના મેં પધરાઈ , નગર છોડકર પરજા ધાઈ।।
+બહુત સમય હી બીતા હૈ કિ , એક યતી કો સપના દીખા।
+બડે જતન સે પ્રતિમા પાઈ , મન્દિર મેં લાકર પધરાઈ।।
+વૈષ્ણવોં ને ચાલ ચલાઈ , પ્રતિમા લક્ષ્મણ કી બતલાઈ।
+અબ તો જૈની જન ઘબરાવેં , ચન્દ્ર પ્રભુ કી મૂર્તિ બતાવેં।।
+ચિન્હ ચન્દ્રમા કા બતલાયા , તબ સ્વામી તુમકો થા પાયા।
+સોનાગિરિ મેં સૌ મન્દિર હૈં , ઇક બઢકર ઇક સુન્દર હૈં।।
+સમવશરણ થા યહાઁ પર આયા , ચન્દ્ર પ્રભુ ઉપદેશ સુનાયા।
+ચન્દ્ર પ્રભુ કા મંદિર ભારી , જિસકો પૂજે સબ નર - નારી।।
+સાત હાથ કી મૂર્તિ બતાઈ , લાલ રંગ પ્રતિમા બતલાઈ।
+મંદિર ઔર બહુત બતલાયે , શોભા વરણત પાર ન પાયે।।
+પાર કરો મેરી યહ નૈયા , તુમ બિન કોઈ નહીં ખિવૈયા।
+પ્રભુ મૈં તુમસે કુછ નહીં ચાહૂઁ , ભવ - ભવ મેં દર્શન પાઊઁ।।
+મૈં હૂઁ સ્વામી દાસ તિહારા , કરો નાથ અબ તો નિસ્તારા।
+સ્વામી આપ દયા દિખલાઓ , ચન્દ્રદાસ કો ચન્દ્ર બનાઓ।।
+।।સોરઠ।।
+નિત ચાલીસહિં બાર , પાઠ કરે ચાલીસ દિન।
+ખેય સુગન્ધ અપાર , સોનાગિર મેં આય કે।।
+હોય કુબેર સામાન , જન્મ દરિદ્રી હોય જો।
+જિસકે નહિં સંતાન , નામ વંશ જગ મેં ચલે।।
+જાપ - ૐ હ્રીં અર્હં શ્રીચન્દ્રપ્રભજિનેન્દ્રાય નમઃ`,
+      hi: `शीश नवा अरिहंत को, सिद्धन करूँ प्रणाम।
+उपाध्याय आचार्य का, ले सुखकारी नाम।।
+सर्व साधु और सरस्वती, जिन मंदिर सुखकर।
+चन्द्रपुरी के चन्द्र को, मन मंदिर में धार।।
+।। चौपाई ।।
+जय-जय स्वामी श्री जिन चन्दा, तुमको निरख भये आनन्दा।
+तुम ही प्रभु देवन के देवा, करूँ तुम्हारे पद की सेवा।।
+वेष दिगम्बर कहलाता है, सब जग के मन भाता है।
+नासा पर है द्रष्टि तुम्हारी, मोहनि मूरति कितनी प्यारी।।
+तीन लोक की बातें जानो, तीन काल क्षण में पहचानो।
+नाम तुम्हारा कितना प्यारा , भूत प्रेत सब करें निवारा।।
+तुम जग में सर्वज्ञ कहाओ, अष्टम तीर्थंकर कहलाओ।।
+महासेन जो पिता तुम्हारे, लक्ष्मणा के दिल के प्यारे।।
+तज वैजंत विमान सिधाये , लक्ष्मणा के उर में आये।
+पोष वदी एकादश नामी , जन्म लिया चन्दा प्रभु स्वामी।।
+मुनि समन्तभद्र थे स्वामी, उन्हें भस्म व्याधि बीमारी।
+वैष्णव धर्म जभी अपनाया, अपने को पण्डित कहाया।।
+कहा राव से बात बताऊँ , महादेव को भोग खिलाऊँ।
+प्रतिदिन उत्तम भोजन आवे , उनको मुनि छिपाकर खावे।।
+इसी तरह निज रोग भगाया , बन गई कंचन जैसी काया।
+इक लड़के ने पता चलाया , फौरन राजा को बतलाया।।
+तब राजा फरमाया मुनि जी को , नमस्कार करो शिवपिंडी को।
+राजा से तब मुनि जी बोले, नमस्कार पिंडी नहिं झेले।।
+राजा ने जंजीर मंगाई , उस शिवपिंडी में बंधवाई।
+मुनि ने स्वयंभू पाठ बनाया , पिंडी फटी अचम्भा छाया।।
+चन्द्रप्रभ की मूर्ति दिखाई , सब ने जय - जयकार मनाई।
+नगर फिरोजाबाद कहाये , पास नगर चन्दवार बताये।।
+चन्द्रसैन राजा कहलाया , उस पर दुश्मन चढ़कर आया।
+राव तुम्हारी स्तुति गई , सब फौजो को मार भगाई।।
+दुश्मन को मालूम हो जावे , नगर घेरने फिर आ जावे।
+प्रतिमा जमना में पधराई , नगर छोड़कर परजा धाई।।
+बहुत समय ही बीता है कि , एक यती को सपना दीखा।
+बड़े जतन से प्रतिमा पाई , मन्दिर में लाकर पधराई।।
+वैष्णवों ने चाल चलाई , प्रतिमा लक्ष्मण की बतलाई।
+अब तो जैनी जन घबरावें , चन्द्र प्रभु की मूर्ति बतावें।।
+चिन्ह चन्द्रमा का बतलाया , तब स्वामी तुमको था पाया।
+सोनागिरि में सौ मन्दिर हैं , इक बढ़कर इक सुन्दर हैं।।
+समवशरण था यहाँ पर आया , चन्द्र प्रभु उपदेश सुनाया।
+चन्द्र प्रभु का मंदिर भारी , जिसको पूजे सब नर - नारी।।
+सात हाथ की मूर्ति बताई , लाल रंग प्रतिमा बतलाई।
+मंदिर और बहुत बतलाये , शोभा वरणत पार न पाये।।
+पार करो मेरी यह नैया , तुम बिन कोई नहीं खिवैया।
+प्रभु मैं तुमसे कुछ नहीं चाहूँ , भव - भव में दर्शन पाऊँ।।
+मैं हूँ स्वामी दास तिहारा , करो नाथ अब तो निस्तारा।
+स्वामी आप दया दिखलाओ , चन्द्रदास को चन्द्र बनाओ।।
+।।सोरठ।।
+नित चालीसहिं बार , पाठ करे चालीस दिन।
+खेय सुगन्ध अपार , सोनागिर में आय के।।
+होय कुबेर सामान , जन्म दरिद्री होय जो।
+जिसके नहिं संतान , नाम वंश जग में चले।।
+जाप - ॐ ह्रीं अर्हं श्रीचन्द्रप्रभजिनेन्द्राय नमः`,
+      sa: "",
+      en: `Sheesha navaa arihanta ko, siddhana karoon pranaama |
+Upaadhyaaya aachaarya kaa, le sukhakaaree naama | |
+Sarva saadhu aura sarasvatee, jina mandira sukhakara |
+Chandrapuree ke chandra ko, mana mandira men dhaara | |
+| | chaupaaee | |
+Jaya-jaya svaamee shree jina chandaa, tumako nirakha bhaye aanandaa |
+Tuma hee prabhu devana ke devaa, karoon tumhaare pada kee sevaa | |
+Vesha digambara kahalaataa hai, saba jaga ke mana bhaataa hai |
+Naasaa para hai drashti tumhaaree, mohani moorati kitanee pyaaree | |
+Teena loka kee baaten jaano, teena kaala kshana men pahachaano |
+Naama tumhaaraa kitanaa pyaaraa , bhoota preta saba karen nivaaraa | |
+Tuma jaga men sarvagya kahaao, ashtama teerthankara kahalaao | |
+Mahaasena jo pitaa tumhaare, lakshmanaa ke dila ke pyaare | |
+Taja vaijanta vimaana sidhaaye , lakshmanaa ke ura men aaye |
+Posha vadee ekaadasha naamee , janma liyaa chandaa prabhu svaamee | |
+Muni samantabhadra the svaamee, unhen bhasma vyaadhi beemaaree |
+Vaishnava dharma jabhee apanaayaa, apane ko pandita kahaayaa | |
+Kahaa raava se baata bataaoon , mahaadeva ko bhoga khilaaoon |
+Pratidina uttama bhojana aave , unako muni chhipaakara khaave | |
+Isee taraha nija roga bhagaayaa , bana gaee kanchana jaisee kaayaa |
+Ika ladake ne pataa chalaayaa , phaurana raajaa ko batalaayaa | |
+Taba raajaa pharamaayaa muni jee ko , namaskaara karo shivapindee ko |
+Raajaa se taba muni jee bole, namaskaara pindee nahin jhele | |
+Raajaa ne janjeera mangaaee , usa shivapindee men bandhavaaee |
+Muni ne svayanbhoo paatha banaayaa , pindee phatee achambhaa chhaayaa | |
+Chandraprabha kee moorti dikhaaee , saba ne jaya - jayakaara manaaee |
+Nagara phirojaabaada kahaaye , paasa nagara chandavaara bataaye | |
+Chandrasaina raajaa kahalaayaa , usa para dushmana chadhakara aayaa |
+Raava tumhaaree stuti gaee , saba phaujo ko maara bhagaaee | |
+Dushmana ko maalooma ho jaave , nagara gherane phira aa jaave |
+Pratimaa jamanaa men padharaaee , nagara chhodakara parajaa dhaaee | |
+Bahuta samaya hee beetaa hai ki , eka yatee ko sapanaa deekhaa |
+Bade jatana se pratimaa paaee , mandira men laakara padharaaee | |
+Vaishnavon ne chaala chalaaee , pratimaa lakshmana kee batalaaee |
+Aba to jainee jana ghabaraaven , chandra prabhu kee moorti bataaven | |
+Chinha chandramaa kaa batalaayaa , taba svaamee tumako thaa paayaa |
+Sonaagiri men sau mandira hain , ika badhakara ika sundara hain | |
+Samavasharana thaa yahaan para aayaa , chandra prabhu upadesha sunaayaa |
+Chandra prabhu kaa mandira bhaaree , jisako pooje saba nara - naaree | |
+Saata haatha kee moorti bataaee , laala ranga pratimaa batalaaee |
+Mandira aura bahuta batalaaye , shobhaa varanata paara na paaye | |
+Paara karo meree yaha naiyaa , tuma bina koee naheen khivaiyaa |
+Prabhu main tumase kuchha naheen chaahoon , bhava - bhava men darshana paaoon | |
+Main hoon svaamee daasa tihaaraa , karo naatha aba to nistaaraa |
+Svaamee aapa dayaa dikhalaao , chandradaasa ko chandra banaao | |
+| | soratha | |
+Nita chaaleesahin baara , paatha kare chaaleesa dina |
+Kheya sugandha apaara , sonaagira men aaya ke | |
+Hoya kubera saamaana , janma daridree hoya jo |
+Jisake nahin santaana , naama vansha jaga men chale | |
+Jaapa - om hreen arhan shreechandraprabhajinendraaya namah`,
+    },
+  },
+  {
+    id: "pushpadant-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી પુષ્પદન્ત જી ચાલીસા",
+      hi: "श्री पुष्पदन्त जी चालीसा",
+      sa: "",
+      en: "Shri Pushpadant Ji Chalisa",
+    },
+    text: {
+      gu: `દુઃખ સે તૃપ્ત મરુસ્થલ ભાવ મેં, સઘન વૃક્ષ સમ છાયાકાર ।
+પુષ્પદન્ત પદ છત્ર છાવ મેં, હમ આશ્રય પાવેં સુખકાર ।।
+જમ્બૂ દ્વીપ કે ભરત ક્ષેત્ર મેં, કાકંદી નામક નગરી મેં ।
+રાજ્ય કરેં સુગ્રીવ બલધારી, જયરામ રાની થી પ્યારી ।।
+નવમી ફાલ્ગુન કૃષ્ણ બખાની, ષોડશ સ્વપન દેખતી રાની ।
+સૂત તીર્થંકર ગર્ભ મેં આયે, ગર્ભ કલ્યાણક દેવ મનાયે ।।
+પ્રતિપદા મંગસિર ઉજિયારી, જન્મે પુષ્પદંત હિતકારી ।
+જન્મોત્સવ કી શોભા ન્યારી, સ્વર્ગપુરી સમ નગરી પ્યારી ।।
+આયુ થી દો લક્ષ પૂર્વ કી, ઊંચાઈ શત એક ધનુષ કી ।
+થામી જબ રાજ્ય બાગડોર, ક્ષેત્ર વૃદ્ધિ હુઈ ચહુઁ ઔર ।।
+ઇચ્છાએ થી ઉનકી સિમિત, મિત્ર પ્રભુ કે હુએ અસીમિત ।
+એક દિન ઉલ્કાપાત દેખ કર, દૃષ્ટિપાત કિયા જીવન પર ।।
+સ્થિર કોઈ પદાર્થ ના જગ મેં, મિલે ના સુખ કિંચિત ભવમગ મેં ।
+બ્રહ્મલોક સે સુરગન આયે, જિનવર કા વૈરાગ્ય બઢાયે ।।
+સુમતિ પુત્ર કો દેકર રાજ, શિવિકા મેં પ્રભુ ગએ વિરાજ ।
+પુષ્પક વન મેં ગએ હિતકાર, દીક્ષા લી સંગ ભૂપ હજાર ।।
+ગએ શૈલપુર દો દિન બાદ, હુઆ આહાર વહ નિરાબાધ ।
+પાત્રદાન સે હર્ષિત હો કર, પંચાશ્ચાર્ય કરે સુર આકર।।
+પ્રભુવર ગએ લૌટ ઉપવન કો, તત્પર હુએ કર્મ છેદન કો ।
+લગી સમાધિ નાગ વૃક્ષ તાલ, કેવલ જ્ઞાન ઉપાયા નિર્મલ ।।
+ઇન્દ્રાજ્ઞા સે સમોશરણ કી, ધનપતિ ને આકર રચના કી ।
+દિવ્યા દેશના હોતી પ્રભુ કી, જ્ઞાન પિપાસા મિતિ જગત કી ।।
+અનુપ્રેક્ષા દ્વાદશ સમઝાઈ, ધર્મ સ્વરુપ વિચારોં ભાઈ ।
+શુક્લ ધ્યાન કી મહિમા ગાઈ, શુક્લ ધ્યાન સે હો શિવરાઈ ।।
+ચારો ભેદ સહિત ધારો મન, મોક્ષમહલ કો પહુચો તત્ક્ષણ ।
+મોક્ષ માર્ગ દિખાયા પરભૂ ને, હર્ષિત હુએ સકલ જન મન મેં ।।
+ઇંદ્ર કરે પ્રાર્થના જોડ કર, સુખદ વિહાર હુઆ શ્રી જિનવર ।
+ગએ અંત મેં શિખર સમ્મેદ, ધ્યાન મેં લીન હુએ નિરખેદ ।।
+શુક્લ ધ્યાન સે કિયા કર્મ ક્ષય, સંધ્યા સમય પાયા પદ અક્ષય ।
+અશ્વિન અષ્ટમી શુક્લ મહાન, મોક્ષ કલ્યાણક કરે સુખ આન ।।
+સુપ્રભ કૂટ કી કરતે પૂજા, સુવિધિ નાથ હૈ નામ દૂજા ।
+મગરમચ્છ હૈં લક્ષણ પ્રભુ કા, મંગલમય થા જીવન ઉનકા ।।
+શિખર સમ્મેદ મેં ભારી અતિશય, પ્રભુ પ્રતિમા હૈં ચમત્કારમય ।
+કલિયુગ મેં ભી આતે દેવ, પ્રતિદિન નૃત્ય કરેં સ્વયમેવ ।।
+ઘુંઘરૂ કી ઝંકાર ગૂંજતી, સબકે મન કો મોહિત કરતી ।
+ધ્વનિ સુની હમને કાનો સે, પૂજા કી બહુ ઉપમાનો સે ।।
+હમકો હૈં યે દૃઢ શ્રદ્ધાન, ભક્તિ સે પાએ શિવથાન ।
+ભક્તિ મેં શક્તિ હૈં ન્યારી, રાહ દિખાએ કરુનાધારી ।।
+પુષ્પદંત ગુણગાન સે, નિશ્ચિત હો કલ્યાણ ।
+અરુણા અનુક્રમ સે મિલે, અંતિમ પદ નિર્વાણ ।।`,
+      hi: `दुःख से तृप्त मरुस्थल भाव में, सघन वृक्ष सम छायाकार ।
+पुष्पदन्त पद छत्र छाव में, हम आश्रय पावें सुखकार ।।
+जम्बू द्वीप के भरत क्षेत्र में, काकंदी नामक नगरी में ।
+राज्य करें सुग्रीव बलधारी, जयराम रानी थी प्यारी ।।
+नवमी फाल्गुन कृष्ण बखानी, षोडश स्वपन देखती रानी ।
+सूत तीर्थंकर गर्भ में आये, गर्भ कल्याणक देव मनाये ।।
+प्रतिपदा मंगसिर उजियारी, जन्मे पुष्पदंत हितकारी ।
+जन्मोत्सव की शोभा न्यारी, स्वर्गपुरी सम नगरी प्यारी ।।
+आयु थी दो लक्ष पूर्व की, ऊंचाई शत एक धनुष की ।
+थामी जब राज्य बागडोर, क्षेत्र वृद्धि हुई चहुँ और ।।
+इच्छाए थी उनकी सिमित, मित्र प्रभु के हुए असीमित ।
+एक दिन उल्कापात देख कर, दृष्टिपात किया जीवन पर ।।
+स्थिर कोई पदार्थ ना जग में, मिले ना सुख किंचित भवमग में ।
+ब्रह्मलोक से सुरगन आये, जिनवर का वैराग्य बढ़ाये ।।
+सुमति पुत्र को देकर राज, शिविका में प्रभु गए विराज ।
+पुष्पक वन में गए हितकार, दीक्षा ली संग भूप हजार ।।
+गए शैलपुर दो दिन बाद, हुआ आहार वह निराबाध ।
+पात्रदान से हर्षित हो कर, पंचाश्चार्य करे सुर आकर।।
+प्रभुवर गए लौट उपवन को, तत्पर हुए कर्म छेदन को ।
+लगी समाधि नाग वृक्ष ताल, केवल ज्ञान उपाया निर्मल ।।
+इन्द्राज्ञा से समोशरण की, धनपति ने आकर रचना की ।
+दिव्या देशना होती प्रभु की, ज्ञान पिपासा मिति जगत की ।।
+अनुप्रेक्षा द्वादश समझाई, धर्म स्वरुप विचारों भाई ।
+शुक्ल ध्यान की महिमा गाई, शुक्ल ध्यान से हो शिवराई ।।
+चारो भेद सहित धारो मन, मोक्षमहल को पहुचो तत्क्षण ।
+मोक्ष मार्ग दिखाया परभू ने, हर्षित हुए सकल जन मन में ।।
+इंद्र करे प्रार्थना जोड़ कर, सुखद विहार हुआ श्री जिनवर ।
+गए अंत में शिखर सम्मेद, ध्यान में लीन हुए निरखेद ।।
+शुक्ल ध्यान से किया कर्म क्षय, संध्या समय पाया पद अक्षय ।
+अश्विन अष्टमी शुक्ल महान, मोक्ष कल्याणक करे सुख आन ।।
+सुप्रभ कूट की करते पूजा, सुविधि नाथ है नाम दूजा ।
+मगरमच्छ हैं लक्षण प्रभु का, मंगलमय था जीवन उनका ।।
+शिखर सम्मेद में भारी अतिशय, प्रभु प्रतिमा हैं चमत्कारमय ।
+कलियुग में भी आते देव, प्रतिदिन नृत्य करें स्वयमेव ।।
+घुंघरू की झंकार गूंजती, सबके मन को मोहित करती ।
+ध्वनि सुनी हमने कानो से, पूजा की बहु उपमानो से ।।
+हमको हैं ये दृढ श्रद्धान, भक्ति से पाए शिवथान ।
+भक्ति में शक्ति हैं न्यारी, राह दिखाए करुनाधारी ।।
+पुष्पदंत गुणगान से, निश्चित हो कल्याण ।
+अरुणा अनुक्रम से मिले, अंतिम पद निर्वाण ।।`,
+      sa: "",
+      en: `Duhkha se tripta marusthala bhaava men, saghana vriksha sama chhaayaakaara |
+Pushpadanta pada chhatra chhaava men, hama aashraya paaven sukhakaara | |
+Jamboo dveepa ke bharata kshetra men, kaakandee naamaka nagaree men |
+Raajya karen sugreeva baladhaaree, jayaraama raanee thee pyaaree | |
+Navamee phaalguna krishna bakhaanee, shodasha svapana dekhatee raanee |
+Soota teerthankara garbha men aaye, garbha kalyaanaka deva manaaye | |
+Pratipadaa mangasira ujiyaaree, janme pushpadanta hitakaaree |
+Janmotsava kee shobhaa nyaaree, svargapuree sama nagaree pyaaree | |
+Aayu thee do laksha poorva kee, oonchaaee shata eka dhanusha kee |
+Thaamee jaba raajya baagadora, kshetra vriddhi huee chahun aura | |
+Ichchhaae thee unakee simita, mitra prabhu ke hue aseemita |
+Eka dina ulkaapaata dekha kara, drishtipaata kiyaa jeevana para | |
+Sthira koee padaartha naa jaga men, mile naa sukha kinchita bhavamaga men |
+Brahmaloka se suragana aaye, jinavara kaa vairaagya badhaaye | |
+Sumati putra ko dekara raaja, shivikaa men prabhu gae viraaja |
+Pushpaka vana men gae hitakaara, deekshaa lee sanga bhoopa hajaara | |
+Gae shailapura do dina baada, huaa aahaara vaha niraabaadha |
+Paatradaana se harshita ho kara, panchaashchaarya kare sura aakara | |
+Prabhuvara gae lauta upavana ko, tatpara hue karma chhedana ko |
+Lagee samaadhi naaga vriksha taala, kevala gyaana upaayaa nirmala | |
+Indraagyaa se samosharana kee, dhanapati ne aakara rachanaa kee |
+Divyaa deshanaa hotee prabhu kee, gyaana pipaasaa miti jagata kee | |
+Anuprekshaa dvaadasha samajhaaee, dharma svarupa vichaaron bhaaee |
+Shukla dhyaana kee mahimaa gaaee, shukla dhyaana se ho shivaraaee | |
+Chaaro bheda sahita dhaaro mana, mokshamahala ko pahucho tatkshana |
+Moksha maarga dikhaayaa parabhoo ne, harshita hue sakala jana mana men | |
+Indra kare praarthanaa joda kara, sukhada vihaara huaa shree jinavara |
+Gae anta men shikhara sammeda, dhyaana men leena hue nirakheda | |
+Shukla dhyaana se kiyaa karma kshaya, sandhyaa samaya paayaa pada akshaya |
+Ashvina ashtamee shukla mahaana, moksha kalyaanaka kare sukha aana | |
+Suprabha koota kee karate poojaa, suvidhi naatha hai naama doojaa |
+Magaramachchha hain lakshana prabhu kaa, mangalamaya thaa jeevana unakaa | |
+Shikhara sammeda men bhaaree atishaya, prabhu pratimaa hain chamatkaaramaya |
+Kaliyuga men bhee aate deva, pratidina nritya karen svayameva | |
+Ghungharoo kee jhankaara goonjatee, sabake mana ko mohita karatee |
+Dhvani sunee hamane kaano se, poojaa kee bahu upamaano se | |
+Hamako hain ye dridha shraddhaana, bhakti se paae shivathaana |
+Bhakti men shakti hain nyaaree, raaha dikhaae karunaadhaaree | |
+Pushpadanta gunagaana se, nishchita ho kalyaana |
+Arunaa anukrama se mile, antima pada nirvaana | |`,
+    },
+  },
+  {
+    id: "shreyansnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી શ્રેયાંસનાથ જી ચાલીસા",
+      hi: "श्री श्रेयांसनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Shreyansnath Ji Chalisa",
+    },
+    text: {
+      gu: `નિજ મન મેં કરકે સ્થાપિત, પંચ પરમ પરમેષ્ઠી કો ।
+લિખૂં શ્રેયાંસનાથ ચાલીસા, મન મેં બહુત હી હર્ષિત હો ।।
+જય શ્રેયાંસનાથ શ્રુત જ્ઞાયક હો, જય ઉત્તમ આશ્રય દાયક હો ।
+માઁ વેણુ પિતા વિષ્ણુ પ્યારે, તુમ સિંહપુર મેં અવતારે ।।
+જય જ્યેષ્ઠ કૃષ્ણ ષષ્ઠી પ્યારી, શુભ રત્ન વૃષ્ટિ હોતી ભારી।
+જય ગર્ભકલ્યાનોત્સવ અપાર, સબ દેવ કરેં નાના પ્રકાર ।।
+જય જન્મ જયંતી પ્રભુ મહાન, ફાલ્ગુન એકાદશી કૃષ્ણ જાન ।
+જય જિનવર કા જન્માભિષેક, શત અષ્ટ કલશ સે કરે નેક ।।
+શુભ નામ મિલા શ્રેયાંસનાથ, જય સત્ય પરાયણ સદ્યજાત ।
+નિશ્રેયસ માર્ગ કે દર્શાયક, જન્મે મતિ શ્રુત અવધિ ધારક ।।
+આયુ ચૌરાસી લક્ષ પ્રમાણ, તન તુંગ ધનુષ અસ્સી મહાન ।
+પ્રભુ વર્ણ સુવર્ણ સમ્માન પીત, ગએ પૂરબ ઇક્કીસ લક્ષ બીત ।।
+હુઆ બ્યાહ મહા મંગલકારી, સબ સુખ ભોગે આનંદકારી ।
+જબ હુઆ ઋતૂ કા પરિવર્તન, વૈરાગ્ય હુઆ પ્રભુ કો ઉત્પન્ન ।।
+દિયા રાજપાટ સૂત શ્રેયસ્કર, તજા મોહ ત્રિભુવન ભાસ્કર ।
+સુર લાએ વિમલપ્રભા શિવિકા, ઉદ્યાન મનોહર નગરી કા ।।
+વહ જા કર કેશ લોંચ કીને, પરિગ્રહ બ્રહ્મન્તર તજ દિને ।
+ગએ શુદ્ધ શિલા તલ પર વિરાજ, ઊપર રહા તુમ્બુર વૃક્ષ સાજ ।।
+કિયા ધ્યાન વહ સ્થિર હોકર, હુઆ જ્ઞાન મનઃ પર્યય સત્વર ।
+હુએ ધન્ય સિદ્ધાર્થ નગર ભૂપ, દિયા પાત્ર દાન જિનને અનૂપ ।।
+મહિમા અચિન્ત્ય હૈં પાત્ર દાન, સુર કરતે પંચ અચરજ મહાન ।
+વન કો તત્કાલ હી લૌટ ગએ, પુરે દો સાલ વે મૌન રહે ।।
+આઈ જબ અમાવસ માઘ માસ, હુઆ કેવલ જ્ઞાન સુપ્રકાશ ।
+રચના શુભ સમવશરણ સુજાન, કરતે ધનદેવ તુરંત આન ।।
+પ્રભુ કી દિવ્ય ધ્વનિ હોતી વિકીર્ણ, હોતા કર્મો કા બાંધ ક્ષીર્ણ ।
+ઉત્સર્પિણી અવસર્પિણી વિશાલ, ઐસે દો ભેદ બતાયે કાલ ।।
+એક સૌ અડતાલીસ બીત જાયે, જબ હુન્દ અવસર્પિણી કહાય ।
+સુખમા સુખમા હૈં પ્રથમ કાલ, જિસમે સબ જીવ રહે ખુશહાલ ।।
+દૂજા દિખલાતે સુખમા કાલ, તીજા સુખમા દુખમા સુકાલ ।
+ચૌથા સુખમા દુખમા સુજાન, દુખમા હૈં પંચમ માન ।।
+દુખમા દુખમા છટ્ટમ મહાન, છટ્ટમ છટ્ટા એક હી સમાન ।
+યહ કાલ પરિણતિ ઐસી હી, હોતી ભરત ઐરાવત મેં હી ।।
+રહે ક્ષેત્ર વિદેહ મેં વિધ્યમાન, બસ કાલ ચતુર્થ હી વર્તમાન ।
+સુન કાલ સ્વરુપ કો જાન લિયા, ભવિજનો કા કલ્યાણ હુઆ ।।
+હુઆ દૂર દૂર પ્રભુ કા વિહાર, વહ દૂર હુઆ સબ શિથિલાચાર ।
+ફિર ગએ પ્રભુ ગિરિવર સમ્મેદ, ધરે સુયોગ વિભુ બિના ખેદ ।।
+હુઈ પૂર્ણમાસી શ્રાવણ શુક્લા, પ્રભુ કો શાશ્વત નિજરૂપ મિલા ।
+પૂજે સુર સંકુલ કૂટ આન, નિર્વાણોત્સવ કરતે મહાન ।।
+પ્રભુવર કે ચરણોં કા શરણા, જો ભવિજન લેતે સુખદાય ।
+ઉન પર હોતી પ્રભુ કી કરુણા, અરુણા મનવાંછિત ફલ પાય ।।`,
+      hi: `निज मन में करके स्थापित, पंच परम परमेष्ठी को ।
+लिखूं श्रेयांसनाथ चालीसा, मन में बहुत ही हर्षित हो ।।
+जय श्रेयांसनाथ श्रुत ज्ञायक हो, जय उत्तम आश्रय दायक हो ।
+माँ वेणु पिता विष्णु प्यारे, तुम सिंहपुर में अवतारे ।।
+जय ज्येष्ठ कृष्ण षष्ठी प्यारी, शुभ रत्न वृष्टि होती भारी।
+जय गर्भकल्यानोत्सव अपार, सब देव करें नाना प्रकार ।।
+जय जन्म जयंती प्रभु महान, फाल्गुन एकादशी कृष्ण जान ।
+जय जिनवर का जन्माभिषेक, शत अष्ट कलश से करे नेक ।।
+शुभ नाम मिला श्रेयांसनाथ, जय सत्य परायण सद्यजात ।
+निश्रेयस मार्ग के दर्शायक, जन्मे मति श्रुत अवधि धारक ।।
+आयु चौरासी लक्ष प्रमाण, तन तुंग धनुष अस्सी महान ।
+प्रभु वर्ण सुवर्ण सम्मान पीत, गए पूरब इक्कीस लक्ष बीत ।।
+हुआ ब्याह महा मंगलकारी, सब सुख भोगे आनंदकारी ।
+जब हुआ ऋतू का परिवर्तन, वैराग्य हुआ प्रभु को उत्पन्न ।।
+दिया राजपाट सूत श्रेयस्कर, तजा मोह त्रिभुवन भास्कर ।
+सुर लाए विमलप्रभा शिविका, उद्यान मनोहर नगरी का ।।
+वह जा कर केश लोंच कीने, परिग्रह ब्रह्मन्तर तज दिने ।
+गए शुद्ध शिला तल पर विराज, ऊपर रहा तुम्बुर वृक्ष साज ।।
+किया ध्यान वह स्थिर होकर, हुआ ज्ञान मनः पर्यय सत्वर ।
+हुए धन्य सिद्धार्थ नगर भूप, दिया पात्र दान जिनने अनूप ।।
+महिमा अचिन्त्य हैं पात्र दान, सुर करते पंच अचरज महान ।
+वन को तत्काल ही लौट गए, पुरे दो साल वे मौन रहे ।।
+आई जब अमावस माघ मास, हुआ केवल ज्ञान सुप्रकाश ।
+रचना शुभ समवशरण सुजान, करते धनदेव तुरंत आन ।।
+प्रभु की दिव्य ध्वनि होती विकीर्ण, होता कर्मो का बांध क्षीर्ण ।
+उत्सर्पिणी अवसर्पिणी विशाल, ऐसे दो भेद बताये काल ।।
+एक सौ अड़तालीस बीत जाये, जब हुन्द अवसर्पिणी कहाय ।
+सुखमा सुखमा हैं प्रथम काल, जिसमे सब जीव रहे खुशहाल ।।
+दूजा दिखलाते सुखमा काल, तीजा सुखमा दुखमा सुकाल ।
+चौथा सुखमा दुखमा सुजान, दुखमा हैं पंचम मान ।।
+दुखमा दुखमा छट्टम महान, छट्टम छट्टा एक ही समान ।
+यह काल परिणति ऐसी ही, होती भरत ऐरावत में ही ।।
+रहे क्षेत्र विदेह में विध्यमान, बस काल चतुर्थ ही वर्तमान ।
+सुन काल स्वरुप को जान लिया, भविजनो का कल्याण हुआ ।।
+हुआ दूर दूर प्रभु का विहार, वह दूर हुआ सब शिथिलाचार ।
+फिर गए प्रभु गिरिवर सम्मेद, धरे सुयोग विभु बिना खेद ।।
+हुई पूर्णमासी श्रावण शुक्ला, प्रभु को शाश्वत निजरूप मिला ।
+पूजे सुर संकुल कूट आन, निर्वाणोत्सव करते महान ।।
+प्रभुवर के चरणों का शरणा, जो भविजन लेते सुखदाय ।
+उन पर होती प्रभु की करुणा, अरुणा मनवांछित फल पाय ।।`,
+      sa: "",
+      en: `Nija mana men karake sthaapita, pancha parama parameshthee ko |
+Likhoon shreyaansanaatha chaaleesaa, mana men bahuta hee harshita ho | |
+Jaya shreyaansanaatha shruta gyaayaka ho, jaya uttama aashraya daayaka ho |
+Maan venu pitaa vishnu pyaare, tuma sinhapura men avataare | |
+Jaya jyeshtha krishna shashthee pyaaree, shubha ratna vrishti hotee bhaaree |
+Jaya garbhakalyaanotsava apaara, saba deva karen naanaa prakaara | |
+Jaya janma jayantee prabhu mahaana, phaalguna ekaadashee krishna jaana |
+Jaya jinavara kaa janmaabhisheka, shata ashta kalasha se kare neka | |
+Shubha naama milaa shreyaansanaatha, jaya satya paraayana sadyajaata |
+Nishreyasa maarga ke darshaayaka, janme mati shruta avadhi dhaaraka | |
+Aayu chauraasee laksha pramaana, tana tunga dhanusha assee mahaana |
+Prabhu varna suvarna sammaana peeta, gae pooraba ikkeesa laksha beeta | |
+Huaa byaaha mahaa mangalakaaree, saba sukha bhoge aanandakaaree |
+Jaba huaa ritoo kaa parivartana, vairaagya huaa prabhu ko utpanna | |
+Diyaa raajapaata soota shreyaskara, tajaa moha tribhuvana bhaaskara |
+Sura laae vimalaprabhaa shivikaa, udyaana manohara nagaree kaa | |
+Vaha jaa kara kesha loncha keene, parigraha brahmantara taja dine |
+Gae shuddha shilaa tala para viraaja, oopara rahaa tumbura vriksha saaja | |
+Kiyaa dhyaana vaha sthira hokara, huaa gyaana manah paryaya satvara |
+Hue dhanya siddhaartha nagara bhoopa, diyaa paatra daana jinane anoopa | |
+Mahimaa achintya hain paatra daana, sura karate pancha acharaja mahaana |
+Vana ko tatkaala hee lauta gae, pure do saala ve mauna rahe | |
+Aaee jaba amaavasa maagha maasa, huaa kevala gyaana suprakaasha |
+Rachanaa shubha samavasharana sujaana, karate dhanadeva turanta aana | |
+Prabhu kee divya dhvani hotee vikeerna, hotaa karmo kaa baandha ksheerna |
+Utsarpinee avasarpinee vishaala, aise do bheda bataaye kaala | |
+Eka sau adataaleesa beeta jaaye, jaba hunda avasarpinee kahaaya |
+Sukhamaa sukhamaa hain prathama kaala, jisame saba jeeva rahe khushahaala | |
+Doojaa dikhalaate sukhamaa kaala, teejaa sukhamaa dukhamaa sukaala |
+Chauthaa sukhamaa dukhamaa sujaana, dukhamaa hain panchama maana | |
+Dukhamaa dukhamaa chhattama mahaana, chhattama chhattaa eka hee samaana |
+Yaha kaala parinati aisee hee, hotee bharata airaavata men hee | |
+Rahe kshetra videha men vidhyamaana, basa kaala chaturtha hee vartamaana |
+Suna kaala svarupa ko jaana liyaa, bhavijano kaa kalyaana huaa | |
+Huaa doora doora prabhu kaa vihaara, vaha doora huaa saba shithilaachaara |
+Phira gae prabhu girivara sammeda, dhare suyoga vibhu binaa kheda | |
+Huee poornamaasee shraavana shuklaa, prabhu ko shaashvata nijaroopa milaa |
+Pooje sura sankula koota aana, nirvaanotsava karate mahaana | |
+Prabhuvara ke charanon kaa sharanaa, jo bhavijana lete sukhadaaya |
+Una para hotee prabhu kee karunaa, arunaa manavaanchhita phala paaya | |`,
+    },
+  },
+  {
+    id: "vasupujya-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી વાસુપૂજ્ય જી ચાલીસા",
+      hi: "श्री वासुपूज्य जी चालीसा",
+      sa: "",
+      en: "Shri Vasupujya Ji Chalisa",
+    },
+    text: {
+      gu: `વાસુ પૂજ્ય મહારાજ કા, ચાલીસા સુખકાર ।
+વિનય પ્રેમ સે બાઁચિયે, કરકે ધ્યાન વિચાર ।।
+જય શ્રી વાસુપૂજ્ય સુખકારી, દીન દયાલ બાલ બ્રહ્માચારી ।
+અદભુત ચમ્પાપુર રજધાની, ધર્મી ન્યાયી જ્ઞાની દાની ।।
+વાસુ પૂજ્ય યહાઁ કે રાજા, કરને રાજ કાજ નિષ્કાજા ।
+આપસ મેં સબ પ્રેમ બઢાને, બારહ શુદ્ધ ભાવના ભાતે ।।
+ગઊ શેર આપસ મેં મિલતે, તીનો મૌસમ સુખ મેં કટતે ।
+સબ્જી ફલ ઘી દૂધ હો ઘર ઘર, આતે જાતે મુનિ નિરંતર ।।
+વસ્તુ સમય પર હોતી સારી, જહા ન હો ચોરી બીમારી ।
+જિન મંદિર પર ધ્વજા ફહરાએ, ઘંટે ઘરનાવલ ઝાન્નાયે ।।
+શોભિત અતિશય માય પ્રતિમાયેં, મન વૈરાગ્ય દેખ છા જાવે ।
+પૂજન દર્શન નવહન કરાવે, કરતે આરતી દીપ જલાયે ।।
+રાગ રાગિની ગાયન ગાયેં, તરહ તરહ કે સાજ બજાયેં।
+કોઈ અલૌકિક નૃત્ય દિખાવે, શ્રાવક ભક્તિ સે ભર જાવેં ।।
+હોતી નિશ દિન શાષ્ત્ર સભાએ, પદ્માસન કરતે સ્વાધ્યાયે ।
+વિષય કષાય પાપ નસાયે, સંયમ નિયમ વિવિએક સુહાયે।।
+રાગદ્વેષ અભિમાન નશાતે, ગૃહસ્થી ત્યાગી ધર્મ નિભાતે ।
+મિટેં પરિગ્રહ સબ તૃષ્નાયે, અનેકાંત દશ ધર્મ રમાયેં ।।
+છઠ અષાઢ બડી ઉર આયે, વિજયા રાની ભાગ્ય જગાયેં ।
+સુન રાની સે સુલહ સુપને, રાજા મન મેં લગે હરષને ।।
+તીર્થંકર લે જન્મ તુમ્હારે, હોંગે અબ ઉદ્ધાર હમારે ।
+તીનો વક્ત નિત રત્ન બરસતે, વિજયા માઁ કે આઁગન ભરતે ।।
+સાઢે દસ કરોડ થી ગિનતી, પરજા અપની ઝોલી ભરતી ।
+ફાગુન ચૌદસ બદિ જન્માયે, સુરપતિ અદભુત જિન ગુણ ગાયે ।।
+મતિ શ્રુત અવધિ જ્ઞાન ભંડારી, ચાલીસ ગુણ સબ અતિશય ધારી ।
+નાટક તાંડવ નૃત્ય દિખાએ, નવ ભાવ પ્રભુ જી કે દર્શાયે ।।
+પાણ્ડુ શિલા પર નવ્હન કરાયે, વસ્ત્રભુષન વદન સજાયે ।
+સબ જગ ઉત્સવ હર્ષ મનાયે, નારી નર સુર ઝુલા ઝુલાયે ।।
+બીતે સુખ મેં દિન બચપન કે, હુએ અઠારહ લાખ વર્ષ કે ।
+આપ બારહવે હો તીર્થંકર, ભૈસા ચિન્હ આપકા જિનવર ।।
+ધનુષ પચાસ વદન કેસરિયા, નિસ્પૃહ પર ઉપકાર કરઇયા ।
+દર્શન પૂજા જપ તપ કરતે, આત્મ ચિંતવન મેં નિત રમતે ।।
+ગુરુ મુનિયોં કા આદર કરતે, પાપ વિષય ભોગો સે બચતે ।
+શાદી અપની નહીં કરાઈ, હારે તાત માત સમઝાઈ ।।
+માત પિતા રાજ તજ દિને, દીક્ષા લે દુધ્દર તપ કીને ।
+માઘ સુદી દોયજ દિન આયા, કેવલ જ્ઞાન આપને પાયા ।।
+સમોશરણ સુર રચે જહાઁ પર, છાસઠ ઉસમે રહતે ગણધર ।
+વાસુપૂજ્ય કી ખિરતી વાણી, જિસકો ગણધર્વો ને જાની ।।
+મુખ સે ઉનકે વો નિકલી થી, સબ જીવોં ને વો સમઝી થી ।
+આપા આપ આપ પ્રગટાયા, નિજ ગુણ જ્ઞાન ભાન ચમકાયા ।।
+હર ભૂલો કો રાહ દિખાઈ, રત્નત્રય કી જ્યોત જલાઈ ।
+આતમ ગુણ અનુભવ કરવાયા, સુમત જૈન મત જગ ફૈલાયા ।।
+સુદી ભાદવા ચૌદસ આઈ, ચંપા નગરી મુક્તિ પાઈ ।
+આયુ બહત્તર લાખ વર્ષ કી, બીતી સારી હર્ષ ધર્મ કી ।।
+ઔર ચૌરાનવે થે શ્રી મુનિવર, પહુચ ગએ વો ભી સબ શિવપુર ।
+તભી વહા ઇન્દ્ર સુર આયે, ઉત્સવ મિલ નિર્વાણ મનાયે ।।
+દેહ ઉડી કપૂર સમાના, મધુર સુગંધી ફૈલા નાના ।
+ફૈલાઈ રત્નોં કી માલા, ચારો દિશ ચમકે ઉજિયાલા ।।
+કહે સુમત ક્યા ગુણ જિનરાઈ, તુમ પર્વત હો મૈં હુ રાઈ ।
+જબ હી ભક્તિ ભાવ હુઆ હૈં, ચંપાપુર કા ધ્યાન કિયા હૈં ।
+લગી આશ મૈં ભી કભી જાઊ, વાસુપૂજ્ય કે દર્શન પાઊ ।।
+સોરઠા
+ખેયે ધુપ સુગંધ, વાસુપૂજ્ય પ્રભુ ધ્યાન કે ।
+કર્મ ભાર સબ તાર, રૂપ સ્વરુપ નિહાર કે ।।
+મતિ જો મન મેં હોય, રહે વેસી હો ગતિ આય કે ।
+કરો સુમત રસપાન, સરલ નિજાતમ પાય કે ।।`,
+      hi: `वासु पूज्य महाराज का, चालीसा सुखकार ।
+विनय प्रेम से बाँचिये, करके ध्यान विचार ।।
+जय श्री वासुपूज्य सुखकारी, दीन दयाल बाल ब्रह्माचारी ।
+अदभुत चम्पापुर रजधानी, धर्मी न्यायी ज्ञानी दानी ।।
+वासु पूज्य यहाँ के राजा, करने राज काज निष्काजा ।
+आपस में सब प्रेम बढ़ाने, बारह शुद्ध भावना भाते ।।
+गऊ शेर आपस में मिलते, तीनो मौसम सुख में कटते ।
+सब्जी फल घी दूध हो घर घर, आते जाते मुनि निरंतर ।।
+वस्तु समय पर होती सारी, जहा न हो चोरी बीमारी ।
+जिन मंदिर पर ध्वजा फहराए, घंटे घरनावल झान्नाये ।।
+शोभित अतिशय माय प्रतिमायें, मन वैराग्य देख छा जावे ।
+पूजन दर्शन नवहन करावे, करते आरती दीप जलाये ।।
+राग रागिनी गायन गायें, तरह तरह के साज बजायें।
+कोई अलौकिक नृत्य दिखावे, श्रावक भक्ति से भर जावें ।।
+होती निश दिन शाष्त्र सभाए, पद्मासन करते स्वाध्याये ।
+विषय कषाय पाप नसाये, संयम नियम विविएक सुहाये।।
+रागद्वेष अभिमान नशाते, गृहस्थी त्यागी धर्म निभाते ।
+मिटें परिग्रह सब तृष्नाये, अनेकांत दश धर्म रमायें ।।
+छठ अषाढ़ बड़ी उर आये, विजया रानी भाग्य जगायें ।
+सुन रानी से सुलह सुपने, राजा मन में लगे हरषने ।।
+तीर्थंकर ले जन्म तुम्हारे, होंगे अब उद्धार हमारे ।
+तीनो वक्त नित रत्न बरसते, विजया माँ के आँगन भरते ।।
+साढ़े दस करोड़ थी गिनती, परजा अपनी झोली भरती ।
+फागुन चौदस बदि जन्माये, सुरपति अदभुत जिन गुण गाये ।।
+मति श्रुत अवधि ज्ञान भंडारी, चालीस गुण सब अतिशय धारी ।
+नाटक तांडव नृत्य दिखाए, नव भाव प्रभु जी के दर्शाये ।।
+पाण्डु शिला पर नव्हन कराये, वस्त्रभुषन वदन सजाये ।
+सब जग उत्सव हर्ष मनाये, नारी नर सुर झुला झुलाये ।।
+बीते सुख में दिन बचपन के, हुए अठारह लाख वर्ष के ।
+आप बारहवे हो तीर्थंकर, भैसा चिन्ह आपका जिनवर ।।
+धनुष पचास वदन केसरिया, निस्पृह पर उपकार करइया ।
+दर्शन पूजा जप तप करते, आत्म चिंतवन में नित रमते ।।
+गुरु मुनियों का आदर करते, पाप विषय भोगो से बचते ।
+शादी अपनी नहीं कराई, हारे तात मात समझाई ।।
+मात पिता राज तज दिने, दीक्षा ले दुध्दर तप कीने ।
+माघ सुदी दोयज दिन आया, केवल ज्ञान आपने पाया ।।
+समोशरण सुर रचे जहाँ पर, छासठ उसमे रहते गणधर ।
+वासुपूज्य की खिरती वाणी, जिसको गणधर्वो ने जानी ।।
+मुख से उनके वो निकली थी, सब जीवों ने वो समझी थी ।
+आपा आप आप प्रगटाया, निज गुण ज्ञान भान चमकाया ।।
+हर भूलो को राह दिखाई, रत्नत्रय की ज्योत जलाई ।
+आतम गुण अनुभव करवाया, सुमत जैन मत जग फैलाया ।।
+सुदी भादवा चौदस आई, चंपा नगरी मुक्ति पाई ।
+आयु बहत्तर लाख वर्ष की, बीती सारी हर्ष धर्म की ।।
+और चौरानवे थे श्री मुनिवर, पहुच गए वो भी सब शिवपुर ।
+तभी वहा इन्द्र सुर आये, उत्सव मिल निर्वाण मनाये ।।
+देह उडी कपूर समाना, मधुर सुगंधी फैला नाना ।
+फैलाई रत्नों की माला, चारो दिश चमके उजियाला ।।
+कहे सुमत क्या गुण जिनराई, तुम पर्वत हो मैं हु राई ।
+जब ही भक्ति भाव हुआ हैं, चंपापुर का ध्यान किया हैं ।
+लगी आश मैं भी कभी जाऊ, वासुपूज्य के दर्शन पाऊ ।।
+सोरठा
+खेये धुप सुगंध, वासुपूज्य प्रभु ध्यान के ।
+कर्म भार सब तार, रूप स्वरुप निहार के ।।
+मति जो मन में होय, रहे वेसी हो गति आय के ।
+करो सुमत रसपान, सरल निजातम पाय के ।।`,
+      sa: "",
+      en: `Vaasu poojya mahaaraaja kaa, chaaleesaa sukhakaara |
+Vinaya prema se baanchiye, karake dhyaana vichaara | |
+Jaya shree vaasupoojya sukhakaaree, deena dayaala baala brahmaachaaree |
+Adabhuta champaapura rajadhaanee, dharmee nyaayee gyaanee daanee | |
+Vaasu poojya yahaan ke raajaa, karane raaja kaaja nishkaajaa |
+Aapasa men saba prema badhaane, baaraha shuddha bhaavanaa bhaate | |
+Gaoo shera aapasa men milate, teeno mausama sukha men katate |
+Sabjee phala ghee doodha ho ghara ghara, aate jaate muni nirantara | |
+Vastu samaya para hotee saaree, jahaa na ho choree beemaaree |
+Jina mandira para dhvajaa phaharaae, ghante gharanaavala jhaannaaye | |
+Shobhita atishaya maaya pratimaayen, mana vairaagya dekha chhaa jaave |
+Poojana darshana navahana karaave, karate aaratee deepa jalaaye | |
+Raaga raaginee gaayana gaayen, taraha taraha ke saaja bajaayen |
+Koee alaukika nritya dikhaave, shraavaka bhakti se bhara jaaven | |
+Hotee nisha dina shaashtra sabhaae, padmaasana karate svaadhyaaye |
+Vishaya kashaaya paapa nasaaye, sanyama niyama vivieka suhaaye | |
+Raagadvesha abhimaana nashaate, grihasthee tyaagee dharma nibhaate |
+Miten parigraha saba trishnaaye, anekaanta dasha dharma ramaayen | |
+Chhatha ashaadha badee ura aaye, vijayaa raanee bhaagya jagaayen |
+Suna raanee se sulaha supane, raajaa mana men lage harashane | |
+Teerthankara le janma tumhaare, honge aba uddhaara hamaare |
+Teeno vakta nita ratna barasate, vijayaa maan ke aangana bharate | |
+Saadhe dasa karoda thee ginatee, parajaa apanee jholee bharatee |
+Phaaguna chaudasa badi janmaaye, surapati adabhuta jina guna gaaye | |
+Mati shruta avadhi gyaana bhandaaree, chaaleesa guna saba atishaya dhaaree |
+Naataka taandava nritya dikhaae, nava bhaava prabhu jee ke darshaaye | |
+Paandu shilaa para navhana karaaye, vastrabhushana vadana sajaaye |
+Saba jaga utsava harsha manaaye, naaree nara sura jhulaa jhulaaye | |
+Beete sukha men dina bachapana ke, hue athaaraha laakha varsha ke |
+Aapa baarahave ho teerthankara, bhaisaa chinha aapakaa jinavara | |
+Dhanusha pachaasa vadana kesariyaa, nispriha para upakaara karaiyaa |
+Darshana poojaa japa tapa karate, aatma chintavana men nita ramate | |
+Guru muniyon kaa aadara karate, paapa vishaya bhogo se bachate |
+Shaadee apanee naheen karaaee, haare taata maata samajhaaee | |
+Maata pitaa raaja taja dine, deekshaa le dudhdara tapa keene |
+Maagha sudee doyaja dina aayaa, kevala gyaana aapane paayaa | |
+Samosharana sura rache jahaan para, chhaasatha usame rahate ganadhara |
+Vaasupoojya kee khiratee vaanee, jisako ganadharvo ne jaanee | |
+Mukha se unake vo nikalee thee, saba jeevon ne vo samajhee thee |
+Aapaa aapa aapa pragataayaa, nija guna gyaana bhaana chamakaayaa | |
+Hara bhoolo ko raaha dikhaaee, ratnatraya kee jyota jalaaee |
+Aatama guna anubhava karavaayaa, sumata jaina mata jaga phailaayaa | |
+Sudee bhaadavaa chaudasa aaee, chanpaa nagaree mukti paaee |
+Aayu bahattara laakha varsha kee, beetee saaree harsha dharma kee | |
+Aura chauraanave the shree munivara, pahucha gae vo bhee saba shivapura |
+Tabhee vahaa indra sura aaye, utsava mila nirvaana manaaye | |
+Deha udee kapoora samaanaa, madhura sugandhee phailaa naanaa |
+Phailaaee ratnon kee maalaa, chaaro disha chamake ujiyaalaa | |
+Kahe sumata kyaa guna jinaraaee, tuma parvata ho main hu raaee |
+Jaba hee bhakti bhaava huaa hain, chanpaapura kaa dhyaana kiyaa hain |
+Lagee aasha main bhee kabhee jaaoo, vaasupoojya ke darshana paaoo | |
+Sorathaa
+Kheye dhupa sugandha, vaasupoojya prabhu dhyaana ke |
+Karma bhaara saba taara, roopa svarupa nihaara ke | |
+Mati jo mana men hoya, rahe vesee ho gati aaya ke |
+Karo sumata rasapaana, sarala nijaatama paaya ke | |`,
+    },
+  },
+  {
+    id: "vimalnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી વિમલનાથ જી ચાલીસા",
+      hi: "श्री विमलनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Vimalnath Ji Chalisa",
+    },
+    text: {
+      gu: `સિદ્ધ અનંતાનંત નમન કર, સરસ્વતી કો મન મેં ધ્યાય ।
+વિમલ પ્રભુ કી વિમલ ભક્તિ કર, ચરણ કમલ કો શીશ નવાય ।।
+જય શ્રી વિમલનાથ વિમલેશ, આઠો કર્મ કિયે નિઃશેષ ।
+કૃત વર્મા કે રાજ દુલારે, રાની જયશ્યામા કે પ્યારે ।।
+મંગલિક શુભ સપને સારે, જગજનની ને દેખે ન્યારે ।
+શુક્લ ચતુર્થી માઘ માસ કી, જન્મ જયંતી વિમલનાથ કી ।।
+જન્મોત્સવ દેવોં ને મનાયા, વિમલપ્રભુ શુભ નામ ધરાયા ।
+મેરુ પર અભિષેક કરાયા, ગંધોદક શ્રદ્ધા સે લગાયા ।।
+વસ્ત્રાભૂષણ દિવ્ય પહનાકર, માત પિતા કો સૌપા આકર ।
+સાઠ લાખ વર્ષાયુ પ્રભુ કી, અવગાહના થી સાઠ ધનુષ કી ।।
+કંચન જૈસી છવિ પ્રભુ તન કી, મહિમા કૈસે ગાઊ મેં ઉનકી ।
+બચપન બિતા, યૌવન આયા, પિતા ને રાજતિલક કરવાયા ।।
+ચયન કરો સુન્દર વધુઓ કા, આયોજન કિયા શુભ વિવાહ કા ।
+એક દિન દેખિ ઓસ ઘાસ પર, હિમકણ દેખે નયન પ્રિતીભર ।।
+હુઆ સંસર્ગ સૂર્ય રશ્મિ સે, લુપ્ત હુએ સબ મોતી જૈસે ।
+હો વિશ્વાસ પ્રભુ કો કૈસે, ખડે રહે વે ચિત્રલિખિત સે ।।
+ક્ષણભંગુર હૈં યે સંસાર, એક ધર્મ હી હૈં બસ સાર ।
+વૈરાગ્ય હ્રદય મેં સમાયા, છોડે ક્રોધ માન ઔર માયા ।।
+ઘર પહુચે અનમને સે હોકર, રાજપાઠ નિજ સૂત કો દેકર ।
+દેવભઈ શિવિકા પર ચઢકર, ગએ સહેતુક વન મેં જિનવર ।।
+માઘ માસ ચતુર્થી કારી, નમઃ સિદ્ધ કહ દીક્ષા ધારી ।
+રચના સમોશરણ હિતકાર, દિવ્ય દેશના હુઈ હિતકાર ।।
+ઉપશમ કરકે મિથ્યાત્વ કા, અનુભવ કરલો નિજ આતમ કા ।
+મિથ્યાતમ કા હોય નિવારણ, મિટે સંસાર ભ્રમણ કા કારણ ।।
+બિન સમ્યક્ત્વ કે જપ તપ પૂજન, નિષ્ફલ હૈં સારે ફલ અર્ચન ।
+વિષફલ હૈં વિષયભોગ સબ, ઇનકો ત્યાગો હેય જાન અબ ।।
+દ્રવ્ય ભાવ નો કમોદી સે, ભિન્ન હૈ આતમ દેવ સભી સે ।
+નિશ્ચ્ય કરકે નિજ આતમ કા, ધ્યાન કરો તુમ પરમાતમ કા ।।
+ઐસી પ્યારી હિત કી વાણી, સુનકર સુખી હુએ સબ પ્રાણી ।
+દૂર દૂર તક હુઆ વિહાર, કિયા સભી ને આત્મોદ્ધાર ।।
+મંદર આદિ પચપન ગણધર, અડસઠ સહસ દિગંબર મુનિવર ।
+ઉમ્ર રહી જબ તીસ દિનોં કી, જા પહુચે સમ્મેદશિખર જી ।।
+હુઆ બાહ્ય વૈભવ પરિહાર, શેપ કર્મ બંધન નિખાર ।
+આવાગમન કા કર સંહાર, પ્રભુ ને પાયા મોક્ષાગાર ।।
+ષષ્ઠી કૃષ્ણ માસ આષાઢ, દેવ કરેં જિન ભક્તિ પ્રગાઢ ।
+સુવીર કૂટ પૂજે મન લાય, નિર્વાણોત્સવ કરેં હર્ષાય ।।
+જો ભાવી વિમલ પ્રભુ કો ધ્યાવે, વે સબ મનવાંછિત ફલ પાવે ।
+અરુણા કરતી વિમલ સ્તવન, ઢીલે હો જાવે ભવ બંધન ।।`,
+      hi: `सिद्ध अनंतानंत नमन कर, सरस्वती को मन में ध्याय ।
+विमल प्रभु की विमल भक्ति कर, चरण कमल को शीश नवाय ।।
+जय श्री विमलनाथ विमलेश, आठो कर्म किये निःशेष ।
+कृत वर्मा के राज दुलारे, रानी जयश्यामा के प्यारे ।।
+मंगलिक शुभ सपने सारे, जगजननी ने देखे न्यारे ।
+शुक्ल चतुर्थी माघ मास की, जन्म जयंती विमलनाथ की ।।
+जन्मोत्सव देवों ने मनाया, विमलप्रभु शुभ नाम धराया ।
+मेरु पर अभिषेक कराया, गंधोदक श्रद्धा से लगाया ।।
+वस्त्राभूषण दिव्य पहनाकर, मात पिता को सौपा आकर ।
+साठ लाख वर्षायु प्रभु की, अवगाहना थी साठ धनुष की ।।
+कंचन जैसी छवि प्रभु तन की, महिमा कैसे गाऊ में उनकी ।
+बचपन बिता, यौवन आया, पिता ने राजतिलक करवाया ।।
+चयन करो सुन्दर वधुओ का, आयोजन किया शुभ विवाह का ।
+एक दिन देखि ओस घास पर, हिमकण देखे नयन प्रितीभर ।।
+हुआ संसर्ग सूर्य रश्मि से, लुप्त हुए सब मोती जैसे ।
+हो विश्वास प्रभु को कैसे, खड़े रहे वे चित्रलिखित से ।।
+क्षणभंगुर हैं ये संसार, एक धर्म ही हैं बस सार ।
+वैराग्य ह्रदय में समाया, छोड़े क्रोध मान और माया ।।
+घर पहुचे अनमने से होकर, राजपाठ निज सूत को देकर ।
+देवभई शिविका पर चढ़कर, गए सहेतुक वन में जिनवर ।।
+माघ मास चतुर्थी कारी, नमः सिद्ध कह दीक्षा धारी ।
+रचना समोशरण हितकार, दिव्य देशना हुई हितकार ।।
+उपशम करके मिथ्यात्व का, अनुभव करलो निज आतम का ।
+मिथ्यातम का होय निवारण, मिटे संसार भ्रमण का कारण ।।
+बिन सम्यक्त्व के जप तप पूजन, निष्फल हैं सारे फल अर्चन ।
+विषफल हैं विषयभोग सब, इनको त्यागो हेय जान अब ।।
+द्रव्य भाव नो कमोदी से, भिन्न है आतम देव सभी से ।
+निश्च्य करके निज आतम का, ध्यान करो तुम परमातम का ।।
+ऐसी प्यारी हित की वाणी, सुनकर सुखी हुए सब प्राणी ।
+दूर दूर तक हुआ विहार, किया सभी ने आत्मोद्धार ।।
+मंदर आदि पचपन गणधर, अडसठ सहस दिगंबर मुनिवर ।
+उम्र रही जब तीस दिनों की, जा पहुचे सम्मेदशिखर जी ।।
+हुआ बाह्य वैभव परिहार, शेप कर्म बंधन निखार ।
+आवागमन का कर संहार, प्रभु ने पाया मोक्षागार ।।
+षष्ठी कृष्ण मास आषाढ़, देव करें जिन भक्ति प्रगाढ़ ।
+सुवीर कूट पूजे मन लाय, निर्वाणोत्सव करें हर्षाय ।।
+जो भावी विमल प्रभु को ध्यावे, वे सब मनवांछित फल पावे ।
+अरुणा करती विमल स्तवन, ढीले हो जावे भव बंधन ।।`,
+      sa: "",
+      en: `Siddha anantaananta namana kara, sarasvatee ko mana men dhyaaya |
+Vimala prabhu kee vimala bhakti kara, charana kamala ko sheesha navaaya | |
+Jaya shree vimalanaatha vimalesha, aatho karma kiye nihshesha |
+Krita varmaa ke raaja dulaare, raanee jayashyaamaa ke pyaare | |
+Mangalika shubha sapane saare, jagajananee ne dekhe nyaare |
+Shukla chaturthee maagha maasa kee, janma jayantee vimalanaatha kee | |
+Janmotsava devon ne manaayaa, vimalaprabhu shubha naama dharaayaa |
+Meru para abhisheka karaayaa, gandhodaka shraddhaa se lagaayaa | |
+Vastraabhooshana divya pahanaakara, maata pitaa ko saupaa aakara |
+Saatha laakha varshaayu prabhu kee, avagaahanaa thee saatha dhanusha kee | |
+Kanchana jaisee chhavi prabhu tana kee, mahimaa kaise gaaoo men unakee |
+Bachapana bitaa, yauvana aayaa, pitaa ne raajatilaka karavaayaa | |
+Chayana karo sundara vadhuo kaa, aayojana kiyaa shubha vivaaha kaa |
+Eka dina dekhi osa ghaasa para, himakana dekhe nayana priteebhara | |
+Huaa sansarga soorya rashmi se, lupta hue saba motee jaise |
+Ho vishvaasa prabhu ko kaise, khade rahe ve chitralikhita se | |
+Kshanabhangura hain ye sansaara, eka dharma hee hain basa saara |
+Vairaagya hradaya men samaayaa, chhode krodha maana aura maayaa | |
+Ghara pahuche anamane se hokara, raajapaatha nija soota ko dekara |
+Devabhaee shivikaa para chadhakara, gae sahetuka vana men jinavara | |
+Maagha maasa chaturthee kaaree, namah siddha kaha deekshaa dhaaree |
+Rachanaa samosharana hitakaara, divya deshanaa huee hitakaara | |
+Upashama karake mithyaatva kaa, anubhava karalo nija aatama kaa |
+Mithyaatama kaa hoya nivaarana, mite sansaara bhramana kaa kaarana | |
+Bina samyaktva ke japa tapa poojana, nishphala hain saare phala archana |
+Vishaphala hain vishayabhoga saba, inako tyaago heya jaana aba | |
+Dravya bhaava no kamodee se, bhinna hai aatama deva sabhee se |
+Nishchya karake nija aatama kaa, dhyaana karo tuma paramaatama kaa | |
+Aisee pyaaree hita kee vaanee, sunakara sukhee hue saba praanee |
+Doora doora taka huaa vihaara, kiyaa sabhee ne aatmoddhaara | |
+Mandara aadi pachapana ganadhara, adasatha sahasa diganbara munivara |
+Umra rahee jaba teesa dinon kee, jaa pahuche sammedashikhara jee | |
+Huaa baahya vaibhava parihaara, shepa karma bandhana nikhaara |
+Aavaagamana kaa kara sanhaara, prabhu ne paayaa mokshaagaara | |
+Shashthee krishna maasa aashaadha, deva karen jina bhakti pragaadha |
+Suveera koota pooje mana laaya, nirvaanotsava karen harshaaya | |
+Jo bhaavee vimala prabhu ko dhyaave, ve saba manavaanchhita phala paave |
+Arunaa karatee vimala stavana, dheele ho jaave bhava bandhana | |`,
+    },
+  },
+  {
+    id: "anantnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી અનન્તનાથ જી ચાલીસા",
+      hi: "श्री अनन्तनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Anantnath Ji Chalisa",
+    },
+    text: {
+      gu: `અનન્ત ચતુષ્ટય ધરી અનંત, અનંત ગુણોં કી ખાન અનન્ત।
+સર્વશુદ્ધ જ્ઞાયક હૈં અનન્ત, હરણ કરે મમ દોષ અનન્ત ।।
+નગર અયોધ્યા મહા સુખકાર, રાજ્ય કરે સિંહસેન અપાર ।
+સર્વયશા મહાદેવી ઉનકી, જનની કહલાઈ જિનવર કી ।।
+દ્વાદશી જ્યેષ્ઠ કૃષ્ણ સુખકારી, જન્મે તીર્થંકર હિતકારી ।
+ઇન્દ્ર પ્રભુ કો ગોદ મેં લેકર, ન્વહન કરે મેરુ પર જાકર ।।
+નામ અનંતનાથ શુભ દીના, ઉત્સવ કરતે નિત્ય નવીના ।
+સાર્થક હુઆ નામ પ્રભુવર કા, પાર નહીં ગુણ કે સાગર કા ।।
+વર્ણ સુવર્ણ સમાન પ્રભુ કા, જ્ઞાન ધરેં મુનિ શ્રુત અવધિ કા ।
+આયુ તીસ લાખ વર્ષ ઉપાઈ, ધનુષ અર્ધશત તન ઊચાઈ ।।
+બચપન ગયા જવાની આઈ, રાજ્ય મિલા ઉનકો સુખદાઈ ।
+હુઆ વિવાહ ઉનકા મંગલમય, જીવન થા જિનવર કા સુખમય ।।
+પંદ્રહ લાખ બરસ બીતેં જબ, ઉલ્કાપાત સે હુએ વિરત તબ ।
+જગ મેં સુખ પાયા કિસને કબ, મન સે ત્યાગ રાગ ભાવ સબ ।।
+બારહ ભાવના મન મેં ભાયે, બ્રહ્મર્ષિ વૈરાગ્ય બઢાયે ।
+અનન્તવિજય સૂત તિલક કરાકર, દેવોમઈ શિવિકા પધારા કર ।।
+ગએ સહેતુક વન જિનરાજ, દીક્ષિત હુએ સહસ નૃપ સાથ।
+દ્વાદશી કૃષ્ણ જ્યેષ્ઠ શુભ માસ, તિન દિન ધરા ઉપવાસ ।।
+ગએ અયોધ્યા પ્રથમ યોગ કર, ધન્ય વિશાખ આહાર કરાકર ।
+મૌન સહિત રહતે થે વન મેં, એક દિન તિષ્ઠે પીપલ તલ મેં ।।
+અટલ રહે નિજ યોગ ધ્યાન મેં, ઝલકે લોકાલોક જ્ઞાન મેં ।
+કૃષ્ણ અમાવસ ચૈત્ર માસ કી, રચના હુઈ શુભ સમવશરણ કી ।।
+જિનવર કી વાણી જબ ખિરતી, અમૃત સમ કાનો કો લગતી ।
+ચતુર્ગતિ દુઃખ ચિત્રણ કરતે, ભવિજન સુન પાપો સે ડરતે ।।
+જો ચાહો તુમ મુક્તિ પાના, નિજ આતમ કી શરણ મેં જાના ।
+સમ્યગ્દર્શન જ્ઞાન ચરિત હૈં, કહે વ્યહવાર મેં રતનત્રય હૈં ।
+નિશ્ચ્ય સે શુદ્ધાતમ ધ્યાકર, શિવપદ મિલતા સુખ રત્નાકર ।
+શ્રદ્ધા કર ભવ્ય જનોં ને, યથાશક્તિ વ્રત ધારે સબને ।।
+હુઆ વિહાર દેશ ઔર પ્રાન્ત, સત્પથ દર્શાએ જિનનાથ ।
+અંત સમય ગએ સમ્મેદાચલ, એક માસ તક રહે સુનિશ્ચલ ।।
+કૃષ્ણ ચૈત્ર અમાવસ પાવન, મોક્ષમહલ પહુચે મનભાવન ।
+ઉત્સવ કરતે સુરગણ આકર, કૂટ સ્વયંપ્રભ મન મેં ધ્યાકર ।।
+શુભ લક્ષણ પ્રભુવર કા સેહી, શોભિત હોતા પ્રભુ પદ મેં હી ।
+અરુણા અરજ કરે બસ યે હી, પાર કરો ભવ સાગર સે હી ।।
+હે પ્રભુ લોકાલોક અનન્ત, ઝલકે સબ તુમ જ્ઞાન અનન્ત ।
+હુઆ અનન્ત ભવો કા અંત, અદભુત તુમ મહિમા હૈં અનન્ત ।।`,
+      hi: `अनन्त चतुष्टय धरी अनंत, अनंत गुणों की खान अनन्त।
+सर्वशुद्ध ज्ञायक हैं अनन्त, हरण करे मम दोष अनन्त ।।
+नगर अयोध्या महा सुखकार, राज्य करे सिंहसेन अपार ।
+सर्वयशा महादेवी उनकी, जननी कहलाई जिनवर की ।।
+द्वादशी ज्येष्ठ कृष्ण सुखकारी, जन्मे तीर्थंकर हितकारी ।
+इन्द्र प्रभु को गोद में लेकर, न्वहन करे मेरु पर जाकर ।।
+नाम अनंतनाथ शुभ दीना, उत्सव करते नित्य नवीना ।
+सार्थक हुआ नाम प्रभुवर का, पार नहीं गुण के सागर का ।।
+वर्ण सुवर्ण समान प्रभु का, ज्ञान धरें मुनि श्रुत अवधि का ।
+आयु तीस लाख वर्ष उपाई, धनुष अर्धशत तन ऊचाई ।।
+बचपन गया जवानी आई, राज्य मिला उनको सुखदाई ।
+हुआ विवाह उनका मंगलमय, जीवन था जिनवर का सुखमय ।।
+पंद्रह लाख बरस बीतें जब, उल्कापात से हुए विरत तब ।
+जग में सुख पाया किसने कब, मन से त्याग राग भाव सब ।।
+बारह भावना मन में भाये, ब्रह्मर्षि वैराग्य बढाये ।
+अनन्तविजय सूत तिलक कराकर, देवोमई शिविका पधारा कर ।।
+गए सहेतुक वन जिनराज, दीक्षित हुए सहस नृप साथ।
+द्वादशी कृष्ण ज्येष्ठ शुभ मास, तिन दिन धरा उपवास ।।
+गए अयोध्या प्रथम योग कर, धन्य विशाख आहार कराकर ।
+मौन सहित रहते थे वन में, एक दिन तिष्ठे पीपल तल में ।।
+अटल रहे निज योग ध्यान में, झलके लोकालोक ज्ञान में ।
+कृष्ण अमावस चैत्र मास की, रचना हुई शुभ समवशरण की ।।
+जिनवर की वाणी जब खिरती, अमृत सम कानो को लगती ।
+चतुर्गति दुःख चित्रण करते, भविजन सुन पापो से डरते ।।
+जो चाहो तुम मुक्ति पाना, निज आतम की शरण में जाना ।
+सम्यग्दर्शन ज्ञान चरित हैं, कहे व्यहवार में रतनत्रय हैं ।
+निश्च्य से शुद्धातम ध्याकर, शिवपद मिलता सुख रत्नाकर ।
+श्रद्धा कर भव्य जनों ने, यथाशक्ति व्रत धारे सबने ।।
+हुआ विहार देश और प्रान्त, सत्पथ दर्शाए जिननाथ ।
+अंत समय गए सम्मेदाचल, एक मास तक रहे सुनिश्चल ।।
+कृष्ण चैत्र अमावस पावन, मोक्षमहल पहुचे मनभावन ।
+उत्सव करते सुरगण आकर, कूट स्वयंप्रभ मन में ध्याकर ।।
+शुभ लक्षण प्रभुवर का सेही, शोभित होता प्रभु पद में ही ।
+अरुणा अरज करे बस ये ही, पार करो भव सागर से ही ।।
+हे प्रभु लोकालोक अनन्त, झलके सब तुम ज्ञान अनन्त ।
+हुआ अनन्त भवो का अंत, अदभुत तुम महिमा हैं अनन्त ।।`,
+      sa: "",
+      en: `Ananta chatushtaya dharee ananta, ananta gunon kee khaana ananta |
+Sarvashuddha gyaayaka hain ananta, harana kare mama dosha ananta | |
+Nagara ayodhyaa mahaa sukhakaara, raajya kare sinhasena apaara |
+Sarvayashaa mahaadevee unakee, jananee kahalaaee jinavara kee | |
+Dvaadashee jyeshtha krishna sukhakaaree, janme teerthankara hitakaaree |
+Indra prabhu ko goda men lekara, nvahana kare meru para jaakara | |
+Naama anantanaatha shubha deenaa, utsava karate nitya naveenaa |
+Saarthaka huaa naama prabhuvara kaa, paara naheen guna ke saagara kaa | |
+Varna suvarna samaana prabhu kaa, gyaana dharen muni shruta avadhi kaa |
+Aayu teesa laakha varsha upaaee, dhanusha ardhashata tana oochaaee | |
+Bachapana gayaa javaanee aaee, raajya milaa unako sukhadaaee |
+Huaa vivaaha unakaa mangalamaya, jeevana thaa jinavara kaa sukhamaya | |
+Pandraha laakha barasa beeten jaba, ulkaapaata se hue virata taba |
+Jaga men sukha paayaa kisane kaba, mana se tyaaga raaga bhaava saba | |
+Baaraha bhaavanaa mana men bhaaye, brahmarshi vairaagya badhaaye |
+Anantavijaya soota tilaka karaakara, devomaee shivikaa padhaaraa kara | |
+Gae sahetuka vana jinaraaja, deekshita hue sahasa nripa saatha |
+Dvaadashee krishna jyeshtha shubha maasa, tina dina dharaa upavaasa | |
+Gae ayodhyaa prathama yoga kara, dhanya vishaakha aahaara karaakara |
+Mauna sahita rahate the vana men, eka dina tishthe peepala tala men | |
+Atala rahe nija yoga dhyaana men, jhalake lokaaloka gyaana men |
+Krishna amaavasa chaitra maasa kee, rachanaa huee shubha samavasharana kee | |
+Jinavara kee vaanee jaba khiratee, amrita sama kaano ko lagatee |
+Chaturgati duhkha chitrana karate, bhavijana suna paapo se darate | |
+Jo chaaho tuma mukti paanaa, nija aatama kee sharana men jaanaa |
+Samyagdarshana gyaana charita hain, kahe vyahavaara men ratanatraya hain |
+Nishchya se shuddhaatama dhyaakara, shivapada milataa sukha ratnaakara |
+Shraddhaa kara bhavya janon ne, yathaashakti vrata dhaare sabane | |
+Huaa vihaara desha aura praanta, satpatha darshaae jinanaatha |
+Anta samaya gae sammedaachala, eka maasa taka rahe sunishchala | |
+Krishna chaitra amaavasa paavana, mokshamahala pahuche manabhaavana |
+Utsava karate suragana aakara, koota svayanprabha mana men dhyaakara | |
+Shubha lakshana prabhuvara kaa sehee, shobhita hotaa prabhu pada men hee |
+Arunaa araja kare basa ye hee, paara karo bhava saagara se hee | |
+He prabhu lokaaloka ananta, jhalake saba tuma gyaana ananta |
+Huaa ananta bhavo kaa anta, adabhuta tuma mahimaa hain ananta | |`,
+    },
+  },
+  {
+    id: "dharmanath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી ધર્મનાથ જી ચાલીસા",
+      hi: "श्री धर्मनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Dharmanath Ji Chalisa",
+    },
+    text: {
+      gu: `ઉત્તમ ક્ષમા અદિ દસ ધર્મ,પ્રગટે મૂર્તિમાન શ્રીધર્મ ।
+જગ સે હરણ કરે સન અધર્મ, શાશ્વત સુખ દે પ્રભુ ધર્મ ।।
+નગર રતનપુર કે શાસક થે, ભૂપતિ ભાનુ પ્રજા પાલક થે।
+મહાદેવી સુવ્રતા અભિન્ન, પુત્રા આભાવ સે રહતી ખિન્ન ।।
+પ્રાચેતસ મુનિ અવધિલીન, મત પિતા કો ધીરજ દીન ।
+પુત્ર તુમ્હારે હો ક્ષેમંકર, જગ મેં કહલાયે તીર્થંકર ।।
+ધીરજ હુઆ દમ્પતિ મન મેં, સાધૂ વચન હો સત્ય જગત મેં ।
+મોહ સુરમ્ય વિમાન કો તજકર, જનની ઉદર બસે પ્રભુ આકર ।।
+તત્ક્ષણ સબ દેવોં કે પરિકર, ગર્ભાકલ્યાણક કરેં ખુશ હોકર ।
+તેરસ માઘ માસ ઉજિયારી, જન્મે તીન જ્ઞાન કે ધારી ।।
+તીન ભુવન દ્યુતિ છાઈ ન્યારી, સબ હી જીવોં કો સુખકારી ।
+માતા કો નિંદ્રા મેં સુલાકર, લિયા શચી ને ગોદ મેં આકર ।।
+મેરુ પર અભિષેક કરાયા, ધર્મનાથ શુભ નામ ધરાયા ।
+દેખ શિશુ સૌંદર્ય અપાર, કિયે ઇન્દ્ર ને નયન હજાર ।।
+બીતા બચપન યૌવન આયા, અદભુત આકર્ષક તન પાયા ।
+પિતા ને તબ યુવરાજ બનાયા, રાજ કાજ ઉનકો સમઝાયા ।।
+ચિત્ર શ્રૃંગારવતી કા લેકર, દૂત સભા મેં બૈઠા આકર ।
+સ્વયંવર હેતુ નિમંત્રણ દેકર, ગયા નાથ કી સ્વીકૃતિ લેકર ।।
+મિત્ર પ્રભાકર કો સંગ લેકર, કુણ્ડિનપુર કો ગએ ધર્મં વર ।
+શ્રૃંગાર વતી ને વરા પ્રભુ કો, પુષ્પક યાન પે આયે ઘર કો ।।
+માત પિતા કરેં હાર્દિક પ્યાર, પ્રજાજનોં ને કિયા સત્કાર ।
+સર્વપ્રિય થા ઉનકા શાસન, નિતિ સહિત કરતે પ્રજાપાલન ।।
+ઉલ્કાપાત દેખકર એકદિન, ભોગ વિમુખ હો ગએ શ્રી જિન ।
+સૂત સુધર્મ કો સૌપ રાજ, શિવિકા મેં પ્રભુ ગએ વિરાજ ।।
+ચલતે સંગ સહસ નૃપરાજ, ગએ શાલવન મેં જિનરાજ ।
+શુક્લ ત્રયોદશી માઘ મહીના, સંધ્યા સમય મુનિ પદવી ગહિના ।।
+દો દિન રહે ધ્યાન મેં લીના, દિવ્યા દીપ્તી ધરે વસ્ત્ર વિહિના ।
+તીસરે દિન હેતુ આહાર, પાટલીપુત્ર કા હુઆ વિહાર ।।
+અન્તરાય બત્તીસ નિખાર, ધન્યસેન નૃપ દે આહાર ।
+મૌન અવસ્થા રહતી પ્રભુ કી, કઠિન તપસ્યા એક વર્ષ કી ।।
+પૂર્ણમાસી પૌષ માસ કી, અનુભૂતિ હુઈ દિવ્યભાસ કી ।
+ચતુર્નિકાય કે સુરગણ આયે, ઉત્સવ જ્ઞાન કલ્યાણ મનાયે ।।
+સમોશરણ નિર્માણ કરાયે, અંતરિક્ષ મેં પ્રભુ પધરાયે ।
+નિરાક્ષરી કલ્યાણી વાણી, કર્ણપુટો સે પીતે પ્રાણી ।।
+જીવ જગત મેં જાનો અનન્ત, પુદ્ગલ તો હૈં અનન્તાનન્ત ।
+ધર્મ અધર્મ ઔર નભ એક, કાલ સમેત દ્રવ્ય ષટ દેખ ।।
+રાગમુક્ત હો જાને રૂપ, શિવસુખ ઉસકો મિલે અનૂપ ।
+સુન કર બહુત હુએ વ્રતધારી, બહુતોં ને જિન દીક્ષા ધારી ।।
+આર્યખંડ સે હુઆ વિહાર, ભૂમંડલ મેં ધર્મં પ્રચાર ।
+ગઢ સમ્મેદ ગએ આખિર મેં, લીન હુએ નિજ અન્તરંગ મેં ।।
+શુક્લ ધ્યાન કા હુઆ પ્રતાપ, હુએ અઘાતી ધાત નિષ્પાપ ।
+નષ્ટ કિયે જગ કે સંતાપ, મુક્તિ મહલ પહુચે આપ ।।
+સૌરઠા
+જ્યેષ્ઠ ચતુર્થી શુક્લ પક્ષવર, પૂજા કરે સુર, કૂટ સુદત્તવર ।
+લક્ષણ વજ્રદંડ શુભ જાન, હુઆ ધર્મ સે ધર્મ કા માન ।।
+જો પ્રતિદિન પ્રભુ કે ગુણ ગાતે, અરુણા વે ભી શિવપદ પાતે ।।`,
+      hi: `उत्तम क्षमा अदि दस धर्म,प्रगटे मूर्तिमान श्रीधर्म ।
+जग से हरण करे सन अधर्म, शाश्वत सुख दे प्रभु धर्म ।।
+नगर रतनपुर के शासक थे, भूपति भानु प्रजा पालक थे।
+महादेवी सुव्रता अभिन्न, पुत्रा आभाव से रहती खिन्न ।।
+प्राचेतस मुनि अवधिलीन, मत पिता को धीरज दीन ।
+पुत्र तुम्हारे हो क्षेमंकर, जग में कहलाये तीर्थंकर ।।
+धीरज हुआ दम्पति मन में, साधू वचन हो सत्य जगत में ।
+मोह सुरम्य विमान को तजकर, जननी उदर बसे प्रभु आकर ।।
+तत्क्षण सब देवों के परिकर, गर्भाकल्याणक करें खुश होकर ।
+तेरस माघ मास उजियारी, जन्मे तीन ज्ञान के धारी ।।
+तीन भुवन द्युति छाई न्यारी, सब ही जीवों को सुखकारी ।
+माता को निंद्रा में सुलाकर, लिया शची ने गोद में आकर ।।
+मेरु पर अभिषेक कराया, धर्मनाथ शुभ नाम धराया ।
+देख शिशु सौंदर्य अपार, किये इन्द्र ने नयन हजार ।।
+बीता बचपन यौवन आया, अदभुत आकर्षक तन पाया ।
+पिता ने तब युवराज बनाया, राज काज उनको समझाया ।।
+चित्र श्रृंगारवती का लेकर, दूत सभा में बैठा आकर ।
+स्वयंवर हेतु निमंत्रण देकर, गया नाथ की स्वीकृति लेकर ।।
+मित्र प्रभाकर को संग लेकर, कुण्डिनपुर को गए धर्मं वर ।
+श्रृंगार वती ने वरा प्रभु को, पुष्पक यान पे आये घर को ।।
+मात पिता करें हार्दिक प्यार, प्रजाजनों ने किया सत्कार ।
+सर्वप्रिय था उनका शासन, निति सहित करते प्रजापालन ।।
+उल्कापात देखकर एकदिन, भोग विमुख हो गए श्री जिन ।
+सूत सुधर्म को सौप राज, शिविका में प्रभु गए विराज ।।
+चलते संग सहस नृपराज, गए शालवन में जिनराज ।
+शुक्ल त्रयोदशी माघ महीना, संध्या समय मुनि पदवी गहिना ।।
+दो दिन रहे ध्यान में लीना, दिव्या दीप्ती धरे वस्त्र विहिना ।
+तीसरे दिन हेतु आहार, पाटलीपुत्र का हुआ विहार ।।
+अन्तराय बत्तीस निखार, धन्यसेन नृप दे आहार ।
+मौन अवस्था रहती प्रभु की, कठिन तपस्या एक वर्ष की ।।
+पूर्णमासी पौष मास की, अनुभूति हुई दिव्यभास की ।
+चतुर्निकाय के सुरगण आये, उत्सव ज्ञान कल्याण मनाये ।।
+समोशरण निर्माण कराये, अंतरिक्ष में प्रभु पधराये ।
+निराक्षरी कल्याणी वाणी, कर्णपुटो से पीते प्राणी ।।
+जीव जगत में जानो अनन्त, पुद्गल तो हैं अनन्तानन्त ।
+धर्म अधर्म और नभ एक, काल समेत द्रव्य षट देख ।।
+रागमुक्त हो जाने रूप, शिवसुख उसको मिले अनूप ।
+सुन कर बहुत हुए व्रतधारी, बहुतों ने जिन दीक्षा धारी ।।
+आर्यखंड से हुआ विहार, भूमंडल में धर्मं प्रचार ।
+गढ़ सम्मेद गए आखिर में, लीन हुए निज अन्तरंग में ।।
+शुक्ल ध्यान का हुआ प्रताप, हुए अघाती धात निष्पाप ।
+नष्ट किये जग के संताप, मुक्ति महल पहुचे आप ।।
+सौरठा
+ज्येष्ठ चतुर्थी शुक्ल पक्षवर, पूजा करे सुर, कूट सुदत्तवर ।
+लक्षण वज्रदंड शुभ जान, हुआ धर्म से धर्म का मान ।।
+जो प्रतिदिन प्रभु के गुण गाते, अरुणा वे भी शिवपद पाते ।।`,
+      sa: "",
+      en: `Uttama kshamaa adi dasa dharma,pragate moortimaana shreedharma |
+Jaga se harana kare sana adharma, shaashvata sukha de prabhu dharma | |
+Nagara ratanapura ke shaasaka the, bhoopati bhaanu prajaa paalaka the |
+Mahaadevee suvrataa abhinna, putraa aabhaava se rahatee khinna | |
+Praachetasa muni avadhileena, mata pitaa ko dheeraja deena |
+Putra tumhaare ho kshemankara, jaga men kahalaaye teerthankara | |
+Dheeraja huaa dampati mana men, saadhoo vachana ho satya jagata men |
+Moha suramya vimaana ko tajakara, jananee udara base prabhu aakara | |
+Tatkshana saba devon ke parikara, garbhaakalyaanaka karen khusha hokara |
+Terasa maagha maasa ujiyaaree, janme teena gyaana ke dhaaree | |
+Teena bhuvana dyuti chhaaee nyaaree, saba hee jeevon ko sukhakaaree |
+Maataa ko nindraa men sulaakara, liyaa shachee ne goda men aakara | |
+Meru para abhisheka karaayaa, dharmanaatha shubha naama dharaayaa |
+Dekha shishu saundarya apaara, kiye indra ne nayana hajaara | |
+Beetaa bachapana yauvana aayaa, adabhuta aakarshaka tana paayaa |
+Pitaa ne taba yuvaraaja banaayaa, raaja kaaja unako samajhaayaa | |
+Chitra shrringaaravatee kaa lekara, doota sabhaa men baithaa aakara |
+Svayanvara hetu nimantrana dekara, gayaa naatha kee sveekriti lekara | |
+Mitra prabhaakara ko sanga lekara, kundinapura ko gae dharman vara |
+Shrringaara vatee ne varaa prabhu ko, pushpaka yaana pe aaye ghara ko | |
+Maata pitaa karen haardika pyaara, prajaajanon ne kiyaa satkaara |
+Sarvapriya thaa unakaa shaasana, niti sahita karate prajaapaalana | |
+Ulkaapaata dekhakara ekadina, bhoga vimukha ho gae shree jina |
+Soota sudharma ko saupa raaja, shivikaa men prabhu gae viraaja | |
+Chalate sanga sahasa nriparaaja, gae shaalavana men jinaraaja |
+Shukla trayodashee maagha maheenaa, sandhyaa samaya muni padavee gahinaa | |
+Do dina rahe dhyaana men leenaa, divyaa deeptee dhare vastra vihinaa |
+Teesare dina hetu aahaara, paataleeputra kaa huaa vihaara | |
+Antaraaya batteesa nikhaara, dhanyasena nripa de aahaara |
+Mauna avasthaa rahatee prabhu kee, kathina tapasyaa eka varsha kee | |
+Poornamaasee pausha maasa kee, anubhooti huee divyabhaasa kee |
+Chaturnikaaya ke suragana aaye, utsava gyaana kalyaana manaaye | |
+Samosharana nirmaana karaaye, antariksha men prabhu padharaaye |
+Niraaksharee kalyaanee vaanee, karnaputo se peete praanee | |
+Jeeva jagata men jaano ananta, pudgala to hain anantaananta |
+Dharma adharma aura nabha eka, kaala sameta dravya shata dekha | |
+Raagamukta ho jaane roopa, shivasukha usako mile anoopa |
+Suna kara bahuta hue vratadhaaree, bahuton ne jina deekshaa dhaaree | |
+Aaryakhanda se huaa vihaara, bhoomandala men dharman prachaara |
+Gadha sammeda gae aakhira men, leena hue nija antaranga men | |
+Shukla dhyaana kaa huaa prataapa, hue aghaatee dhaata nishpaapa |
+Nashta kiye jaga ke santaapa, mukti mahala pahuche aapa | |
+Saurathaa
+Jyeshtha chaturthee shukla pakshavara, poojaa kare sura, koota sudattavara |
+Lakshana vajradanda shubha jaana, huaa dharma se dharma kaa maana | |
+Jo pratidina prabhu ke guna gaate, arunaa ve bhee shivapada paate | |`,
+    },
+  },
+  {
+    id: "kunthunath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી કુન્થુનાથ જી ચાલીસા",
+      hi: "श्री कुन्थुनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Kunthunath Ji Chalisa",
+    },
+    text: {
+      gu: `દયા સિન્ધુ કુન્થુ જિનરાજ, ભવ સિંધુ તિરને કો જહાજ।
+કામદેવ ચાકરી મહારાજ, દયા કરો હમ પર ભી આજ।।
+જય શ્રી કુન્થુ નાથ ગુણખાન, પરમ યશસ્વી મહિમાવાન ।
+હસ્તિનાપુર નગરી કે ભૂપતિ, શૂરસેન કુરુવંશી અધિપતિ ।।
+મહારાની થી શ્રીમતી ઉનકી, વર્ષા હોતી થી રતનન કી ।
+પ્રતિપદા વૈશાખ ઉજિયારી, જન્મે તીર્થંકર બલધારી ।।
+ગહન ભક્તિ અપને ઉર ધારે, હસ્તિનાપુર આયે સુર સારે ।
+ઇન્દ્ર પ્રભુ કો ગોદ મેં લેકર, ગએ સુમેરુ હર્ષિત હો કર ।।
+ન્હવન કરે નિર્મલ જલ લેકર, તાણ્ડવ નૃત્ય કરે ભક્તિ ભર ।
+કુંથુનાથ નામ શુભ દેકર, ઇન્દ્ર કરેં સ્તવન મનોહર ।।
+દિવ્યા વસ્ત્રાભૂષણ પહનાયે, વાપિસ હસ્તિનાપુર કો આએ ।
+ક્રમ ક્રમ સે બઢે બાલેન્દુ સમ, યૌવન શોભા ધારેં હિતકર ।।
+ધનુ પૈતાલીસ ઉનનત પ્રભુ તન, ઉત્તમ શોભા ધારેં અનુપમ ।
+આયુ પિચાનવે વર્ષ હજાર, લક્ષણ અજ ધારે હિતકાર ।।
+રાજ્યાભિષેક હુઆ વિધિપૂર્વક, શાસન કરે સુનીતિ પૂર્વક ।
+ચક્રરતન શુભ પ્રાપ્ત હુઆ જબ, ચક્રવર્તી પ્રભુ કહલાયે તબ ।।
+એક દિન પ્રભુ ગએ ઉપવન મેં, શાંત મુનિ એક દેખે મગ મેં ।
+ઇંગિત કિયા તભી અંગુલી સે, દેખો મુનિ કો કહા મંત્રી સે ।।
+મંત્રી ને પૂછા જબ કારણ, કિયા મોક્ષહિત મુનિપદ ધારણ ।
+કારણ કરે ઔર સ્પષ્ટ, મુનિ પદ સે હી કર્મ હો નષ્ટ ।।
+મંત્રી કા તો હુઆ બહાના, કિયા વસ્તુતઃ નિજ કલ્યાણા ।
+ચિત્ત વિરક્ત હુએ વિષયોં સે, તત્વ ચિંતન કરતે ભાવોં સે ।।
+નિજ સૂત કો સૌપા સબ રાજ, ગએ સહેતુક વન જિનરાજ ।
+પંચમુષ્ટિ કેશલોંચ કર, ધાર લિયા પદ નગન દિગંબર ।।
+તીન દિન બાદ ગએ ગજપુર કો, ધર્મમિત્ર પડ્ગાએ પ્રભુ કો ।
+મૌન રહે સૌલહ વર્ષો તક, સહે શીત વર્ષા ઔર આતપ ।।
+સ્થિર હુએ તિલક તરુ જલ મેં, મગન હુએ નિજ ધ્યાન અટલ મેં ।
+આતમ મેં બઢ ગઈ વિશુદ્ધિ, કેવલ જ્ઞાન કી હો ગયી સિદ્ધિ ।।
+સૂર્યપ્રભા સમ સોહે આપ્ત, દિગ્મંડલ શોભા હુઈ વ્યાપ્ત ।
+સમોશરણ રચના સુખકાર, જ્ઞાન તૃપ્તિ બૈઠે નર નાર ।।
+વિષય ભોગ મહા વિષમય હૈં, મન કો કર દેતે તન્મય હૈં ।
+વિષ સે મરતે એક જનમ મેં, ભોગ વિષાક્ત મરે ભવ ભવ મેં ।।
+ક્ષણ ભંગુર માનવ કા જીવન, વિદ્યુતવત વિનસે અગલે ક્ષણ ।
+સાંધ્ય લાલિમા કે સદ્રશ્ય હી, યૌવન હો જાતા હૈં અદ્રશ્ય હી ।।
+જબ તક આતમ બુદ્ધિ નહીં હો, તબ તક દરશ વિશુદ્ધિ નહીં હો ।
+પહલે વિજિત કરો પંચેન્દ્રિય, આતમબલ સે બનો જિતેન્દ્રિય ।।
+ભવ્ય ભારતી પ્રભુ કી સુનકર, શ્રાવક જન આનન્દિત હોકર ।
+શ્રદ્ધા સે વ્રત ધારણ કરતે, શુભ ભાવોં કા અર્જન કરતે ।।
+શુભાયુ એક માસ કી રહી જબ, શૈલ સમ્મેદ પે વાસ કિયા તબ ।
+ધારા પ્રતિમા યોગ વહાં પર, કટા કર્મ બંધ સબ પ્રભુવર ।।
+મોક્ષકલ્યાણક કરતે સુરગણ, કૂટ જ્ઞાનધાર કરતે પૂજન ।
+ચક્રી કામદેવ તીર્થંકર, કુંથુનાથ થે પરમ હિતકર ।।
+ચાલીસા જો પઢે ભાવ સે, સ્વયં સિદ્ધ હો નિજ સ્વાભાવ સે ।
+ધર્મ ચક્ર કે લિએ પ્રભુ ને, ચક્ર સુદર્શન તજ ડાલા ।।
+ઇસી ભાવના ને અરુણા કો, કિયા જ્ઞાન મેં મતવાલા ।।`,
+      hi: `दया सिन्धु कुन्थु जिनराज, भव सिंधु तिरने को जहाज।
+कामदेव चाकरी महाराज, दया करो हम पर भी आज।।
+जय श्री कुन्थु नाथ गुणखान, परम यशस्वी महिमावान ।
+हस्तिनापुर नगरी के भूपति, शूरसेन कुरुवंशी अधिपति ।।
+महारानी थी श्रीमती उनकी, वर्षा होती थी रतनन की ।
+प्रतिपदा वैशाख उजियारी, जन्मे तीर्थंकर बलधारी ।।
+गहन भक्ति अपने उर धारे, हस्तिनापुर आये सुर सारे ।
+इन्द्र प्रभु को गोद में लेकर, गए सुमेरु हर्षित हो कर ।।
+न्हवन करे निर्मल जल लेकर, ताण्डव नृत्य करे भक्ति भर ।
+कुंथुनाथ नाम शुभ देकर, इन्द्र करें स्तवन मनोहर ।।
+दिव्या वस्त्राभूषण पहनाये, वापिस हस्तिनापुर को आए ।
+क्रम क्रम से बढे बालेन्दु सम, यौवन शोभा धारें हितकर ।।
+धनु पैतालीस उननत प्रभु तन, उत्तम शोभा धारें अनुपम ।
+आयु पिचानवे वर्ष हजार, लक्षण अज धारे हितकार ।।
+राज्याभिषेक हुआ विधिपूर्वक, शासन करे सुनीति पूर्वक ।
+चक्ररतन शुभ प्राप्त हुआ जब, चक्रवर्ती प्रभु कहलाये तब ।।
+एक दिन प्रभु गए उपवन में, शांत मुनि एक देखे मग में ।
+इंगित किया तभी अंगुली से, देखो मुनि को कहा मंत्री से ।।
+मंत्री ने पूछा जब कारण, किया मोक्षहित मुनिपद धारण ।
+कारण करे और स्पष्ट, मुनि पद से ही कर्म हो नष्ट ।।
+मंत्री का तो हुआ बहाना, किया वस्तुतः निज कल्याणा ।
+चित्त विरक्त हुए विषयों से, तत्व चिंतन करते भावों से ।।
+निज सूत को सौपा सब राज, गए सहेतुक वन जिनराज ।
+पंचमुष्टि केशलोंच कर, धार लिया पद नगन दिगंबर ।।
+तीन दिन बाद गए गजपुर को, धर्ममित्र पड्गाए प्रभु को ।
+मौन रहे सौलह वर्षो तक, सहे शीत वर्षा और आतप ।।
+स्थिर हुए तिलक तरु जल में, मगन हुए निज ध्यान अटल में ।
+आतम में बढ़ गई विशुद्धि, केवल ज्ञान की हो गयी सिद्धि ।।
+सूर्यप्रभा सम सोहे आप्त, दिग्मंडल शोभा हुई व्याप्त ।
+समोशरण रचना सुखकार, ज्ञान तृप्ति बैठे नर नार ।।
+विषय भोग महा विषमय हैं, मन को कर देते तन्मय हैं ।
+विष से मरते एक जनम में, भोग विषाक्त मरे भव भव में ।।
+क्षण भंगुर मानव का जीवन, विद्युतवत विनसे अगले क्षण ।
+सांध्य लालिमा के सद्रश्य ही, यौवन हो जाता हैं अद्रश्य ही ।।
+जब तक आतम बुद्धि नहीं हो, तब तक दरश विशुद्धि नहीं हो ।
+पहले विजित करो पंचेन्द्रिय, आतमबल से बनो जितेन्द्रिय ।।
+भव्य भारती प्रभु की सुनकर, श्रावक जन आनन्दित होकर ।
+श्रद्धा से व्रत धारण करते, शुभ भावों का अर्जन करते ।।
+शुभायु एक मास की रही जब, शैल सम्मेद पे वास किया तब ।
+धारा प्रतिमा योग वहां पर, कटा कर्म बंध सब प्रभुवर ।।
+मोक्षकल्याणक करते सुरगण, कूट ज्ञानधार करते पूजन ।
+चक्री कामदेव तीर्थंकर, कुंथुनाथ थे परम हितकर ।।
+चालीसा जो पढ़े भाव से, स्वयं सिद्ध हो निज स्वाभाव से ।
+धर्म चक्र के लिए प्रभु ने, चक्र सुदर्शन तज डाला ।।
+इसी भावना ने अरुणा को, किया ज्ञान में मतवाला ।।`,
+      sa: "",
+      en: `Dayaa sindhu kunthu jinaraaja, bhava sindhu tirane ko jahaaja |
+Kaamadeva chaakaree mahaaraaja, dayaa karo hama para bhee aaja | |
+Jaya shree kunthu naatha gunakhaana, parama yashasvee mahimaavaana |
+Hastinaapura nagaree ke bhoopati, shoorasena kuruvanshee adhipati | |
+Mahaaraanee thee shreematee unakee, varshaa hotee thee ratanana kee |
+Pratipadaa vaishaakha ujiyaaree, janme teerthankara baladhaaree | |
+Gahana bhakti apane ura dhaare, hastinaapura aaye sura saare |
+Indra prabhu ko goda men lekara, gae sumeru harshita ho kara | |
+Nhavana kare nirmala jala lekara, taandava nritya kare bhakti bhara |
+Kunthunaatha naama shubha dekara, indra karen stavana manohara | |
+Divyaa vastraabhooshana pahanaaye, vaapisa hastinaapura ko aae |
+Krama krama se badhe baalendu sama, yauvana shobhaa dhaaren hitakara | |
+Dhanu paitaaleesa unanata prabhu tana, uttama shobhaa dhaaren anupama |
+Aayu pichaanave varsha hajaara, lakshana aja dhaare hitakaara | |
+Raajyaabhisheka huaa vidhipoorvaka, shaasana kare suneeti poorvaka |
+Chakraratana shubha praapta huaa jaba, chakravartee prabhu kahalaaye taba | |
+Eka dina prabhu gae upavana men, shaanta muni eka dekhe maga men |
+Ingita kiyaa tabhee angulee se, dekho muni ko kahaa mantree se | |
+Mantree ne poochhaa jaba kaarana, kiyaa mokshahita munipada dhaarana |
+Kaarana kare aura spashta, muni pada se hee karma ho nashta | |
+Mantree kaa to huaa bahaanaa, kiyaa vastutah nija kalyaanaa |
+Chitta virakta hue vishayon se, tatva chintana karate bhaavon se | |
+Nija soota ko saupaa saba raaja, gae sahetuka vana jinaraaja |
+Panchamushti keshaloncha kara, dhaara liyaa pada nagana diganbara | |
+Teena dina baada gae gajapura ko, dharmamitra padgaae prabhu ko |
+Mauna rahe saulaha varsho taka, sahe sheeta varshaa aura aatapa | |
+Sthira hue tilaka taru jala men, magana hue nija dhyaana atala men |
+Aatama men badha gaee vishuddhi, kevala gyaana kee ho gayee siddhi | |
+Sooryaprabhaa sama sohe aapta, digmandala shobhaa huee vyaapta |
+Samosharana rachanaa sukhakaara, gyaana tripti baithe nara naara | |
+Vishaya bhoga mahaa vishamaya hain, mana ko kara dete tanmaya hain |
+Visha se marate eka janama men, bhoga vishaakta mare bhava bhava men | |
+Kshana bhangura maanava kaa jeevana, vidyutavata vinase agale kshana |
+Saandhya laalimaa ke sadrashya hee, yauvana ho jaataa hain adrashya hee | |
+Jaba taka aatama buddhi naheen ho, taba taka darasha vishuddhi naheen ho |
+Pahale vijita karo panchendriya, aatamabala se bano jitendriya | |
+Bhavya bhaaratee prabhu kee sunakara, shraavaka jana aanandita hokara |
+Shraddhaa se vrata dhaarana karate, shubha bhaavon kaa arjana karate | |
+Shubhaayu eka maasa kee rahee jaba, shaila sammeda pe vaasa kiyaa taba |
+Dhaaraa pratimaa yoga vahaan para, kataa karma bandha saba prabhuvara | |
+Mokshakalyaanaka karate suragana, koota gyaanadhaara karate poojana |
+Chakree kaamadeva teerthankara, kunthunaatha the parama hitakara | |
+Chaaleesaa jo padhe bhaava se, svayan siddha ho nija svaabhaava se |
+Dharma chakra ke lie prabhu ne, chakra sudarshana taja daalaa | |
+Isee bhaavanaa ne arunaa ko, kiyaa gyaana men matavaalaa | |`,
+    },
+  },
+  {
+    id: "arahnath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી અરહનાથ જી ચાલીસા",
+      hi: "श्री अरहनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Arahnath Ji Chalisa",
+    },
+    text: {
+      gu: `શ્રી અરહનાથ જિનેન્દ્ર ગુણાકર, જ્ઞાન દરસ સુખ બલ રત્નાકર ।
+કલ્પવૃક્ષ સમ સુખ કે સાગર, પાર હુએ નિજ આતમ ધ્યાકર ।।
+અરહનાથ વસુ અરિ કે નાશક, હુએ હસ્તિનાપુર કે શાષક ।
+માઁ મિત્રસેના પિતા સુદર્શન, ચક્રવર્તી બન દિયા દિગ્દર્શન ।।
+સહસ ચૌરાસી આયુ પ્રભુ કી, અવગાહના થી તીસ ધનુષ કી ।
+વર્ણ સુવર્ણ સમાન થા પીત, રોગ શોક થે તુમસે ભીત ।।
+બ્યાહ હુઆ જબ પ્રીત કુમાર કા, સ્વપન હુઆ સાકાર પિતા કા ।
+રાજ્યાભિષેક હુઆ અરહજિન કા, હુઆ અભ્યુદય ચક્ર રતન કા ।।
+એક દિન દેખા શરદ ઋતૂ મેં, મેઘ વિલીન હુએ ક્ષણ ભર મેં ।
+ઉદિત હુઆ વૈરાગ્ય હ્રદય મેં, લૌકંતિક સુર આયે પલ મેં ।।
+અરવિન્દ પુત્ર કો દેકર રાજ, ગએ સહેતુક વન જિનરાજ ।
+મંગસિર કી દશમી ઉજિયારી, પરમ દિગંબર દીક્ષા ધારી ।।
+પંચમુશ્ઠી ઉખાડે કેશ, તન સે મમત્વ રહા નહીં દલેશ ।
+નગર ચક્રપુર ગએ પારણ હિત, પડ્ગાહે ભૂપતિ અપરાજિત ।।
+પરસુખ શુદ્દાહાર કરાયે, પંચાશચર્ય દેવ કરાયે ।
+કઠિન તપસ્યા કરતે વન મેં, લીન રહે આતમ ચિંતન મેં ।।
+કાર્તિક માસ દ્વાદશી ઉજ્જવલ, પ્રભુ વિરાજે આમ્ર વૃક્ષ તલ ।
+અંતર જ્ઞાન જ્યોતિ પ્રગટાઈ, હુએ કેવલી શ્રી જિનરાઈ ।।
+દેવ કરે ઉત્સવ અતિ ભવ્ય, સમોશરણ કી રચના દિવ્ય ।
+સૌલહ વર્ષ કા મૌન ભંગ કર, સપ્તભંગ જિનવાણી સુખકર ।।
+ચૌદહ ગુણસ્થાન બત્તાએ, મોહ કાય યોગ દર્શાયે ।
+સત્તાવન આશ્રય બતલાયે, ઇતને હી સંવર ગિનવાયે ।।
+સંવર હેતુ સમતા લાઓ, અનુપ્રેક્ષા દ્વાદશ મન ભાઓ ।
+હુએ પ્રબુદ્ધ સભી નર નારી, દીક્ષા વ્રત ધારે બહુ ભારી ।।
+કુમ્ભાર્પ આદિ ગણધર તીસ, અર્ધ લક્ષ થે સકલ મુનીશ ।
+સત્યધર્મ કા હુઆ પ્રચાર, દૂર દૂર તક હુઆ વિહાર ।।
+એક માહ પહલે નિર્વેદ, સહસ મુનિ સંગ ગએ સમ્મેદ ।
+ચૈત્ર કૃષ્ણ એકાદશી કે દિન, મોક્ષ ગએ શ્રી અરહનાથ જિન ।।
+નાટક કૂટ કો પૂજે દેવ, કામદેવ ચક્રી જિનદેવ ।
+જિનવર કા લક્ષણ થા મીન, ધારો જૈન ધરમ સમીચીન ।।
+પ્રાણી માત્ર કા જૈન ધરમ હૈં, જૈન ધર્મ હો પરમ ધર્મ હૈં ।
+પંચેંદ્રિયોં કો જીતે જો નર, જિતેન્દ્રિય વે બનાતે જિનવર ।।
+ત્યાગ ધર્મ કી મહિમા ગાઈ, ત્યાગ સે હી સબ સુખી હો ભાઈ ।
+ત્યાગ કર સકે કેવલ માનવ, હૈં અક્ષમ સબ દેવ ઔર દાનવ ।।
+હો સ્વાધીન તજો તુમ ભાઈ, બંધન મેં પીડા મન લાઈ ।
+હસ્તિનાપુર મેં દૂસરી નશિયા, કર્મ જહાઁ પર નસે ઘતિયા ।।
+જિનકે ચરણોં મેં ધરેં, શીશ સભી નરનાથ ।
+હમ સબ પૂજે ઉન્હેં, કૃપા કરે અરહનાથ ।।`,
+      hi: `श्री अरहनाथ जिनेन्द्र गुणाकर, ज्ञान दरस सुख बल रत्नाकर ।
+कल्पवृक्ष सम सुख के सागर, पार हुए निज आतम ध्याकर ।।
+अरहनाथ वसु अरि के नाशक, हुए हस्तिनापुर के शाषक ।
+माँ मित्रसेना पिता सुदर्शन, चक्रवर्ती बन दिया दिग्दर्शन ।।
+सहस चौरासी आयु प्रभु की, अवगाहना थी तीस धनुष की ।
+वर्ण सुवर्ण समान था पीत, रोग शोक थे तुमसे भीत ।।
+ब्याह हुआ जब प्रीत कुमार का, स्वपन हुआ साकार पिता का ।
+राज्याभिषेक हुआ अरहजिन का, हुआ अभ्युदय चक्र रतन का ।।
+एक दिन देखा शरद ऋतू में, मेघ विलीन हुए क्षण भर में ।
+उदित हुआ वैराग्य ह्रदय में, लौकंतिक सुर आये पल में ।।
+अरविन्द पुत्र को देकर राज, गए सहेतुक वन जिनराज ।
+मंगसिर की दशमी उजियारी, परम दिगंबर दीक्षा धारी ।।
+पंचमुश्ठी उखाड़े केश, तन से ममत्व रहा नहीं दलेश ।
+नगर चक्रपुर गए पारण हित, पड्गाहे भूपति अपराजित ।।
+परसुख शुद्दाहार कराये, पंचाशचर्य देव कराये ।
+कठिन तपस्या करते वन में, लीन रहे आतम चिंतन में ।।
+कार्तिक मास द्वादशी उज्जवल, प्रभु विराजे आम्र वृक्ष तल ।
+अंतर ज्ञान ज्योति प्रगटाई, हुए केवली श्री जिनराई ।।
+देव करे उत्सव अति भव्य, समोशरण की रचना दिव्य ।
+सौलह वर्ष का मौन भंग कर, सप्तभंग जिनवाणी सुखकर ।।
+चौदह गुणस्थान बत्ताए, मोह काय योग दर्शाये ।
+सत्तावन आश्रय बतलाये, इतने ही संवर गिनवाये ।।
+संवर हेतु समता लाओ, अनुप्रेक्षा द्वादश मन भाओ ।
+हुए प्रबुद्ध सभी नर नारी, दीक्षा व्रत धारे बहु भारी ।।
+कुम्भार्प आदि गणधर तीस, अर्ध लक्ष थे सकल मुनीश ।
+सत्यधर्म का हुआ प्रचार, दूर दूर तक हुआ विहार ।।
+एक माह पहले निर्वेद, सहस मुनि संग गए सम्मेद ।
+चैत्र कृष्ण एकादशी के दिन, मोक्ष गए श्री अरहनाथ जिन ।।
+नाटक कूट को पूजे देव, कामदेव चक्री जिनदेव ।
+जिनवर का लक्षण था मीन, धारो जैन धरम समीचीन ।।
+प्राणी मात्र का जैन धरम हैं, जैन धर्म हो परम धर्म हैं ।
+पंचेंद्रियों को जीते जो नर, जितेन्द्रिय वे बनाते जिनवर ।।
+त्याग धर्म की महिमा गाई, त्याग से ही सब सुखी हो भाई ।
+त्याग कर सके केवल मानव, हैं अक्षम सब देव और दानव ।।
+हो स्वाधीन तजो तुम भाई, बंधन में पीड़ा मन लाई ।
+हस्तिनापुर में दूसरी नशिया, कर्म जहाँ पर नसे घतिया ।।
+जिनके चरणों में धरें, शीश सभी नरनाथ ।
+हम सब पूजे उन्हें, कृपा करे अरहनाथ ।।`,
+      sa: "",
+      en: `Shree arahanaatha jinendra gunaakara, gyaana darasa sukha bala ratnaakara |
+Kalpavriksha sama sukha ke saagara, paara hue nija aatama dhyaakara | |
+Arahanaatha vasu ari ke naashaka, hue hastinaapura ke shaashaka |
+Maan mitrasenaa pitaa sudarshana, chakravartee bana diyaa digdarshana | |
+Sahasa chauraasee aayu prabhu kee, avagaahanaa thee teesa dhanusha kee |
+Varna suvarna samaana thaa peeta, roga shoka the tumase bheeta | |
+Byaaha huaa jaba preeta kumaara kaa, svapana huaa saakaara pitaa kaa |
+Raajyaabhisheka huaa arahajina kaa, huaa abhyudaya chakra ratana kaa | |
+Eka dina dekhaa sharada ritoo men, megha vileena hue kshana bhara men |
+Udita huaa vairaagya hradaya men, laukantika sura aaye pala men | |
+Aravinda putra ko dekara raaja, gae sahetuka vana jinaraaja |
+Mangasira kee dashamee ujiyaaree, parama diganbara deekshaa dhaaree | |
+Panchamushthee ukhaade kesha, tana se mamatva rahaa naheen dalesha |
+Nagara chakrapura gae paarana hita, padgaahe bhoopati aparaajita | |
+Parasukha shuddaahaara karaaye, panchaashacharya deva karaaye |
+Kathina tapasyaa karate vana men, leena rahe aatama chintana men | |
+Kaartika maasa dvaadashee ujjavala, prabhu viraaje aamra vriksha tala |
+Antara gyaana jyoti pragataaee, hue kevalee shree jinaraaee | |
+Deva kare utsava ati bhavya, samosharana kee rachanaa divya |
+Saulaha varsha kaa mauna bhanga kara, saptabhanga jinavaanee sukhakara | |
+Chaudaha gunasthaana battaae, moha kaaya yoga darshaaye |
+Sattaavana aashraya batalaaye, itane hee sanvara ginavaaye | |
+Sanvara hetu samataa laao, anuprekshaa dvaadasha mana bhaao |
+Hue prabuddha sabhee nara naaree, deekshaa vrata dhaare bahu bhaaree | |
+Kumbhaarpa aadi ganadhara teesa, ardha laksha the sakala muneesha |
+Satyadharma kaa huaa prachaara, doora doora taka huaa vihaara | |
+Eka maaha pahale nirveda, sahasa muni sanga gae sammeda |
+Chaitra krishna ekaadashee ke dina, moksha gae shree arahanaatha jina | |
+Naataka koota ko pooje deva, kaamadeva chakree jinadeva |
+Jinavara kaa lakshana thaa meena, dhaaro jaina dharama sameecheena | |
+Praanee maatra kaa jaina dharama hain, jaina dharma ho parama dharma hain |
+Panchendriyon ko jeete jo nara, jitendriya ve banaate jinavara | |
+Tyaaga dharma kee mahimaa gaaee, tyaaga se hee saba sukhee ho bhaaee |
+Tyaaga kara sake kevala maanava, hain akshama saba deva aura daanava | |
+Ho svaadheena tajo tuma bhaaee, bandhana men peedaa mana laaee |
+Hastinaapura men doosaree nashiyaa, karma jahaan para nase ghatiyaa | |
+Jinake charanon men dharen, sheesha sabhee naranaatha |
+Hama saba pooje unhen, kripaa kare arahanaatha | |`,
+    },
+  },
+  {
+    id: "mallinath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી મલ્લિનાથ જી ચાલીસા",
+      hi: "श्री मल्लिनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Mallinath Ji Chalisa",
+    },
+    text: {
+      gu: `મોહમલ્લ મદ મર્દન કરતે, મન્મથ દુર્ધ્દર કા મદ હરતે ।
+ધૈર્ય ખડગ સે કર્મ નિવારે, બાલ્યતી કો નમન હમારે ।।
+બિહાર પ્રાન્ત કી મિથિલા નગરી, રાજ્ય કરે કુમ્ભ કાશ્યપ ગોત્રી ।
+પ્રભાવતી મહારાની ઉનકી, વર્ષા હોતી થી રત્નો કી ।।
+અપરાજિત વિમાન કો તજ કર, જનની ઉદાર બસે પ્રભુ આકર ।
+મંગસિર શુક્લ એકાદશી શુભ દિન, જન્મે તીન જ્ઞાન યુક્ત શ્રી જિન ।।
+પૂનમ ચન્દ્ર સમાન હો શોભિત, ઇંદ્ર ન્વહન કરતે હો મોહિત ।
+તાંડવ નૃત્ય કરે ખુશ હો કર, નિરખે પ્રભુ કો વિસ્મિત હો કર ।।
+બઢે પ્યાર સે મલ્લિ કુમાર, તન કી શોભા હુઈ અપાર ।
+પચપન સહસ આયુ પ્રભુવર કી, પચ્ચીસ ધનુ અવગાહન વપુ કી ।।
+દેખ પુત્ર કી યોગ્ય અવસ્થા, પિતા બ્યાહ કી કરેં વ્યવસ્થા ।
+મિથિલાપૂરી કો ખૂબ સજાયા, કન્યા પક્ષ સુનકર હર્ષાયા ।।
+નિજ મન મેં કરતે પ્રભુ મંથન, હૈં વિવાહ એક મીઠા બંધન ।
+વિષય ભોગ રૂપી યે કર્દમ, આત્મ જ્ઞાન કે કરદે દુર્ગમ ।।
+નહીં આસક્ત હુએ વિષયન મેં, હુએ વિરક્ત ગયે પ્રભુ વન મેં ।
+મંગસિર શુક્લ એકાદશી પાવન, સ્વામી દીક્ષા કરતે ધારણ ।।
+દો દિન તક ધરા ઉપવાસ, વન મેં હી ફિર કિયા નિવાસ ।
+તીસરે દિન પ્રભુ કરે નિવાસ, નન્દિષેણ નૃપ દે આહાર ।।
+પાત્રદાન સે હર્ષિત હો કર, અચરજ પાઁચ કરે સુર આકર ।
+મલ્લિનાથ જો લૌટે વન મેં, લીન હુએ આતમ ચિંતન મેં ।।
+આત્મશુદ્ધિ કા પ્રબલ પ્રમાણ, અલ્પ સમય મેં ઉપજા જ્ઞાન ।
+કેવલજ્ઞાની હુએ છઃ દિન મેં, ઘંટે બજને લગે સ્વર્ગ મેં ।।
+સમોશરણ કી રચના સાજે, અન્તરિક્ષ મેં પ્રભુ વિરાજે ।
+વિશાક્ષ આદિ અટ્ઠાઈસ ગણધર, ચાલીસ સહસ થે જ્ઞાની મુનિવર।।
+પથિકો કો સત્પથ દિખલાયા, શિવપુર કા સનમાર્ગ દિખાયા ।
+ઔષધિ શાષ્ત્ર અભય આહાર, દાન બતાયે ચાર પ્રકાર ।।
+પાઁચ સમિતિ લબ્ધિ પાંચ, પાંચો પૈતાલે હૈં સાઁચ ।
+ષટ લેશ્યા જીવ ષટકાય, ષટ દ્રવ્ય કહતે સમઝાય ।।
+સાત તત્ત્વ કા વર્ણન કરતે, સાત નરક સુન ભવિમન ડરતે ।
+સાતોં ને કો મન મેં ધારે, ઉત્તમ જન સંદેહ નિવારે ।।
+દીર્ઘ કાલ તક દિયા ઉપદેશ, વાણી મેં કટુતા નહીં લેશ ।
+આયુ રહને પર એક માસ, શિખર સમ્મેદ પે કરતે વાસ ।।
+યોગ નિરોધ કા કરતે પાલન, પ્રતિમા યોગ કરેં પ્રભુ ધારણ ।
+કર્મ નાશ્તા કીને જિનરાઈ, તત્ક્ષણ મુક્તિ રમા પરણાઈ ।।
+ફાલ્ગુન શુક્લ પંચમી ન્યારી, સિદ્ધ હુએ જિનવર અવિકારી ।
+મોક્ષ કલ્યાણક સુર નર કરતે, સંવલ કૂટ કી પૂજા કરતે ।।
+ચિન્હ કલશ થા મલ્લિનાથ કા, જીન મહાપાવન થા ઉનકા ।
+નરપુંગવ થે વે જિનશ્રેષ્ઠ, સ્ત્રી કહે જો સત્ય ન લેશ ।।
+કોટિ ઉપાય કરો તુમ સોચ, સ્ત્રીભવ સે હો નહીં મોક્ષ ।
+મહાબલી થે વે શૂરવીર, આત્મ શત્રુ જીતે ધાર ધીર ।।
+અનુકમ્પા સે પ્રભુ મલ્લિ કી, અલ્પાયુ હો ભવ વલ્લિ કી ।
+અરજ ત્યાહી હૈં બસ અરુણા કી, દૃષ્ટિ રહે સબ પર કરુણા કી।।`,
+      hi: `मोहमल्ल मद मर्दन करते, मन्मथ दुर्ध्दर का मद हरते ।
+धैर्य खडग से कर्म निवारे, बाल्यती को नमन हमारे ।।
+बिहार प्रान्त की मिथिला नगरी, राज्य करे कुम्भ काश्यप गोत्री ।
+प्रभावती महारानी उनकी, वर्षा होती थी रत्नो की ।।
+अपराजित विमान को तज कर, जननी उदार बसे प्रभु आकर ।
+मंगसिर शुक्ल एकादशी शुभ दिन, जन्मे तीन ज्ञान युक्त श्री जिन ।।
+पूनम चन्द्र समान हो शोभित, इंद्र न्वहन करते हो मोहित ।
+तांडव नृत्य करे खुश हो कर, निरखे प्रभु को विस्मित हो कर ।।
+बढे प्यार से मल्लि कुमार, तन की शोभा हुई अपार ।
+पचपन सहस आयु प्रभुवर की, पच्चीस धनु अवगाहन वपु की ।।
+देख पुत्र की योग्य अवस्था, पिता ब्याह की करें व्यवस्था ।
+मिथिलापूरी को खूब सजाया, कन्या पक्ष सुनकर हर्षाया ।।
+निज मन में करते प्रभु मंथन, हैं विवाह एक मीठा बंधन ।
+विषय भोग रूपी ये कर्दम, आत्म ज्ञान के करदे दुर्गम ।।
+नहीं आसक्त हुए विषयन में, हुए विरक्त गये प्रभु वन में ।
+मंगसिर शुक्ल एकादशी पावन, स्वामी दीक्षा करते धारण ।।
+दो दिन तक धरा उपवास, वन में ही फिर किया निवास ।
+तीसरे दिन प्रभु करे निवास, नन्दिषेण नृप दे आहार ।।
+पात्रदान से हर्षित हो कर, अचरज पाँच करे सुर आकर ।
+मल्लिनाथ जो लौटे वन में, लीन हुए आतम चिंतन में ।।
+आत्मशुद्धि का प्रबल प्रमाण, अल्प समय में उपजा ज्ञान ।
+केवलज्ञानी हुए छः दिन में, घंटे बजने लगे स्वर्ग में ।।
+समोशरण की रचना साजे, अन्तरिक्ष में प्रभु विराजे ।
+विशाक्ष आदि अट्ठाईस गणधर, चालीस सहस थे ज्ञानी मुनिवर।।
+पथिको को सत्पथ दिखलाया, शिवपुर का सनमार्ग दिखाया ।
+औषधि शाष्त्र अभय आहार, दान बताये चार प्रकार ।।
+पाँच समिति लब्धि पांच, पांचो पैताले हैं साँच ।
+षट लेश्या जीव षटकाय, षट द्रव्य कहते समझाय ।।
+सात तत्त्व का वर्णन करते, सात नरक सुन भविमन डरते ।
+सातों ने को मन में धारे, उत्तम जन संदेह निवारे ।।
+दीर्घ काल तक दिया उपदेश, वाणी में कटुता नहीं लेश ।
+आयु रहने पर एक मास, शिखर सम्मेद पे करते वास ।।
+योग निरोध का करते पालन, प्रतिमा योग करें प्रभु धारण ।
+कर्म नाश्ता कीने जिनराई, तत्क्षण मुक्ति रमा परणाई ।।
+फाल्गुन शुक्ल पंचमी न्यारी, सिद्ध हुए जिनवर अविकारी ।
+मोक्ष कल्याणक सुर नर करते, संवल कूट की पूजा करते ।।
+चिन्ह कलश था मल्लिनाथ का, जीन महापावन था उनका ।
+नरपुंगव थे वे जिनश्रेष्ठ, स्त्री कहे जो सत्य न लेश ।।
+कोटि उपाय करो तुम सोच, स्त्रीभव से हो नहीं मोक्ष ।
+महाबली थे वे शूरवीर, आत्म शत्रु जीते धार धीर ।।
+अनुकम्पा से प्रभु मल्लि की, अल्पायु हो भव वल्लि की ।
+अरज त्याही हैं बस अरुणा की, दृष्टि रहे सब पर करुणा की।।`,
+      sa: "",
+      en: `Mohamalla mada mardana karate, manmatha durdhdara kaa mada harate |
+Dhairya khadaga se karma nivaare, baalyatee ko namana hamaare | |
+Bihaara praanta kee mithilaa nagaree, raajya kare kumbha kaashyapa gotree |
+Prabhaavatee mahaaraanee unakee, varshaa hotee thee ratno kee | |
+Aparaajita vimaana ko taja kara, jananee udaara base prabhu aakara |
+Mangasira shukla ekaadashee shubha dina, janme teena gyaana yukta shree jina | |
+Poonama chandra samaana ho shobhita, indra nvahana karate ho mohita |
+Taandava nritya kare khusha ho kara, nirakhe prabhu ko vismita ho kara | |
+Badhe pyaara se malli kumaara, tana kee shobhaa huee apaara |
+Pachapana sahasa aayu prabhuvara kee, pachcheesa dhanu avagaahana vapu kee | |
+Dekha putra kee yogya avasthaa, pitaa byaaha kee karen vyavasthaa |
+Mithilaapooree ko khooba sajaayaa, kanyaa paksha sunakara harshaayaa | |
+Nija mana men karate prabhu manthana, hain vivaaha eka meethaa bandhana |
+Vishaya bhoga roopee ye kardama, aatma gyaana ke karade durgama | |
+Naheen aasakta hue vishayana men, hue virakta gaye prabhu vana men |
+Mangasira shukla ekaadashee paavana, svaamee deekshaa karate dhaarana | |
+Do dina taka dharaa upavaasa, vana men hee phira kiyaa nivaasa |
+Teesare dina prabhu kare nivaasa, nandishena nripa de aahaara | |
+Paatradaana se harshita ho kara, acharaja paancha kare sura aakara |
+Mallinaatha jo laute vana men, leena hue aatama chintana men | |
+Aatmashuddhi kaa prabala pramaana, alpa samaya men upajaa gyaana |
+Kevalagyaanee hue chhah dina men, ghante bajane lage svarga men | |
+Samosharana kee rachanaa saaje, antariksha men prabhu viraaje |
+Vishaaksha aadi atthaaeesa ganadhara, chaaleesa sahasa the gyaanee munivara | |
+Pathiko ko satpatha dikhalaayaa, shivapura kaa sanamaarga dikhaayaa |
+Aushadhi shaashtra abhaya aahaara, daana bataaye chaara prakaara | |
+Paancha samiti labdhi paancha, paancho paitaale hain saancha |
+Shata leshyaa jeeva shatakaaya, shata dravya kahate samajhaaya | |
+Saata tattva kaa varnana karate, saata naraka suna bhavimana darate |
+Saaton ne ko mana men dhaare, uttama jana sandeha nivaare | |
+Deergha kaala taka diyaa upadesha, vaanee men katutaa naheen lesha |
+Aayu rahane para eka maasa, shikhara sammeda pe karate vaasa | |
+Yoga nirodha kaa karate paalana, pratimaa yoga karen prabhu dhaarana |
+Karma naashtaa keene jinaraaee, tatkshana mukti ramaa paranaaee | |
+Phaalguna shukla panchamee nyaaree, siddha hue jinavara avikaaree |
+Moksha kalyaanaka sura nara karate, sanvala koota kee poojaa karate | |
+Chinha kalasha thaa mallinaatha kaa, jeena mahaapaavana thaa unakaa |
+Narapungava the ve jinashreshtha, stree kahe jo satya na lesha | |
+Koti upaaya karo tuma socha, streebhava se ho naheen moksha |
+Mahaabalee the ve shooraveera, aatma shatru jeete dhaara dheera | |
+Anukampaa se prabhu malli kee, alpaayu ho bhava valli kee |
+Araja tyaahee hain basa arunaa kee, drishti rahe saba para karunaa kee | |`,
+    },
+  },
+  {
+    id: "munisuvrat-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી મુનિસુવ્રત જી ચાલીસા",
+      hi: "श्री मुनिसुव्रत जी चालीसा",
+      sa: "",
+      en: "Shri Munisuvrat Ji Chalisa",
+    },
+    text: {
+      gu: `અરિહંત સિદ્ધ આચાર્ય કો કરું પ્રણામ ।
+ઉપાધ્યાય સર્વસાધૂ કરતે સ્વપર કલ્યાણ ।।
+જિનધર્મ, જિનાગમ, જિનમંદિર પવિત્ર ધામ ।
+વીતરાગ કી પ્રતિમા કો કોટિ કોટિ પ્રણામ ।।
+જય મુનિસુવ્રત દયા કે સાગર । નામ પ્રભુ કા લોક ઉજાગર ।।
+સુમિત્રા રાજા કે તુમ નન્દા । માં શામા કી આંખો કે ચન્દા ।।
+શ્યામવર્ણ મૂરત પ્રભૂ કી પ્યારી । ગુણગાન કરેં નિશદિન નર નારી ।।
+મુનિસુવ્રત જિન હો અન્તરયામી । શ્રદ્ધા ભાવ સહિત તુમ્હેં પ્રણામી ।।
+ભક્તિ આપકી જો નિશદિન કરતા । પાપ તાપ ભય સંકટ હરતા ।।
+પ્રભૂ; સંકટમોચન નામ તુમ્હારા । દીન દુખી જીવોં કા સહારા ।।
+કોઈ દરિદ્રી યા તન કા રોગી । પ્રભૂ દર્શન સે હોતે હૈં નિરોગી ।।
+મિથ્યા તિમિર ભયો અતિ ભારી । ભવ ભવ કી બાધા હરો હમારી ।।
+યહ સંસાર મહા દુખ દાઈ । સુખ નહીં યહાં દુખ કી ખાઈ ।।
+મોહ જાલ મેં ફંસા હૈ બંદા । કાટો પ્રભુ ભવ ભવ કા ફંદા ।।
+રોગ શોક ભય વ્યાધિ મિટાવો । ભવ સાગર સે પાર લગાવો ।।
+ઘિરા કર્મ સે ચૌરાસી ભટકા । મોહ માયા બન્ધન મેં અટકા ।।
+સંયોગ વિયોગ ભવ ભવ કા નાતા । રાગ દ્વેષ જગ મેં ભટકાતા ।।
+હિત મિત પ્રિત પ્રભૂ કી વાણી । સ્વપર કલ્યાણ કરેં મુનિ ધ્યાની ।।
+ભવ સાગર બીચ નાવ હમારી । પ્રભુ પાર કરો યહ વિરદ તિહારી ।।
+મન વિવેક મેરા અબ જાગા । પ્રભુ દર્શન સે કર્મમલ ભાગા ।।
+નામ આપકા જપે જો ભાઈ । લોકા લોક સુખ સમ્પદા પાઈ ।।
+કૃપા દૃષ્ટી જબ આપકી હોવે । ધન આરોગ્ય સુખ સમૃધિ પાવે ।।
+પ્રભુ ચરણન મેં જો જો આવે । શ્રદ્ધા ભક્તિ ફલ વાંચ્છિત પાવે ।।
+પ્રભુ આપકા ચમત્કાર હૈ ન્યારા । સંકટ મોચન પ્રભુ નામ તુમ્હારા ।।
+સર્વજ્ઞ અનંત ચતુષ્ટય કે ધારી । મન વચ તન વંદના હમારી ।।
+સમ્મેદ શિખર સે મોક્ષ સિધારે । ઉદ્ધાર કરો મૈં શરણ તિહાંરે ।।
+મહારાષ્ટ્ર કા પૈઠણ તીર્થ । સુપ્રસિદ્ધ યહ અતિશય ક્ષેત્ર ।।
+મનોજ્ઞ મન્દિર બના હૈ ભારી । વીતરાગ કી પ્રતિમા સુખકારી ।।
+ચતુર્થ કાલીન મૂર્તિ હૈ નિરાલી । મુનિસુવ્રત પ્રભૂ કી છવિ હૈ પ્યારી ।।
+માનસ્તંભ ઉત્તગ કી શોભા ન્યારી । દેખત ગલત માન કષાય ભારી ।।
+મુનિસુવ્રત શનિગ્રહ અધિષ્ઠાતા । દુખ સંકટ હરે દેવે સુખ સાતા ।।
+શનિ અમાવસ કી મહિમા ભારી । દૂર દૂર સે આતે નર નારી ।।
+મુનિસુવ્રત દર્શન મહા હિતકારી । મન વચ તન વંદના હમારી ।।
+દોહાઃ
+સમ્યક્ શ્રદ્ધા સે ચાલીસા, ચાલીસ દિન પઢિયે નર નાર ।
+મુક્તિ પથ કે રાહી બન, ભક્તિ સે હોવે ભવ પાર ।।`,
+      hi: `अरिहंत सिद्ध आचार्य को करुं प्रणाम ।
+उपाध्याय सर्वसाधू करते स्वपर कल्याण ।।
+जिनधर्म, जिनागम, जिनमंदिर पवित्र धाम ।
+वीतराग की प्रतिमा को कोटि कोटि प्रणाम ।।
+जय मुनिसुव्रत दया के सागर । नाम प्रभु का लोक उजागर ।।
+सुमित्रा राजा के तुम नन्दा । मां शामा की आंखो के चन्दा ।।
+श्यामवर्ण मूरत प्रभू की प्यारी । गुणगान करें निशदिन नर नारी ।।
+मुनिसुव्रत जिन हो अन्तरयामी । श्रद्धा भाव सहित तुम्हें प्रणामी ।।
+भक्ति आपकी जो निशदिन करता । पाप ताप भय संकट हरता ।।
+प्रभू; संकटमोचन नाम तुम्हारा । दीन दुखी जीवों का सहारा ।।
+कोई दरिद्री या तन का रोगी । प्रभू दर्शन से होते हैं निरोगी ।।
+मिथ्या तिमिर भयो अति भारी । भव भव की बाधा हरो हमारी ।।
+यह संसार महा दुख दाई । सुख नहीं यहां दुख की खाई ।।
+मोह जाल में फंसा है बंदा । काटो प्रभु भव भव का फंदा ।।
+रोग शोक भय व्याधि मिटावो । भव सागर से पार लगावो ।।
+घिरा कर्म से चौरासी भटका । मोह माया बन्धन में अटका ।।
+संयोग वियोग भव भव का नाता । राग द्वेष जग में भटकाता ।।
+हित मित प्रित प्रभू की वाणी । स्वपर कल्याण करें मुनि ध्यानी ।।
+भव सागर बीच नाव हमारी । प्रभु पार करो यह विरद तिहारी ।।
+मन विवेक मेरा अब जागा । प्रभु दर्शन से कर्ममल भागा ।।
+नाम आपका जपे जो भाई । लोका लोक सुख सम्पदा पाई ।।
+कृपा दृष्टी जब आपकी होवे । धन आरोग्य सुख समृधि पावे ।।
+प्रभु चरणन में जो जो आवे । श्रद्धा भक्ति फल वांच्छित पावे ।।
+प्रभु आपका चमत्कार है न्यारा । संकट मोचन प्रभु नाम तुम्हारा ।।
+सर्वज्ञ अनंत चतुष्टय के धारी । मन वच तन वंदना हमारी ।।
+सम्मेद शिखर से मोक्ष सिधारे । उद्धार करो मैं शरण तिहांरे ।।
+महाराष्ट्र का पैठण तीर्थ । सुप्रसिद्ध यह अतिशय क्षेत्र ।।
+मनोज्ञ मन्दिर बना है भारी । वीतराग की प्रतिमा सुखकारी ।।
+चतुर्थ कालीन मूर्ति है निराली । मुनिसुव्रत प्रभू की छवि है प्यारी ।।
+मानस्तंभ उत्तग की शोभा न्यारी । देखत गलत मान कषाय भारी ।।
+मुनिसुव्रत शनिग्रह अधिष्ठाता । दुख संकट हरे देवे सुख साता ।।
+शनि अमावस की महिमा भारी । दूर दूर से आते नर नारी ।।
+मुनिसुव्रत दर्शन महा हितकारी । मन वच तन वंदना हमारी ।।
+दोहाः
+सम्यक् श्रद्धा से चालीसा, चालीस दिन पढिये नर नार ।
+मुक्ति पथ के राही बन, भक्ति से होवे भव पार ।।`,
+      sa: "",
+      en: `Arihanta siddha aachaarya ko karun pranaama |
+Upaadhyaaya sarvasaadhoo karate svapara kalyaana | |
+Jinadharma, jinaagama, jinamandira pavitra dhaama |
+Veetaraaga kee pratimaa ko koti koti pranaama | |
+Jaya munisuvrata dayaa ke saagara | naama prabhu kaa loka ujaagara | |
+Sumitraa raajaa ke tuma nandaa | maan shaamaa kee aankho ke chandaa | |
+Shyaamavarna moorata prabhoo kee pyaaree | gunagaana karen nishadina nara naaree | |
+Munisuvrata jina ho antarayaamee | shraddhaa bhaava sahita tumhen pranaamee | |
+Bhakti aapakee jo nishadina karataa | paapa taapa bhaya sankata harataa | |
+Prabhoo; sankatamochana naama tumhaaraa | deena dukhee jeevon kaa sahaaraa | |
+Koee daridree yaa tana kaa rogee | prabhoo darshana se hote hain nirogee | |
+Mithyaa timira bhayo ati bhaaree | bhava bhava kee baadhaa haro hamaaree | |
+Yaha sansaara mahaa dukha daaee | sukha naheen yahaan dukha kee khaaee | |
+Moha jaala men phansaa hai bandaa | kaato prabhu bhava bhava kaa phandaa | |
+Roga shoka bhaya vyaadhi mitaavo | bhava saagara se paara lagaavo | |
+Ghiraa karma se chauraasee bhatakaa | moha maayaa bandhana men atakaa | |
+Sanyoga viyoga bhava bhava kaa naataa | raaga dvesha jaga men bhatakaataa | |
+Hita mita prita prabhoo kee vaanee | svapara kalyaana karen muni dhyaanee | |
+Bhava saagara beecha naava hamaaree | prabhu paara karo yaha virada tihaaree | |
+Mana viveka meraa aba jaagaa | prabhu darshana se karmamala bhaagaa | |
+Naama aapakaa jape jo bhaaee | lokaa loka sukha sampadaa paaee | |
+Kripaa drishtee jaba aapakee hove | dhana aarogya sukha samridhi paave | |
+Prabhu charanana men jo jo aave | shraddhaa bhakti phala vaanchchhita paave | |
+Prabhu aapakaa chamatkaara hai nyaaraa | sankata mochana prabhu naama tumhaaraa | |
+Sarvagya ananta chatushtaya ke dhaaree | mana vacha tana vandanaa hamaaree | |
+Sammeda shikhara se moksha sidhaare | uddhaara karo main sharana tihaanre | |
+Mahaaraashtra kaa paithana teertha | suprasiddha yaha atishaya kshetra | |
+Manogya mandira banaa hai bhaaree | veetaraaga kee pratimaa sukhakaaree | |
+Chaturtha kaaleena moorti hai niraalee | munisuvrata prabhoo kee chhavi hai pyaaree | |
+Maanastanbha uttaga kee shobhaa nyaaree | dekhata galata maana kashaaya bhaaree | |
+Munisuvrata shanigraha adhishthaataa | dukha sankata hare deve sukha saataa | |
+Shani amaavasa kee mahimaa bhaaree | doora doora se aate nara naaree | |
+Munisuvrata darshana mahaa hitakaaree | mana vacha tana vandanaa hamaaree | |
+Dohaah
+Samyak shraddhaa se chaaleesaa, chaaleesa dina padhiye nara naara |
+Mukti patha ke raahee bana, bhakti se hove bhava paara | |`,
+    },
+  },
+  {
+    id: "naminath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી નમિનાથ જી ચાલીસા",
+      hi: "श्री नमिनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Naminath Ji Chalisa",
+    },
+    text: {
+      gu: `સતત પૂજ્યનીય ભગવન, નમિનાથ જિન મહિભાવાન ।
+ભક્ત કરેં જો મન મેં ધ્યાય, પા જાતે મુક્તિ વરદાન ।।
+જય શ્રી નમિનાથ જિન સ્વામી, વસુ ગુણ મણ્ડિત પ્રભુ પ્રણમામિ ।
+મિથિલા નગરી પ્રાન્ત બિહાર, શ્રી વિજય રાજ્ય કરેં હિતકાર ।।
+વિપ્રા દેવી મહારાની થી, રૂપ ગુણોં કી વો ખાની થી ।
+કૃષ્ણાશ્વિન દ્વિતીય સુખદાતા, ષોડશ સ્વપન દેખતી માતા।।
+અપરાજિત વિમાન કો તજકર, જનની ઉદર બસે પ્રભુ આકર ।
+કૃષ્ણ અસાઢ દશમી સુખકાર, ભૂતલ પર હુઆ પ્રભુ અવતાર ।।
+આયુ સહસ દસ વર્ષ પ્રભુ કી, ધનુ પંદ્રહ અવ્ગના ઉનકી ।
+તરુણ હુએ જબ રાજકુમાર, હુઆ વિવાહ તબ આનંદકાર ।।
+એક દિન ભ્રમણ કરે ઉપવન મેં, વર્ષા ઋતૂ મેં હર્ષિત મન મેં ।
+નમસ્કાર કરકે દો દેવ, કારણ કહને લગે સ્વયમેવ ।।
+જ્ઞાત હુઆ કી ક્ષેત્ર વિદેહ મેં, ભાવી તીર્થંકર તુમ જગ મેં ।
+દેવોં સે સુન કર યે બાત, રાજમહલ લોટેં નમિનાથ ।।
+સોચ હુઆ ભવ ભવ ભ્રમણ કા, ચિંતન કરતે રહે મોચન કા ।
+પરમ દિગંબર વ્રત કરૂ અર્જન, રત્નાત્રય્ધન કરૂ ઉપાર્જન ।।
+સુપ્રભ સૂત કો રાજ સૌપકર, ગાયે ચિત્રવન મેં જિનવર ।
+દશમી અસાઢ માસ કી કારી, સાહસ નૃપતિ સંગ દીક્ષા ધારી ।।
+દો દિન તક ઉપવાસ ધારકર, આતમ લીન હુએ શ્રી પ્રભુવર ।
+તીસરે દિન જબ કિયા વિહાર, ભૂપ વીરપુર દે આહાર।।
+નૌ વર્ષ તક તપ કિયા વન મેં, એક દિન મૌલી શ્રી તરુ તલ મેં ।
+અનુભૂતિ હુઈ દિવ્યાભાસ, શુક્લ એકાદશી મંગસિર માસ ।।
+નમિનાથ હુએ જ્ઞાન કે સાગર, જ્ઞાનોત્સવ કરતે સુર આકર ।
+સમોશરણ થા સભા વિભૂષિત, માનસ્તમ્ભ થે ચાર સુશોભિત ।।
+હુઆ મૌન ભંગ દિવ્ય ધ્વનિ સે, સબ દુઃખ દૂર હુએ અવનિ સે ।
+આત્મ પદાર્થ કી સત્તા સિદ્ધ, કરના તન મેં અહમ્ પ્રસિદ્દ ।।
+બાહ્યેંદ્રિયો મેં કરણ કે દ્વારા, અનુભવ સે કરતા સ્વીકારા।
+પર પરિણિતિ સે હી યહ જીવ, ચતુર્ગતિ મેં ભ્રમે સદીવ ।।
+રહે નરક સાગર પર્યન્ત, સહે ભૂખ પ્યાસ તિર્યંચ ।
+હુઆ મનુજ તો ભી સંક્લેશ, દેવોં મેં ભી ઇર્ષ્યા દ્વેષ ।।
+નહીં સુખો કા કહી ઠિકાના, સચ્ચા સુખ તો મોક્ષ મેં માના ।
+મોક્ષ ગતિ કા દ્વાર હૈં એક, નરભવ સે હી પાએ નેક ।।
+સુન કર મગન હુએ સબ સુરગણ, વ્રત ધારણ કરતે શ્રાવક જન ।
+હુઆ વિહાર જહાં ભી પ્રભુ કા, હુઆ વહીઁ કલ્યાણ સભી કા ।।
+કરતે વિહાર જિનેશ, એક માસ રહી આયુ શેષ ।
+શિખર સમ્મેદ કે ઊપર જાકર, પ્રતિમા યોગ ધરા હર્ષાકર ।।
+શુક્લ ધ્યાન કી અગ્નિ પ્રજારી, હને અઘાતિ કર્મ દુખકારી ।
+અજર અમર શાશ્વત પદ પાયા, સુર નર સબકા મન હર્ષાયા ।।
+શુભ નિર્વાણ મહોત્સવ કરતે, કૂટ મિત્રધર પૂજન કરતે ।
+પ્રભુ હૈં નીલ કમલ સે અલંકૃત, હમ હો ઉત્તમ ફલ સે ઉપકૃત ।।
+નમિનાથ સ્વામી જગવન્દન, અરુણા કરતી પ્રભુ અભિનન્દન ।।`,
+      hi: `सतत पूज्यनीय भगवन, नमिनाथ जिन महिभावान ।
+भक्त करें जो मन में ध्याय, पा जाते मुक्ति वरदान ।।
+जय श्री नमिनाथ जिन स्वामी, वसु गुण मण्डित प्रभु प्रणमामि ।
+मिथिला नगरी प्रान्त बिहार, श्री विजय राज्य करें हितकार ।।
+विप्रा देवी महारानी थी, रूप गुणों की वो खानी थी ।
+कृष्णाश्विन द्वितीय सुखदाता, षोडश स्वपन देखती माता।।
+अपराजित विमान को तजकर, जननी उदर बसे प्रभु आकर ।
+कृष्ण असाढ़ दशमी सुखकार, भूतल पर हुआ प्रभु अवतार ।।
+आयु सहस दस वर्ष प्रभु की, धनु पंद्रह अव्गना उनकी ।
+तरुण हुए जब राजकुमार, हुआ विवाह तब आनंदकार ।।
+एक दिन भ्रमण करे उपवन में, वर्षा ऋतू में हर्षित मन में ।
+नमस्कार करके दो देव, कारण कहने लगे स्वयमेव ।।
+ज्ञात हुआ की क्षेत्र विदेह में, भावी तीर्थंकर तुम जग में ।
+देवों से सुन कर ये बात, राजमहल लोटें नमिनाथ ।।
+सोच हुआ भव भव भ्रमण का, चिंतन करते रहे मोचन का ।
+परम दिगंबर व्रत करू अर्जन, रत्नात्रय्धन करू उपार्जन ।।
+सुप्रभ सूत को राज सौपकर, गाये चित्रवन में जिनवर ।
+दशमी असाढ़ मास की कारी, साहस नृपति संग दीक्षा धारी ।।
+दो दिन तक उपवास धारकर, आतम लीन हुए श्री प्रभुवर ।
+तीसरे दिन जब किया विहार, भूप वीरपुर दे आहार।।
+नौ वर्ष तक तप किया वन में, एक दिन मौली श्री तरु तल में ।
+अनुभूति हुई दिव्याभास, शुक्ल एकादशी मंगसिर मास ।।
+नमिनाथ हुए ज्ञान के सागर, ज्ञानोत्सव करते सुर आकर ।
+समोशरण था सभा विभूषित, मानस्तम्भ थे चार सुशोभित ।।
+हुआ मौन भंग दिव्य ध्वनि से, सब दुःख दूर हुए अवनि से ।
+आत्म पदार्थ की सत्ता सिद्ध, करना तन में अहम् प्रसिद्द ।।
+बाह्येंद्रियो में करण के द्वारा, अनुभव से करता स्वीकारा।
+पर परिणिति से ही यह जीव, चतुर्गति में भ्रमे सदीव ।।
+रहे नरक सागर पर्यन्त, सहे भूख प्यास तिर्यंच ।
+हुआ मनुज तो भी संक्लेश, देवों में भी इर्ष्या द्वेष ।।
+नहीं सुखो का कही ठिकाना, सच्चा सुख तो मोक्ष में माना ।
+मोक्ष गति का द्वार हैं एक, नरभव से ही पाए नेक ।।
+सुन कर मगन हुए सब सुरगण, व्रत धारण करते श्रावक जन ।
+हुआ विहार जहां भी प्रभु का, हुआ वहीँ कल्याण सभी का ।।
+करते विहार जिनेश, एक मास रही आयु शेष ।
+शिखर सम्मेद के ऊपर जाकर, प्रतिमा योग धरा हर्षाकर ।।
+शुक्ल ध्यान की अग्नि प्रजारी, हने अघाति कर्म दुखकारी ।
+अजर अमर शाश्वत पद पाया, सुर नर सबका मन हर्षाया ।।
+शुभ निर्वाण महोत्सव करते, कूट मित्रधर पूजन करते ।
+प्रभु हैं नील कमल से अलंकृत, हम हो उत्तम फल से उपकृत ।।
+नमिनाथ स्वामी जगवन्दन, अरुणा करती प्रभु अभिनन्दन ।।`,
+      sa: "",
+      en: `Satata poojyaneeya bhagavana, naminaatha jina mahibhaavaana |
+Bhakta karen jo mana men dhyaaya, paa jaate mukti varadaana | |
+Jaya shree naminaatha jina svaamee, vasu guna mandita prabhu pranamaami |
+Mithilaa nagaree praanta bihaara, shree vijaya raajya karen hitakaara | |
+Vipraa devee mahaaraanee thee, roopa gunon kee vo khaanee thee |
+Krishnaashvina dviteeya sukhadaataa, shodasha svapana dekhatee maataa | |
+Aparaajita vimaana ko tajakara, jananee udara base prabhu aakara |
+Krishna asaadha dashamee sukhakaara, bhootala para huaa prabhu avataara | |
+Aayu sahasa dasa varsha prabhu kee, dhanu pandraha avganaa unakee |
+Taruna hue jaba raajakumaara, huaa vivaaha taba aanandakaara | |
+Eka dina bhramana kare upavana men, varshaa ritoo men harshita mana men |
+Namaskaara karake do deva, kaarana kahane lage svayameva | |
+Gyaata huaa kee kshetra videha men, bhaavee teerthankara tuma jaga men |
+Devon se suna kara ye baata, raajamahala loten naminaatha | |
+Socha huaa bhava bhava bhramana kaa, chintana karate rahe mochana kaa |
+Parama diganbara vrata karoo arjana, ratnaatraydhana karoo upaarjana | |
+Suprabha soota ko raaja saupakara, gaaye chitravana men jinavara |
+Dashamee asaadha maasa kee kaaree, saahasa nripati sanga deekshaa dhaaree | |
+Do dina taka upavaasa dhaarakara, aatama leena hue shree prabhuvara |
+Teesare dina jaba kiyaa vihaara, bhoopa veerapura de aahaara | |
+Nau varsha taka tapa kiyaa vana men, eka dina maulee shree taru tala men |
+Anubhooti huee divyaabhaasa, shukla ekaadashee mangasira maasa | |
+Naminaatha hue gyaana ke saagara, gyaanotsava karate sura aakara |
+Samosharana thaa sabhaa vibhooshita, maanastambha the chaara sushobhita | |
+Huaa mauna bhanga divya dhvani se, saba duhkha doora hue avani se |
+Aatma padaartha kee sattaa siddha, karanaa tana men aham prasidda | |
+Baahyendriyo men karana ke dvaaraa, anubhava se karataa sveekaaraa |
+Para pariniti se hee yaha jeeva, chaturgati men bhrame sadeeva | |
+Rahe naraka saagara paryanta, sahe bhookha pyaasa tiryancha |
+Huaa manuja to bhee sanklesha, devon men bhee irshyaa dvesha | |
+Naheen sukho kaa kahee thikaanaa, sachchaa sukha to moksha men maanaa |
+Moksha gati kaa dvaara hain eka, narabhava se hee paae neka | |
+Suna kara magana hue saba suragana, vrata dhaarana karate shraavaka jana |
+Huaa vihaara jahaan bhee prabhu kaa, huaa vaheen kalyaana sabhee kaa | |
+Karate vihaara jinesha, eka maasa rahee aayu shesha |
+Shikhara sammeda ke oopara jaakara, pratimaa yoga dharaa harshaakara | |
+Shukla dhyaana kee agni prajaaree, hane aghaati karma dukhakaaree |
+Ajara amara shaashvata pada paayaa, sura nara sabakaa mana harshaayaa | |
+Shubha nirvaana mahotsava karate, koota mitradhara poojana karate |
+Prabhu hain neela kamala se alankrita, hama ho uttama phala se upakrita | |
+Naminaatha svaamee jagavandana, arunaa karatee prabhu abhinandana | |`,
+    },
+  },
+  {
+    id: "neminath-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી નેમિનાથ જી ચાલીસા",
+      hi: "श्री नेमिनाथ जी चालीसा",
+      sa: "",
+      en: "Shri Neminath Ji Chalisa",
+    },
+    text: {
+      gu: `શ્રી જિનવાણી શીશ ધાર કર, સિદ્ધ પરભૂ કા કરકે ધ્યાન ।
+લિખૂ નેમિ ચાલીસા સુખકાર, નેમી પ્રભુ કી શરણ મેં આન।।
+સમુન્દ્ર વિજય યાદવ કુલરાઈ, સૌરિપુર રજધાની કહાઈ ।
+શિવાદેવી ઉનકી મહારાની, ષષ્ઠી કાર્તિક શુક્લ બખાની ।।
+સુખ સે શયન કરેં શૈયા પર, સપને દેખે સૌલહ સુન્દર ।
+તજ વિમાન જયંત અવતારે, હુએ મનોરથ પૂરણ સારે ।।
+પ્રતિદિન મહલ મેં રતન બરસતે, યદુવંશી નિજ મન મેં હરષતે ।
+દિન ષષ્ઠી સાવન શુક્લ કા, હુઆ અભ્યુદય પુત્ર રતન કા ।।
+તિન લોક મેં આનદ છાયા, પ્રભુ કો મેરુ પર પધરાશ ।
+ન્વહન હેતુ જલ લે ક્ષીરસાગર, મણિયો કે થે કલશ મનોહર ।।
+કર અભિષેક કિયા પરનામ, અરિષ્ટ નેમિ દિયા શુભ નામ ।
+શોભિત તુમસે સત્ય મરાલ, જીતા તુમને કાલ કરાલ ।।
+સહસ અષ્ટ લક્ષણ સુલાલામ, નીલ કમલ સમ વર્ણ અભિરામ ।
+વજ્ર શારીર દસ ધનુષ ઉતંગ, લજ્જ્તિ તુમ છવિ દેવ અનંગ ।।
+ચાચા તાઊ રહતે સાથ, નેમિ કૃષ્ણ ચચેરે ભ્રાત ।
+ધરા જબ યૌવન જિનરાઈ, રાજુલ કે સંઘ હુઈ સગાઈ ।।
+જૂનાગઢ કો ચલી બરાત, છપ્પન કોટિ યાદવ સાથ ।
+સુના પશુઓ કા ક્રંદન, તોડા મોર મુકુટ ઔર કંગન ।।
+બાડા ખોલ દિયા પશુઓં કા, ધારા વેષ દિગંબર મુનિ કા ।
+કિતના અદ્ભુત સંયમ મન મેં, જ્ઞાની જન અનુભવ કરેં મન મેં ।।
+નૌ નૌ આંસૂ રાજુલ રોવે, બારમ્બાર મૂર્છિત હોવે।
+ફેંક દિયા દુલ્હન શ્રૃંગાર, રો રો કર યોં કરે પુકાર ।।
+નૌ ભવ કી તોડી ક્યોં પ્રીત, કૈસી હૈં યે ધર્મં કી રીત ।
+નેમિ દે ઉપદેશ ત્યાગ કા, ઉમડા સાગર વૈરાગ્ય કા ।।
+રાજુલ ને ભી લે લી દીક્ષા, હુઈ સંયમ ઉત્તીર્ણ પરીક્ષા ।
+દો દિન રહ કર કે નિરાહાર, તીસરે દિન કરે સ્વામી વિહાર ।।
+વરદત્ત મહીપતિ દે આહાર, પંચાશ્ચાર્ય હુએ સુખકાર ।
+રહે મૌન છપ્પન દિન તક, તપતે રહે કઠિનતમ તપ વ્રત ।।
+પ્રતિપદા અશ્વિન ઉજિયારી, હુએ કેવલી પ્રભુ અવિકારી ।
+સમોશરણ કી રચના કરતે, સુરગણ જ્ઞાન કી પૂજા કરતે ।।
+ભવિ જીવોં કે પુણ્ય પ્રભાવ સે, દિવ્યા ધ્વનિ ખિરતી સદભાવ સે ।
+જો ભી હોતા હે આત્માજ્ઞ, વો હી હોતા હે સર્વજ્ઞ ।।
+જ્ઞાની નિજ આતમ કો નિહારે, અજ્ઞાની પર્યાય સંવારે ।
+હૈં અદભુત વૈરાગી દૃષ્ટિ, સ્વાશ્રિત હો તજતે સબ સૃષ્ટિ ।।
+જૈન ધર્મં તો ધર્મ સભી કા, હૈં નિજ ધર્મ યે પ્રાણીમાત્ર કા ।
+જો ભી પહચાને જિનદેવ, વો હી જાને આતમ દેવ ।।
+રાગાદિ કે ઉન્મૂલન કો, પૂજે સબ જિનદેવ ચરણ કો ।
+દેશ વિદેશ મેં હુઆ વિહાર, ગાયે અંત મેં ગઢ ગિરનાર ।।
+સબ કર્મો કા કરકે નાશ, પ્રભુ ને પાયા પદ અવિનાશ ।
+જો ભી પ્રભુ કી શરણ મેં આતે, ઉનકો મંવાંચિત મિલ જાતે ।।
+જ્ઞાનાર્જન કરકે શાષ્ત્રો સે, લોકાર્પણ કરતી શ્રદ્ધા સે ।
+અર્ચના બસ યહી વર ચાહેં, નિજ આતમ દર્શન હો જાવે ।।`,
+      hi: `श्री जिनवाणी शीश धार कर, सिद्ध परभू का करके ध्यान ।
+लिखू नेमि चालीसा सुखकार, नेमी प्रभु की शरण में आन।।
+समुन्द्र विजय यादव कुलराई, सौरिपुर रजधानी कहाई ।
+शिवादेवी उनकी महारानी, षष्ठी कार्तिक शुक्ल बखानी ।।
+सुख से शयन करें शैया पर, सपने देखे सौलह सुन्दर ।
+तज विमान जयंत अवतारे, हुए मनोरथ पूरण सारे ।।
+प्रतिदिन महल में रतन बरसते, यदुवंशी निज मन में हरषते ।
+दिन षष्ठी सावन शुक्ल का, हुआ अभ्युदय पुत्र रतन का ।।
+तिन लोक में आनद छाया, प्रभु को मेरु पर पधराश ।
+न्वहन हेतु जल ले क्षीरसागर, मणियो के थे कलश मनोहर ।।
+कर अभिषेक किया परनाम, अरिष्ट नेमि दिया शुभ नाम ।
+शोभित तुमसे सत्य मराल, जीता तुमने काल कराल ।।
+सहस अष्ट लक्षण सुलालाम, नील कमल सम वर्ण अभिराम ।
+वज्र शारीर दस धनुष उतंग, लज्ज्ति तुम छवि देव अनंग ।।
+चाचा ताऊ रहते साथ, नेमि कृष्ण चचेरे भ्रात ।
+धरा जब यौवन जिनराई, राजुल के संघ हुई सगाई ।।
+जूनागढ़ को चली बरात, छप्पन कोटि यादव साथ ।
+सुना पशुओ का क्रंदन, तोडा मोर मुकुट और कंगन ।।
+बाड़ा खोल दिया पशुओं का, धारा वेष दिगंबर मुनि का ।
+कितना अद्भुत संयम मन में, ज्ञानी जन अनुभव करें मन में ।।
+नौ नौ आंसू राजुल रोवे, बारम्बार मूर्छित होवे।
+फेंक दिया दुल्हन श्रृंगार, रो रो कर यों करे पुकार ।।
+नौ भव की तोड़ी क्यों प्रीत, कैसी हैं ये धर्मं की रीत ।
+नेमि दे उपदेश त्याग का, उमड़ा सागर वैराग्य का ।।
+राजुल ने भी ले ली दीक्षा, हुई संयम उत्तीर्ण परीक्षा ।
+दो दिन रह कर के निराहार, तीसरे दिन करे स्वामी विहार ।।
+वरदत्त महीपति दे आहार, पंचाश्चार्य हुए सुखकार ।
+रहे मौन छप्पन दिन तक, तपते रहे कठिनतम तप व्रत ।।
+प्रतिपदा अश्विन उजियारी, हुए केवली प्रभु अविकारी ।
+समोशरण की रचना करते, सुरगण ज्ञान की पूजा करते ।।
+भवि जीवों के पुण्य प्रभाव से, दिव्या ध्वनि खिरती सदभाव से ।
+जो भी होता हे आत्माज्ञ, वो ही होता हे सर्वज्ञ ।।
+ज्ञानी निज आतम को निहारे, अज्ञानी पर्याय संवारे ।
+हैं अदभुत वैरागी दृष्टि, स्वाश्रित हो तजते सब सृष्टि ।।
+जैन धर्मं तो धर्म सभी का, हैं निज धर्म ये प्राणीमात्र का ।
+जो भी पहचाने जिनदेव, वो ही जाने आतम देव ।।
+रागादि के उन्मूलन को, पूजे सब जिनदेव चरण को ।
+देश विदेश में हुआ विहार, गाये अंत में गढ़ गिरनार ।।
+सब कर्मो का करके नाश, प्रभु ने पाया पद अविनाश ।
+जो भी प्रभु की शरण में आते, उनको मंवांचित मिल जाते ।।
+ज्ञानार्जन करके शाष्त्रो से, लोकार्पण करती श्रद्धा से ।
+अर्चना बस यही वर चाहें, निज आतम दर्शन हो जावे ।।`,
+      sa: "",
+      en: `Shree jinavaanee sheesha dhaara kara, siddha parabhoo kaa karake dhyaana |
+Likhoo nemi chaaleesaa sukhakaara, nemee prabhu kee sharana men aana | |
+Samundra vijaya yaadava kularaaee, sauripura rajadhaanee kahaaee |
+Shivaadevee unakee mahaaraanee, shashthee kaartika shukla bakhaanee | |
+Sukha se shayana karen shaiyaa para, sapane dekhe saulaha sundara |
+Taja vimaana jayanta avataare, hue manoratha poorana saare | |
+Pratidina mahala men ratana barasate, yaduvanshee nija mana men harashate |
+Dina shashthee saavana shukla kaa, huaa abhyudaya putra ratana kaa | |
+Tina loka men aanada chhaayaa, prabhu ko meru para padharaasha |
+Nvahana hetu jala le ksheerasaagara, maniyo ke the kalasha manohara | |
+Kara abhisheka kiyaa paranaama, arishta nemi diyaa shubha naama |
+Shobhita tumase satya maraala, jeetaa tumane kaala karaala | |
+Sahasa ashta lakshana sulaalaama, neela kamala sama varna abhiraama |
+Vajra shaareera dasa dhanusha utanga, lajjti tuma chhavi deva ananga | |
+Chaachaa taaoo rahate saatha, nemi krishna chachere bhraata |
+Dharaa jaba yauvana jinaraaee, raajula ke sangha huee sagaaee | |
+Joonaagadha ko chalee baraata, chhappana koti yaadava saatha |
+Sunaa pashuo kaa krandana, todaa mora mukuta aura kangana | |
+Baadaa khola diyaa pashuon kaa, dhaaraa vesha diganbara muni kaa |
+Kitanaa adbhuta sanyama mana men, gyaanee jana anubhava karen mana men | |
+Nau nau aansoo raajula rove, baarambaara moorchhita hove |
+Phenka diyaa dulhana shrringaara, ro ro kara yon kare pukaara | |
+Nau bhava kee todee kyon preeta, kaisee hain ye dharman kee reeta |
+Nemi de upadesha tyaaga kaa, umadaa saagara vairaagya kaa | |
+Raajula ne bhee le lee deekshaa, huee sanyama utteerna pareekshaa |
+Do dina raha kara ke niraahaara, teesare dina kare svaamee vihaara | |
+Varadatta maheepati de aahaara, panchaashchaarya hue sukhakaara |
+Rahe mauna chhappana dina taka, tapate rahe kathinatama tapa vrata | |
+Pratipadaa ashvina ujiyaaree, hue kevalee prabhu avikaaree |
+Samosharana kee rachanaa karate, suragana gyaana kee poojaa karate | |
+Bhavi jeevon ke punya prabhaava se, divyaa dhvani khiratee sadabhaava se |
+Jo bhee hotaa he aatmaagya, vo hee hotaa he sarvagya | |
+Gyaanee nija aatama ko nihaare, agyaanee paryaaya sanvaare |
+Hain adabhuta vairaagee drishti, svaashrita ho tajate saba srishti | |
+Jaina dharman to dharma sabhee kaa, hain nija dharma ye praaneemaatra kaa |
+Jo bhee pahachaane jinadeva, vo hee jaane aatama deva | |
+Raagaadi ke unmoolana ko, pooje saba jinadeva charana ko |
+Desha videsha men huaa vihaara, gaaye anta men gadha giranaara | |
+Saba karmo kaa karake naasha, prabhu ne paayaa pada avinaasha |
+Jo bhee prabhu kee sharana men aate, unako manvaanchita mila jaate | |
+Gyaanaarjana karake shaashtro se, lokaarpana karatee shraddhaa se |
+Archanaa basa yahee vara chaahen, nija aatama darshana ho jaave | |`,
+    },
+  },
+  {
+    id: "parshvanath-chalisa-badagaon",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી પાર્શ્વનાથ જી ચાલીસા (બડાગાંવ)",
+      hi: "श्री पार्श्वनाथ जी चालीसा (बड़ागांव)",
+      sa: "",
+      en: "Shri Parshvanath Ji Chalisa (Badagaon)",
+    },
+    text: {
+      gu: `(દોહા)
+બડાગાઁવ અતિશય બડા, બનતે બિગડે કાજ ।
+તીન લોક તીરથ નમહુઁ, પાર્શ્વ પ્રભુ મહારાજ ।।૧।।
+આદિ-ચન્દ્ર-વિમલેશ-નમિ, પારસ-વીરા ધ્યાય ।
+સ્યાદ્વાદ જિન-ધર્મ નમિ, સુમતિ ગુરુ શિરનાય ।।૨।।
+(મુક્ત છન્દ)
+ભારત વસુધા પર વસુ ગુણ સહ, ગુણિજન શાશ્વત રાજ રહે ।
+સબકલ્યાણક તીર્થ-મૂર્તિ સહ, પંચપરમ પદ સાજ રહે ।।૧।।
+ખાણ્ડવ વન કી ઉત્તર ભૂમી, હસ્તિનાપુર લગ ભાતી હૈ ।
+ધરા-ધન્ય રત્નોં સે ભૂષિત, દેહલી પાસ સુહાતી હૈ ।।૨।।
+અર્ધચક્રિ રાવણ પંડિત ને, આકર ધ્યાન લગાયા થા ।
+અગણિત વિદ્યાઓં કા સ્વામી, વિદ્યાધર કહલાયા થા ।।૩।।
+આદિ તીર્થંકર ઋષભદેવ કા, સમવશરણ મન ભાયા થા ।
+અગણિત તીર્થંકર ઉપદેશી, ભવ્યોં બોધ કરાયા થા ।।૪।।
+ચન્દ્રપ્રભુ અરુ વિમલનાથ કા, યશ-ગૌરવ ભી છાયા થા ।
+પારસનાથ વીર પ્રભુજી કા, સમોશરણ લહરાયા થા ।।૫।।
+બડાગાઁવ કી પાવન-ભૂમી, યહ ઇતિહાસ પુરાના હૈ ।
+ભવ્યજનોં ને કરી સાધના, મુક્તી કા પૈમાના હૈ ।।૬।।
+કાલ પરિણમન કે ચક્કર મેં, પરિવર્તન બહુબાર હુએ ।
+રાજા નેક શૂર-કવિ-પણ્ડિત, સાધક ભી ક્રમ વાર હુએ ।।૭।।
+જૈન ધર્મ કી ધ્વજા ધરા પર, આદિકાલ સે ફહરાયી ।
+સ્યાદ્વાદ કી સપ્ત-તરંગેં, જન-માનસ મેં લહરાયી ।।૮।।
+બડાગાઁવ જૈનોં કા ગઢ થા, દેવોં ગઢા કહાતા થા ।
+પાઁચોં પાણ્ડવ કા ભી ગહરા, ઇસ ભૂમી સે નાતા થા ।।૯।।
+પારસ-ટીલા એક યહાઁ પર, જન-આદર્શ કહાતા થા ।
+ભક્ત મુરાદેં પૂરી હોતીં, દેવોં સમ યશ પાતા થા ।।૧૦।।
+ટીલે કી ખ્યાતી વાયુ સમ, દિગ્-દિગન્ત મેં લહરાર્ઇ ।
+અગણિત ચમત્કાર અતિશય-યુત, સુરગણ ને મહિમા ગાર્ઇ ।।૧૧।।
+શીશરામ કી સુન્દર ધેનુ, નિત ટીલે પર આતી થી ।
+મૌકા પાકર દૂધ ઝરાકર, ભક્તિ-ભાવ પ્રગટાતી થી ।।૧૨।।
+ઐલક જી જબ લખા નજારા, કૈસી અદ્ભુત માયા હૈ ।
+બિના નિકાલે દૂધ ઝર રહા, ક્યા દેવોં કી છાયા હૈ ।।૧૩।।
+ટીલે પર જબ ધ્યાન લગાયા, દેવોં ને આ બતલાયા ।
+પારસ-પ્રભુ કી અતિશય પ્રતિમા, ચમત્કાર સુર દિખલાયા ।।૧૪।।
+ભક્તગણોં કી ભીડ ભાવના, ધૈર્ય બાઁધ ભી ફૂટ પડા ।
+લગે ખોદને ટીલે કો સબ, નાગોં કા દલ ટૂટ પડા ।।૧૫।।
+ભયાકુલિત લખ ભક્ત-ગણોં કો, નભ સે મધુર-ધ્વની આયી ।
+ઘબરાઓ મત પારસ પ્રતિમા, શનૈ: શનૈ: ખોદો ભાર્ઇ ।।૧૬।।
+ઐલક જી ને મંત્ર શક્તિ સે, સારે વિષધર વિદા કિયે ।
+ણમોકાર કા જાપ કરા કર, પાર્શ્વ-પ્રભૂ કે દર્શ લિયે ।।૧૭।।
+અતિશય દિવ્ય સુશોભિત પ્રતિમા, લખતે ખુશિયાઁ લહરાર્ઇ ।
+નાચ ઉઠે નર-નારિ ખુશી સે, જય-જય ધ્વનિ ભૂ નભ છાર્ઇ ।।૧૮।।
+મેલા સા લગ ગયા ધરા, પારસ પ્રભુ જય-જયકારે ।
+માનવ પશુગણ કી ક્યા ગણના, ભક્તી મેં સુરપતિ હારે ।।૧૯।।
+જબ-જબ સંકટ મેં ભક્તોં ને, પારસ પ્રભુ પુકારે હૈં ।
+જગ-જીવન મેં સાથ ન કોર્ઇ, પ્રભુવર બને સહારે હૈં ।।૨૦।।
+બંજારોં કે બાજારોં મેં, બડેગાઁવ કી કીરત થી ।
+લક્ષ્મણ સેઠ બડે વ્યાપારી, સેઠ રત્ન કી સીરત થી ।।૨૧।।
+અંગ્રેજોં ને અપરાધી કહ, ઝૂઠા દાગ લગાયા થા ।
+તોપોં સે ઉડવાને કા ફિર, નિર્દય હુકુમ સુનાયા થા ।।૨૨।।
+દુખી હૃદય લક્ષ્મણ ને આકર, પારસ-પ્રભુ સે અર્જ કરી ।
+અગર સત્ય હૂઁ હે નિર્ણાયક, કરવા દો પ્રભુ મુઝે બરી ।।૨૩।।
+કૈસા અતિશય હુઆ વહાઁ પર, શીતલ હુઆ તોપ ગોલા ।
+ગદ-ગદ્-હૃદય હુઆ ભક્તોં કા, ઉતર ગયા મિથ્યા-ચોલા ।।૨૪।।
+ભક્ત-દેવ આકર કે પ્રતિદિન, નૂતન નૃત્ય દિખાતે હૈં ।
+આપત્તિ લખ ભક્તગણોં પર, ઉનકો ધૈર્ય બંધાતે હૈં ।।૨૫।।
+ભૂત-પ્રેત જિન્દોં કી બાધા, જપ કરતે કટ જાતી હૈ ।
+કૈસી ભી હો કઠિન સમસ્યા, અર્ચે હલ હો જાતી હૈ ।।૨૬।।
+નેત્રહીન કતિપય ભક્તોં ને, નેત્ર-ભક્તિ કર પાયે હૈં ।
+કુષ્ઠ-રોગ સે મુક્ત અનેકોં, કંચન-કાયા ભાયે હૈં ।।૨૭।।
+દુખ-દારિદ્ર ધ્યાન સે મિટતા, શત્રુ મિત્ર બન જાતે હૈં ।
+મિથ્યા તિમિર ભક્તિ દીપક લખ, સ્વાભાવિક છંટ જાતે હૈં ।।૨૮।।
+પારસ કુઇયા કા નિર્મલ જલ, મન કી તપન મિટાતા હૈ ।
+ચર્મરોગ કી ઉત્તમ ઔષધિ રોગી પી સુખ પાતા હૈ ।।૨૯।।
+તીન શતક પહલે સે મહિમા, અધુના બની યથાવત્ હૈ ।
+શ્રદ્ધા-ભક્તી ભક્ત શક્તિ સે, ફલ નિત વરે તથાવત્ હૈ ।।૩૦।।
+સ્વપ્ન સલોના દે શ્રાવક કો, આદીશ્વર પ્રતિમા પાયી ।
+વસુધા-ગર્ભ મિલે ચન્દાપ્રભુ, વિમલ સન્મતી ગહરાયી ।।૩૧।।
+આદિનાથ કા સુમિરન કરકે, આધિ-વ્યાધિ મિટ જાતી હૈ ।
+ચન્દાપ્રભુ અર્ચે છવિ નિર્મલ, ચન્દા સમ મન ભાતી હૈ ।।૩૨।।
+વિમલનાથ પૂજન સે વિમલા, સ્વાભાવિક મિલ જાતી હૈ ।
+પારસ પ્રભુ પારસ સમ મહિમા, વર્દ્ધમાન સુખ થાતી હૈ ।।૩૩।।
+દિવ્ય મનોહર ઉચ્ચ જિનાલય સમવશરણ સહ શોભિત હૈં ।
+પંચ જિનાલય પરમેશ્વર કે, ભવ્યોં કે મન મોહિત હૈં ।।૩૪।।
+બની ધર્મશાલા અતિ સુન્દર, માનસ્તમ્ભ સુહાતા હૈ ।
+આશ્રમ ગુરુકુલ વિદ્યાલય યશ, ગૌરવ ક્ષેત્ર બઢાતા હૈ ।।૩૫।।
+યહ સ્યાદ્વાદ કા મુખ્યાલય, યહ ધર્મ-ધ્વજા ફહરાતા હૈ ।
+સમ્યગ્દર્શન-જ્ઞાન-ચરણ સહ, મુક્તી-પથ દરશાતા હૈ ।।૩૬।।
+તીન લોક તીરથ કી રચના, જ્ઞાન ધ્યાન અનુભૂતિ કરો ।
+ગુરુકુલ સાઁવલિયા બાબાજી, જો માઁગો દેં અર્જ કરો ।।૩૭।।
+અગહન શુક્લા પંચમિ ગુરુદિન, વિદ્યાભૂષણ શરણ લહી ।
+સ્યાદ્વાદ ગુરુકુલ સ્થાપન, પચ્ચીસોં ચૌબીસ ભર્ઇ ।।૩૮।।
+શિક્ષા મંદિર ઔષધિ શાલા, બને સાધના કેન્દ્ર યહીં ।
+દુખ દારિદ્ર મિટે ભક્તોં કા, અનશરણોં કી શરણ સહી ।।૩૯।।
+સ્વારથ જગ નિત-પ્રતિ ધોખે ખા, સન્મતિ શરણા આયે હૈં ।
+ચૂક માફ મનવાંછિત ફલ દો, સ્યાદ્વાદ ગુણ ગાયે હૈં ।।૪૦।।
+(દોહા)
+હે પારસ જગ જીવ હોં, સુખ સમ્પતિ ભરપૂર ।
+સામ્યભાવ ‘સન્મતિ’ રહે, ભવ દુખ હો ચકચૂર ।।`,
+      hi: `(दोहा)
+बड़ागाँव अतिशय बड़ा, बनते बिगड़े काज ।
+तीन लोक तीरथ नमहुँ, पार्श्व प्रभु महाराज ।।१।।
+आदि-चन्द्र-विमलेश-नमि, पारस-वीरा ध्याय ।
+स्याद्वाद जिन-धर्म नमि, सुमति गुरु शिरनाय ।।२।।
+(मुक्त छन्द)
+भारत वसुधा पर वसु गुण सह, गुणिजन शाश्वत राज रहे ।
+सबकल्याणक तीर्थ-मूर्ति सह, पंचपरम पद साज रहे ।।१।।
+खाण्डव वन की उत्तर भूमी, हस्तिनापुर लग भाती है ।
+धरा-धन्य रत्नों से भूषित, देहली पास सुहाती है ।।२।।
+अर्धचक्रि रावण पंडित ने, आकर ध्यान लगाया था ।
+अगणित विद्याओं का स्वामी, विद्याधर कहलाया था ।।३।।
+आदि तीर्थंकर ऋषभदेव का, समवशरण मन भाया था ।
+अगणित तीर्थंकर उपदेशी, भव्यों बोध कराया था ।।४।।
+चन्द्रप्रभु अरु विमलनाथ का, यश-गौरव भी छाया था ।
+पारसनाथ वीर प्रभुजी का, समोशरण लहराया था ।।५।।
+बड़ागाँव की पावन-भूमी, यह इतिहास पुराना है ।
+भव्यजनों ने करी साधना, मुक्ती का पैमाना है ।।६।।
+काल परिणमन के चक्कर में, परिवर्तन बहुबार हुए ।
+राजा नेक शूर-कवि-पण्डित, साधक भी क्रम वार हुए ।।७।।
+जैन धर्म की ध्वजा धरा पर, आदिकाल से फहरायी ।
+स्याद्वाद की सप्त-तरंगें, जन-मानस में लहरायी ।।८।।
+बड़ागाँव जैनों का गढ़ था, देवों गढ़ा कहाता था ।
+पाँचों पाण्डव का भी गहरा, इस भूमी से नाता था ।।९।।
+पारस-टीला एक यहाँ पर, जन-आदर्श कहाता था ।
+भक्त मुरादें पूरी होतीं, देवों सम यश पाता था ।।१०।।
+टीले की ख्याती वायु सम, दिग्-दिगन्त में लहरार्इ ।
+अगणित चमत्कार अतिशय-युत, सुरगण ने महिमा गार्इ ।।११।।
+शीशराम की सुन्दर धेनु, नित टीले पर आती थी ।
+मौका पाकर दूध झराकर, भक्ति-भाव प्रगटाती थी ।।१२।।
+ऐलक जी जब लखा नजारा, कैसी अद्भुत माया है ।
+बिना निकाले दूध झर रहा, क्या देवों की छाया है ।।१३।।
+टीले पर जब ध्यान लगाया, देवों ने आ बतलाया ।
+पारस-प्रभु की अतिशय प्रतिमा, चमत्कार सुर दिखलाया ।।१४।।
+भक्तगणों की भीड़ भावना, धैर्य बाँध भी फूट पड़ा ।
+लगे खोदने टीले को सब, नागों का दल टूट पड़ा ।।१५।।
+भयाकुलित लख भक्त-गणों को, नभ से मधुर-ध्वनी आयी ।
+घबराओ मत पारस प्रतिमा, शनै: शनै: खोदो भार्इ ।।१६।।
+ऐलक जी ने मंत्र शक्ति से, सारे विषधर विदा किये ।
+णमोकार का जाप करा कर, पार्श्व-प्रभू के दर्श लिये ।।१७।।
+अतिशय दिव्य सुशोभित प्रतिमा, लखते खुशियाँ लहरार्इ ।
+नाच उठे नर-नारि खुशी से, जय-जय ध्वनि भू नभ छार्इ ।।१८।।
+मेला सा लग गया धरा, पारस प्रभु जय-जयकारे ।
+मानव पशुगण की क्या गणना, भक्ती में सुरपति हारे ।।१९।।
+जब-जब संकट में भक्तों ने, पारस प्रभु पुकारे हैं ।
+जग-जीवन में साथ न कोर्इ, प्रभुवर बने सहारे हैं ।।२०।।
+बंजारों के बाजारों में, बड़ेगाँव की कीरत थी ।
+लक्ष्मण सेठ बड़े व्यापारी, सेठ रत्न की सीरत थी ।।२१।।
+अंग्रेजों ने अपराधी कह, झूठा दाग लगाया था ।
+तोपों से उड़वाने का फिर, निर्दय हुकुम सुनाया था ।।२२।।
+दुखी हृदय लक्ष्मण ने आकर, पारस-प्रभु से अर्ज करी ।
+अगर सत्य हूँ हे निर्णायक, करवा दो प्रभु मुझे बरी ।।२३।।
+कैसा अतिशय हुआ वहाँ पर, शीतल हुआ तोप गोला ।
+गद-गद्-हृदय हुआ भक्तों का, उतर गया मिथ्या-चोला ।।२४।।
+भक्त-देव आकर के प्रतिदिन, नूतन नृत्य दिखाते हैं ।
+आपत्ति लख भक्तगणों पर, उनको धैर्य बंधाते हैं ।।२५।।
+भूत-प्रेत जिन्दों की बाधा, जप करते कट जाती है ।
+कैसी भी हो कठिन समस्या, अर्चे हल हो जाती है ।।२६।।
+नेत्रहीन कतिपय भक्तों ने, नेत्र-भक्ति कर पाये हैं ।
+कुष्ठ-रोग से मुक्त अनेकों, कंचन-काया भाये हैं ।।२७।।
+दुख-दारिद्र ध्यान से मिटता, शत्रु मित्र बन जाते हैं ।
+मिथ्या तिमिर भक्ति दीपक लख, स्वाभाविक छंट जाते हैं ।।२८।।
+पारस कुइया का निर्मल जल, मन की तपन मिटाता है ।
+चर्मरोग की उत्तम औषधि रोगी पी सुख पाता है ।।२९।।
+तीन शतक पहले से महिमा, अधुना बनी यथावत् है ।
+श्रद्धा-भक्ती भक्त शक्ति से, फल नित वरे तथावत् है ।।३०।।
+स्वप्न सलोना दे श्रावक को, आदीश्वर प्रतिमा पायी ।
+वसुधा-गर्भ मिले चन्दाप्रभु, विमल सन्मती गहरायी ।।३१।।
+आदिनाथ का सुमिरन करके, आधि-व्याधि मिट जाती है ।
+चन्दाप्रभु अर्चे छवि निर्मल, चन्दा सम मन भाती है ।।३२।।
+विमलनाथ पूजन से विमला, स्वाभाविक मिल जाती है ।
+पारस प्रभु पारस सम महिमा, वर्द्धमान सुख थाती है ।।३३।।
+दिव्य मनोहर उच्च जिनालय समवशरण सह शोभित हैं ।
+पंच जिनालय परमेश्वर के, भव्यों के मन मोहित हैं ।।३४।।
+बनी धर्मशाला अति सुन्दर, मानस्तम्भ सुहाता है ।
+आश्रम गुरुकुल विद्यालय यश, गौरव क्षेत्र बढ़ाता है ।।३५।।
+यह स्याद्वाद का मुख्यालय, यह धर्म-ध्वजा फहराता है ।
+सम्यग्दर्शन-ज्ञान-चरण सह, मुक्ती-पथ दरशाता है ।।३६।।
+तीन लोक तीरथ की रचना, ज्ञान ध्यान अनुभूति करो ।
+गुरुकुल साँवलिया बाबाजी, जो माँगो दें अर्ज करो ।।३७।।
+अगहन शुक्ला पंचमि गुरुदिन, विद्याभूषण शरण लही ।
+स्याद्वाद गुरुकुल स्थापन, पच्चीसों चौबीस भर्इ ।।३८।।
+शिक्षा मंदिर औषधि शाला, बने साधना केन्द्र यहीं ।
+दुख दारिद्र मिटे भक्तों का, अनशरणों की शरण सही ।।३९।।
+स्वारथ जग नित-प्रति धोखे खा, सन्मति शरणा आये हैं ।
+चूक माफ मनवांछित फल दो, स्याद्वाद गुण गाये हैं ।।४०।।
+(दोहा)
+हे पारस जग जीव हों, सुख सम्पति भरपूर ।
+साम्यभाव ‘सन्मति’ रहे, भव दुख हो चकचूर ।।`,
+      sa: "",
+      en: `(dohaa)
+Badaagaanva atishaya badaa, banate bigade kaaja |
+Teena loka teeratha namahun, paarshva prabhu mahaaraaja | | 1 | |
+Aadi-chandra-vimalesha-nami, paarasa-veeraa dhyaaya |
+Syaadvaada jina-dharma nami, sumati guru shiranaaya | | 2 | |
+(mukta chhanda)
+Bhaarata vasudhaa para vasu guna saha, gunijana shaashvata raaja rahe |
+Sabakalyaanaka teertha-moorti saha, panchaparama pada saaja rahe | | 1 | |
+Khaandava vana kee uttara bhoomee, hastinaapura laga bhaatee hai |
+Dharaa-dhanya ratnon se bhooshita, dehalee paasa suhaatee hai | | 2 | |
+Ardhachakri raavana pandita ne, aakara dhyaana lagaayaa thaa |
+Aganita vidyaaon kaa svaamee, vidyaadhara kahalaayaa thaa | | 3 | |
+Aadi teerthankara rishabhadeva kaa, samavasharana mana bhaayaa thaa |
+Aganita teerthankara upadeshee, bhavyon bodha karaayaa thaa | | 4 | |
+Chandraprabhu aru vimalanaatha kaa, yasha-gaurava bhee chhaayaa thaa |
+Paarasanaatha veera prabhujee kaa, samosharana laharaayaa thaa | | 5 | |
+Badaagaanva kee paavana-bhoomee, yaha itihaasa puraanaa hai |
+Bhavyajanon ne karee saadhanaa, muktee kaa paimaanaa hai | | 6 | |
+Kaala parinamana ke chakkara men, parivartana bahubaara hue |
+Raajaa neka shoora-kavi-pandita, saadhaka bhee krama vaara hue | | 7 | |
+Jaina dharma kee dhvajaa dharaa para, aadikaala se phaharaayee |
+Syaadvaada kee sapta-tarangen, jana-maanasa men laharaayee | | 8 | |
+Badaagaanva jainon kaa gadha thaa, devon gadhaa kahaataa thaa |
+Paanchon paandava kaa bhee gaharaa, isa bhoomee se naataa thaa | | 9 | |
+Paarasa-teelaa eka yahaan para, jana-aadarsha kahaataa thaa |
+Bhakta muraaden pooree hoteen, devon sama yasha paataa thaa | | 10 | |
+Teele kee khyaatee vaayu sama, dig-diganta men laharaari |
+Aganita chamatkaara atishaya-yuta, suragana ne mahimaa gaari | | 11 | |
+Sheesharaama kee sundara dhenu, nita teele para aatee thee |
+Maukaa paakara doodha jharaakara, bhakti-bhaava pragataatee thee | | 12 | |
+Ailaka jee jaba lakhaa najaaraa, kaisee adbhuta maayaa hai |
+Binaa nikaale doodha jhara rahaa, kyaa devon kee chhaayaa hai | | 13 | |
+Teele para jaba dhyaana lagaayaa, devon ne aa batalaayaa |
+Paarasa-prabhu kee atishaya pratimaa, chamatkaara sura dikhalaayaa | | 14 | |
+Bhaktaganon kee bheeda bhaavanaa, dhairya baandha bhee phoota padaa |
+Lage khodane teele ko saba, naagon kaa dala toota padaa | | 15 | |
+Bhayaakulita lakha bhakta-ganon ko, nabha se madhura-dhvanee aayee |
+Ghabaraao mata paarasa pratimaa, shanai: shanai: khodo bhaari | | 16 | |
+Ailaka jee ne mantra shakti se, saare vishadhara vidaa kiye |
+Namokaara kaa jaapa karaa kara, paarshva-prabhoo ke darsha liye | | 17 | |
+Atishaya divya sushobhita pratimaa, lakhate khushiyaan laharaari |
+Naacha uthe nara-naari khushee se, jaya-jaya dhvani bhoo nabha chhaari | | 18 | |
+Melaa saa laga gayaa dharaa, paarasa prabhu jaya-jayakaare |
+Maanava pashugana kee kyaa gananaa, bhaktee men surapati haare | | 19 | |
+Jaba-jaba sankata men bhakton ne, paarasa prabhu pukaare hain |
+Jaga-jeevana men saatha na kori, prabhuvara bane sahaare hain | | 20 | |
+Banjaaron ke baajaaron men, badegaanva kee keerata thee |
+Lakshmana setha bade vyaapaaree, setha ratna kee seerata thee | | 21 | |
+Angrejon ne aparaadhee kaha, jhoothaa daaga lagaayaa thaa |
+Topon se udavaane kaa phira, nirdaya hukuma sunaayaa thaa | | 22 | |
+Dukhee hridaya lakshmana ne aakara, paarasa-prabhu se arja karee |
+Agara satya hoon he nirnaayaka, karavaa do prabhu mujhe baree | | 23 | |
+Kaisaa atishaya huaa vahaan para, sheetala huaa topa golaa |
+Gada-gad-hridaya huaa bhakton kaa, utara gayaa mithyaa-cholaa | | 24 | |
+Bhakta-deva aakara ke pratidina, nootana nritya dikhaate hain |
+Aapatti lakha bhaktaganon para, unako dhairya bandhaate hain | | 25 | |
+Bhoota-preta jindon kee baadhaa, japa karate kata jaatee hai |
+Kaisee bhee ho kathina samasyaa, arche hala ho jaatee hai | | 26 | |
+Netraheena katipaya bhakton ne, netra-bhakti kara paaye hain |
+Kushtha-roga se mukta anekon, kanchana-kaayaa bhaaye hain | | 27 | |
+Dukha-daaridra dhyaana se mitataa, shatru mitra bana jaate hain |
+Mithyaa timira bhakti deepaka lakha, svaabhaavika chhanta jaate hain | | 28 | |
+Paarasa kuiyaa kaa nirmala jala, mana kee tapana mitaataa hai |
+Charmaroga kee uttama aushadhi rogee pee sukha paataa hai | | 29 | |
+Teena shataka pahale se mahimaa, adhunaa banee yathaavat hai |
+Shraddhaa-bhaktee bhakta shakti se, phala nita vare tathaavat hai | | 30 | |
+Svapna salonaa de shraavaka ko, aadeeshvara pratimaa paayee |
+Vasudhaa-garbha mile chandaaprabhu, vimala sanmatee gaharaayee | | 31 | |
+Aadinaatha kaa sumirana karake, aadhi-vyaadhi mita jaatee hai |
+Chandaaprabhu arche chhavi nirmala, chandaa sama mana bhaatee hai | | 32 | |
+Vimalanaatha poojana se vimalaa, svaabhaavika mila jaatee hai |
+Paarasa prabhu paarasa sama mahimaa, varddhamaana sukha thaatee hai | | 33 | |
+Divya manohara uchcha jinaalaya samavasharana saha shobhita hain |
+Pancha jinaalaya parameshvara ke, bhavyon ke mana mohita hain | | 34 | |
+Banee dharmashaalaa ati sundara, maanastambha suhaataa hai |
+Aashrama gurukula vidyaalaya yasha, gaurava kshetra badhaataa hai | | 35 | |
+Yaha syaadvaada kaa mukhyaalaya, yaha dharma-dhvajaa phaharaataa hai |
+Samyagdarshana-gyaana-charana saha, muktee-patha darashaataa hai | | 36 | |
+Teena loka teeratha kee rachanaa, gyaana dhyaana anubhooti karo |
+Gurukula saanvaliyaa baabaajee, jo maango den arja karo | | 37 | |
+Agahana shuklaa panchami gurudina, vidyaabhooshana sharana lahee |
+Syaadvaada gurukula sthaapana, pachcheeson chaubeesa bhari | | 38 | |
+Shikshaa mandira aushadhi shaalaa, bane saadhanaa kendra yaheen |
+Dukha daaridra mite bhakton kaa, anasharanon kee sharana sahee | | 39 | |
+Svaaratha jaga nita-prati dhokhe khaa, sanmati sharanaa aaye hain |
+Chooka maapha manavaanchhita phala do, syaadvaada guna gaaye hain | | 40 | |
+(dohaa)
+He paarasa jaga jeeva hon, sukha sampati bharapoora |
+Saamyabhaava ‘sanmati’ rahe, bhava dukha ho chakachoora | |`,
+    },
+  },
+  {
+    id: "mahavir-chalisa",
+    type: "chalisa",
+    title: {
+      gu: "શ્રી મહાવીર જી ચાલીસા",
+      hi: "श्री महावीर जी चालीसा",
+      sa: "",
+      en: "Shri Mahavir Ji Chalisa",
+    },
+    text: {
+      gu: `શીશ નવા અરિહંત કો, સિદ્ધન કરૂ પ્રણામ ।
+ઉપાધ્યાય આચાર્ય કા લે સુખકારી નામ ।।
+સર્વ સાધૂ ઔર સરસ્વતી, જિનમન્દિર સુખકાર ।
+મહાવીર ભગવાન્ કો મન મંદિર મેં ધાર।।
+જય મહાવીર દયાલુ સ્વામી, વીર પ્રભુ તુમ જગ મેં નામી।
+વર્ધમાન હૈં નામ તુમ્હારા, લગે હ્રદય કો પ્યારા પ્યારા ।।
+શાંત છવિ મન મોહિની મૂરત, શાંત હંસિલી સોહિની સૂરત।
+તુમને વેશ દિગંબર ધારા, કરમ શત્રુ ભી તુમસે હારા ।।
+ક્રોધ માન વા લોભ ભગાયા માયા ને તુમસે ડર ખાયા ।
+તૂ સર્વજ્ઞ સર્વ કા જ્ઞાતા, તુઝકો દુનિયા સે ક્યા નાતા ।।
+તુઝમે નહીં રાગ વા દ્વેષ, વીતરાગ તૂ હિત ઉપદેશ ।
+તેરા નામ જગત મેં સચ્ચા, જિસકો જાને બચ્ચા બચ્ચા ।।
+ભુત પ્રેત તુમસે ભય ખાવે, વ્યંતર રાક્ષસ સબ ભાગ જાવે।
+મહા વ્યાધિ મારી ન સતાવે, અતિવિકરાલ કાલ ડર ખાવે।।
+કાલા નાગ હોય ફન ધારી, યા હો શેર ભયંકર ભારી ।
+ના હી કોઈ બચાને વાલા, સ્વામી તુમ હી કરો પ્રતિપાલા ।।
+અગ્નિ દાવાનલ સુલગ રહી હો, તેજ હવા સે ભડક રહી હો।
+નામ તુમ્હારા સબ દુખ ખોવે, આગ એકદમ ઠંડી હોવે ।।
+હિંસામય થા ભારત સારા, તબ તુમને લીના અવતારા ।
+જન્મ લિયા કુંડલપુર નગરી, હુઈ સુખી તબ જનતા સગરી ।।
+સિદ્ધાર્થ જી પિતા તુમ્હારે, ત્રિશાલા કી આઁખોં કે તારે ।
+છોડ કે સબ ઝંઝટ સંસારી, સ્વામી હુએ બાલ બ્રમ્હાચારી ।।
+પંચમ કાલ મહા દુખદાયી, ચાંદનપુર મહિમા દિખલાઈ ।
+ટીલે મેં અતિશય દિખલાયા, એક ગાય કા દુધ ઝરાયા ।।
+સોચ હુઆ મન મેં ગ્વાલે કે, પંહુચા એક ફાવડા લેકે ।
+સારા ટીલા ખોદ ગિરાયા, તબ તુમને દર્શન દિખલાયા ।।
+જોધરાજ કો દુખ ને ઘેરા, ઉસને નામ જપા જબ તેરા ।
+ઠંડા હુઆ તોપ કા ગોલા, તબ સબ ને જયકારા બોલા ।।
+મંત્રી ને મંદિર બનવાયા, રાજા ને ભી દરબ લગાયા ।
+બડી ધર્મશાલા બનવાઈ, તુમકો લાને કી ઠહરાઈ ।।
+તુમને તોડી બીસોં ગાડી, પહિયા ખિસકા નહીં અગાડી ।
+ગ્વાલે ને જબ હાથ લગાયા, ફિર તો રથ ચલતા હી પાયા ।।
+પહલે દિન બૈસાખ વદી કે, રથ જાતા હૈ તીર નદી કે ।
+મીના ગુજર સબ હી આતે, નાચ કૂદ સબ ચિત ઉમગાતે ।।
+સ્વામી તુમને પ્રેમ નિભાયા, ગ્વાલે કા તુમ માન બઢાયા ।
+હાથ લગે ગ્વાલે કા તબ હી, સ્વામી રથ ચલતા હૈં તબ હી ।।
+મેરી હૈં ટૂટી સી નૈયા, તુમ બિન સ્વામી કોઈ ના ખિવૈયા ।
+મુઝ પર સ્વામી જરા કૃપા કર, મૈં હુ પ્રભુ તુમ્હારા ચાકર ।।
+તુમસે મૈં પ્રભુ કુછ નહીં ચાહૂ, જનમ જનમ તવ દર્શન ચાહૂ ।
+ચાલિસે કો ચન્દ્ર બનાવે, વીર પ્રભુ કો શીશ નમાવે ।।
+નિત હી ચાલીસ બાર, પાઠ કરે ચાલીસ ।
+ખેય ધુપ અપાર, વર્ધમાન જિન સામને ।।
+હોય કુબેર સમાન, જન્મ દરિદ્ર હોય જો ।
+જિસકે નહીં સંતાન, નામ વંશ જગ મેં ચલે ।।`,
+      hi: `शीश नवा अरिहंत को, सिद्धन करू प्रणाम ।
+उपाध्याय आचार्य का ले सुखकारी नाम ।।
+सर्व साधू और सरस्वती, जिनमन्दिर सुखकार ।
+महावीर भगवान् को मन मंदिर में धार।।
+जय महावीर दयालु स्वामी, वीर प्रभु तुम जग में नामी।
+वर्धमान हैं नाम तुम्हारा, लगे ह्रदय को प्यारा प्यारा ।।
+शांत छवि मन मोहिनी मूरत, शांत हंसिली सोहिनी सूरत।
+तुमने वेश दिगंबर धारा, करम शत्रु भी तुमसे हारा ।।
+क्रोध मान वा लोभ भगाया माया ने तुमसे डर खाया ।
+तू सर्वज्ञ सर्व का ज्ञाता, तुझको दुनिया से क्या नाता ।।
+तुझमे नहीं राग वा द्वेष, वीतराग तू हित उपदेश ।
+तेरा नाम जगत में सच्चा, जिसको जाने बच्चा बच्चा ।।
+भुत प्रेत तुमसे भय खावे, व्यंतर राक्षस सब भाग जावे।
+महा व्याधि मारी न सतावे, अतिविकराल काल डर खावे।।
+काला नाग होय फन धारी, या हो शेर भयंकर भारी ।
+ना ही कोई बचाने वाला, स्वामी तुम ही करो प्रतिपाला ।।
+अग्नि दावानल सुलग रही हो, तेज हवा से भड़क रही हो।
+नाम तुम्हारा सब दुख खोवे, आग एकदम ठंडी होवे ।।
+हिंसामय था भारत सारा, तब तुमने लीना अवतारा ।
+जन्म लिया कुंडलपुर नगरी, हुई सुखी तब जनता सगरी ।।
+सिद्धार्थ जी पिता तुम्हारे, त्रिशाला की आँखों के तारे ।
+छोड़ के सब झंझट संसारी, स्वामी हुए बाल ब्रम्हाचारी ।।
+पंचम काल महा दुखदायी, चांदनपुर महिमा दिखलाई ।
+टीले में अतिशय दिखलाया, एक गाय का दुध झराया ।।
+सोच हुआ मन में ग्वाले के, पंहुचा एक फावड़ा लेके ।
+सारा टीला खोद गिराया, तब तुमने दर्शन दिखलाया ।।
+जोधराज को दुख ने घेरा, उसने नाम जपा जब तेरा ।
+ठंडा हुआ तोप का गोला, तब सब ने जयकारा बोला ।।
+मंत्री ने मंदिर बनवाया, राजा ने भी दरब लगाया ।
+बड़ी धर्मशाला बनवाई, तुमको लाने की ठहराई ।।
+तुमने तोड़ी बीसों गाडी, पहिया खिसका नहीं अगाडी ।
+ग्वाले ने जब हाथ लगाया, फिर तो रथ चलता ही पाया ।।
+पहले दिन बैसाख वदी के, रथ जाता है तीर नदी के ।
+मीना गुजर सब ही आते, नाच कूद सब चित उमगाते ।।
+स्वामी तुमने प्रेम निभाया, ग्वाले का तुम मान बढाया ।
+हाथ लगे ग्वाले का तब ही, स्वामी रथ चलता हैं तब ही ।।
+मेरी हैं टूटी सी नैया, तुम बिन स्वामी कोई ना खिवैया ।
+मुझ पर स्वामी ज़रा कृपा कर, मैं हु प्रभु तुम्हारा चाकर ।।
+तुमसे मैं प्रभु कुछ नहीं चाहू, जनम जनम तव दर्शन चाहू ।
+चालिसे को चन्द्र बनावे, वीर प्रभु को शीश नमावे ।।
+नित ही चालीस बार, पाठ करे चालीस ।
+खेय धुप अपार, वर्धमान जिन सामने ।।
+होय कुबेर समान, जन्म दरिद्र होय जो ।
+जिसके नहीं संतान, नाम वंश जग में चले ।।`,
+      sa: "",
+      en: `Sheesha navaa arihanta ko, siddhana karoo pranaama |
+Upaadhyaaya aachaarya kaa le sukhakaaree naama | |
+Sarva saadhoo aura sarasvatee, jinamandira sukhakaara |
+Mahaaveera bhagavaan ko mana mandira men dhaara | |
+Jaya mahaaveera dayaalu svaamee, veera prabhu tuma jaga men naamee |
+Vardhamaana hain naama tumhaaraa, lage hradaya ko pyaaraa pyaaraa | |
+Shaanta chhavi mana mohinee moorata, shaanta hansilee sohinee soorata |
+Tumane vesha diganbara dhaaraa, karama shatru bhee tumase haaraa | |
+Krodha maana vaa lobha bhagaayaa maayaa ne tumase dara khaayaa |
+Too sarvagya sarva kaa gyaataa, tujhako duniyaa se kyaa naataa | |
+Tujhame naheen raaga vaa dvesha, veetaraaga too hita upadesha |
+Teraa naama jagata men sachchaa, jisako jaane bachchaa bachchaa | |
+Bhuta preta tumase bhaya khaave, vyantara raakshasa saba bhaaga jaave |
+Mahaa vyaadhi maaree na sataave, ativikaraala kaala dara khaave | |
+Kaalaa naaga hoya phana dhaaree, yaa ho shera bhayankara bhaaree |
+Naa hee koee bachaane vaalaa, svaamee tuma hee karo pratipaalaa | |
+Agni daavaanala sulaga rahee ho, teja havaa se bhadaka rahee ho |
+Naama tumhaaraa saba dukha khove, aaga ekadama thandee hove | |
+Hinsaamaya thaa bhaarata saaraa, taba tumane leenaa avataaraa |
+Janma liyaa kundalapura nagaree, huee sukhee taba janataa sagaree | |
+Siddhaartha jee pitaa tumhaare, trishaalaa kee aankhon ke taare |
+Chhoda ke saba jhanjhata sansaaree, svaamee hue baala bramhaachaaree | |
+Panchama kaala mahaa dukhadaayee, chaandanapura mahimaa dikhalaaee |
+Teele men atishaya dikhalaayaa, eka gaaya kaa dudha jharaayaa | |
+Socha huaa mana men gvaale ke, panhuchaa eka phaavadaa leke |
+Saaraa teelaa khoda giraayaa, taba tumane darshana dikhalaayaa | |
+Jodharaaja ko dukha ne gheraa, usane naama japaa jaba teraa |
+Thandaa huaa topa kaa golaa, taba saba ne jayakaaraa bolaa | |
+Mantree ne mandira banavaayaa, raajaa ne bhee daraba lagaayaa |
+Badee dharmashaalaa banavaaee, tumako laane kee thaharaaee | |
+Tumane todee beeson gaadee, pahiyaa khisakaa naheen agaadee |
+Gvaale ne jaba haatha lagaayaa, phira to ratha chalataa hee paayaa | |
+Pahale dina baisaakha vadee ke, ratha jaataa hai teera nadee ke |
+Meenaa gujara saba hee aate, naacha kooda saba chita umagaate | |
+Svaamee tumane prema nibhaayaa, gvaale kaa tuma maana badhaayaa |
+Haatha lage gvaale kaa taba hee, svaamee ratha chalataa hain taba hee | |
+Meree hain tootee see naiyaa, tuma bina svaamee koee naa khivaiyaa |
+Mujha para svaamee jaraa kripaa kara, main hu prabhu tumhaaraa chaakara | |
+Tumase main prabhu kuchha naheen chaahoo, janama janama tava darshana chaahoo |
+Chaalise ko chandra banaave, veera prabhu ko sheesha namaave | |
+Nita hee chaaleesa baara, paatha kare chaaleesa |
+Kheya dhupa apaara, vardhamaana jina saamane | |
+Hoya kubera samaana, janma daridra hoya jo |
+Jisake naheen santaana, naama vansha jaga men chale | |`,
+    },
+  },
 ];
 
 // Expose for the pages.
