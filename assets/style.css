@@ -834,6 +834,16 @@ body[data-page="item"].has-install-btn .theme-toggle:not(.theme-toggle--inline) 
   cursor: pointer;
 }
 
+/* While the analytics consent bar is up it covers the bottom-left corner, so
+   lift the Help button clear of it. --consent-bar-h is set by analytics.js to
+   the bar's measured height (it wraps taller on narrow screens). */
+body.consent-visible .help-btn {
+  bottom: calc(
+    max(16px, env(safe-area-inset-bottom)) + var(--consent-bar-h, 72px) + 12px
+  );
+  transition: bottom 0.3s ease;
+}
+
 .help-btn:hover {
   border-color: var(--accent);
   background: var(--accent-soft);
