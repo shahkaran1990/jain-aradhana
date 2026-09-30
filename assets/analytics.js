@@ -160,6 +160,7 @@
 
     function close() {
       bar.classList.remove("show");
+      hideBanner();
       // Remove after the slide-out transition.
       setTimeout(function () {
         if (bar.parentNode) bar.parentNode.removeChild(bar);
@@ -181,10 +182,40 @@
     bar.appendChild(actions);
     document.body.appendChild(bar);
 
+    // The consent bar is a full-width fixed element pinned to the bottom, so
+    // it overlaps the bottom-left Help button. Publish its measured height and
+    // flag the body so the CSS can lift the Help button clear of it while the
+    // banner is visible. The height is re-measured on resize because the bar
+    // wraps (and grows taller) on narrow viewports.
+    showBanner(bar);
+
     // Trigger the slide-in on the next frame.
     requestAnimationFrame(function () {
       bar.classList.add("show");
     });
+  }
+
+  var consentBarEl = null;
+
+  function measureConsentBar() {
+    if (!consentBarEl) return;
+    document.documentElement.style.setProperty(
+      "--consent-bar-h",
+      consentBarEl.offsetHeight + "px"
+    );
+  }
+
+  function showBanner(bar) {
+    consentBarEl = bar;
+    measureConsentBar();
+    document.body.classList.add("consent-visible");
+    window.addEventListener("resize", measureConsentBar);
+  }
+
+  function hideBanner() {
+    document.body.classList.remove("consent-visible");
+    window.removeEventListener("resize", measureConsentBar);
+    consentBarEl = null;
   }
 
   function init() {
