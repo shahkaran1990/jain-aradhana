@@ -41334,6 +41334,3049 @@ Tu jaanale pahachaana le, sansaara kiseekaa ghara nahee,
 Kaba nikale ……`,
     },
   },
+  {
+    id: "rishabh-dhun-lagi-re-7-yatra",
+    type: "stavan",
+    title: {
+      gu: "ઋષભ ધુન લાગી રે (7 યાત્રા)",
+      hi: "ऋषभ धुन लागी रे (7 यात्रा)",
+      sa: "",
+      en: "Rishabh Dhun Lagi Re (7 Yatra)",
+    },
+    text: {
+      gu: `ગિરિરાજ કે શિખર પર મેરે આદિનાથ બિરાજે
+હે મંદ મંદ મુસ્કાતે મરુદેવી નંદન છાજે
+છટ્ઠ કરને હમ આએ શક્તિ હમ તુઝસે પાએં
+જો હાથ પકડ કે મેરા યાત્રા પૂરી કરાએં ...
+ઋષભ ધુન લાગી રે લગની લાગી પ્રભુ સે ...
+
+શ્રદ્ધા ભાવોં સે ભરકર તેરી યાત્રા કરને આએં
+તેરે ચરણોં મેં રખને અપના હૃદય હમ લાએં
+સ્વીકાર કરો પ્રભુવર હમકો હમ શરણ મેં તેરી આએં
+માફી દો સારે પાપોં કી તેરે આગે શીષ ઝુકાએં
+મુઝે ભવ સે પાર લગાઓ ... મેરી યાત્રા સફલ બનાઓ ...
+ભક્તોં કી વિનતી સુન લો મેરે સ્વામી ...
+ઋષભ ધુન લાગી
+હમ દૌડે દૌડે આતે હર બાર તેરે ઘર દાદા
+ક્યોં મેરે ઘર નહીં આતેં યહ બાત બતા દે દાદા
+ક્યા ખામી હૈ મુઝ મેં ઇતના તો બતા દે દાદા
+આએગા આજ હૃદય મેં મેરે કર દે ઇતના વાદા
+ઇંતજાર મુઝે હૈ તેરા ... તૂં હી હૈ સાથી મેરા ...
+મણિ-નેમિ કા ના કોઈ તુમસા સાની ...
+ઋષભ ધુન લાગી
+ઋષભ ધુન લાગી
+સાત યાત્રા કરને કી ભાવના હૈ મુઝમેં જાગી ...`,
+      hi: `गिरिराज के शिखर पर मेरे आदिनाथ बिराजे
+हे मंद मंद मुस्काते मरुदेवी नंदन छाजे
+छट्ठ करने हम आए शक्ति हम तुझसे पाएं
+जो हाथ पकड़ के मेरा यात्रा पूरी कराएं ...
+ऋषभ धुन लागी रे लगनी लागी प्रभु से ...
+
+श्रद्धा भावों से भरकर तेरी यात्रा करने आएं
+तेरे चरणों में रखने अपना हृदय हम लाएं
+स्वीकार करो प्रभुवर हमको हम शरण में तेरी आएं
+माफी दो सारे पापों की तेरे आगे शीष झुकाएं
+मुझे भव से पार लगाओ ... मेरी यात्रा सफल बनाओ ...
+भक्तों की विनती सुन लो मेरे स्वामी ...
+ऋषभ धुन लागी
+हम दौड़े दौड़े आते हर बार तेरे घर दादा
+क्यों मेरे घर नहीं आतें यह बात बता दे दादा
+क्या खामी है मुझ में इतना तो बता दे दादा
+आएगा आज हृदय में मेरे कर दे इतना वादा
+इंतजार मुझे है तेरा ... तूं ही है साथी मेरा ...
+मणि-नेमि का ना कोई तुमसा सानी ...
+ऋषभ धुन लागी
+ऋषभ धुन लागी
+सात यात्रा करने की भावना है मुझमें जागी ...`,
+      sa: "",
+      en: `Giriraaja ke shikhara para mere aadinaatha biraaje
+He manda manda muskaate marudevee nandana chhaaje
+Chhattha karane hama aae shakti hama tujhase paaen
+Jo haatha pakada ke meraa yaatraa pooree karaaen ...
+Rishabha dhuna laagee re laganee laagee prabhu se ...
+
+Shraddhaa bhaavon se bharakara teree yaatraa karane aaen
+Tere charanon men rakhane apanaa hridaya hama laaen
+Sveekaara karo prabhuvara hamako hama sharana men teree aaen
+Maaphee do saare paapon kee tere aage sheesha jhukaaen
+Mujhe bhava se paara lagaao ... meree yaatraa saphala banaao ...
+Bhakton kee vinatee suna lo mere svaamee ...
+Rishabha dhuna laagee
+Hama daude daude aate hara baara tere ghara daadaa
+Kyon mere ghara naheen aaten yaha baata bataa de daadaa
+Kyaa khaamee hai mujha men itanaa to bataa de daadaa
+Aaegaa aaja hridaya men mere kara de itanaa vaadaa
+Intajaara mujhe hai teraa ... toon hee hai saathee meraa ...
+Mani-nemi kaa naa koee tumasaa saanee ...
+Rishabha dhuna laagee
+Rishabha dhuna laagee
+Saata yaatraa karane kee bhaavanaa hai mujhamen jaagee ...`,
+    },
+  },
+  {
+    id: "nem-rajul-panthe",
+    type: "stavan",
+    title: {
+      gu: "નેમ રાજુલ પંથે",
+      hi: "नेम राजुल पंथे",
+      sa: "",
+      en: "Nem Rajul Panthe",
+    },
+    text: {
+      gu: `સંયમ, મુઝ આત્મા નો નાદ સાચો સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+સંયમ,મુઝ હૃદય નો ધબકાર સાચો સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+
+નેમ રાજુલ પંથે, ચાલ્યા રે સંગે,
+કરમિ ભંતે ઉચરશુ સંગે।।
+નેમ રાજુલ પંથે, વિચરશુ સંગે,
+અધ્યાત્મ રંગે રંગશુ સંગે।।
+
+નેમ રાજુલ પંથે, ચાલ્યા રે સંગે,
+કરમિ ભંતે ઉચરશુ સંગે।।
+નેમ રાજુલ પંથે, વિચરશુ સંગે,
+અથ્યાત્મ રંગે રંગશુ સંગે।।
+
+પ્રવજ્યા નુ પાનેતાર પહેરી, ક્યારે બનુ અણગાર
+રાજોહરણ ને મુહપત્તી નો, ક્યારે સજુ શણગાર
+સંયમ, મુઝ આત્મા ની પ્યાસ એક જ સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+સંયમ, મુઝ શ્વાસ ને ઉચ્છવાસ મા છે સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+
+દેવ ગુરુ ના આશીષ ફલિયા, પામ્યા વિરતિ ને।।
+શુદ્ધ સંયમ ની સાધના સાધી, વરશૂ મુક્તિ ને।।
+સંયમ, મુક્તિપૂરી પહોચાડનારૂ સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+સંયમ, મુઝ મુક્તિ નો આધાર સાચો સંયમ,
+શીઘ્રાતિ શીઘ્ર મુઝને મલજો રે।।
+
+નેમ રાજુલ પંથે, ચાલ્યા રે સંગે,
+કરમિ ભંતે ઉચરશુ સંગે।।
+નેમ રાજુલ પંથે, વિચરશુ સંગે,
+અથ્યાત્મ રંગે રંગશુ સંગે।।`,
+      hi: `संयम, मुझ आत्मा नो नाद साचो संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+संयम,मुझ हृदय नो धबकार साचो संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+
+नेम राजुल पंथे, चाल्या रे संगे,
+करमि भंते उचरशु संगे।।
+नेम राजुल पंथे, विचरशु संगे,
+अध्यात्म रंगे रंगशु संगे।।
+
+नेम राजुल पंथे, चाल्या रे संगे,
+करमि भंते उचरशु संगे।।
+नेम राजुल पंथे, विचरशु संगे,
+अथ्यात्म रंगे रंगशु संगे।।
+
+प्रवज्या नु पानेतार पहेरी, क्यारे बनु अणगार
+राजोहरण ने मुहपत्ती नो, क्यारे सजु शणगार
+संयम, मुझ आत्मा नी प्यास एक ज संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+संयम, मुझ श्वास ने उच्छवास मा छे संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+
+देव गुरु ना आशीष फलिया, पाम्या विरति ने।।
+शुद्ध संयम नी साधना साधी, वरशू मुक्ति ने।।
+संयम, मुक्तिपूरी पहोचाडनारू संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+संयम, मुझ मुक्ति नो आधार साचो संयम,
+शीघ्राति शीघ्र मुझने मलजो रे।।
+
+नेम राजुल पंथे, चाल्या रे संगे,
+करमि भंते उचरशु संगे।।
+नेम राजुल पंथे, विचरशु संगे,
+अथ्यात्म रंगे रंगशु संगे।।`,
+      sa: "",
+      en: `Sanyama, mujha aatmaa no naada saacho sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+Sanyama,mujha hridaya no dhabakaara saacho sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+
+Nema raajula panthe, chaalyaa re sange,
+Karami bhante ucharashu sange | |
+Nema raajula panthe, vicharashu sange,
+Adhyaatma range rangashu sange | |
+
+Nema raajula panthe, chaalyaa re sange,
+Karami bhante ucharashu sange | |
+Nema raajula panthe, vicharashu sange,
+Athyaatma range rangashu sange | |
+
+Pravajyaa nu paanetaara paheree, kyaare banu anagaara
+Raajoharana ne muhapattee no, kyaare saju shanagaara
+Sanyama, mujha aatmaa nee pyaasa eka ja sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+Sanyama, mujha shvaasa ne uchchhavaasa maa chhe sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+
+Deva guru naa aasheesha phaliyaa, paamyaa virati ne | |
+Shuddha sanyama nee saadhanaa saadhee, varashoo mukti ne | |
+Sanyama, muktipooree pahochaadanaaroo sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+Sanyama, mujha mukti no aadhaara saacho sanyama,
+Sheeghraati sheeghra mujhane malajo re | |
+
+Nema raajula panthe, chaalyaa re sange,
+Karami bhante ucharashu sange | |
+Nema raajula panthe, vicharashu sange,
+Athyaatma range rangashu sange | |`,
+    },
+  },
+  {
+    id: "mare-banvu-nem-girnari-nem",
+    type: "stavan",
+    title: {
+      gu: "મારે બનવૂ નેમ ગિરનારી નેમ",
+      hi: "मारे बनवू नेम गिरनारी नेम",
+      sa: "",
+      en: "Mare Banvu Nem Girnari Nem",
+    },
+    text: {
+      gu: `નેમ નો હેમ ... હેમ નો નેમ ... નેમ નો હેમ
+નેમ નો હેમ ... હેમ નો નેમ ... નેમ નો હેમ
+
+તારા પંથે ચાલવા તરી સાથે દોડવા
+પ્રભુ આવુ તારી પાસે તારો હાથ ઝાલવા
+ઓ મારા નાથ, મારે માથ, રાખજો હાથ, દેજો સાથ,
+મારે જીવવૂ તારા જેવૂ મારે બનવુ તારા જેમ ...
+મારે બનવૂ નેમ ... ગિરનારી નેમ ...
+મારા હેમ નો નેમ ... મારે બનવૂ નેમ ..
+
+તૂ છે ભરોસોં મારો ... તૂ જ વિશ્વાસ છે,
+હૃદય ધબકાર તૂ ... તૂ જ મારો શ્વાસ છે.
+મારા રોમ-રોમ માં તારી સુવાસ છે,
+મારી રગ-રગ માં પ્રભુ એક તારો વાસ છે ...
+ઓ મારા નાથ, મારે માથ, રાખજો હાથ, દેજો સાથ,
+આ જીવન તારા નામે બસ તૂ જ છે મારો પ્રેમ ..
+મારે બનવૂ નેમ ... ગિરનારી નેમ ...
+મારા હેમ નો નેમ ... મારે બનવૂ નેમ ..
+
+જય જય જય શ્રી નેમિનાથ
+જય જય જય ગરવો ગિરનાર
+શૌરીપુરી સહસવાન નાથ
+રોમે રોમે ગિરનાર
+નેમ તૂ છે પ્રાણ આધાર
+મન મોહી લિધુ ગિરનાર
+રાજીમતી તણા ભરથાર
+મારા દિલ માં ધડકે ગિરનાર
+
+તૂ જ છે દુનિયા મારી ... તૂ જ મારી આસ છે,
+તૂ જ છે જીવન મારૂ ... તૂ જ મારી પ્યાસ છે.
+તારી આજ્ઞા શિરધારી મુક્તિની અભિલાષ છે
+બને હેમ આતમ મારો દાસની અરદાસ છે ...
+ઓ મારા નાથ, મારે માથ, રાખજો હાથ, દેજો સાથ
+તારા રસ માં તારા ધ્યાને હવે બનવૂ છે સાચો હેમ ...
+મારે બનવૂ નેમ ... ગિરનારી નેમ ...
+મારા હેમ નો નેમ ... મારે બનવૂ નેમ ..`,
+      hi: `नेम नो हेम ... हेम नो नेम ... नेम नो हेम
+नेम नो हेम ... हेम नो नेम ... नेम नो हेम
+
+तारा पंथे चालवा तरी साथे दोडवा
+प्रभु आवु तारी पासे तारो हाथ झालवा
+ओ मारा नाथ, मारे माथ, राखजो हाथ, देजो साथ,
+मारे जीववू तारा जेवू मारे बनवु तारा जेम ...
+मारे बनवू नेम ... गिरनारी नेम ...
+मारा हेम नो नेम ... मारे बनवू नेम ..
+
+तू छे भरोसों मारो ... तू ज विश्वास छे,
+हृदय धबकार तू ... तू ज मारो श्वास छे.
+मारा रोम-रोम मां तारी सुवास छे,
+मारी रग-रग मां प्रभु एक तारो वास छे ...
+ओ मारा नाथ, मारे माथ, राखजो हाथ, देजो साथ,
+आ जीवन तारा नामे बस तू ज छे मारो प्रेम ..
+मारे बनवू नेम ... गिरनारी नेम ...
+मारा हेम नो नेम ... मारे बनवू नेम ..
+
+जय जय जय श्री नेमिनाथ
+जय जय जय गरवो गिरनार
+शौरीपुरी सहसवान नाथ
+रोमे रोमे गिरनार
+नेम तू छे प्राण आधार
+मन मोही लिधु गिरनार
+राजीमती तणा भरथार
+मारा दिल मां धड़के गिरनार
+
+तू ज छे दुनिया मारी ... तू ज मारी आस छे,
+तू ज छे जीवन मारू ... तू ज मारी प्यास छे.
+तारी आज्ञा शिरधारी मुक्तिनी अभिलाष छे
+बने हेम आतम मारो दासनी अरदास छे ...
+ओ मारा नाथ, मारे माथ, राखजो हाथ, देजो साथ
+तारा रस मां तारा ध्याने हवे बनवू छे साचो हेम ...
+मारे बनवू नेम ... गिरनारी नेम ...
+मारा हेम नो नेम ... मारे बनवू नेम ..`,
+      sa: "",
+      en: `Nema no hema ... hema no nema ... nema no hema
+Nema no hema ... hema no nema ... nema no hema
+
+Taaraa panthe chaalavaa taree saathe dodavaa
+Prabhu aavu taaree paase taaro haatha jhaalavaa
+O maaraa naatha, maare maatha, raakhajo haatha, dejo saatha,
+Maare jeevavoo taaraa jevoo maare banavu taaraa jema ...
+Maare banavoo nema ... giranaaree nema ...
+Maaraa hema no nema ... maare banavoo nema ..
+
+Too chhe bharoson maaro ... too ja vishvaasa chhe,
+Hridaya dhabakaara too ... too ja maaro shvaasa chhe.
+Maaraa roma-roma maan taaree suvaasa chhe,
+Maaree raga-raga maan prabhu eka taaro vaasa chhe ...
+O maaraa naatha, maare maatha, raakhajo haatha, dejo saatha,
+Aa jeevana taaraa naame basa too ja chhe maaro prema ..
+Maare banavoo nema ... giranaaree nema ...
+Maaraa hema no nema ... maare banavoo nema ..
+
+Jaya jaya jaya shree neminaatha
+Jaya jaya jaya garavo giranaara
+Shaureepuree sahasavaana naatha
+Rome rome giranaara
+Nema too chhe praana aadhaara
+Mana mohee lidhu giranaara
+Raajeematee tanaa bharathaara
+Maaraa dila maan dhadake giranaara
+
+Too ja chhe duniyaa maaree ... too ja maaree aasa chhe,
+Too ja chhe jeevana maaroo ... too ja maaree pyaasa chhe.
+Taaree aagyaa shiradhaaree muktinee abhilaasha chhe
+Bane hema aatama maaro daasanee aradaasa chhe ...
+O maaraa naatha, maare maatha, raakhajo haatha, dejo saatha
+Taaraa rasa maan taaraa dhyaane have banavoo chhe saacho hema ...
+Maare banavoo nema ... giranaaree nema ...
+Maaraa hema no nema ... maare banavoo nema ..`,
+    },
+  },
+  {
+    id: "ghanisht-premi-thashu-ame-arisht-nemi",
+    type: "stavan",
+    title: {
+      gu: "ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ નેમિના",
+      hi: "घनिष्ट प्रेमी थाशुं अमे अरिष्ट नेमिना",
+      sa: "",
+      en: "Ghanisht Premi Thashu Ame Arisht Nemi Na",
+    },
+    text: {
+      gu: `નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ
+અમે નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ (2)
+
+પંચમ શ્યામલ શ્રમણ પદે હું નેમના રંગે રંગાઊં છું
+પ્રભુ નેમ મારો જ છે હું નેમનો થવા જાઊં છું ...
+રંગાશું ભીંજાશું નેમિ ગિરનારી માં ...
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+
+મારા તો જીવન રથ નો તુ એકજ સારથી બનનારો
+ભલે તુજને દુનિયા કહે તુ રથ પાછો ફેરવનારો ...
+પણ મારો છે વિશ્વાસ અટુટ કે તુ જીવન રથ મારો ...
+કે તુ જીવન રથ મારો ... છે તુ જીવન રથ મારો ...
+મુક્તિના તોરણિયેથી કદી પડવા દેશો ના
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+
+નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ
+અમે નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ
+
+સમુદ્રવિજય કુલચંદ્રમાં તુ જગ માં ચિરંજીવો
+તારા દિવ્ય-ભવ્ય દરબારે બંશું નાનો દીવો ...
+આર્હંત્ય તારું ફુંકજે મુજ સાધનાના શંખમાં
+કહી દે મને વિજયભવ તુ આંતર જંગમાં
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+ઘનિષ્ટ પ્રેમી થાશું અમે અરિષ્ટ-નેમિના
+
+નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ
+અમે નેમિ પ્રેમી ... ઓ મારા અરિષ્ટ નેમિ`,
+      hi: `नेमि प्रेमी ... ओ मारा अरिष्ट नेमि
+अमे नेमि प्रेमी ... ओ मारा अरिष्ट नेमि (2)
+
+पंचम श्यामल श्रमण पदे हुं नेमना रंगे रंगाऊं छुं
+प्रभु नेम मारो ज छे हुं नेमनो थवा जाऊं छुं ...
+रंगाशुं भींजाशुं नेमि गिरनारी मां ...
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+
+मारा तो जीवन रथ नो तु एकज सारथी बननारो
+भले तुजने दुनिया कहे तु रथ पाछो फेरवनारो ...
+पण मारो छे विश्वास अटुट के तु जीवन रथ मारो ...
+के तु जीवन रथ मारो ... छे तु जीवन रथ मारो ...
+मुक्तिना तोरणियेथी कदी पडवा देशो ना
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+
+नेमि प्रेमी ... ओ मारा अरिष्ट नेमि
+अमे नेमि प्रेमी ... ओ मारा अरिष्ट नेमि
+
+समुद्रविजय कुलचंद्रमां तु जग मां चिरंजीवो
+तारा दिव्य-भव्य दरबारे बंशुं नानो दीवो ...
+आर्हंत्य तारुं फुंकजे मुज साधनाना शंखमां
+कही दे मने विजयभव तु आंतर जंगमां
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+घनिष्ट प्रेमी थाशुं अमे अरिष्ट-नेमिना
+
+नेमि प्रेमी ... ओ मारा अरिष्ट नेमि
+अमे नेमि प्रेमी ... ओ मारा अरिष्ट नेमि`,
+      sa: "",
+      en: `Nemi premee ... o maaraa arishta nemi
+Ame nemi premee ... o maaraa arishta nemi (2)
+
+Panchama shyaamala shramana pade hun nemanaa range rangaaoon chhun
+Prabhu nema maaro ja chhe hun nemano thavaa jaaoon chhun ...
+Rangaashun bheenjaashun nemi giranaaree maan ...
+Ghanishta premee thaashun ame arishta-neminaa
+Ghanishta premee thaashun ame arishta-neminaa
+
+Maaraa to jeevana ratha no tu ekaja saarathee bananaaro
+Bhale tujane duniyaa kahe tu ratha paachho pheravanaaro ...
+Pana maaro chhe vishvaasa atuta ke tu jeevana ratha maaro ...
+Ke tu jeevana ratha maaro ... chhe tu jeevana ratha maaro ...
+Muktinaa toraniyethee kadee padavaa desho naa
+Ghanishta premee thaashun ame arishta-neminaa
+Ghanishta premee thaashun ame arishta-neminaa
+
+Nemi premee ... o maaraa arishta nemi
+Ame nemi premee ... o maaraa arishta nemi
+
+Samudravijaya kulachandramaan tu jaga maan chiranjeevo
+Taaraa divya-bhavya darabaare banshun naano deevo ...
+Aarhantya taarun phunkaje muja saadhanaanaa shankhamaan
+Kahee de mane vijayabhava tu aantara jangamaan
+Ghanishta premee thaashun ame arishta-neminaa
+Ghanishta premee thaashun ame arishta-neminaa
+
+Nemi premee ... o maaraa arishta nemi
+Ame nemi premee ... o maaraa arishta nemi`,
+    },
+  },
+  {
+    id: "girnari-na-nem",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારી ના નેમ (ધોમ ધખતાં તાપમાં)",
+      hi: "गिरनारी ना नेम (धोम धखतां तापमां)",
+      sa: "",
+      en: "Girnari Na Nem (Dhom Dhaktan Tapma)",
+    },
+    text: {
+      gu: `ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+પ્રેમ દીધો તમે આઠ ભવોમાં રાજીમતી થઈ રાગી,
+આસૂં દીધા અંતે તોય એ તો થયા વીતરાગી ...
+આસૂં દીધા અંતે તોય એ તો થયા વીતરાગી ...
+પ્રેમ ને આસૂં બેય રમતમાં તમે જિતાયા છો,
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+પગલે - પગલે નામ તમારું લઈને હું તો ચાલું,
+શ્વાસે - શ્વાસે સ્મરણ તમારું લાગે વ્હાલું - વ્હાલું ...
+શ્વાસે - શ્વાસે સ્મરણ તમારું લાગે વ્હાલું - વ્હાલું ...
+કહેશું કેવી રીતે સ્વામી? તમે પરાયા છો,
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+રૂપ તમારું કસ્તૂરીને કાજળનો સરવાળો,
+તોય સૂરજ નું તેજ વહાવી સૃષ્ટિને અજવાળો ...
+તોય સૂરજ નું તેજ વહાવી સૃષ્ટિને અજવાળો ...
+ગુણ - કીર્તિ ના નાથ બનીને તમે ગવાયા છો,
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ગુણોની જાહોજલાલી જોઈ તમારી પાસે,
+આજથી મારી આખી દુનિયા નામ તમારે લખાશે ...
+આજથી મારી આખી દુનિયા નામે તમારા લખાશે ...
+મોક્ષ નગરના મહારાજા થઈ તમે છવાયા છો,
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+
+ધોમ ધખતાં તાપમાં તમે શીતળ છાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...
+રાજીમતી ના નેમ તમે હૈયે સમાયા છો ...
+ગિરનારી ના નેમ તમે હૈયે સમાયા છો ...`,
+      hi: `धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+प्रेम दीधो तमे आठ भवोमां राजीमती थई रागी,
+आसूं दीधा अंते तोय ए तो थया वीतरागी ...
+आसूं दीधा अंते तोय ए तो थया वीतरागी ...
+प्रेम ने आसूं बेय रमतमां तमे जिताया छो,
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+पगले - पगले नाम तमारुं लईने हुं तो चालुं,
+श्वासे - श्वासे स्मरण तमारुं लागे व्हालुं - व्हालुं ...
+श्वासे - श्वासे स्मरण तमारुं लागे व्हालुं - व्हालुं ...
+कहेशुं केवी रीते स्वामी? तमे पराया छो,
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+रूप तमारुं कस्तूरीने काजळनो सरवाळो,
+तोय सूरज नुं तेज वहावी सृष्टिने अजवाळो ...
+तोय सूरज नुं तेज वहावी सृष्टिने अजवाळो ...
+गुण - कीर्ति ना नाथ बनीने तमे गवाया छो,
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+गुणोनी जाहोजलाली जोई तमारी पासे,
+आजथी मारी आखी दुनिया नाम तमारे लखाशे ...
+आजथी मारी आखी दुनिया नामे तमारा लखाशे ...
+मोक्ष नगरना महाराजा थई तमे छवाया छो,
+गिरनारी ना नेम तमे हैये समाया छो ...
+
+धोम धखतां तापमां तमे शीतळ छाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...
+राजीमती ना नेम तमे हैये समाया छो ...
+गिरनारी ना नेम तमे हैये समाया छो ...`,
+      sa: "",
+      en: `Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Prema deedho tame aatha bhavomaan raajeematee thaee raagee,
+Aasoon deedhaa ante toya e to thayaa veetaraagee ...
+Aasoon deedhaa ante toya e to thayaa veetaraagee ...
+Prema ne aasoon beya ramatamaan tame jitaayaa chho,
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Pagale - pagale naama tamaarun laeene hun to chaalun,
+Shvaase - shvaase smarana tamaarun laage vhaalun - vhaalun ...
+Shvaase - shvaase smarana tamaarun laage vhaalun - vhaalun ...
+Kaheshun kevee reete svaamee? tame paraayaa chho,
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Roopa tamaarun kastooreene kaajalano saravaalo,
+Toya sooraja nun teja vahaavee srishtine ajavaalo ...
+Toya sooraja nun teja vahaavee srishtine ajavaalo ...
+Guna - keerti naa naatha baneene tame gavaayaa chho,
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Gunonee jaahojalaalee joee tamaaree paase,
+Aajathee maaree aakhee duniyaa naama tamaare lakhaashe ...
+Aajathee maaree aakhee duniyaa naame tamaaraa lakhaashe ...
+Moksha nagaranaa mahaaraajaa thaee tame chhavaayaa chho,
+Giranaaree naa nema tame haiye samaayaa chho ...
+
+Dhoma dhakhataan taapamaan tame sheetala chhaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...
+Raajeematee naa nema tame haiye samaayaa chho ...
+Giranaaree naa nema tame haiye samaayaa chho ...`,
+    },
+  },
+  {
+    id: "girnare-chali-gayo",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારે ચલી ગયો",
+      hi: "गिरनारे चली गयो",
+      sa: "",
+      en: "Girnare Chali Gayo",
+    },
+    text: {
+      gu: `રોએ ચે ચાચૂ કહનારા
+તર્સ્યા તારા પ્રેમ વહલના
+રાગ સાઘડૂ જોઈ
+ગિરનારે ચલી ગયો
+રાગ સાઘડૂ જોઈ
+ગિરનારે ચલી ગયો
+
+ગિરનાર આ ઝૂમી રહયો
+તારા ત્યાગે ડોલી રહયો
+નેમ હેમ પંથે
+હિત આત્મ નો સાધી ગયો
+નેમ હેમ પંથે
+હિત આત્મ નો સાધી ગયો
+
+કલ્યાણ મિત્રોં તારા
+સચ્ચને સલામ કરતા
+ચે હાય વેદના પન
+હોંઠોં મુસ્કાન ભરતા
+આશીષ આપે ચે સૌ જીને
+નમન તારા ત્યાગને તપને
+બ્રહ્મચારી તૂ ગિરનારી
+મિલે મુક્તિ જલ્દી તુઝને
+
+શાસન નો તૂ સેનાની
+કરે રૈવતનિ રખવાલી
+ગર્વ સંઘ ને સમાજ
+આપે તુઝને શુભ્હત પદવી
+
+શાસન નો તૂ સિતારો
+સૌના હાયનો ધડકરો
+સાઘડૂ છોડિને તૂ
+ગિરનારે ચલી ગયો
+છોડી મૌજ મસ્તી
+ગિરનારે ચલી ગયો
+નેમ હેમ પંથે
+ગિરનારે ચલી ગયો`,
+      hi: `रोए चे चाचू कहनारा
+तर्स्या तारा प्रेम वहलना
+राग साघडू जोई
+गिरनारे चली गयो
+राग साघडू जोई
+गिरनारे चली गयो
+
+गिरनार आ झूमी रहयो
+तारा त्यागे डोली रहयो
+नेम हेम पंथे
+हित आत्म नो साधी गयो
+नेम हेम पंथे
+हित आत्म नो साधी गयो
+
+कल्याण मित्रों तारा
+सच्चने सलाम करता
+चे हाय वेदना पन
+होंठों मुस्कान भरता
+आशीष आपे चे सौ जीने
+नमन तारा त्यागने तपने
+ब्रह्मचारी तू गिरनारी
+मिले मुक्ति जल्दी तुझने
+
+शासन नो तू सेनानी
+करे रैवतनि रखवाली
+गर्व संघ ने समाज
+आपे तुझने शुभ्हत पदवी
+
+शासन नो तू सितारो
+सौना हायनो धड़करो
+साघडू छोड़िने तू
+गिरनारे चली गयो
+छोड़ी मौज मस्ती
+गिरनारे चली गयो
+नेम हेम पंथे
+गिरनारे चली गयो`,
+      sa: "",
+      en: `Roe che chaachoo kahanaaraa
+Tarsyaa taaraa prema vahalanaa
+Raaga saaghadoo joee
+Giranaare chalee gayo
+Raaga saaghadoo joee
+Giranaare chalee gayo
+
+Giranaara aa jhoomee rahayo
+Taaraa tyaage dolee rahayo
+Nema hema panthe
+Hita aatma no saadhee gayo
+Nema hema panthe
+Hita aatma no saadhee gayo
+
+Kalyaana mitron taaraa
+Sachchane salaama karataa
+Che haaya vedanaa pana
+Honthon muskaana bharataa
+Aasheesha aape che sau jeene
+Namana taaraa tyaagane tapane
+Brahmachaaree too giranaaree
+Mile mukti jaldee tujhane
+
+Shaasana no too senaanee
+Kare raivatani rakhavaalee
+Garva sangha ne samaaja
+Aape tujhane shubhhata padavee
+
+Shaasana no too sitaaro
+Saunaa haayano dhadakaro
+Saaghadoo chhodine too
+Giranaare chalee gayo
+Chhodee mauja mastee
+Giranaare chalee gayo
+Nema hema panthe
+Giranaare chalee gayo`,
+    },
+  },
+  {
+    id: "nem-rajul-ne-moksh-malyo",
+    type: "stavan",
+    title: {
+      gu: "નેમ રાજુલ ને મોક્ષ મલ્યો",
+      hi: "नेम राजुल ने मोक्ष मल्यो",
+      sa: "",
+      en: "Nem Rajul Ne Moksh Malyo",
+    },
+    text: {
+      gu: `એતો રાજુલ નાથ, એતો જગનો રે નાથ
+રાજુલ રાણી ના કેવા સાચા ભરતાર,
+એતો રાજુલ નાથ, એતો જગનો રે નાથ
+એતો સૌના રે દિલડા નો સાચો નેમનાથ,
+એ પ્રેમ પણ કેવો ફલ્યો- ૨
+નેમ રાજુલ ને મોક્ષ મલ્યો, ગિરનારે,
+નેમ રાજુલ ને મોક્ષ મલ્યો
+
+સજીધજી ને બેઠી રાજુલા,
+ધેલી થઈ છે નેમ ને મળવા -૨
+ગોખેથી દેખે નેમજી ને શ્યામડા,
+પરણશું હવે નેમજી પ્યારા,
+ભોલા નેમી ને ધેલી રાજુલ,
+ચાહે છે પરણવા .... પરણવા
+નેમ રાજુલ ને મોક્ષ મલ્યો, ગિરનારે,
+નેમ રાજુલ ને મોક્ષ મલ્યો
+
+પશુઆ પુકાર સુણી, નેમ જાયે પાછા,
+રાજુલ રાણી રોવા લાગ્યા -૨
+ગિરનારી ઘાટે શોધે રાજુલા,
+મળશે ક્યારે હવે નેમજી પાછા,
+ગિરનારી નેમી પ્રભુ થયા ને,
+આપે રાજુલ ને કેવલ કમલા,
+નેમ રાજુલ ને મોક્ષ મલ્યો, ગિરનારે,
+નેમ રાજુલ ને મોક્ષ મલ્યો
+
+આઠ ભવ પ્રીત હવે થઈ છે પૂરી,
+નવમે ભવે મુક્તિ વરી-૨
+નેમ રાજુલ ની પ્રીત છે પૂરી,
+જગમાં એ તો છે સૌથી શુરી,
+સંસારને ત્યજી સંયમને ગ્રહી,
+બન્યા કેવલી દંપતી ... દંપતીનેમ
+રાજુલ ને મોક્ષ મલ્યો, ગિરનારે,
+નેમ રાજુલ ને મોક્ષ મલ્યો,
+
+એતો રાજુલ નાથ, એતો જગનો રે નાથ
+રાજુલ રાણી ના કેવા સાચા ભરતાર,
+એતો રાજુલ નાથ, એતો જગનો રે નાથ
+એતો સૌના રે દિલડા નો સાચો નેમનાથ,
+એ પ્રેમ પણ કેવો ફલ્યો - ૨
+નેમ રાજુલ ને મોક્ષ મલ્યો, ગિરનારે,
+નેમ રાજુલ ને મોક્ષ મલ્યો`,
+      hi: `एतो राजुल नाथ, एतो जगनो रे नाथ
+राजुल राणी ना केवा साचा भरतार,
+एतो राजुल नाथ, एतो जगनो रे नाथ
+एतो सौना रे दिलडा नो साचो नेमनाथ,
+ए प्रेम पण केवो फल्यो- २
+नेम राजुल ने मोक्ष मल्यो, गिरनारे,
+नेम राजुल ने मोक्ष मल्यो
+
+सजीधजी ने बेठी राजुला,
+धेली थई छे नेम ने मळवा -२
+गोखेथी देखे नेमजी ने श्यामडा,
+परणशुं हवे नेमजी प्यारा,
+भोला नेमी ने धेली राजुल,
+चाहे छे परणवा .... परणवा
+नेम राजुल ने मोक्ष मल्यो, गिरनारे,
+नेम राजुल ने मोक्ष मल्यो
+
+पशुआ पुकार सुणी, नेम जाये पाछा,
+राजुल राणी रोवा लाग्या -२
+गिरनारी घाटे शोधे राजुला,
+मळशे क्यारे हवे नेमजी पाछा,
+गिरनारी नेमी प्रभु थया ने,
+आपे राजुल ने केवल कमला,
+नेम राजुल ने मोक्ष मल्यो, गिरनारे,
+नेम राजुल ने मोक्ष मल्यो
+
+आठ भव प्रीत हवे थई छे पूरी,
+नवमे भवे मुक्ति वरी-२
+नेम राजुल नी प्रीत छे पूरी,
+जगमां ए तो छे सौथी शुरी,
+संसारने त्यजी संयमने ग्रही,
+बन्या केवली दंपती ... दंपतीनेम
+राजुल ने मोक्ष मल्यो, गिरनारे,
+नेम राजुल ने मोक्ष मल्यो,
+
+एतो राजुल नाथ, एतो जगनो रे नाथ
+राजुल राणी ना केवा साचा भरतार,
+एतो राजुल नाथ, एतो जगनो रे नाथ
+एतो सौना रे दिलडा नो साचो नेमनाथ,
+ए प्रेम पण केवो फल्यो - २
+नेम राजुल ने मोक्ष मल्यो, गिरनारे,
+नेम राजुल ने मोक्ष मल्यो`,
+      sa: "",
+      en: `Eto raajula naatha, eto jagano re naatha
+Raajula raanee naa kevaa saachaa bharataara,
+Eto raajula naatha, eto jagano re naatha
+Eto saunaa re diladaa no saacho nemanaatha,
+E prema pana kevo phalyo- 2
+Nema raajula ne moksha malyo, giranaare,
+Nema raajula ne moksha malyo
+
+Sajeedhajee ne bethee raajulaa,
+Dhelee thaee chhe nema ne malavaa -2
+Gokhethee dekhe nemajee ne shyaamadaa,
+Paranashun have nemajee pyaaraa,
+Bholaa nemee ne dhelee raajula,
+Chaahe chhe paranavaa .... paranavaa
+Nema raajula ne moksha malyo, giranaare,
+Nema raajula ne moksha malyo
+
+Pashuaa pukaara sunee, nema jaaye paachhaa,
+Raajula raanee rovaa laagyaa -2
+Giranaaree ghaate shodhe raajulaa,
+Malashe kyaare have nemajee paachhaa,
+Giranaaree nemee prabhu thayaa ne,
+Aape raajula ne kevala kamalaa,
+Nema raajula ne moksha malyo, giranaare,
+Nema raajula ne moksha malyo
+
+Aatha bhava preeta have thaee chhe pooree,
+Navame bhave mukti varee-2
+Nema raajula nee preeta chhe pooree,
+Jagamaan e to chhe sauthee shuree,
+Sansaarane tyajee sanyamane grahee,
+Banyaa kevalee danpatee ... danpateenema
+Raajula ne moksha malyo, giranaare,
+Nema raajula ne moksha malyo,
+
+Eto raajula naatha, eto jagano re naatha
+Raajula raanee naa kevaa saachaa bharataara,
+Eto raajula naatha, eto jagano re naatha
+Eto saunaa re diladaa no saacho nemanaatha,
+E prema pana kevo phalyo - 2
+Nema raajula ne moksha malyo, giranaare,
+Nema raajula ne moksha malyo`,
+    },
+  },
+  {
+    id: "nem-charan",
+    type: "stavan",
+    title: {
+      gu: "નેમ ચરણ",
+      hi: "नेम चरण",
+      sa: "",
+      en: "Nem Charan",
+    },
+    text: {
+      gu: `ગિરનાર નાગર, નેમ પ્રભુવર, તરસે મારો મન
+આઓ તારી યાદ સતાવેં નેમ પ્રભુવર
+બરસે નૈના, તરસે નૈના કબ દોગે દર્શન
+જૂનાગઢ ની ધરતી કહતી મિલ જાઓ ભગવન
+
+મેરો મન ગિરનાર મૈં હૈં અટક્યો
+મેરો મન નેમ ચરણન મૈં અટક્યો
+બનકે જોગન શૌરીપુરા મૈં
+મિલ જાઓ પ્રભુ મુઝકો
+મેરો મન ગિરનાર મૈં હૈં અટક્યો
+મેરો મન નેમ ચરણન મૈં અટક્યો
+
+નેમ પ્રભુ મારો, આપ હી જીવન
+તારી કૃપા થી, મલ્યુ જિનશાસન
+આપ હી મારા તારણહારા
+મિલ જાઓ પ્રભુ મુઝકો
+મેરો મન ગિરનાર મૈં હૈં અટક્યો
+મેરો મન નેમ ચરણન મૈં અટક્યો
+
+નેમ પ્રભુ, યાદ મેં તારી
+બની મેં તો રાજુલ પ્યારી
+અબ આઓ મેરે પ્રાણ પિયારે
+મિલ જાઓ પ્રભુ મુઝકો
+મેરો મન ગિરનાર મૈં હૈં અટક્યો
+મેરો મન નેમ ચરણન મૈં અટક્યો
+બનકે જોગન શૌરીપુરા મૈં
+મિલ જાઓ પ્રભુ મુઝકો
+મેરો મન ગિરનાર મૈં હૈં અટક્યો
+મેરો મન નેમ ચરણન મૈં અટક્યો
+ગિરનાર નાગર, નેમ પ્રભુવર, તરસે મારો મન
+આઓ તારી યાદ સતાવેં નેમ પ્રભુવર
+બરસે નૈના, તરસે નૈના કબ દોગે દર્શન
+જૂનાગઢ ની ધરતી કહતી મિલ જાઓ ભગવન`,
+      hi: `गिरनार नागर, नेम प्रभुवर, तरसे मारो मन
+आओ तारी याद सतावें नेम प्रभुवर
+बरसे नैना, तरसे नैना कब दोगे दर्शन
+जूनागढ़ नी धरती कहती मिल जाओ भगवन
+
+मेरो मन गिरनार मैं हैं अटक्यो
+मेरो मन नेम चरणन मैं अटक्यो
+बनके जोगन शौरीपुरा मैं
+मिल जाओ प्रभु मुझको
+मेरो मन गिरनार मैं हैं अटक्यो
+मेरो मन नेम चरणन मैं अटक्यो
+
+नेम प्रभु मारो, आप ही जीवन
+तारी कृपा थी, मल्यु जिनशासन
+आप ही मारा तारणहारा
+मिल जाओ प्रभु मुझको
+मेरो मन गिरनार मैं हैं अटक्यो
+मेरो मन नेम चरणन मैं अटक्यो
+
+नेम प्रभु, याद में तारी
+बनी में तो राजुल प्यारी
+अब आओ मेरे प्राण पियारे
+मिल जाओ प्रभु मुझको
+मेरो मन गिरनार मैं हैं अटक्यो
+मेरो मन नेम चरणन मैं अटक्यो
+बनके जोगन शौरीपुरा मैं
+मिल जाओ प्रभु मुझको
+मेरो मन गिरनार मैं हैं अटक्यो
+मेरो मन नेम चरणन मैं अटक्यो
+गिरनार नागर, नेम प्रभुवर, तरसे मारो मन
+आओ तारी याद सतावें नेम प्रभुवर
+बरसे नैना, तरसे नैना कब दोगे दर्शन
+जूनागढ़ नी धरती कहती मिल जाओ भगवन`,
+      sa: "",
+      en: `Giranaara naagara, nema prabhuvara, tarase maaro mana
+Aao taaree yaada sataaven nema prabhuvara
+Barase nainaa, tarase nainaa kaba doge darshana
+Joonaagadha nee dharatee kahatee mila jaao bhagavana
+
+Mero mana giranaara main hain atakyo
+Mero mana nema charanana main atakyo
+Banake jogana shaureepuraa main
+Mila jaao prabhu mujhako
+Mero mana giranaara main hain atakyo
+Mero mana nema charanana main atakyo
+
+Nema prabhu maaro, aapa hee jeevana
+Taaree kripaa thee, malyu jinashaasana
+Aapa hee maaraa taaranahaaraa
+Mila jaao prabhu mujhako
+Mero mana giranaara main hain atakyo
+Mero mana nema charanana main atakyo
+
+Nema prabhu, yaada men taaree
+Banee men to raajula pyaaree
+Aba aao mere praana piyaare
+Mila jaao prabhu mujhako
+Mero mana giranaara main hain atakyo
+Mero mana nema charanana main atakyo
+Banake jogana shaureepuraa main
+Mila jaao prabhu mujhako
+Mero mana giranaara main hain atakyo
+Mero mana nema charanana main atakyo
+Giranaara naagara, nema prabhuvara, tarase maaro mana
+Aao taaree yaada sataaven nema prabhuvara
+Barase nainaa, tarase nainaa kaba doge darshana
+Joonaagadha nee dharatee kahatee mila jaao bhagavana`,
+    },
+  },
+  {
+    id: "girnari-tu-nemi",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારી તૂ નેમિ (ગિરનારી તૂ વીતરાગી તૂ)",
+      hi: "गिरनारी तू नेमि (गिरनारी तू वीतरागी तू)",
+      sa: "",
+      en: "Girnari Tu Nemi (Girnari Tu Vitragi Tu)",
+    },
+    text: {
+      gu: `ગિરનારી તૂ, વીતરાગી તૂ,
+મુઝ મુખ તનુ છે સ્મિત તૂ,
+ગિરનારી તૂ, વીતરાગી તૂ,
+ઉપકારી તૂ નેમિ, છે મારી પ્રીત તૂ ... (2)
+
+છે આદિ તૂ, છે અનંત તૂ, (2)
+મુઝ મન તનો છે વસંત તૂ,
+હૂં રાજુલ ને મારો નેમ તૂ,
+મુઝ જીવન નો છે પ્રેમ તૂ,
+હૂં દૂર તુજ થી શૂં રહૂં, (2)
+મુઝ હૃદય નો દબાકર તૂ
+ગિરનારી તૂ, વીતરાગી તૂ,
+ઉપકારી તૂ નેમિ, છે મારી પ્રીત તૂ ... (2)
+
+ગિરનાર છે મારો મોક્ષ તૂ, (2)
+નિર્વાણ નો છે પ્રદેશ તૂ,
+વૈરાગ્ય નો ઉપદેશ તૂ,
+છે સ્વર્ગ સમ શિખર તૂ
+વર્ણન ગિરિ નુ શૂં કરૂં, (2)
+શાશ્વત સુશીલ સોહાય તૂ
+છે શ્વાસ તૂ, વિશ્વાસ તૂ
+નેમ - હેમ તનો છે વાસ, હે ગિરનાર તૂ ...
+ગિરનારી તૂ, વીતરાગી તૂ,
+ઉપકારી તૂ નેમિ, છે મારી પ્રીત તૂ ... (2)
+
+મુઝ આત્મ નો ઉદ્ધાર તૂ, (2)
+ભાવપાર મુઝને કરાવ તૂ,
+રૈવતક ગિરિ એ બોલાવ તૂ,
+હવે હાથ મારો જાળ તૂ
+સંસાર મા છે શૂં ભાલુ, (2)
+સંયમ ના ભાવ જાગાડ તૂ
+ગિરનારી તૂ, વીતરાગી તૂ,
+ઉપકારી તૂ નેમિ, છે મારી પ્રીત તૂ ... (2)
+
+વીતરાગી તૂ, તારો રાગી હૂં,
+તારા પ્રેમ નો અધિકારી હૂં,
+વીતરાગી તૂ, તારો રાગી હૂં
+પણ પાપી છૂં નેમિ, હે શિવગામી તૂ ...`,
+      hi: `गिरनारी तू, वीतरागी तू,
+मुझ मुख तनु छे स्मित तू,
+गिरनारी तू, वीतरागी तू,
+उपकारी तू नेमि, छे मारी प्रीत तू ... (2)
+
+छे आदि तू, छे अनंत तू, (2)
+मुझ मन तनो छे वसंत तू,
+हूं राजुल ने मारो नेम तू,
+मुझ जीवन नो छे प्रेम तू,
+हूं दूर तुज थी शूं रहूं, (2)
+मुझ हृदय नो दबाकर तू
+गिरनारी तू, वीतरागी तू,
+उपकारी तू नेमि, छे मारी प्रीत तू ... (2)
+
+गिरनार छे मारो मोक्ष तू, (2)
+निर्वाण नो छे प्रदेश तू,
+वैराग्य नो उपदेश तू,
+छे स्वर्ग सम शिखर तू
+वर्णन गिरि नु शूं करूं, (2)
+शाश्वत सुशील सोहाय तू
+छे श्वास तू, विश्वास तू
+नेम - हेम तनो छे वास, हे गिरनार तू ...
+गिरनारी तू, वीतरागी तू,
+उपकारी तू नेमि, छे मारी प्रीत तू ... (2)
+
+मुझ आत्म नो उद्धार तू, (2)
+भावपार मुझने कराव तू,
+रैवतक गिरि ए बोलाव तू,
+हवे हाथ मारो जाळ तू
+संसार मा छे शूं भालु, (2)
+संयम ना भाव जागाड तू
+गिरनारी तू, वीतरागी तू,
+उपकारी तू नेमि, छे मारी प्रीत तू ... (2)
+
+वीतरागी तू, तारो रागी हूं,
+तारा प्रेम नो अधिकारी हूं,
+वीतरागी तू, तारो रागी हूं
+पण पापी छूं नेमि, हे शिवगामी तू ...`,
+      sa: "",
+      en: `Giranaaree too, veetaraagee too,
+Mujha mukha tanu chhe smita too,
+Giranaaree too, veetaraagee too,
+Upakaaree too nemi, chhe maaree preeta too ... (2)
+
+Chhe aadi too, chhe ananta too, (2)
+Mujha mana tano chhe vasanta too,
+Hoon raajula ne maaro nema too,
+Mujha jeevana no chhe prema too,
+Hoon doora tuja thee shoon rahoon, (2)
+Mujha hridaya no dabaakara too
+Giranaaree too, veetaraagee too,
+Upakaaree too nemi, chhe maaree preeta too ... (2)
+
+Giranaara chhe maaro moksha too, (2)
+Nirvaana no chhe pradesha too,
+Vairaagya no upadesha too,
+Chhe svarga sama shikhara too
+Varnana giri nu shoon karoon, (2)
+Shaashvata susheela sohaaya too
+Chhe shvaasa too, vishvaasa too
+Nema - hema tano chhe vaasa, he giranaara too ...
+Giranaaree too, veetaraagee too,
+Upakaaree too nemi, chhe maaree preeta too ... (2)
+
+Mujha aatma no uddhaara too, (2)
+Bhaavapaara mujhane karaava too,
+Raivataka giri e bolaava too,
+Have haatha maaro jaala too
+Sansaara maa chhe shoon bhaalu, (2)
+Sanyama naa bhaava jaagaada too
+Giranaaree too, veetaraagee too,
+Upakaaree too nemi, chhe maaree preeta too ... (2)
+
+Veetaraagee too, taaro raagee hoon,
+Taaraa prema no adhikaaree hoon,
+Veetaraagee too, taaro raagee hoon
+Pana paapee chhoon nemi, he shivagaamee too ...`,
+    },
+  },
+  {
+    id: "nem-mari-aankho-ma-che",
+    type: "stavan",
+    title: {
+      gu: "નેમ મારી આંખો મા છે",
+      hi: "नेम मारी आंखो मा छे",
+      sa: "",
+      en: "Nem Mari Aankho Ma Che",
+    },
+    text: {
+      gu: `નેમ મારી આંખોમાં છે,
+નેમ મારા હૈયામાં છે,
+નેમ મારી યાદોમાં છે,
+નેમ મારા સપનામાં છે,
+હૃદયની કલી-કલી પુકારી રહી,
+નેમ નેમ નેમ ... (૧)
+
+જોઈ તારી મૂરત કામનગારી,
+મન લોભાવનારી ચિત્ત ચોરનારી,
+પાંપણની પાળે હૈયાની દાળે,
+ઝુલી રહયાં મારા નેમ ઉપકારી,
+હાથોની રેખામાં છે, નેમ મારા ભાગ્યમાં
+છે, હૃદયની કલી-કલી પુકારી રહી,
+નેમ નેમ નેમ ... (૨)
+
+ગઢ ગિરનારી જાઉં તુજ પર વારી,
+ભુલ્યો દુનિયા સારી એક તુજથી યારી
+નૈનોના કિનારે મહેલોના મિનારે,
+ખીલી રહ્યા છે મારા નેમ ઉપકારી,
+નેમ મારા પુણ્યમાં છે, નેમ મારા શૂન્યમાં
+છે,હૃદયની કલી-કલી પુકારી રહી,
+નેમ નેમ નેમ ... (૩)
+
+અંગમાં, સંગમાં, છે નેમ નેમ નેમ ...
+રંગમાં, તરંગમાં, છે નેમ નેમ નેમ ....
+ધ્યાનમાં, જ્ઞાનમાં, છે નેમ નેમ નેમ ....
+ગાનમાં, તાનમાં, છે નેમ નેમ નેમ ....
+યોગમાં, ઉપયોગમાં, છે નેમ નેમ નેમ ....
+સંયોગમાં, વિયોગમાં, છે નેમ નેમ નેમ .... (૪)`,
+      hi: `नेम मारी आंखोमां छे,
+नेम मारा हैयामां छे,
+नेम मारी यादोमां छे,
+नेम मारा सपनामां छे,
+हृदयनी कली-कली पुकारी रही,
+नेम नेम नेम ... (१)
+
+जोई तारी मूरत कामनगारी,
+मन लोभावनारी चित्त चोरनारी,
+पांपणनी पाळे हैयानी दाळे,
+झुली रहयां मारा नेम उपकारी,
+हाथोनी रेखामां छे, नेम मारा भाग्यमां
+छे, हृदयनी कली-कली पुकारी रही,
+नेम नेम नेम ... (२)
+
+गढ गिरनारी जाउं तुज पर वारी,
+भुल्यो दुनिया सारी एक तुजथी यारी
+नैनोना किनारे महेलोना मिनारे,
+खीली रह्या छे मारा नेम उपकारी,
+नेम मारा पुण्यमां छे, नेम मारा शून्यमां
+छे,हृदयनी कली-कली पुकारी रही,
+नेम नेम नेम ... (३)
+
+अंगमां, संगमां, छे नेम नेम नेम ...
+रंगमां, तरंगमां, छे नेम नेम नेम ....
+ध्यानमां, ज्ञानमां, छे नेम नेम नेम ....
+गानमां, तानमां, छे नेम नेम नेम ....
+योगमां, उपयोगमां, छे नेम नेम नेम ....
+संयोगमां, वियोगमां, छे नेम नेम नेम .... (४)`,
+      sa: "",
+      en: `Nema maaree aankhomaan chhe,
+Nema maaraa haiyaamaan chhe,
+Nema maaree yaadomaan chhe,
+Nema maaraa sapanaamaan chhe,
+Hridayanee kalee-kalee pukaaree rahee,
+Nema nema nema ... (1)
+
+Joee taaree moorata kaamanagaaree,
+Mana lobhaavanaaree chitta choranaaree,
+Paanpananee paale haiyaanee daale,
+Jhulee rahayaan maaraa nema upakaaree,
+Haathonee rekhaamaan chhe, nema maaraa bhaagyamaan
+Chhe, hridayanee kalee-kalee pukaaree rahee,
+Nema nema nema ... (2)
+
+Gadha giranaaree jaaun tuja para vaaree,
+Bhulyo duniyaa saaree eka tujathee yaaree
+Nainonaa kinaare mahelonaa minaare,
+Kheelee rahyaa chhe maaraa nema upakaaree,
+Nema maaraa punyamaan chhe, nema maaraa shoonyamaan
+Chhe,hridayanee kalee-kalee pukaaree rahee,
+Nema nema nema ... (3)
+
+Angamaan, sangamaan, chhe nema nema nema ...
+Rangamaan, tarangamaan, chhe nema nema nema ....
+Dhyaanamaan, gyaanamaan, chhe nema nema nema ....
+Gaanamaan, taanamaan, chhe nema nema nema ....
+Yogamaan, upayogamaan, chhe nema nema nema ....
+Sanyogamaan, viyogamaan, chhe nema nema nema .... (4)`,
+    },
+  },
+  {
+    id: "shri-naminath-aarti-girnar",
+    type: "aarti",
+    title: {
+      gu: "શ્રી નમિનાથ આરતી",
+      hi: "श्री नमिनाथ आरती",
+      sa: "",
+      en: "Shri Naminath Aarti",
+    },
+    text: {
+      gu: `શ્રી નમિનાથ જિનેશ્વર પ્રભુ કી, આરતિ હૈ સુખકારી।
+ભવ દુઃખ હરતી, સબ સુખ ભરતી, સદા સૌખ્ય કરતારી।।
+પ્રભૂ કી જય ............. ।। ટેક।।
+
+મથિલા નગરી ધન્ય હો ગઈ, તુમ સમ સૂર્ય કો પાકે,
+માત વપ્પિલા, વિજય પિતા, જન્મોત્સવ ખૂબ મનાતે,
+ઇન્દ્ર જન્મકલ્યાણ મનાને, સ્વર્ગ સે આતે ભારી।
+ભવ દુખ .......... ।। પ્રભૂ ........... ।।૧।।
+
+શુભ આષાઢ વદી દશમી, સબ પરિગ્રહ પ્રભુ ને ત્યાગા,
+નમઃ સિદ્ધ કહ દીક્ષા ધારી, આત્મ ધ્યાન મન લાગા,
+ઐસે પૂર્ણ પરિગ્રહ ત્યાગી, મુનિ પદ ધોક હમારી।
+ભવ દુખ .......... ।। પ્રભૂ ........... ।।૨।।
+
+મગશિર સુદિ ગ્યારસ પ્રભુ કે, કેવલરવિ પ્રગટ હુઆ થા,
+સમવસરણ શુભ રચા સભી, દિવ્યધ્વનિ પાન કિયા થા,
+હૃદય સરોજ ખિલે ભક્તોં કે, મિલી જ્ઞાન ઉજિયારી।
+ભવ દુખ .......... ।। પ્રભૂ ........... ।।૩।।
+
+તિથિ વૈશાખ વદી ચૌદસ, નિર્વાણ પધારે સ્વામી,
+શ્રી સમ્મેદશિખર ગિરિ હૈ, નિર્વાણભૂમિ કલ્યાણી,
+ઉસ પાવન પવિત્ર તીરથ કા, કણ-કણ હૈ સુખકારી।
+ભવ દુખ .......... ।। પ્રભૂ ........... ।।૪।।
+
+હે નમિનાથ જિનેશ્વર તવ, ચરણામ્બુજ મેં જો આતે,
+શ્રદ્ધાયુત હોં ધ્યાન ધરેં, મનવાંછિત પદવી પાતે,
+આશ એક "ચંદનામતી" શિવપદ પાઊઁ અવિકારી।
+ભવ દુખ .......... ।। પ્રભુ ........... ।।૫।।`,
+      hi: `श्री नमिनाथ जिनेश्वर प्रभु की, आरति है सुखकारी।
+भव दुःख हरती, सब सुख भरती, सदा सौख्य करतारी।।
+प्रभू की जय ............. ।। टेक।।
+
+मथिला नगरी धन्य हो गई, तुम सम सूर्य को पाके,
+मात वप्पिला, विजय पिता, जन्मोत्सव खूब मनाते,
+इन्द्र जन्मकल्याण मनाने, स्वर्ग से आते भारी।
+भव दुख .......... ।। प्रभू ........... ।।१।।
+
+शुभ आषाढ़ वदी दशमी, सब परिग्रह प्रभु ने त्यागा,
+नमः सिद्ध कह दीक्षा धारी, आत्म ध्यान मन लागा,
+ऐसे पूर्ण परिग्रह त्यागी, मुनि पद धोक हमारी।
+भव दुख .......... ।। प्रभू ........... ।।२।।
+
+मगशिर सुदि ग्यारस प्रभु के, केवलरवि प्रगट हुआ था,
+समवसरण शुभ रचा सभी, दिव्यध्वनि पान किया था,
+हृदय सरोज खिले भक्तों के, मिली ज्ञान उजियारी।
+भव दुख .......... ।। प्रभू ........... ।।३।।
+
+तिथि वैशाख वदी चौदस, निर्वाण पधारे स्वामी,
+श्री सम्मेदशिखर गिरि है, निर्वाणभूमि कल्याणी,
+उस पावन पवित्र तीरथ का, कण-कण है सुखकारी।
+भव दुख .......... ।। प्रभू ........... ।।४।।
+
+हे नमिनाथ जिनेश्वर तव, चरणाम्बुज में जो आते,
+श्रद्धायुत हों ध्यान धरें, मनवांछित पदवी पाते,
+आश एक "चंदनामती" शिवपद पाऊँ अविकारी।
+भव दुख .......... ।। प्रभु ........... ।।५।।`,
+      sa: "",
+      en: `Shree naminaatha jineshvara prabhu kee, aarati hai sukhakaaree |
+Bhava duhkha haratee, saba sukha bharatee, sadaa saukhya karataaree | |
+Prabhoo kee jaya ............. | | teka | |
+
+Mathilaa nagaree dhanya ho gaee, tuma sama soorya ko paake,
+Maata vappilaa, vijaya pitaa, janmotsava khooba manaate,
+Indra janmakalyaana manaane, svarga se aate bhaaree |
+Bhava dukha .......... | | prabhoo ........... | | 1 | |
+
+Shubha aashaadha vadee dashamee, saba parigraha prabhu ne tyaagaa,
+Namah siddha kaha deekshaa dhaaree, aatma dhyaana mana laagaa,
+Aise poorna parigraha tyaagee, muni pada dhoka hamaaree |
+Bhava dukha .......... | | prabhoo ........... | | 2 | |
+
+Magashira sudi gyaarasa prabhu ke, kevalaravi pragata huaa thaa,
+Samavasarana shubha rachaa sabhee, divyadhvani paana kiyaa thaa,
+Hridaya saroja khile bhakton ke, milee gyaana ujiyaaree |
+Bhava dukha .......... | | prabhoo ........... | | 3 | |
+
+Tithi vaishaakha vadee chaudasa, nirvaana padhaare svaamee,
+Shree sammedashikhara giri hai, nirvaanabhoomi kalyaanee,
+Usa paavana pavitra teeratha kaa, kana-kana hai sukhakaaree |
+Bhava dukha .......... | | prabhoo ........... | | 4 | |
+
+He naminaatha jineshvara tava, charanaambuja men jo aate,
+Shraddhaayuta hon dhyaana dharen, manavaanchhita padavee paate,
+Aasha eka "chandanaamatee" shivapada paaoon avikaaree |
+Bhava dukha .......... | | prabhu ........... | | 5 | |`,
+    },
+  },
+  {
+    id: "man-mohi-lidhu-girnare",
+    type: "stavan",
+    title: {
+      gu: "મન મોહી લીધું ગિરનારે",
+      hi: "मन मोही लीधुं गिरनारे",
+      sa: "",
+      en: "Man Mohi Lidhu Girnare",
+    },
+    text: {
+      gu: `યાદો મા ને સ્વપ્નો મા બસ તું છે દિન રાત,
+જ્યારે થી ભેટ્યો તુજને બસ એક તારી વાત,
+તું દોષ સંતાપ ટાળે,
+તું ભવસાગર થી ઉગારે,
+તું કર્મ કોડો ના બળે,
+તું પાપી ને પણ તારે,
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…
+
+જ્યાં સાધના ની બહાર છે, સિદ્ધિ નો જે દાતાર છે,
+સૌંદર્ય એવું અપાર છે, દેવલોક ને પડકાર છે,
+સાહસસાવાને સંયમ અંગીકાર,
+કૈવલ્ય ને વર્યા નેમકુમાર,
+સમવસરણ જિનબિંબ જુહાર,
+રહ નેમી ને તર્યા રાજુલ નાર
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…
+
+અરિષ્ટ ને અંજન સમા ગિરનાર ના શણગાર છે,
+જેના પ્રભાવે કૈંક નો તૂટ્યો અનંત સંસાર છે,
+બિરાજે પ્યારા નેમકુમાર ,
+છે ધન્ય ધન્ય તે કર્ણવિહાર,
+વર્ષાવતા તે બ્રહ્મ જળધાર,
+સવી જીવ ના તે તારણહાર
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…
+
+મન મોહી લીધું ગિરનારે,
+ચિત્ત ચોરી લીધું નેમકુમારે…`,
+      hi: `यादो मा ने स्वप्नो मा बस तुं छे दिन रात,
+ज्यारे थी भेट्यो तुजे बस एक तारी वात,
+तुं दोष संताप टाळे, तुं भवसागर थी उगारे,
+तुं कर्म कोडो ना बळे, तुं पापी ने पण तारे,
+मन मोही लीधुं गिरनारे, चित्त चोरी लीधुं नेमकुमारे
+
+ज्यां साधना नी बहार छे, सिद्धि नो जे दातार छे,
+सौंदर्य एवुं अपार छे, देवलोक ने पडकार छे,
+साहससावाने संयम अंगीकार, कैवल्य ने वर्या नेमकुमार,
+समवसरण जिनबिंब जुहार, रह नेमी ने तर्या राजुल नार
+मन मोही लीधुं गिरनारे, चित्त चोरी लीधुं नेमकुमारे
+
+अरिष्ट ने अंजन समा गिरनार ना शणगार छे,
+जेना प्रभावे कैंक नो तूट्यो अनंत संसार छे,
+बिराजे प्यारा नेमकुमार, छे धन्य धन्य ते कर्णविहार,
+वर्षावता ते ब्रह्म जळधार, सवी जीव ना ते तारणहार
+मन मोही लीधुं गिरनारे, चित्त चोरी लीधुं नेमकुमारे`,
+      sa: "",
+      en: `Yaado maa ne svapno maa basa tun chhe dina raata,
+Jyaare thee bhetyo tuje basa eka taaree vaata,
+Tun dosha santaapa taale, tun bhavasaagara thee ugaare,
+Tun karma kodo naa bale, tun paapee ne pana taare,
+Mana mohee leedhun giranaare, chitta choree leedhun nemakumaare
+
+Jyaan saadhanaa nee bahaara chhe, siddhi no je daataara chhe,
+Saundarya evun apaara chhe, devaloka ne padakaara chhe,
+Saahasasaavaane sanyama angeekaara, kaivalya ne varyaa nemakumaara,
+Samavasarana jinabinba juhaara, raha nemee ne taryaa raajula naara
+Mana mohee leedhun giranaare, chitta choree leedhun nemakumaare
+
+Arishta ne anjana samaa giranaara naa shanagaara chhe,
+Jenaa prabhaave kainka no tootyo ananta sansaara chhe,
+Biraaje pyaaraa nemakumaara, chhe dhanya dhanya te karnavihaara,
+Varshaavataa te brahma jaladhaara, savee jeeva naa te taaranahaara
+Mana mohee leedhun giranaare, chitta choree leedhun nemakumaare`,
+    },
+  },
+  {
+    id: "girnare-shri-prabhu-nem-che",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારે શ્રી પ્રભુ નેમ છે",
+      hi: "गिरनारे श्री प्रभु नेम छे",
+      sa: "",
+      en: "Girnare Shri Prabhu Nem Che",
+    },
+    text: {
+      gu: `અગ્યાર હજાર બસો કીલો સુવ્ણથી કરી રક્ષા
+એ પેથડશાની તીર્થરક્ષા એની કેવી અજબની કક્ષા
+શક્તિ ફોરવી તીર્થભક્તિની આપી સુંદર શિક્ષા
+હોય સંયમના મનોરથ તો નેમિ આપે દીક્ષા ...
+
+હૃદય મારૂ શ્વાસ ભરે છે, ધબકાર તો શ્રી નેમ છે
+સાધના પંથે સત્ત્વનો, રણકાર તો શ્રી નેમ છે
+કોઇના હોય જો સાથે મારી, સથવાર તો શ્રી નેમ છે
+સર્વત્ર છે સર્વસ્વ છે, દેવાધિદેવ નેમ છે ...
+
+ગિરનારે શ્રી પ્રભુ નેમ છે, એ નેમનો મને પ્રેમ છે
+મન માં રમતું દિલ ને ગમતું, નામ વ્હાલું નેમ છે ... (2)
+
+તું ગિરનારે બિરાજે છે, હું સંસારે ખોવાયો છું
+ક્યારે મળશે મુજને તુ, એ પ્રશ્ને પરોવાયો છું
+ચોર્યાશી હજાર વર્ષોથી, નેમ તું અહી સોહે છે
+લાખ ચોરાશી યોનિ ભટક્યો, આજે તુ મને મોહે છે
+તારી મારા ઉપર જાણે, આજે અનહદ રહેમ છે
+તારા ચરણે સોપ્યું જીવન, મારો સ્વામિ નેમ છે ...
+
+કાજલ ના અંજન જેવા, સુંદર નેમિ નિરંજન છે
+ઝાકળ જેવું ભીનું-ભીનું, નેમિ તારૂ સ્પર્શન છે
+કામણગારૂ રૂપ તમારૂ, જોયું મૈ પલવાર
+લાગે તુજને પામી આજે, ધન્ય થયો અવતાર
+અઘરૂ અઘરૂ જીવતર મારૂ, કરતાં સહેલું નેમ છે
+મુમુક્ષુઓને મુનિજીવન, આપે વહેલુ નેમ છે ..`,
+      hi: `अग्यार हजार बसो कीलो सुव्णथी करी रक्षा
+ए पेथडशानी तीर्थरक्षा एनी केवी अजबनी कक्षा
+शक्ति फोरवी तीर्थभक्तिनी आपी सुंदर शिक्षा
+होय संयमना मनोरथ तो नेमि आपे दीक्षा ...
+
+हृदय मारू श्वास भरे छे, धबकार तो श्री नेम छे
+साधना पंथे सत्त्वनो, रणकार तो श्री नेम छे
+कोइना होय जो साथे मारी, सथवार तो श्री नेम छे
+सर्वत्र छे सर्वस्व छे, देवाधिदेव नेम छे ...
+
+गिरनारे श्री प्रभु नेम छे, ए नेमनो मने प्रेम छे
+मन मां रमतुं दिल ने गमतुं, नाम व्हालुं नेम छे ... (2)
+
+तुं गिरनारे बिराजे छे, हुं संसारे खोवायो छुं
+क्यारे मळशे मुजने तु, ए प्रश्ने परोवायो छुं
+चोर्याशी हजार वर्षोथी, नेम तुं अही सोहे छे
+लाख चोराशी योनि भटक्यो, आजे तु मने मोहे छे
+तारी मारा उपर जाणे, आजे अनहद रहेम छे
+तारा चरणे सोप्युं जीवन, मारो स्वामि नेम छे ...
+
+काजल ना अंजन जेवा, सुंदर नेमि निरंजन छे
+झाकळ जेवुं भीनुं-भीनुं, नेमि तारू स्पर्शन छे
+कामणगारू रूप तमारू, जोयुं मै पलवार
+लागे तुजने पामी आजे, धन्य थयो अवतार
+अघरू अघरू जीवतर मारू, करतां सहेलुं नेम छे
+मुमुक्षुओने मुनिजीवन, आपे वहेलु नेम छे ..`,
+      sa: "",
+      en: `Agyaara hajaara baso keelo suvnathee karee rakshaa
+E pethadashaanee teertharakshaa enee kevee ajabanee kakshaa
+Shakti phoravee teerthabhaktinee aapee sundara shikshaa
+Hoya sanyamanaa manoratha to nemi aape deekshaa ...
+
+Hridaya maaroo shvaasa bhare chhe, dhabakaara to shree nema chhe
+Saadhanaa panthe sattvano, ranakaara to shree nema chhe
+Koinaa hoya jo saathe maaree, sathavaara to shree nema chhe
+Sarvatra chhe sarvasva chhe, devaadhideva nema chhe ...
+
+Giranaare shree prabhu nema chhe, e nemano mane prema chhe
+Mana maan ramatun dila ne gamatun, naama vhaalun nema chhe ... (2)
+
+Tun giranaare biraaje chhe, hun sansaare khovaayo chhun
+Kyaare malashe mujane tu, e prashne parovaayo chhun
+Choryaashee hajaara varshothee, nema tun ahee sohe chhe
+Laakha choraashee yoni bhatakyo, aaje tu mane mohe chhe
+Taaree maaraa upara jaane, aaje anahada rahema chhe
+Taaraa charane sopyun jeevana, maaro svaami nema chhe ...
+
+Kaajala naa anjana jevaa, sundara nemi niranjana chhe
+Jhaakala jevun bheenun-bheenun, nemi taaroo sparshana chhe
+Kaamanagaaroo roopa tamaaroo, joyun mai palavaara
+Laage tujane paamee aaje, dhanya thayo avataara
+Agharoo agharoo jeevatara maaroo, karataan sahelun nema chhe
+Mumukshuone munijeevana, aape vahelu nema chhe ..`,
+    },
+  },
+  {
+    id: "rajul-ne-nem-mali-jashe",
+    type: "stavan",
+    title: {
+      gu: "રાજુલ ને નેમ મલી જાશે",
+      hi: "राजुल ने नेम मली जाशे",
+      sa: "",
+      en: "Rajul Ne Nem Mali Jashe",
+    },
+    text: {
+      gu: `કે આજ સંયમ નુ પાનેતર પેહરી ને જો (૨ વાર)
+રાજુલ ને નેમ મલી જાશે તૂ જો
+રાજુલ ને નેમ મલી જાશે
+પ્રીત ને નવી રીત મલી જાશે તૂ જો (૨ વાર)
+રાજુલ ને નેમ મલી જાશે
+
+સંસાર ત્યજી નેમજી ચાલ્યા ધરી પાવન કેડી,
+રાજુલ રાણી પાછળ ચાલ્યા નેમ રાહે દોડી
+
+સંસાર ત્યજી નેમજી ચાલ્યા ધરી પાવન કેડી,
+રાજુલ રાણી પાછળ ચાલ્યા નેમ રાહે દોડી
+
+નેમ તારી પ્રીત મા , શાન ભાન ભૂલી જાઊ, લાગયુ રે અમને મને તારૂં ઘેલુ
+નેમ તારા મારગડે હુ પણ દોડી આવુ , નથી રે તુઝ વિણ રહેવુ
+કે આજ સંયમ નો સાજ નેમ દેશે તૂ જો
+મને સિદ્ધશિલા એ લઇ જાશે તૂ જો
+રાજુલ ને નેમ મલી જાશે તૂ જો
+રાજુલ ને નેમ મલી જાશે
+
+સંસાર ત્યજી નેમજી ચાલ્યા ધરી પાવન કેડી
+રાજુલ રાણી પાછલ ચાલ્યા નેમ રાહે દોડી
+
+સંસાર ત્યજી નેમજી ચાલ્યા ધરી પાવન કેડી
+રાજુલ રાણી પાછળ ચાલ્યા નેમ રાહે દોડી
+
+ગિરનારે શુભ ઘડી આવી ઉભી દ્વારે આજ, ગિરી નુ અંગ થાયે ઘેલુ
+મળશે રજોહરણ નેમજી ને હાથે આજ, મનડુ નાચે આજ મારૂ
+કે આજ નવભવની પ્રીત પૂરી થાશે તૂ જો
+કે સાચી પ્રીત કરી જાણી મારા નેમે તૂ જો
+રાજુલ ને નેમ મલી જાશે તૂ જો
+રાજુલ ને નેમ મલી જાશે
+
+પ્રીત ને નવી રીત મલી જાશે તૂ જો
+કે આજ નવભવની પ્રીત પૂરી થાશે તૂ જો
+રાજુલ ને નેમ મલી જાશે (૨ વાર)
+
+સંસાર ત્યજી નેમજી ચાલ્યા ધરી પાવન કેડી,
+રાજુલ રાણી પાછળ ચાલ્યા નેમ રાહે દોડી`,
+      hi: `के आज संयम नु पानेतर पेहरी ने जो (२ बार)
+राजुल ने नेम मली जाशे तू जो
+राजुल ने नेम मली जाशे
+प्रीत ने नवी रीत मली जाशे तू जो (२ बार)
+राजुल ने नेम मली जाशे
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी,
+राजुल राणी पाछळ चाल्या नेम राहे दौड़ी
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी,
+राजुल राणी पाछळ चाल्या नेम राहे दौड़ी
+
+नेम तारी प्रीत मा , शान भान भूली जाऊ, लागयु रे अमने मने तारूं घेलु
+नेम तारा मारगड़े हु पण दौड़ी आवु , नथी रे तुझ विण रहेवु
+के आज संयम नो साज नेम देशे तू जो
+मने सिद्धशिला ए लइ जाशे तू जो
+राजुल ने नेम मली जाशे तू जो
+राजुल ने नेम मली जाशे
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी
+राजुल राणी पाछल चाल्या नेम राहे दौड़ी
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी
+राजुल राणी पाछळ चाल्या नेम राहे दौड़ी
+
+गिरनारे शुभ घड़ी आवी उभी द्वारे आज, गिरी नु अंग थाये घेलु
+मळशे रजोहरण नेमजी ने हाथे आज, मनडु नाचे आज मारू
+के आज नवभवनी प्रीत पूरी थाशे तू जो
+के साची प्रीत करी जाणी मारा नेमे तू जो
+राजुल ने नेम मली जाशे तू जो
+राजुल ने नेम मली जाशे
+
+प्रीत ने नवी रीत मली जाशे तू जो
+के आज नवभवनी प्रीत पूरी थाशे तू जो
+राजुल ने नेम मली जाशे (२ बार)
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी,
+राजुल राणी पाछळ चाल्या नेम राहे दौड़ी
+
+संसार त्यजी नेमजी चाल्या धरी पावन केडी,
+राजुल राणी पाछळ चाल्या नेम राहे दौड़ी
+
+ओ नेम……..`,
+      sa: "",
+      en: `Ke aaja sanyama nu paanetara peharee ne jo (2 baara)
+Raajula ne nema malee jaashe too jo
+Raajula ne nema malee jaashe
+Preeta ne navee reeta malee jaashe too jo (2 baara)
+Raajula ne nema malee jaashe
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee,
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee,
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+Nema taaree preeta maa , shaana bhaana bhoolee jaaoo, laagayu re amane mane taaroon ghelu
+Nema taaraa maaragade hu pana daudee aavu , nathee re tujha vina rahevu
+Ke aaja sanyama no saaja nema deshe too jo
+Mane siddhashilaa e lai jaashe too jo
+Raajula ne nema malee jaashe too jo
+Raajula ne nema malee jaashe
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+Giranaare shubha ghadee aavee ubhee dvaare aaja, giree nu anga thaaye ghelu
+Malashe rajoharana nemajee ne haathe aaja, manadu naache aaja maaroo
+Ke aaja navabhavanee preeta pooree thaashe too jo
+Ke saachee preeta karee jaanee maaraa neme too jo
+Raajula ne nema malee jaashe too jo
+Raajula ne nema malee jaashe
+
+Preeta ne navee reeta malee jaashe too jo
+Ke aaja navabhavanee preeta pooree thaashe too jo
+Raajula ne nema malee jaashe (2 baara)
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee,
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+Sansaara tyajee nemajee chaalyaa dharee paavana kedee,
+Raajula raanee paachhala chaalyaa nema raahe daudee
+
+O nema……..`,
+    },
+  },
+  {
+    id: "namami-nemi",
+    type: "stavan",
+    title: {
+      gu: "નમામિ નેમિ",
+      hi: "नमामि नेमि",
+      sa: "",
+      en: "Namami Nemi",
+    },
+    text: {
+      gu: `પરમ પવિત્ર પાવન પ્રીતમ પુરૂષોત્તમ રે પ્યારા, નિષ્કામ
+નિરાગસ નાથ નિરંજન નિર્વિકારી ન્યારા, બાવીસમાં
+સિતારા, ને દ્વારિકા દુલારા, ગિરનાર ના ગભારા માં
+શોભનારા જે ... બ્રમ્હ ચરનારા, સત્વ ધરનારા,
+જિવદયાપ્રેમી, નમા મિ નેમિ।
+
+રંભા જેવુ રુપ જેનુ રમ્ય રાજુલ રાણી, પણ પોકારે પંથમાં
+પશુઓ ને પ્રાણી, પ્રભુના પાપણો થી પડે પાણી,
+મુખમાં થી ઝરે વૈરાગની વાણી, હૈય્યે દયા ઉભરાણી,
+કલરવ થયા કલ્યાણી, અંતે થયા નિર્વાણી,
+માણી મુક્તી રાણીને ... બ્રમ્હ ચરનારા ...
+
+મન મહલ માં મોહ માહારાજની મસ્તી છે,
+મોહ ને મારીને મારે માણવી મુક્તી છે,
+કરવા હવે મોહઘાતી ઘોષ પડઘમના,
+
+સાધીને સાતે સૂરો સંયમ સરગમના, સંબંઘો લાગે ખારા,
+બનજો એવા સહારા, ચઢવી છે ધ્યાન ઘારા, તમારા જેવી રે ...
+બ્રમ્હ ચરનારા ...`,
+      hi: `परम पवित्र पावन प्रीतम पुरूषोत्तम रे प्यारा, निष्काम
+निरागस नाथ निरंजन निर्विकारी न्यारा, बावीसमां
+सितारा, ने द्वारिका दुलारा, गिरनार ना गभारा मां
+शोभनारा जे ... ब्रम्ह चरनारा, सत्व धरनारा,
+जिवदयाप्रेमी, नमा मि नेमि।
+
+रंभा जेवु रुप जेनु रम्य राजुल राणी, पण पोकारे पंथमां
+पशुओ ने प्राणी, प्रभुना पापणो थी पडे पाणी,
+मुखमां थी झरे वैरागनी वाणी, हैय्ये दया उभराणी,
+कलरव थया कल्याणी, अंते थया निर्वाणी,
+माणी मुक्ती राणीने ... ब्रम्ह चरनारा ...
+
+मन महल मां मोह माहाराजनी मस्ती छे,
+मोह ने मारीने मारे माणवी मुक्ती छे,
+करवा हवे मोहघाती घोष पडघमना,
+
+साधीने साते सूरो संयम सरगमना, संबंघो लागे खारा,
+बनजो एवा सहारा, चढवी छे ध्यान घारा, तमारा जेवी रे ...
+ब्रम्ह चरनारा ...`,
+      sa: "",
+      en: `Parama pavitra paavana preetama purooshottama re pyaaraa, nishkaama
+Niraagasa naatha niranjana nirvikaaree nyaaraa, baaveesamaan
+Sitaaraa, ne dvaarikaa dulaaraa, giranaara naa gabhaaraa maan
+Shobhanaaraa je ... bramha charanaaraa, satva dharanaaraa,
+Jivadayaapremee, namaa mi nemi |
+
+Ranbhaa jevu rupa jenu ramya raajula raanee, pana pokaare panthamaan
+Pashuo ne praanee, prabhunaa paapano thee pade paanee,
+Mukhamaan thee jhare vairaaganee vaanee, haiyye dayaa ubharaanee,
+Kalarava thayaa kalyaanee, ante thayaa nirvaanee,
+Maanee muktee raaneene ... bramha charanaaraa ...
+
+Mana mahala maan moha maahaaraajanee mastee chhe,
+Moha ne maareene maare maanavee muktee chhe,
+Karavaa have mohaghaatee ghosha padaghamanaa,
+
+Saadheene saate sooro sanyama saragamanaa, sanbangho laage khaaraa,
+Banajo evaa sahaaraa, chadhavee chhe dhyaana ghaaraa, tamaaraa jevee re ...
+Bramha charanaaraa ...`,
+    },
+  },
+  {
+    id: "nemi-pritam-pyara",
+    type: "stavan",
+    title: {
+      gu: "નેમી પ્રીતમ પ્યારા",
+      hi: "नेमी प्रीतम प्यारा",
+      sa: "",
+      en: "Nemi Pritam Pyara",
+    },
+    text: {
+      gu: `નેમી પ્રીતમ પ્યારા, વાહલા મારા નેમિનાથ,
+તુજ સંગ પ્રીતડી એવી લાગી મને, નવ ભવ કેરી પ્રિતલડી ..
+હવે હાથ જાલી, ભવ પાર ઉતાર, ભવ પાર ઉતારો મને,
+મારા નેમિનાથ,પ્યારા નેમિનાથ, ભવ પાર ઉતારો મને..
+
+સંયમ લેવાને કાજ,પ્રભુ જઇ વસ્યા ગઢ ગીરનાર,
+સહસાવને કરી નિવાસ, પ્રભું કેવાળ વર્યા ગઢ ગીરનાર,
+રૈવતગીરી મંડણ​ દુખડા દૂરે નિવારો,
+સ્વર્ણગીરી મંડણ​ ભવ ના ફેરા ટાળો .. પ્રભુ હાથ જાલી ...
+
+દીક્ષા કેવળ ને નિર્વાણ, ત્રણ રત્ન પામ્યા ગીરનાર,
+શાશ્વતગીરી શણગાર,તમે છો જીવન આધાર,
+શીવાદેવી નંદન ચરણ શરણ આપો,
+મુજ ભક્તિ ની વિનંતી પ્રભુજી સ્વીકારો ... પ્રભુ હાથ જાલી ...`,
+      hi: `नेमी प्रीतम प्यारा, वाहला मारा नेमिनाथ,
+तुज संग प्रीतडी एवी लागी मने, नव भव केरी प्रितलडी ..
+हवे हाथ जाली, भव पार उतार, भव पार उतारो मने,
+मारा नेमिनाथ,प्यारा नेमिनाथ, भव पार उतारो मने..
+
+संयम लेवाने काज,प्रभु जइ वस्या गढ गीरनार,
+सहसावने करी निवास, प्रभुं केवाळ वर्या गढ गीरनार,
+रैवतगीरी मंडण​ दुखडा दूरे निवारो,
+स्वर्णगीरी मंडण​ भव ना फेरा टाळो .. प्रभु हाथ जाली ...
+
+दीक्षा केवळ ने निर्वाण, त्रण रत्न पाम्या गीरनार,
+शाश्वतगीरी शणगार,तमे छो जीवन आधार,
+शीवादेवी नंदन चरण शरण आपो,
+मुज भक्ति नी विनंती प्रभुजी स्वीकारो ... प्रभु हाथ जाली ...`,
+      sa: "",
+      en: `Nemee preetama pyaaraa, vaahalaa maaraa neminaatha,
+Tuja sanga preetadee evee laagee mane, nava bhava keree pritaladee ..
+Have haatha jaalee, bhava paara utaara, bhava paara utaaro mane,
+Maaraa neminaatha,pyaaraa neminaatha, bhava paara utaaro mane..
+
+Sanyama levaane kaaja,prabhu jai vasyaa gadha geeranaara,
+Sahasaavane karee nivaasa, prabhun kevaala varyaa gadha geeranaara,
+Raivatageeree mandana​ dukhadaa doore nivaaro,
+Svarnageeree mandana​ bhava naa pheraa taalo .. prabhu haatha jaalee ...
+
+Deekshaa kevala ne nirvaana, trana ratna paamyaa geeranaara,
+Shaashvatageeree shanagaara,tame chho jeevana aadhaara,
+Sheevaadevee nandana charana sharana aapo,
+Muja bhakti nee vinantee prabhujee sveekaaro ... prabhu haatha jaalee ...`,
+    },
+  },
+  {
+    id: "jahan-nemi-ke-charan-pade",
+    type: "stavan",
+    title: {
+      gu: "જહાઁ નેમી કે ચરણ પડે",
+      hi: "जहाँ नेमी के चरण पड़े",
+      sa: "",
+      en: "Jahan Nemi Ke Charan Pade",
+    },
+    text: {
+      gu: `જહાઁ નેમી કે ચરણ પડે, ગિરનાર વો ધરતી હૈ
+વો પ્રેમ મૂર્તી રાજૂલ, ઉસ પથ પર ચલતી હૈ
+
+ઉસ કોમલ કાયા પર, હલ્દી કા રંગ ચદા
+મેહંદી ભી રુચીર રચી, ગલે મંગલ સુત્ર પડા
+પર માંગ ના ભર પાયી, યે બાત હી ખલતી હૈ ॥ જહાઁ ॥
+
+સુન પશુઓં કા ક્રુન્દન, તુમને તોડે બંધન
+જાગા વૈરાગ્ય તભી, પા લી પ્રભુ પથ પાવન
+ઉસ પરમ વૈરાગી સે, ચિર પ્રીત ઉમડતી હૈ ॥ જહાઁ ॥
+
+રાજૂલ કી આંખોં સે, ઝર ઝર ઝરતા પાની
+અન્તર મેં ઘાવ ભરે, પ્રભુ દર્શ કી દીવાની
+મન મન્દિર મેં જિસકી, તસ્વીર ઉભરતી હૈ ॥ જહાઁ ॥
+
+નેમી જિસ ઔર ગયે, વહી મેરા ઠિકાના હૈ
+જીવન કી યાત્રા કા, વો પથ અનજાના હૈ
+લખ ચરણ ચંદ્ર પ્રભુ કે, રાજૂલ કબ રૂકતી હૈ ॥ જહાઁ ॥`,
+      hi: `जहाँ नेमी के चरण पड़े, गिरनार वो धरती है
+वो प्रेम मूर्ती राजूल, उस पथ पर चलती है
+
+उस कोमल काया पर, हल्दी का रंग चदा
+मेहंदी भी रुचीर रची, गले मंगल सुत्र पड़ा
+पर मांग ना भर पायी, ये बात ही खलती है ॥ जहाँ ॥
+
+सुन पशुओं का क्रुन्दन, तुमने तोड़े बंधन
+जागा वैराग्य तभी, पा ली प्रभु पथ पावन
+उस परम वैरागी से, चिर प्रीत उमड़ती है ॥ जहाँ ॥
+
+राजूल की आंखों से, झर झर झरता पानी
+अन्तर में घाव भरे, प्रभु दर्श की दीवानी
+मन मन्दिर में जिसकी, तस्वीर उभरती है ॥ जहाँ ॥
+
+नेमी जिस और गये, वही मेरा ठिकाना है
+जीवन की यात्रा का, वो पथ अनजाना है
+लख चरण चंद्र प्रभु के, राजूल कब रूकती है ॥ जहाँ ॥`,
+      sa: "",
+      en: `Jahaan nemee ke charana pade, giranaara vo dharatee hai
+Vo prema moortee raajoola, usa patha para chalatee hai
+
+Usa komala kaayaa para, haldee kaa ranga chadaa
+Mehandee bhee rucheera rachee, gale mangala sutra padaa
+Para maanga naa bhara paayee, ye baata hee khalatee hai | | jahaan | |
+
+Suna pashuon kaa krundana, tumane tode bandhana
+Jaagaa vairaagya tabhee, paa lee prabhu patha paavana
+Usa parama vairaagee se, chira preeta umadatee hai | | jahaan | |
+
+Raajoola kee aankhon se, jhara jhara jharataa paanee
+Antara men ghaava bhare, prabhu darsha kee deevaanee
+Mana mandira men jisakee, tasveera ubharatee hai | | jahaan | |
+
+Nemee jisa aura gaye, vahee meraa thikaanaa hai
+Jeevana kee yaatraa kaa, vo patha anajaanaa hai
+Lakha charana chandra prabhu ke, raajoola kaba rookatee hai | | jahaan | |`,
+    },
+  },
+  {
+    id: "neminath-ni-abhishek-dhara",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારી નેમિનાથ દાદા (નેમિનાથ ની અભિષેક ધારા)",
+      hi: "गिरनारी नेमिनाथ दादा (नेमिनाथ नी अभिषेक धारा)",
+      sa: "",
+      en: "Neminath Ni Abhishek Dhara",
+    },
+    text: {
+      gu: `ગિરનાર પર પ્રભુ નેમ ના, અભિષેકનો પાવન સમય
+પ્રભુ નેમિનાથ જિનાલયે, વાતાવરણ શુભ ભાવમય
+તે પરમ પાવન દ્રષ્ય મારા, નેત્ર ને નિર્મલ કરો
+નેમિનાથની અભિષેક ધારા, વિશ્વનુ મંગલ કરે… (1)
+
+શ્યામલ પ્રભુના મસ્તકે, નિરખુ હુ ક્ષીરધારા ધવલ
+રોમાંચ અનુપમ અનુભવુ, ગદ-ગદ હૃદય લોચન સજલ
+પ્રત્યેક આત્મપ્રદેશે નેમિ, પ્રિતને નિશ્ચલ કરો
+નેમિનાથની અભિષેક ધારા, વિશ્વનુ મંગલ કરે… (2)
+
+અભિષેકના સુપ્રભાવથી, વિધ્નો તણો થાઓ વિલય
+સર્વત્ર આ સંસારમા, શાસન તણો થાઓ વિજય
+સુખ શાંતિ પામે જીવ સહુ, કરુણા સુવાસિત દિલ કરો
+નેમિનાથની અભિષેક ધારા, વિશ્વનુ મંગલ કરે… (3)
+
+અભિષેકના સુપ્રભાવથી, ભાવતાપનુ થાજો શમન
+ઉર કેરી ઉખર ભૂમિપર, સમ્યક્ત્વનું થાઓ વપન
+મિથ્યાત્વ મોહ કુવાસના, કુમતિ તણોં સવિ મલ હરો
+નેમિનાથની અભિષેક ધારા, વિશ્વનુ મંગલ કરે… (4)
+
+અભિષેકના સુપ્રભાવથી, ગિરનાર નો જય વિશ્વમા
+મહિમા મહા ગિરિરાજ નો, વ્યાપી રહો આ વિશ્વમા
+આ તીર્થ ના આલંબને, ભવિ જીવ શિવ મંજિલ વરો
+નેમિનાથની અભિષેક ધારા, વિશ્વનુ મંગલ કરે… (5)`,
+      hi: `गिरनार पर प्रभु नेम ना, अभिषेकनो पावन समय
+प्रभु नेमिनाथ जिनालये, वातावरण शुभ भावमय
+ते परम पावन द्रष्य मारा, नेत्र ने निर्मल करो
+नेमिनाथनी अभिषेक धारा, विश्वनु मंगल करे… (1)
+
+श्यामल प्रभुना मस्तके, निरखु हु क्षीरधारा धवल
+रोमांच अनुपम अनुभवु, गद-गद हृदय लोचन सजल
+प्रत्येक आत्मप्रदेशे नेमि, प्रितने निश्चल करो
+नेमिनाथनी अभिषेक धारा, विश्वनु मंगल करे… (2)
+
+अभिषेकना सुप्रभावथी, विध्नो तणो थाओ विलय
+सर्वत्र आ संसारमा, शासन तणो थाओ विजय
+सुख शांति पामे जीव सहु, करुणा सुवासित दिल करो
+नेमिनाथनी अभिषेक धारा, विश्वनु मंगल करे… (3)
+
+अभिषेकना सुप्रभावथी, भावतापनु थाजो शमन
+उर केरी उखर भूमिपर, सम्यक्त्वनुं थाओ वपन
+मिथ्यात्व मोह कुवासना, कुमति तणों सवि मल हरो
+नेमिनाथनी अभिषेक धारा, विश्वनु मंगल करे… (4)
+
+अभिषेकना सुप्रभावथी, गिरनार नो जय विश्वमा
+महिमा महा गिरिराज नो, व्यापी रहो आ विश्वमा
+आ तीर्थ ना आलंबने, भवि जीव शिव मंजिल वरो
+नेमिनाथनी अभिषेक धारा, विश्वनु मंगल करे… (5)`,
+      sa: "",
+      en: `Giranaara para prabhu nema naa, abhishekano paavana samaya
+Prabhu neminaatha jinaalaye, vaataavarana shubha bhaavamaya
+Te parama paavana drashya maaraa, netra ne nirmala karo
+Neminaathanee abhisheka dhaaraa, vishvanu mangala kare… (1)
+
+Shyaamala prabhunaa mastake, nirakhu hu ksheeradhaaraa dhavala
+Romaancha anupama anubhavu, gada-gada hridaya lochana sajala
+Pratyeka aatmapradeshe nemi, pritane nishchala karo
+Neminaathanee abhisheka dhaaraa, vishvanu mangala kare… (2)
+
+Abhishekanaa suprabhaavathee, vidhno tano thaao vilaya
+Sarvatra aa sansaaramaa, shaasana tano thaao vijaya
+Sukha shaanti paame jeeva sahu, karunaa suvaasita dila karo
+Neminaathanee abhisheka dhaaraa, vishvanu mangala kare… (3)
+
+Abhishekanaa suprabhaavathee, bhaavataapanu thaajo shamana
+Ura keree ukhara bhoomipara, samyaktvanun thaao vapana
+Mithyaatva moha kuvaasanaa, kumati tanon savi mala haro
+Neminaathanee abhisheka dhaaraa, vishvanu mangala kare… (4)
+
+Abhishekanaa suprabhaavathee, giranaara no jaya vishvamaa
+Mahimaa mahaa giriraaja no, vyaapee raho aa vishvamaa
+Aa teertha naa aalanbane, bhavi jeeva shiva manjila varo
+Neminaathanee abhisheka dhaaraa, vishvanu mangala kare… (5)`,
+    },
+  },
+  {
+    id: "giriraj-siddhi-taj",
+    type: "stavan",
+    title: {
+      gu: "ગિરિરાજ (સિદ્ધિ તાજ આપી દે)",
+      hi: "गिरिराज (सिद्धि ताज आपी दे)",
+      sa: "",
+      en: "Giriraj (Siddhi Taj Aapi De)",
+    },
+    text: {
+      gu: `(રચના – પૂજ્ય આચાર્ય શ્રી મેઘદર્શન સૂરીજી  મહારાજ કે શિષ્ય રત્ન મુનિ શ્રી નિર્મલ પુણ્ય વિજયજી)
+
+તું મને ગિરિરાજ સિદ્ધિ તાજ આપી દેં
+સિદ્ધાચલ થી સિદ્ધશિલા નું રાજ આપી દે
+તું મને ગિરિરાજ સિદ્ધિ તાજ આપી દેં
+સિદ્ધાચલ થી સિદ્ધશિલા નું રાજ આપી દે…
+
+શ્રી સીમંધર સમવસરણમાં ગાતા તુજ ગુણગાન
+ભાવની ભરતી ભીતર પામી, ભવિક લહે ભવપાર… (૨)
+પતિત પાવન કર પુણ્ય પ્રભાવ ને મુજમાં સ્થાપી દે
+સિદ્ધાચલ થી સિદ્ધશિલા નું રાજ આપી દે…
+
+પંચમકાલે પંચમગતિ ની પામવી છે પગધાર
+અંતર શત્રુ વિજય પામીને કરવો છે જયકાર… (૨)
+અષ્ટોત્તર શતનામ સ્મરણ થી સિદ્ધ બનાવી દે
+સિદ્ધાચલ થી સિદ્ધશિલા નું રાજ આપી દે…
+
+મેઘ તણા દર્શન થતાં જિમ મસ્ત મયૂર બને
+ગિરિ તુજ નામ સ્મરણ થી મુઝ મનડું નૃત્ય કરે… (૨)
+નામ સ્મરણ તપ કરતાં-કરતાં આત્મ-શુદ્ધિ દઈ દે
+સિદ્ધાચલ થી સિદ્ધશિલા નું રાજ આપી દે…
+તું મને ગિરિરાજ…`,
+      hi: `तुं मने गिरिराज सिद्धि ताज आपी दें
+सिद्धाचल थी सिद्धशिला नुं राज आपी दे
+तुं मने गिरिराज सिद्धि ताज आपी दें
+सिद्धाचल थी सिद्धशिला नुं राज आपी दे…
+
+श्री सीमंधर समवसरणमां गाता तुज गुणगान
+भावनी भरती भीतर पामी, भविक लहे भवपार… (२)
+पतित पावन कर पुण्य प्रभाव ने मुजमां स्थापी दे
+सिद्धाचल थी सिद्धशिला नुं राज आपी दे…
+
+पंचमकाले पंचमगति नी पामवी छे पगधार
+अंतर शत्रु विजय पामीने करवो छे जयकार… (२)
+अष्टोत्तर शतनाम स्मरण थी सिद्ध बनावी दे
+सिद्धाचल थी सिद्धशिला नुं राज आपी दे…
+
+मेघ तणा दर्शन थतां जिम मस्त मयूर बने
+गिरि तुज नाम स्मरण थी मुझ मनडुं नृत्य करे… (२)
+नाम स्मरण तप करतां-करतां आत्म-शुद्धि दई दे
+सिद्धाचल थी सिद्धशिला नुं राज आपी दे…
+तुं मने गिरिराज…`,
+      sa: "",
+      en: `Tun mane giriraaja siddhi taaja aapee den
+Siddhaachala thee siddhashilaa nun raaja aapee de
+Tun mane giriraaja siddhi taaja aapee den
+Siddhaachala thee siddhashilaa nun raaja aapee de…
+
+Shree seemandhara samavasaranamaan gaataa tuja gunagaana
+Bhaavanee bharatee bheetara paamee, bhavika lahe bhavapaara… (2)
+Patita paavana kara punya prabhaava ne mujamaan sthaapee de
+Siddhaachala thee siddhashilaa nun raaja aapee de…
+
+Panchamakaale panchamagati nee paamavee chhe pagadhaara
+Antara shatru vijaya paameene karavo chhe jayakaara… (2)
+Ashtottara shatanaama smarana thee siddha banaavee de
+Siddhaachala thee siddhashilaa nun raaja aapee de…
+
+Megha tanaa darshana thataan jima masta mayoora bane
+Giri tuja naama smarana thee mujha manadun nritya kare… (2)
+Naama smarana tapa karataan-karataan aatma-shuddhi daee de
+Siddhaachala thee siddhashilaa nun raaja aapee de…
+Tun mane giriraaja…`,
+    },
+  },
+  {
+    id: "mera-nemi-hai-girnari",
+    type: "stavan",
+    title: {
+      gu: "મેરા નેમિ હૈ ગિરનારી",
+      hi: "मेरा नेमि है गिरनारी",
+      sa: "",
+      en: "Mera Nemi Hai Girnari",
+    },
+    text: {
+      gu: `(રચયિતા: મુનિ શ્રેયાંશપ્રભ સાગરજી મહારાજ સાહેબ
+
+(રાગ/તર્જ: મેરા ભોલા હૈ ભંડારી)
+
+નેમિ નેમિ નેમ… નેમિ નેમિ નેમ…
+જય ગિરનારી… જય ગિરનારી…
+નેમિ નેમિ નેમ… નેમિ નેમિ નેમ…
+નેમ નેમ નેમ નેમ નેમ… હો નેમ… હો નેમ…
+ગિરનારી… નેમિ નેમિ નેમ…
+ૐ નેમિનાથ નમઃ ૐ નેમિનાથ…
+
+હો… યદુકૂલ કા તૂં ચંદા નેમિ,
+બડ઼ા હી દયાલાજી..
+જગમેં શીતલતા દેતા ચઢ઼ે ડૂંગરી,
+હો… જંગલ મેં ફૂલોં જૈસા પ્રેમ રસ વાલા તૂં..
+રાજુલ રસ આઈ પીને બને ભવરી,
+ગિરનારી… ગિરનારી…
+તેરી પ્રતિમા સબકે મન કો લુભાવે રે હો…
+ૐ નેમિનાથ નમઃ ૐ નેમિનાથ…
+ધરતી કા વહ તિલક સમાના,
+પાતા હૈ જગ મેં બહુમાના,
+પાવન હૈ ગિરનારા… રા… રા…
+ગિરનારી… ૐ નેમિનાથ નમઃ
+ૐ નેમિનાથ… જય નેમિનાથ…
+
+હો… ન્હવણા મૈં દેખૂઁ તેરા મન કો લુભાવાજી..
+કાલે કાલે મુખડ઼ે પે પ્યારા વો જી,
+કાલે બાદલ મેં ચંદા મામા જ્યો પ્યારા..
+ન્હવણા પ્યારા વો લાગે ભક્તોં કો જી,
+નેમ નેમ નેમ નેમ નેમ… હો નેમ… હો નેમ…
+હો… સોને કા મુકુટા નેમિ લાગે સુહાના,
+ટીકા હીરો કા મન ભાવન જી,
+સેવા મૈં ચાહૂઁ તેરી અવસર હૂઁ માંગતા,
+આશા વો પૂરી હોગી અંતર કી જી,
+કાન્તિ-મણિ વિનતિ કરતા નેમિ તેરે ચરણે,
+સાથ મેરે રહના મેરી છાઁવસા હો જી…
+
+મેરા નેમિ હૈ ગિરનારી,
+કરતા ભક્તોં કી રખવારી,
+નેમિનાથ રે, હો5 રાજુલ નાથ રે…
+તેરી મહિમા હૈ અતિભારી,
+ગાતી હૈ દુનિયા યે સારી,
+રાજુલ નાથ રે, હો& નેમિનાથ રે…નેમિનાથ જી,
+ભક્ત તેરા યહ ગાતાજી, શરણે તેરે આતાજી,
+પાતા હરપલ શાતાજી,
+ૐ નેમિનાથ નમઃ ૐ નેમિનાથ…
+કાલેયા શિખરોં વાલા, મેરા નેમિ બાબા,
+ચઢ઼કે ગિરનાર બૈઠા નેમિનાથજી…
+નેમ નેમ નેમ નેમ નેમ…હો નેમ..હો નેમ…
+ૐ નેમિનાથ નમઃ ૐ નેમિનાથ…`,
+      hi: `नेमि नेमि नेम… नेमि नेमि नेम…
+जय गिरनारी… जय गिरनारी…
+नेमि नेमि नेम… नेमि नेमि नेम…
+नेम नेम नेम नेम नेम… हो नेम… हो नेम…
+गिरनारी… नेमि नेमि नेम…
+ॐ नेमिनाथ नमः ॐ नेमिनाथ…
+
+हो… यदुकूल का तूं चंदा नेमि,
+बड़ा ही दयालाजी..
+जगमें शीतलता देता चढ़े डूंगरी,
+हो… जंगल में फूलों जैसा प्रेम रस वाला तूं..
+राजुल रस आई पीने बने भवरी,
+गिरनारी… गिरनारी…
+तेरी प्रतिमा सबके मन को लुभावे रे हो…
+ॐ नेमिनाथ नमः ॐ नेमिनाथ…
+धरती का वह तिलक समाना,
+पाता है जग में बहुमाना,
+पावन है गिरनारा… रा… रा…
+गिरनारी… ॐ नेमिनाथ नमः
+ॐ नेमिनाथ… जय नेमिनाथ…
+
+हो… न्हवणा मैं देखूँ तेरा मन को लुभावाजी..
+काले काले मुखड़े पे प्यारा वो जी,
+काले बादल में चंदा मामा ज्यो प्यारा..
+न्हवणा प्यारा वो लागे भक्तों को जी,
+नेम नेम नेम नेम नेम… हो नेम… हो नेम…
+हो… सोने का मुकुटा नेमि लागे सुहाना,
+टीका हीरो का मन भावन जी,
+सेवा मैं चाहूँ तेरी अवसर हूँ मांगता,
+आशा वो पूरी होगी अंतर की जी,
+कान्ति-मणि विनति करता नेमि तेरे चरणे,
+साथ मेरे रहना मेरी छाँवसा हो जी…
+
+मेरा नेमि है गिरनारी,
+करता भक्तों की रखवारी,
+नेमिनाथ रे, हो5 राजुल नाथ रे…
+तेरी महिमा है अतिभारी,
+गाती है दुनिया ये सारी,
+राजुल नाथ रे, हो& नेमिनाथ रे…नेमिनाथ जी,
+भक्त तेरा यह गाताजी, शरणे तेरे आताजी,
+पाता हरपल शाताजी,
+ॐ नेमिनाथ नमः ॐ नेमिनाथ…
+कालेया शिखरों वाला, मेरा नेमि बाबा,
+चढ़के गिरनार बैठा नेमिनाथजी…
+नेम नेम नेम नेम नेम…हो नेम..हो नेम…
+ॐ नेमिनाथ नमः ॐ नेमिनाथ…`,
+      sa: "",
+      en: `Nemi nemi nema… nemi nemi nema…
+Jaya giranaaree… jaya giranaaree…
+Nemi nemi nema… nemi nemi nema…
+Nema nema nema nema nema… ho nema… ho nema…
+Giranaaree… nemi nemi nema…
+Om neminaatha namah om neminaatha…
+
+Ho… yadukoola kaa toon chandaa nemi,
+Badaa hee dayaalaajee..
+Jagamen sheetalataa detaa chadhe doongaree,
+Ho… jangala men phoolon jaisaa prema rasa vaalaa toon..
+Raajula rasa aaee peene bane bhavaree,
+Giranaaree… giranaaree…
+Teree pratimaa sabake mana ko lubhaave re ho…
+Om neminaatha namah om neminaatha…
+Dharatee kaa vaha tilaka samaanaa,
+Paataa hai jaga men bahumaanaa,
+Paavana hai giranaaraa… raa… raa…
+Giranaaree… om neminaatha namah
+Om neminaatha… jaya neminaatha…
+
+Ho… nhavanaa main dekhoon teraa mana ko lubhaavaajee..
+Kaale kaale mukhade pe pyaaraa vo jee,
+Kaale baadala men chandaa maamaa jyo pyaaraa..
+Nhavanaa pyaaraa vo laage bhakton ko jee,
+Nema nema nema nema nema… ho nema… ho nema…
+Ho… sone kaa mukutaa nemi laage suhaanaa,
+Teekaa heero kaa mana bhaavana jee,
+Sevaa main chaahoon teree avasara hoon maangataa,
+Aashaa vo pooree hogee antara kee jee,
+Kaanti-mani vinati karataa nemi tere charane,
+Saatha mere rahanaa meree chhaanvasaa ho jee…
+
+Meraa nemi hai giranaaree,
+Karataa bhakton kee rakhavaaree,
+Neminaatha re, ho5 raajula naatha re…
+Teree mahimaa hai atibhaaree,
+Gaatee hai duniyaa ye saaree,
+Raajula naatha re, ho& neminaatha re…neminaatha jee,
+Bhakta teraa yaha gaataajee, sharane tere aataajee,
+Paataa harapala shaataajee,
+Om neminaatha namah om neminaatha…
+Kaaleyaa shikharon vaalaa, meraa nemi baabaa,
+Chadhake giranaara baithaa neminaathajee…
+Nema nema nema nema nema…ho nema..ho nema…
+Om neminaatha namah om neminaatha…`,
+    },
+  },
+  {
+    id: "saath-girnarno",
+    type: "stavan",
+    title: {
+      gu: "સાથ ગિરનારનો",
+      hi: "साथ गिरनारनो",
+      sa: "",
+      en: "Saath Girnarno",
+    },
+    text: {
+      gu: `સાથ ગિરનારનો હાથ નેમનાથનો,
+હોય જો મસ્તકે તો શો તોટો,
+અન્ય સ્થાને રહી ધ્યાવે રૈવતગિરી,
+ચોથે ભવે પામતો મોક્ષ મોટો
+સાથ ગિરનારનો…
+
+માત તાત ઘાતકી પાતકી અતિ ઘણો,
+રાય ભીમસેન ગિરનાર આવે,
+મુનિ બની મૌન ધરી અષ્ટદિન તપ તપી,
+ઉજ્જ્યંત ગિરીએ મુગતિ પાવે
+સાથ ગિરનારનો…
+
+વસ્તુપાલ તેજપાલ મંત્રી સાજનને,
+ધાર પેથડ શ્રાવક ભીમો,
+તીર્થભક્તિ કરી તન-મન-ધન થકી,
+મનુજ અવતાર તસ સફલ કીનો
+સાથ ગિરનારનો…
+
+છાયા પણ પક્ષીની આવી પડે ગિરીવરે,
+ભ્રમણ દુર્ગતિ તણા નાશ થાવે,
+જલ થલ ખેચરા ઇણ ગિરી પર રહી,
+ત્રીજે ભવે મોક્ષ મોઝાર જાવે
+સાથ ગિરનારનો…
+
+વ્યક્ત ચેતન રહિત પૃથ્વી અપ તેજસા,
+વાયુ પાદપ ગિરનાર પામી,
+તીર્થ મહિમા થકી કર્મ હળવા કરી,
+સવિ થયા તેહથી મુગતિ ગામી..
+સાથ ગિરનારનો…
+
+રત્ન, પ્રમોદ, પ્રશાંત, પદ્મગિરી,
+સિદ્ધશેખર, ભવિ પાપ જાવે,
+ચન્દ્ર-સૂરજગિરી, ઇન્દ્રપર્વતગિરી,
+આત્માનંદ, ગિરીવર કહાવે
+સાથ ગિરનારનો…
+
+કથીર કાંચન હૂવે પારસના યોગથી,
+“હ્રેમ” પરે શુદ્ધ નિજગુણ પાવે,
+તિમ રૈવતગિરી યોગથી આત્મા,
+પદવી “વલ્લભ “ લહી મોક્ષ જાવે
+સાથ ગિરનારનો…`,
+      hi: `साथ गिरनारनो हाथ नेमनाथनो,
+होय जो मस्तके तो शो तोटो,
+अन्य स्थाने रही ध्यावे रैवतगिरी,
+चोथे भवे पामतो मोक्ष मोटो
+साथ गिरनारनो…
+
+मात तात घातकी पातकी अति घणो,
+राय भीमसेन गिरनार आवे,
+मुनि बनी मौन धरी अष्टदिन तप तपी,
+उज्ज्यंत गिरीए मुगति पावे
+साथ गिरनारनो…
+
+वस्तुपाल तेजपाल मंत्री साजनने,
+धार पेथड श्रावक भीमो,
+तीर्थभक्ति करी तन-मन-धन थकी,
+मनुज अवतार तस सफल कीनो
+साथ गिरनारनो…
+
+छाया पण पक्षीनी आवी पडे गिरीवरे,
+भ्रमण दुर्गति तणा नाश थावे,
+जल थल खेचरा इण गिरी पर रही,
+त्रीजे भवे मोक्ष मोझार जावे
+साथ गिरनारनो…
+
+व्यक्त चेतन रहित पृथ्वी अप तेजसा,
+वायु पादप गिरनार पामी,
+तीर्थ महिमा थकी कर्म हळवा करी,
+सवि थया तेहथी मुगति गामी..
+साथ गिरनारनो…
+
+रत्न, प्रमोद, प्रशांत, पद्मगिरी,
+सिद्धशेखर, भवि पाप जावे,
+चन्द्र-सूरजगिरी, इन्द्रपर्वतगिरी,
+आत्मानंद, गिरीवर कहावे
+साथ गिरनारनो…
+
+कथीर कांचन हूवे पारसना योगथी,
+“ह्रेम” परे शुद्ध निजगुण पावे,
+तिम रैवतगिरी योगथी आत्मा,
+पदवी “वल्लभ “ लही मोक्ष जावे
+साथ गिरनारनो…`,
+      sa: "",
+      en: `Saatha giranaarano haatha nemanaathano,
+Hoya jo mastake to sho toto,
+Anya sthaane rahee dhyaave raivatagiree,
+Chothe bhave paamato moksha moto
+Saatha giranaarano…
+
+Maata taata ghaatakee paatakee ati ghano,
+Raaya bheemasena giranaara aave,
+Muni banee mauna dharee ashtadina tapa tapee,
+Ujjyanta gireee mugati paave
+Saatha giranaarano…
+
+Vastupaala tejapaala mantree saajanane,
+Dhaara pethada shraavaka bheemo,
+Teerthabhakti karee tana-mana-dhana thakee,
+Manuja avataara tasa saphala keeno
+Saatha giranaarano…
+
+Chhaayaa pana paksheenee aavee pade gireevare,
+Bhramana durgati tanaa naasha thaave,
+Jala thala khecharaa ina giree para rahee,
+Treeje bhave moksha mojhaara jaave
+Saatha giranaarano…
+
+Vyakta chetana rahita prithvee apa tejasaa,
+Vaayu paadapa giranaara paamee,
+Teertha mahimaa thakee karma halavaa karee,
+Savi thayaa tehathee mugati gaamee..
+Saatha giranaarano…
+
+Ratna, pramoda, prashaanta, padmagiree,
+Siddhashekhara, bhavi paapa jaave,
+Chandra-soorajagiree, indraparvatagiree,
+Aatmaananda, gireevara kahaave
+Saatha giranaarano…
+
+Katheera kaanchana hoove paarasanaa yogathee,
+“hrema” pare shuddha nijaguna paave,
+Tima raivatagiree yogathee aatmaa,
+Padavee “vallabha “ lahee moksha jaave
+Saatha giranaarano…`,
+    },
+  },
+  {
+    id: "he-nemijin",
+    type: "stavan",
+    title: {
+      gu: "હે નેમિજિન",
+      hi: "हे नेमिजिन",
+      sa: "",
+      en: "He Nemijin",
+    },
+    text: {
+      gu: `રાજીમતી તમને મનાવા નાથ વલવલતી હતી
+તો યે તમે સંયમતણા સંકલ્પ થી ડગ્યા નથી
+હે સત્વમૂર્તિ સત્વ એ આસત્વહીન ને આપજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૧)
+
+જે સત્વ આરાધી તમે રાજીમતી છોડી ગયા
+જે સત્વ સાધી વિષયની સહુ વાસના તોડી ગયા
+તે સત્વનું પ્રતિબિંબ મારા જીવનપટ પર પાડજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (ર)
+
+તોરણ સમય પોકાર પશુઓનો સુણી સ્વામી તમે
+છોડી બધું પલવારમાં પહોંચી ગયા સહસાવને
+મુજમાય એવું ત્યાગ સત્વ હવે પ્રભુ વિકસાવજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૩)
+
+તવ જીવનમાં વિષયો-વિકારો નાથજી એકે નથી
+હું શું કહું મારા જીવનમાં એ વિના કશુંયે નથી
+વિનવું હવે મુજમાં અનાસક્તિ જ્વલંત જગાવજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૪)
+
+હું ઇન્દ્રિયોના સંગમાં દિનરાત સ્વામી રાચતો
+એનો નચાવ્યો નાચ હું ઘેલો બનીને નાચતો
+ઇન્દ્રિય વિજયનો ચાંદલો મુજ ભાલ પર ચમકાવજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (પ)
+
+જેને બની પરવશ અનંતા જીવ દુર્ગતિ માં પડ્યા
+જેને કરી સ્વ-વશ અનંતા જીવ સિદ્ધિશિખર ચઢ્યાં
+વશીકરણ કરવા મનતણું કોઈ મંત્ર રૂડો આપજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૬)
+
+હરિસૈન્ય પર જયારે જરાસંઘે જરાઓ પાથરી
+તપ સાધના ત્યારે બતાવીને તમે રક્ષા કરી
+મુજનેય મોહજરા સતાવે કો ઉપાય બતાવજો
+હે  નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૭)
+
+ગોમેધ ને મા અંબિકાને ચરણ સેવા દઈ દીધી
+વળી ધાર સજ્જન આદિને પ્રભુ તીર્થ સેવા દઈ દીધી
+એવા જ રૂડા અવસરો મુજનેય સ્વામી બાપજો
+હે નેમિજિન મારા હૃદયમાં શૌર્યરસ જન્માવજો… (૮)`,
+      hi: `राजीमती तमने मनावा नाथ वलवलती हती
+तो ये तमे संयमतणा संकल्प थी डग्या नथी
+हे सत्वमूर्ति सत्व ए आसत्वहीन ने आपजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (१)
+
+जे सत्व आराधी तमे राजीमती छोडी गया
+जे सत्व साधी विषयनी सहु वासना तोडी गया
+ते सत्वनुं प्रतिबिंब मारा जीवनपट पर पाडजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (र)
+
+तोरण समय पोकार पशुओनो सुणी स्वामी तमे
+छोडी बधुं पलवारमां पहोंची गया सहसावने
+मुजमाय एवुं त्याग सत्व हवे प्रभु विकसावजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (३)
+
+तव जीवनमां विषयो-विकारो नाथजी एके नथी
+हुं शुं कहुं मारा जीवनमां ए विना कशुंये नथी
+विनवुं हवे मुजमां अनासक्ति ज्वलंत जगावजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (४)
+
+हुं इन्द्रियोना संगमां दिनरात स्वामी राचतो
+एनो नचाव्यो नाच हुं घेलो बनीने नाचतो
+इन्द्रिय विजयनो चांदलो मुज भाल पर चमकावजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (प)
+
+जेने बनी परवश अनंता जीव दुर्गति मां पड्या
+जेने करी स्व-वश अनंता जीव सिद्धिशिखर चढ्यां
+वशीकरण करवा मनतणुं कोई मंत्र रूडो आपजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (६)
+
+हरिसैन्य पर जयारे जरासंघे जराओ पाथरी
+तप साधना त्यारे बतावीने तमे रक्षा करी
+मुजनेय मोहजरा सतावे को उपाय बतावजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (७)
+
+गोमेध ने मा अंबिकाने चरण सेवा दई दीधी
+वळी धार सज्जन आदिने प्रभु तीर्थ सेवा दई दीधी
+एवा ज रूडा अवसरो मुजनेय स्वामी बापजो
+हे नेमिजिन मारा हृदयमां शौर्यरस जन्मावजो… (८)`,
+      sa: "",
+      en: `Raajeematee tamane manaavaa naatha valavalatee hatee
+To ye tame sanyamatanaa sankalpa thee dagyaa nathee
+He satvamoorti satva e aasatvaheena ne aapajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (1)
+
+Je satva aaraadhee tame raajeematee chhodee gayaa
+Je satva saadhee vishayanee sahu vaasanaa todee gayaa
+Te satvanun pratibinba maaraa jeevanapata para paadajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (ra)
+
+Torana samaya pokaara pashuono sunee svaamee tame
+Chhodee badhun palavaaramaan pahonchee gayaa sahasaavane
+Mujamaaya evun tyaaga satva have prabhu vikasaavajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (3)
+
+Tava jeevanamaan vishayo-vikaaro naathajee eke nathee
+Hun shun kahun maaraa jeevanamaan e vinaa kashunye nathee
+Vinavun have mujamaan anaasakti jvalanta jagaavajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (4)
+
+Hun indriyonaa sangamaan dinaraata svaamee raachato
+Eno nachaavyo naacha hun ghelo baneene naachato
+Indriya vijayano chaandalo muja bhaala para chamakaavajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (pa)
+
+Jene banee paravasha anantaa jeeva durgati maan padyaa
+Jene karee sva-vasha anantaa jeeva siddhishikhara chadhyaan
+Vasheekarana karavaa manatanun koee mantra roodo aapajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (6)
+
+Harisainya para jayaare jaraasanghe jaraao paatharee
+Tapa saadhanaa tyaare bataaveene tame rakshaa karee
+Mujaneya mohajaraa sataave ko upaaya bataavajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (7)
+
+Gomedha ne maa anbikaane charana sevaa daee deedhee
+Valee dhaara sajjana aadine prabhu teertha sevaa daee deedhee
+Evaa ja roodaa avasaro mujaneya svaamee baapajo
+He nemijina maaraa hridayamaan shauryarasa janmaavajo… (8)`,
+    },
+  },
+  {
+    id: "girnare-shobhe-nemji-shamliya",
+    type: "stavan",
+    title: {
+      gu: "ગિરનારે શોભે દેખો નેમજી શામલીયા",
+      hi: "गिरनारे शोभे देखो नेमजी शामलीया",
+      sa: "",
+      en: "Girnare Shobhe Dekho Nemji Shamliya",
+    },
+    text: {
+      gu: `(રચના : શ્રમણી ભગવંત (રાજપ્રિયા))
+
+(રાગ : કોન દિશા મેં લેકે ચલા રે)
+
+નેમ નેમ મારા, નેમ નેમ મારા,
+નેમ નેમ મારા નેમજી… (૨)
+
+ગિરનારે શોભે દેખો નેમજી શામલીયા
+મુખડું જોવા ને ટમટમ, ચમકે છે તારલીયા,
+જોવા ચમકે છે તારલીયા, બેઠા મલકે છે શામલીયા,
+રાજીમતી ના, મન વસીયા..
+ગિરનારે શોભે…
+
+મધુબનમાં જ્યાં પગલા માંડે, યોગી એવા નેમકુમાર,
+વિચરે ત્યાં વનરાજી ખીલતી, (૨ વાર)
+સાધનાની ઊગતી સવાર,
+ઊગતા સાધકને વંદે, સુરજ ને ચાંદલીયા,
+ગિરનારે શોભે દેખો નેમજી શામલીયા…
+
+જુનાગઢની ધરતી કહેતી, નેમ રાજુલની પ્રીતકથા,
+સાક્ષી બની સહસાવન કહેતું, (૨ વાર)
+સંયમ કેવલ મોક્ષકથા,
+અભિષેક કરવા રુમઝુમ, વરસે છે વાદળીયા,
+ગિરનારે શોભે દેખો નેમજી શામલીયા…
+
+મધુર સ્વરે કોયલીયા ગાવે, જય જય દાદા નેમિનાથ,
+દર્શન કરતા ભક્તો કહેતા, (૨ વાર)
+રાજુલ હું છું પકડો હાથ,
+પર્વતના શિખર પર સાથે, ટહુકે છે મોરલીયા,
+ગિરનારે શોભે દેખો નેમજી શામલીયા…
+
+[ રાજુલને તજી નેમકુમાર, ચઢીયા એતો ગઢ ગિરનાર,
+અખંડ પ્રીતને સાચવે, રાજુલ સતી શિરદાર,
+નેમના પગલે ચાલવા, થનગને એ રાજુલ નાર,
+પ્રીત થકી તે પામતી, હો કેવળ લક્ષ્મી શ્રીકાર ]`,
+      hi: `नेम नेम मारा, नेम नेम मारा,
+नेम नेम मारा नेमजी… (२)
+
+गिरनारे शोभे देखो नेमजी शामलीया
+मुखडुं जोवा ने टमटम, चमके छे तारलीया,
+जोवा चमके छे तारलीया, बेठा मलके छे शामलीया,
+राजीमती ना, मन वसीया..
+गिरनारे शोभे…
+
+मधुबनमां ज्यां पगला मांडे, योगी एवा नेमकुमार,
+विचरे त्यां वनराजी खीलती, (२ वार)
+साधनानी ऊगती सवार,
+ऊगता साधकने वंदे, सुरज ने चांदलीया,
+गिरनारे शोभे देखो नेमजी शामलीया…
+
+जुनागढनी धरती कहेती, नेम राजुलनी प्रीतकथा,
+साक्षी बनी सहसावन कहेतुं, (२ वार)
+संयम केवल मोक्षकथा,
+अभिषेक करवा रुमझुम, वरसे छे वादळीया,
+गिरनारे शोभे देखो नेमजी शामलीया…
+
+मधुर स्वरे कोयलीया गावे, जय जय दादा नेमिनाथ,
+दर्शन करता भक्तो कहेता, (२ वार)
+राजुल हुं छुं पकडो हाथ,
+पर्वतना शिखर पर साथे, टहुके छे मोरलीया,
+गिरनारे शोभे देखो नेमजी शामलीया…
+
+[ राजुलने तजी नेमकुमार, चढीया एतो गढ गिरनार,
+अखंड प्रीतने साचवे, राजुल सती शिरदार,
+नेमना पगले चालवा, थनगने ए राजुल नार,
+प्रीत थकी ते पामती, हो केवळ लक्ष्मी श्रीकार ]`,
+      sa: "",
+      en: `Nema nema maaraa, nema nema maaraa,
+Nema nema maaraa nemajee… (2)
+
+Giranaare shobhe dekho nemajee shaamaleeyaa
+Mukhadun jovaa ne tamatama, chamake chhe taaraleeyaa,
+Jovaa chamake chhe taaraleeyaa, bethaa malake chhe shaamaleeyaa,
+Raajeematee naa, mana vaseeyaa..
+Giranaare shobhe…
+
+Madhubanamaan jyaan pagalaa maande, yogee evaa nemakumaara,
+Vichare tyaan vanaraajee kheelatee, (2 vaara)
+Saadhanaanee oogatee savaara,
+Oogataa saadhakane vande, suraja ne chaandaleeyaa,
+Giranaare shobhe dekho nemajee shaamaleeyaa…
+
+Junaagadhanee dharatee kahetee, nema raajulanee preetakathaa,
+Saakshee banee sahasaavana kahetun, (2 vaara)
+Sanyama kevala mokshakathaa,
+Abhisheka karavaa rumajhuma, varase chhe vaadaleeyaa,
+Giranaare shobhe dekho nemajee shaamaleeyaa…
+
+Madhura svare koyaleeyaa gaave, jaya jaya daadaa neminaatha,
+Darshana karataa bhakto kahetaa, (2 vaara)
+Raajula hun chhun pakado haatha,
+Parvatanaa shikhara para saathe, tahuke chhe moraleeyaa,
+Giranaare shobhe dekho nemajee shaamaleeyaa…
+
+[ raajulane tajee nemakumaara, chadheeyaa eto gadha giranaara,
+Akhanda preetane saachave, raajula satee shiradaara,
+Nemanaa pagale chaalavaa, thanagane e raajula naara,
+Preeta thakee te paamatee, ho kevala lakshmee shreekaara ]`,
+    },
+  },
+  {
+    id: "nem-ras",
+    type: "stavan",
+    title: {
+      gu: "નેમ..નેમ..નેમ..નેમ રસ",
+      hi: "नेम..नेम..नेम..नेम रस",
+      sa: "",
+      en: "Nem Nem Nem Nem Ras",
+    },
+    text: {
+      gu: `સંસાર થી વિરતી રથ નો,
+ગિરનાર થી મુક્તિ પથ નો… (૨ વાર)
+સથવાર છે એક મારો,
+આધાર છે એક બસ…
+નેમ..નેમ..નેમ..નેમ રસ… (૪ વાર)
+
+નેમ તું મારો પ્રેમ છે,
+સોંપ્યું તને આ જીવન,
+જોઈ તને પહેલીજ ક્ષણે,
+મોહાયું છે મારુ મન… (૨ વાર)
+
+ગિરનારી બ્રહ્મચારી
+જાઉં તુજ પર હું ઓવારી,
+મુક્તિનો વેશધારી
+રાજીમતિ બનું તારી,
+ભરથાર તું રેહજે મારો
+ભવોભવની છે તરસ,
+સથવાર છે એક મારો,
+આધાર છે એક બસ…
+નેમ..નેમ..નેમ..નેમ રસ… (૪ વાર)
+
+ગિરનાર તો એ ભૂમિ છે,
+જ્યાં શિવ વર્યા જીવ અનંત,
+અરિહંત સિદ્ધ મુનિ તર્યા,
+ધન્ય બન્યા સાધુ સંત… (૨ વાર)
+
+નેમિ નો હાથ ઝાલી
+બનું હું પ્રશમ વ્રતધારી,
+રૈવત નો સાથ પામી
+હવે બનવું મુક્તિગામી,
+
+પ્રભુ નેમ નો ગિરિ હેમ નો
+મારે બનવૂ છે વારસ,
+સથવાર છે એક મારો,
+આધાર છે એક બસ…
+નેમ..નેમ..નેમ..નેમ રસ… (૪ વાર)`,
+      hi: `संसार थी विरती रथ नो,
+गिरनार थी मुक्ति पथ नो… (२ वार)
+सथवार छे एक मारो,
+आधार छे एक बस…
+नेम..नेम..नेम..नेम रस… (४ वार)
+
+नेम तुं मारो प्रेम छे,
+सोंप्युं तने आ जीवन,
+जोई तने पहेलीज क्षणे,
+मोहायुं छे मारु मन… (२ वार)
+
+गिरनारी ब्रह्मचारी
+जाउं तुज पर हुं ओवारी,
+मुक्तिनो वेशधारी
+राजीमति बनुं तारी,
+भरथार तुं रेहजे मारो
+भवोभवनी छे तरस,
+सथवार छे एक मारो,
+आधार छे एक बस…
+नेम..नेम..नेम..नेम रस… (४ वार)
+
+गिरनार तो ए भूमि छे,
+ज्यां शिव वर्या जीव अनंत,
+अरिहंत सिद्ध मुनि तर्या,
+धन्य बन्या साधु संत… (२ वार)
+
+नेमि नो हाथ झाली
+बनुं हुं प्रशम व्रतधारी,
+रैवत नो साथ पामी
+हवे बनवुं मुक्तिगामी,
+
+प्रभु नेम नो गिरि हेम नो
+मारे बनवू छे वारस,
+सथवार छे एक मारो,
+आधार छे एक बस…
+नेम..नेम..नेम..नेम रस… (४ वार)
+
+Source - Nemras | Paras Gada`,
+      sa: "",
+      en: `Sansaara thee viratee ratha no,
+Giranaara thee mukti patha no… (2 vaara)
+Sathavaara chhe eka maaro,
+Aadhaara chhe eka basa…
+Nema..nema..nema..nema rasa… (4 vaara)
+
+Nema tun maaro prema chhe,
+Sonpyun tane aa jeevana,
+Joee tane paheleeja kshane,
+Mohaayun chhe maaru mana… (2 vaara)
+
+Giranaaree brahmachaaree
+Jaaun tuja para hun ovaaree,
+Muktino veshadhaaree
+Raajeemati banun taaree,
+Bharathaara tun rehaje maaro
+Bhavobhavanee chhe tarasa,
+Sathavaara chhe eka maaro,
+Aadhaara chhe eka basa…
+Nema..nema..nema..nema rasa… (4 vaara)
+
+Giranaara to e bhoomi chhe,
+Jyaan shiva varyaa jeeva ananta,
+Arihanta siddha muni taryaa,
+Dhanya banyaa saadhu santa… (2 vaara)
+
+Nemi no haatha jhaalee
+Banun hun prashama vratadhaaree,
+Raivata no saatha paamee
+Have banavun muktigaamee,
+
+Prabhu nema no giri hema no
+Maare banavoo chhe vaarasa,
+Sathavaara chhe eka maaro,
+Aadhaara chhe eka basa…
+Nema..nema..nema..nema rasa… (4 vaara)
+
+Source - Nemras | Paras Gada`,
+    },
+  },
+  {
+    id: "vhala-nemji",
+    type: "stavan",
+    title: {
+      gu: "વ્હાલા નેમજી",
+      hi: "व्हाला नेमजी",
+      sa: "",
+      en: "Vhala Nemji",
+    },
+    text: {
+      gu: `દ્વારકારા નાથ નેમી થાને કાઈ લિખ ભેજૂ
+કાગદિયો, હૉરો બોલો 2 કામદિયો તો ફિર સે બોલો 2
+કાગદિયોં તો નૈનો નૈનો, લાગે હો ભવરસા 2.
+લાગે હો પીયુજી મ્હારા, વ્હાલા નેમજી
+
+મહલોં મેં બૈઠી મેં તો વાટ જોવતી
+રથડા ને પાછો મત ફેરો હો ભંવરસા 2
+વ્હાલા નેમજી।
+
+અન્ન નહી ભાવે મોને નીંદ નહીં આવે
+સુની સુની દુનિયા સારી લાગે હો ભંવરસા 2
+વ્હાલા નેમજી।
+
+પશુઓં રી પુકાર થાને વ્હાલી ઘણી લાગે
+હુ થોને અદવાલી લાગી હો ભંવરસા 2
+વ્હાલા નેમજી।
+
+હાતોં મેં રાચી મ્હારી મેંહદી રંગીલી
+ચુમડી રો રંગ ફિકોં પડયોં હો ભંવરસા 2
+વ્હાલા નેમજી।`,
+      hi: `द्वारकारा नाथ नेमी थाने काई लिख भेजू
+कागदियो, हॉरो बोलो 2 कामदियो तो फिर से बोलो 2
+कागदियों तो नैनो नैनो, लागे हो भवरसा 2.
+लागे हो पीयुजी म्हारा, व्हाला नेमजी
+
+महलों में बैठी में तो वाट जोवती
+रथडा ने पाछो मत फेरो हो भंवरसा 2
+व्हाला नेमजी।
+
+अन्न नही भावे मोने नींद नहीं आवे
+सुनी सुनी दुनिया सारी लागे हो भंवरसा 2
+व्हाला नेमजी।
+
+पशुओं री पुकार थाने व्हाली घणी लागे
+हु थोने अदवाली लागी हो भंवरसा 2
+व्हाला नेमजी।
+
+हातों में राची म्हारी मेंहदी रंगीली
+चुमड़ी रो रंग फिकों पड़यों हो भंवरसा 2
+व्हाला नेमजी।`,
+      sa: "",
+      en: `Dvaarakaaraa naatha nemee thaane kaaee likha bhejoo
+Kaagadiyo, horo bolo 2 kaamadiyo to phira se bolo 2
+Kaagadiyon to naino naino, laage ho bhavarasaa 2.
+Laage ho peeyujee mhaaraa, vhaalaa nemajee
+
+Mahalon men baithee men to vaata jovatee
+Rathadaa ne paachho mata phero ho bhanvarasaa 2
+Vhaalaa nemajee |
+
+Anna nahee bhaave mone neenda naheen aave
+Sunee sunee duniyaa saaree laage ho bhanvarasaa 2
+Vhaalaa nemajee |
+
+Pashuon ree pukaara thaane vhaalee ghanee laage
+Hu thone adavaalee laagee ho bhanvarasaa 2
+Vhaalaa nemajee |
+
+Haaton men raachee mhaaree menhadee rangeelee
+Chumadee ro ranga phikon padayon ho bhanvarasaa 2
+Vhaalaa nemajee |`,
+    },
+  },
+  {
+    id: "ek-var-nem-mari-samu-juone",
+    type: "stavan",
+    title: {
+      gu: "એક વાર નેમ મારી સામુ જુઓને",
+      hi: "एक वार नेम मारी सामु जुओने",
+      sa: "",
+      en: "Ek Var Nem Mari Samu Juone",
+    },
+    text: {
+      gu: `સામુ જુઓ ને મારે સામુ જુઓને, એક વાર નેમ મારી સામુ જુઓને
+કરુણા દૃષ્ટિ થી મારે સામુ જુઓને, અમિદૃષ્ટિ થી મારી સામુ જુઓને
+
+સામુ જુઓ ને મારે સામુ જુઓ ને, એક વાર નેમ મારી સામુ જુઓને ||1||
+
+નિગોદ ના દિવસોં મને યાદજ આવતા, હુ અને તૂ રહ્યા એકજ ધામ મા
+અનાદિ કાળ થી દુઃખો ને ખમતા, આ ચૌરાસી લાખ યોનિ મા ભમતા
+
+ભવો ભવ સુધી સાથે રહ્યા, આજે મને કેમ છોડી ગયા
+તારા વિના દાદા મને કૌન પૂછે ના, મારી આઁખિયો ના આંસૂ કૌન લુછે ના
+
+સામુ જુઓ ને મારે સામુ જુઓ ને, એક વાર નેમ મારી સામુ જુઓને ||2||
+
+સંસાર અસાર છે મોક્ષજ સાર છે, તારી વાતો મૈં તો સુની નલવાર છે,
+મોહ માયા ના ઝૂલે હુ ઝુલિયો, રાચી માચી ને કર્મો મૈં બાંધ્યા,
+
+હસ્તા હસ્તા કર્મો મૈં બાંધ્યા, આત્મા મા કર્મો ના ઢગલા ભર્યા
+રોતા રોતા આજ મારા કર્મો છુટે ના, દુઃખો ના ડૂંગર મારા આજ ટૂટે ના
+
+સામુ જુઓ ને મારે સામુ જુઓ ને, એક વાર નેમ મારી સામુ જુઓને ||3||
+
+છેલ્લી વિનંતી મારી દાદા તૂ સુણજે, અંત સમયે મુજને તૂ મલજે ,
+પીડા જ્યારે રગ રગ માથી વ્યાપે, તારા દર્શન ની ઠંડક તૂ આપજે,
+
+ઝંજાલ જગની છોડી ગઈ, મને તારા ધ્યાન મા સ્થિર કરી,
+સમાધિ મરણ મલે એવું હુ માંગુ, ભવ ભવના ફેરા ટલે એવું હુ માંગુ
+
+સામુ જુઓ ને મારે સામુ જુઓ ને, એક વાર નેમ મારી સામુ જુઓને ||4||`,
+      hi: `सामु जुओ ने मारे सामु जुओने, एक वार नेम मारी सामु जुओने
+करुणा दृष्टि थी मारे सामु जुओने, अमिदृष्टि थी मारी सामु जुओने
+
+सामु जुओ ने मारे सामु जुओ ने, एक वार नेम मारी सामु जुओने ||1||
+
+निगोद ना दिवसों मने यादज आवता, हु अने तू रह्या एकज धाम मा
+अनादि काळ थी दुःखो ने खमता, आ चौरासी लाख योनि मा भमता
+
+भवो भव सुधी साथे रह्या, आजे मने केम छोड़ी गया
+तारा विना दादा मने कौन पूछे ना, मारी आँखियो ना आंसू कौन लुछे ना
+
+सामु जुओ ने मारे सामु जुओ ने, एक वार नेम मारी सामु जुओने ||2||
+
+संसार असार छे मोक्षज सार छे, तारी वातो मैं तो सुनी नलवार छे,
+मोह माया ना झूले हु झुलियो, राची माची ने कर्मो मैं बांध्या,
+
+हस्ता हस्ता कर्मो मैं बांध्या, आत्मा मा कर्मो ना ढगला भर्या
+रोता रोता आज मारा कर्मो छुटे ना, दुःखो ना डूंगर मारा आज टूटे ना
+
+सामु जुओ ने मारे सामु जुओ ने, एक वार नेम मारी सामु जुओने ||3||
+
+छेल्ली विनंती मारी दादा तू सुणजे, अंत समये मुज़ने तू मलजे ,
+पीड़ा ज्यारे रग रग माथी व्यापे, तारा दर्शन नी ठंडक तू आपजे,
+
+झंजाल जगनी छोड़ी गई, मने तारा ध्यान मा स्थिर करी,
+समाधि मरण मले एवुं हु मांगु, भव भवना फेरा टले एवुं हु मांगु
+
+सामु जुओ ने मारे सामु जुओ ने, एक वार नेम मारी सामु जुओने ||4||`,
+      sa: "",
+      en: `Saamu juo ne maare saamu juone, eka vaara nema maaree saamu juone
+Karunaa drishti thee maare saamu juone, amidrishti thee maaree saamu juone
+
+Saamu juo ne maare saamu juo ne, eka vaara nema maaree saamu juone | | 1 | |
+
+Nigoda naa divason mane yaadaja aavataa, hu ane too rahyaa ekaja dhaama maa
+Anaadi kaala thee duhkho ne khamataa, aa chauraasee laakha yoni maa bhamataa
+
+Bhavo bhava sudhee saathe rahyaa, aaje mane kema chhodee gayaa
+Taaraa vinaa daadaa mane kauna poochhe naa, maaree aankhiyo naa aansoo kauna luchhe naa
+
+Saamu juo ne maare saamu juo ne, eka vaara nema maaree saamu juone | | 2 | |
+
+Sansaara asaara chhe mokshaja saara chhe, taaree vaato main to sunee nalavaara chhe,
+Moha maayaa naa jhoole hu jhuliyo, raachee maachee ne karmo main baandhyaa,
+
+Hastaa hastaa karmo main baandhyaa, aatmaa maa karmo naa dhagalaa bharyaa
+Rotaa rotaa aaja maaraa karmo chhute naa, duhkho naa doongara maaraa aaja toote naa
+
+Saamu juo ne maare saamu juo ne, eka vaara nema maaree saamu juone | | 3 | |
+
+Chhellee vinantee maaree daadaa too sunaje, anta samaye mujane too malaje ,
+Peedaa jyaare raga raga maathee vyaape, taaraa darshana nee thandaka too aapaje,
+
+Jhanjaala jaganee chhodee gaee, mane taaraa dhyaana maa sthira karee,
+Samaadhi marana male evun hu maangu, bhava bhavanaa pheraa tale evun hu maangu
+
+Saamu juo ne maare saamu juo ne, eka vaara nema maaree saamu juone | | 4 | |`,
+    },
+  },
+  {
+    id: "jai-jai-garvo-girnar",
+    type: "stavan",
+    title: {
+      gu: "જય જય ગરવો ગિરનાર",
+      hi: "जय जय गरवो गिरनार",
+      sa: "",
+      en: "Jai Jai Garvo Girnar",
+    },
+    text: {
+      gu: `નેમ પ્રભુ ના પાવન પગલે થયો ધન્ય પેલો ગીરનાર
+
+જય ગીરનાર, જય ગીરનાર, જય જય ગરવો ગીરનાર
+
+જય જય ગરવો ગીરનાર, જય જય ગરવો ગીરનાર
+
+નેમનાથ ગીરી શણગાર, જય જય ગરવો ગીરનાર
+
+પંચમ શિખર શત્રુંજય તણું, એ સિદ્ધગીરી છે ધામ,
+
+કૈલાસ, ઉજ્જ્યંત, રૈવત, નંદભદ્ર, સ્વર્ણગીરી ગીરનાર,
+
+નામો કર્ણ વિહર પ્રાસાદ , જય જય ગરવો ગીરનાર (૨)
+
+જ્યાં શોભે અંબિકા માં, શાસન ને સદા સુખકાર,
+
+ભાવે પ્રણમું શ્રી નેમી જિનેશ્વર, ગીરી ભૂષણ શણગાર,
+
+પૃથ્વી ના તિલક સમાન, જય જય ગરવો ગીરનાર (૨)
+
+છે અનંત આત્માઓ તણી, દીક્ષા ભૂમિ ગીરનાર,
+
+છે અનંત તીર્થંકર તણી, કૈવલ્ય ભૂમિ ગીરનાર,
+
+ને આવતી ચોવીસી તણી, નિર્વાણ ભૂમિ ગીરનાર,
+
+અધ્યાત્મ નગરી ગીરનાર, જય જય ગરવો ગીરનાર (૨)
+
+ચૌદ હાજર નદી ના જ્યાં જળ સમા,આ શીતળ ગજપદ કુંડ,
+
+જ્યાં દ્રષ્ટિ અનુભવે ધન્યતા જોઈ રાજુલ રહનેમી ટૂંક,
+
+દીક્ષા કેવળ સહસાવને, નામો સમવસરણ જીન બિંબ,
+
+દીપે શિખરો ની માળ, વંદન વંદન વંદન
+
+જ્યાં ના કણે કણ માં વસે, મહાપુરુષો ના બલિદાન,
+
+ધાર પેથડ સજ્જન ઝાંઝડશા, નામે વહી આ રક્તધાર,
+
+વંદુ હિમાંશુસૂરી, ધર્મ રક્ષિત, હેમ વલ્લભ મુની રાજ,
+
+સૌ ચાલો જઈએ ગીરનાર, જય જય ગરવો ગીરનાર`,
+      hi: `नेम प्रभु ना पावन पगले थयो धन्य पेलो गीरनार
+
+जय गीरनार, जय गीरनार, जय जय गरवो गीरनार
+
+जय जय गरवो गीरनार, जय जय गरवो गीरनार
+
+नेमनाथ गीरी शणगार, जय जय गरवो गीरनार
+
+पंचम शिखर शत्रुंजय तणुं, ए सिद्धगीरी छे धाम,
+
+कैलास, उज्ज्यंत, रैवत, नंदभद्र, स्वर्णगीरी गीरनार,
+
+नामो कर्ण विहर प्रासाद , जय जय गरवो गीरनार (२)
+
+ज्यां शोभे अंबिका मां, शासन ने सदा सुखकार,
+
+भावे प्रणमुं श्री नेमी जिनेश्वर, गीरी भूषण शणगार,
+
+पृथ्वी ना तिलक समान, जय जय गरवो गीरनार (२)
+
+छे अनंत आत्माओ तणी, दीक्षा भूमि गीरनार,
+
+छे अनंत तीर्थंकर तणी, कैवल्य भूमि गीरनार,
+
+ने आवती चोवीसी तणी, निर्वाण भूमि गीरनार,
+
+अध्यात्म नगरी गीरनार, जय जय गरवो गीरनार (२)
+
+चौद हाजर नदी ना ज्यां जळ समा,आ शीतळ गजपद कुंड,
+
+ज्यां द्रष्टि अनुभवे धन्यता जोई राजुल रहनेमी टूंक,
+
+दीक्षा केवळ सहसावने, नामो समवसरण जीन बिंब,
+
+दीपे शिखरो नी माळ, वंदन वंदन वंदन
+
+ज्यां ना कणे कण मां वसे, महापुरुषो ना बलिदान,
+
+धार पेथड सज्जन झांझडशा, नामे वही आ रक्तधार,
+
+वंदु हिमांशुसूरी, धर्म रक्षित, हेम वल्लभ मुनी राज,
+
+सौ चालो जईए गीरनार, जय जय गरवो गीरनार`,
+      sa: "",
+      en: `Nema prabhu naa paavana pagale thayo dhanya pelo geeranaara
+
+Jaya geeranaara, jaya geeranaara, jaya jaya garavo geeranaara
+
+Jaya jaya garavo geeranaara, jaya jaya garavo geeranaara
+
+Nemanaatha geeree shanagaara, jaya jaya garavo geeranaara
+
+Panchama shikhara shatrunjaya tanun, e siddhageeree chhe dhaama,
+
+Kailaasa, ujjyanta, raivata, nandabhadra, svarnageeree geeranaara,
+
+Naamo karna vihara praasaada , jaya jaya garavo geeranaara (2)
+
+Jyaan shobhe anbikaa maan, shaasana ne sadaa sukhakaara,
+
+Bhaave pranamun shree nemee jineshvara, geeree bhooshana shanagaara,
+
+Prithvee naa tilaka samaana, jaya jaya garavo geeranaara (2)
+
+Chhe ananta aatmaao tanee, deekshaa bhoomi geeranaara,
+
+Chhe ananta teerthankara tanee, kaivalya bhoomi geeranaara,
+
+Ne aavatee choveesee tanee, nirvaana bhoomi geeranaara,
+
+Adhyaatma nagaree geeranaara, jaya jaya garavo geeranaara (2)
+
+Chauda haajara nadee naa jyaan jala samaa,aa sheetala gajapada kunda,
+
+Jyaan drashti anubhave dhanyataa joee raajula rahanemee toonka,
+
+Deekshaa kevala sahasaavane, naamo samavasarana jeena binba,
+
+Deepe shikharo nee maala, vandana vandana vandana
+
+Jyaan naa kane kana maan vase, mahaapurusho naa balidaana,
+
+Dhaara pethada sajjana jhaanjhadashaa, naame vahee aa raktadhaara,
+
+Vandu himaanshusooree, dharma rakshita, hema vallabha munee raaja,
+
+Sau chaalo jaeee geeranaara, jaya jaya garavo geeranaara`,
+    },
+  },
+  {
+    id: "rome-rome-girnar",
+    type: "stavan",
+    title: {
+      gu: "રોમે રોમે ગિરનાર",
+      hi: "रोमे रोमे गिरनार",
+      sa: "",
+      en: "Rome Rome Girnar",
+    },
+    text: {
+      gu: `નેમ નેમ નેમ વ્હાલા નેમ..(૨)
+
+મારા રોમે તું ગિરનાર, મારા શ્વાસે તું નેમિનાથ..(૨)
+
+મારો આધાર તું, મોક્ષ દાતાર તું
+
+મારો સથવાર તું, મારો પગથાર તું…(૨)
+
+મુક્તિ તણું સરનામું તું, હૈયાનો ધબકાર તું...
+
+રોમે રોમે ગિરનાર ગુંજે શ્વાસે શ્વાસે
+
+શ્વાસે શ્વાસે નેમિનાથ બિરાજે રોમે રોમે…(૨)
+
+ગીરી ના શિખરે છે તુજ સ્પંદન,
+
+કણ કણ અહીં તારું જ કીર્તન..(૨)
+
+શિવાદેવી નંદન નેમી નિરંજન,
+
+રૂપ તમારુ શીતલ અંજન…
+
+ગીરી શણગાર તું, ગુણ ભંડાર તું...
+
+મારો સથવાર તું, મારો પગથાર તું…(૨)
+
+ભક્તિ તણું સરનામું તું, સરગમ ને સુરતાલ તું...
+
+રોમે રોમે ગિરનાર ગુંજે શ્વાસે શ્વાસે
+
+શ્વાસે શ્વાસે નેમિનાથ બિરાજે રોમે રોમે... ||૧||
+
+હૃદય મંદિરીયે છે તુજ આસન,
+
+તારી કૃપાથી મળ્યું જિનશાસન..(૨)
+
+તન મન જીવન તુજને હો અર્પણ,
+
+તું છે મારગ મોક્ષ નું દર્પણ…
+
+દુઃખ હરનાર તું, સુખ દેનાર તું...
+
+મારો સથવાર તું, મારો પગથાર તું…(૨)
+
+શક્તિ તણું સરનામું તું, આતમનો રખવાડ તું...
+
+રોમે રોમ ગિરનાર ગુંજે શ્વાસે શ્વાસે
+
+શ્વાસે શ્વાસે નેમિનાથ બિરાજે રોમે રોમે... ||૨||`,
+      hi: `नेम नेम नेम व्हाला नेम..(२)
+
+मारा रोमे तुं गिरनार, मारा श्वासे तुं नेमिनाथ..(२)
+
+मारो आधार तुं, मोक्ष दातार तुं
+
+मारो सथवार तुं, मारो पगथार तुं…(२)
+
+मुक्ति तणुं सरनामुं तुं, हैयानो धबकार तुं...
+
+रोमे रोमे गिरनार गुंजे श्वासे श्वासे
+
+श्वासे श्वासे नेमिनाथ बिराजे रोमे रोमे…(२)
+
+गीरी ना शिखरे छे तुज स्पंदन,
+
+कण कण अहीं तारुं ज कीर्तन..(२)
+
+शिवादेवी नंदन नेमी निरंजन,
+
+रूप तमारु शीतल अंजन…
+
+गीरी शणगार तुं, गुण भंडार तुं...
+
+मारो सथवार तुं, मारो पगथार तुं…(२)
+
+भक्ति तणुं सरनामुं तुं, सरगम ने सुरताल तुं...
+
+रोमे रोमे गिरनार गुंजे श्वासे श्वासे
+
+श्वासे श्वासे नेमिनाथ बिराजे रोमे रोमे... ||१||
+
+हृदय मंदिरीये छे तुज आसन,
+
+तारी कृपाथी मळ्युं जिनशासन..(२)
+
+तन मन जीवन तुजने हो अर्पण,
+
+तुं छे मारग मोक्ष नुं दर्पण…
+
+दुःख हरनार तुं, सुख देनार तुं...
+
+मारो सथवार तुं, मारो पगथार तुं…(२)
+
+शक्ति तणुं सरनामुं तुं, आतमनो रखवाड तुं...
+
+रोमे रोम गिरनार गुंजे श्वासे श्वासे
+
+श्वासे श्वासे नेमिनाथ बिराजे रोमे रोमे... ||२||`,
+      sa: "",
+      en: `Nema nema nema vhaalaa nema..(2)
+
+Maaraa rome tun giranaara, maaraa shvaase tun neminaatha..(2)
+
+Maaro aadhaara tun, moksha daataara tun
+
+Maaro sathavaara tun, maaro pagathaara tun…(2)
+
+Mukti tanun saranaamun tun, haiyaano dhabakaara tun...
+
+Rome rome giranaara gunje shvaase shvaase
+
+Shvaase shvaase neminaatha biraaje rome rome…(2)
+
+Geeree naa shikhare chhe tuja spandana,
+
+Kana kana aheen taarun ja keertana..(2)
+
+Shivaadevee nandana nemee niranjana,
+
+Roopa tamaaru sheetala anjana…
+
+Geeree shanagaara tun, guna bhandaara tun...
+
+Maaro sathavaara tun, maaro pagathaara tun…(2)
+
+Bhakti tanun saranaamun tun, saragama ne surataala tun...
+
+Rome rome giranaara gunje shvaase shvaase
+
+Shvaase shvaase neminaatha biraaje rome rome... | | 1 | |
+
+Hridaya mandireeye chhe tuja aasana,
+
+Taaree kripaathee malyun jinashaasana..(2)
+
+Tana mana jeevana tujane ho arpana,
+
+Tun chhe maaraga moksha nun darpana…
+
+Duhkha haranaara tun, sukha denaara tun...
+
+Maaro sathavaara tun, maaro pagathaara tun…(2)
+
+Shakti tanun saranaamun tun, aatamano rakhavaada tun...
+
+Rome roma giranaara gunje shvaase shvaase
+
+Shvaase shvaase neminaatha biraaje rome rome... | | 2 | |`,
+    },
+  },
 ];
 
 // Expose for the pages.
